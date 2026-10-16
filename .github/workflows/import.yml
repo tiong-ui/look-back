@@ -1,0 +1,62 @@
+# Imports events in Asia from Wikidata into data/imported/ and opens a pull
+# request with the result, so the import can be looked over before it goes live.
+# Runs on demand (Actions → Import events from Wikidata → Run workflow) and monthly.
+name: Import events from Wikidata
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '41 2 2 * *' # 02:41 UTC on the 2nd of each month, after the importance refresh
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: wikidata-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    env:
+      BRANCH: data/wikidata-import
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Import from Wikidata
+        run: npm run import | tee import.log
+      - name: Validate
+        run: |
+          npm run data
+          npm test
+      - name: Push branch and open a pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/imported && [ -z "$(git ls-files --others --exclude-standard data/imported)" ]; then
+            echo "Nothing new from Wikidata"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$BRANCH"
+          git add data/imported
+          git commit -m "Import events from Wikidata ($(date -u +%Y-%m-%d))"
+          git push --force origin "$BRANCH"
+          summary=$(tail -n 2 import.log)
+          if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
+            echo "Updated the open pull request for $BRANCH"
+          else
+            gh pr create --base "${GITHUB_REF_NAME}" --head "$BRANCH" \
+              --title "Import events from Wikidata ($(date -u +%Y-%m-%d))" \
+              --body "Automatic import by \`scripts/import-wikidata.ts\`. Events are marked \`reviewed: false\` and shown with a 待審 badge.
+
+          \`\`\`
+          ${summary}
+          \`\`\`" \
+            || echo "::warning::Could not open a pull request. Allow it under Settings → Actions → General → 'Allow GitHub Actions to create and approve pull requests', or open one from the $BRANCH branch by hand."
+          fi

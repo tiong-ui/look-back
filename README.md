@@ -31,6 +31,7 @@ All events, places, eras and resource links are YAML files in [`data/`](data/). 
 
 1. **Pages:** Settings → Pages → Source: **GitHub Actions**. Every push to `main` then deploys automatically.
 2. **Importance scores:** Actions → **Refresh importance** → *Run workflow*. It computes event importance from Wikipedia and then runs monthly.
+3. **Import events:** Actions → **Import events from Wikidata** → *Run workflow*. It opens a pull request with events in Asia from Wikidata (see the [data guide](docs/DATA.md#imported-events自動匯入)). For it to open the pull request itself, allow Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests".
 
 ## Docs
 

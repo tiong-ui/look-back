@@ -43,6 +43,8 @@ export interface AtlasEvent {
   regions: string[];
   importance: number;
   importanceSource: 'computed' | 'editor';
+  /** false for events imported from Wikidata that no editor has checked yet */
+  reviewed: boolean;
   locations: { place: string; role: Role }[];
   relations: { event: string; type: RelationType }[];
   perspectives: Perspective[];

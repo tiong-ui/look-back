@@ -10,7 +10,7 @@
 // Needs network access to wikidata.org and wikimedia.org. Runs monthly in
 // .github/workflows/importance.yml, and can be run by hand.
 
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
@@ -74,16 +74,21 @@ async function views(project: 'en.wikipedia' | 'zh.wikipedia', title: string): P
 
 async function main() {
   const dir = join(ROOT, 'data', 'events');
-  const events: RawEvent[] = readdirSync(dir)
+  const files = readdirSync(dir)
     .filter((f) => /\.ya?ml$/.test(f))
-    .flatMap((f) => parse(readFileSync(join(dir, f), 'utf8')) as RawEvent[]);
+    .map((f) => join(dir, f));
+  const imported = join(ROOT, 'data', 'imported', 'events.yaml');
+  if (existsSync(imported)) files.push(imported);
+  const events: RawEvent[] = files.flatMap((f) => (parse(readFileSync(f, 'utf8')) as RawEvent[]) ?? []);
   const withWiki = events.filter((e) => e.wikipedia?.en || e.wikipedia?.zh);
 
   const en = await sitelinks('enwiki', withWiki.flatMap((e) => (e.wikipedia?.en ? [e.wikipedia.en] : [])));
   const zh = await sitelinks('zhwiki', withWiki.flatMap((e) => (e.wikipedia?.zh ? [e.wikipedia.zh] : [])));
 
   const result: Record<string, { sitelinks: number; viewsEn: number; viewsZh: number; score: number; importance: number }> = {};
-  for (const e of withWiki) {
+  // Fetch page views a few events at a time: fast enough for thousands of
+  // events while staying well under Wikimedia's rate limits.
+  const score = async (e: RawEvent) => {
     const links = Math.max(
       e.wikipedia?.en ? en.get(norm(e.wikipedia.en)) ?? 0 : 0,
       e.wikipedia?.zh ? zh.get(norm(e.wikipedia.zh)) ?? 0 : 0,
@@ -94,12 +99,16 @@ async function main() {
     ]);
     if (!links && !viewsEn && !viewsZh) {
       console.warn(`${e.id}: Wikipedia title not found, check data/events (editor importance kept)`);
-      continue;
+      return;
     }
     const signals = { sitelinks: links, viewsEn, viewsZh };
-    const score = wikiScore(signals);
-    result[e.id] = { ...signals, score: Number(score.toFixed(3)), importance: scoreToImportance(score) };
-    console.log(`${e.id.padEnd(40)} links=${String(links).padStart(3)} en=${String(viewsEn).padStart(8)} zh=${String(viewsZh).padStart(7)} → ${result[e.id].importance}`);
+    const s = wikiScore(signals);
+    result[e.id] = { ...signals, score: Number(s.toFixed(3)), importance: scoreToImportance(s) };
+  };
+  const CONCURRENCY = 8;
+  for (let i = 0; i < withWiki.length; i += CONCURRENCY) {
+    await Promise.all(withWiki.slice(i, i + CONCURRENCY).map(score));
+    if ((i / CONCURRENCY) % 25 === 0) console.log(`  ${Math.min(i + CONCURRENCY, withWiki.length)} / ${withWiki.length}`);
   }
 
   const missing = events.filter((e) => !result[e.id]).map((e) => e.id);
