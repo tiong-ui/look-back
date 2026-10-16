@@ -4,7 +4,7 @@ import { join } from 'node:path';
 import { stringify } from 'yaml';
 import { describe, expect, it } from 'vitest';
 import { buildAtlas } from './build-data';
-import { CLASSES, importanceFromSitelinks, parseDate, parsePoint, rowsToEvents } from './import-wikidata';
+import { CLASSES, detailsQuery, importanceFromSitelinks, parseDate, parsePoint, rowsToEvents, taiwanDiscoveryQuery } from './import-wikidata';
 
 const v = (value: string) => ({ value });
 const WD = 'http://www.wikidata.org/entity/';
@@ -108,6 +108,22 @@ describe('Wikidata import', () => {
     expect(e.reviewed).toBe(false);
     expect(e.sources.map((s) => s.url)).toContain('https://www.wikidata.org/wiki/Q100');
     expect(atlas.events.find((x) => x.id === 'incident-228')!.reviewed).toBe(true);
+  });
+});
+
+describe('Taiwan queries', () => {
+  it('discovers by class and coordinates, with explicit prefixes for QLever', () => {
+    const q = taiwanDiscoveryQuery('Q178561');
+    expect(q).toContain('PREFIX wdt: <http://www.wikidata.org/prop/direct/>');
+    expect(q).toContain('wdt:P31/wdt:P279? wd:Q178561');
+    expect(q).toMatch(/FILTER\(\?lon >= 118/);
+  });
+
+  it('fetches details for known items only', () => {
+    const q = detailsQuery('Q178561', ['Q1', 'Q2']);
+    expect(q).toContain('VALUES ?item { wd:Q1 wd:Q2 }');
+    expect(q).toContain('BIND(wd:Q178561 AS ?cls)');
+    expect(q).toContain('?sitelinks >= 2');
   });
 });
 
