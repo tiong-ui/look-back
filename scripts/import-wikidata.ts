@@ -408,13 +408,53 @@ function curatedTitles(): Curated {
   return { wikipediaTitles: titles };
 }
 
+/**
+ * When some queries failed, keep the previous import's events that this run
+ * could not re-fetch (and their places), so a busy endpoint never deletes data.
+ */
+export function carryForward(
+  fresh: { events: ImportedEvent[]; places: ImportedPlace[] },
+  previous: { events: ImportedEvent[]; places: ImportedPlace[] },
+  curated: Curated,
+): { events: ImportedEvent[]; places: ImportedPlace[]; carried: number } {
+  const have = new Set(fresh.events.map((e) => e.id));
+  const isCurated = (e: ImportedEvent) =>
+    [e.wikipedia?.en, e.wikipedia?.zh].some((t) => t && curated.wikipediaTitles.has(normTitle(t)));
+  const carriedEvents = previous.events.filter((e) => !have.has(e.id) && !isCurated(e));
+  const placeIds = new Set(fresh.places.map((p) => p.id));
+  const prevPlaces = new Map(previous.places.map((p) => [p.id, p]));
+  const extraPlaces: ImportedPlace[] = [];
+  for (const e of carriedEvents)
+    for (const l of e.locations) {
+      const p = prevPlaces.get(l.place);
+      if (p && !placeIds.has(p.id)) {
+        placeIds.add(p.id);
+        extraPlaces.push(p);
+      }
+    }
+  return {
+    events: [...fresh.events, ...carriedEvents].sort((a, b) => a.start.year - b.start.year || a.id.localeCompare(b.id)),
+    places: [...fresh.places, ...extraPlaces].sort((a, b) => a.id.localeCompare(b.id)),
+    carried: carriedEvents.length,
+  };
+}
+
 async function main() {
   const rows: { binding: Binding; cls: EventClass }[] = [];
+  // General pass. The public endpoint is often overloaded; one class failing
+  // shouldn't sink the run, so failures are collected and handled below.
+  const failed: string[] = [];
   for (const [name, cls] of Object.entries(CLASSES)) {
-    const bindings = await runQuery(classQuery(cls.qid, cls.minSitelinks));
-    console.log(`${name.padEnd(24)} ${bindings.length} rows`);
-    for (const binding of bindings) rows.push({ binding, cls });
+    try {
+      const bindings = await runQuery(classQuery(cls.qid, cls.minSitelinks), 4);
+      console.log(`${name.padEnd(24)} ${bindings.length} rows`);
+      for (const binding of bindings) rows.push({ binding, cls });
+    } catch {
+      console.warn(`::warning::Query for ${name} failed; keeping that class's events from the previous import`);
+      failed.push(name);
+    }
   }
+  if (failed.length === Object.keys(CLASSES).length) throw new Error('Every Wikidata query failed; is the endpoint down?');
   // Taiwan pass: lower notability floor. A failure here only loses the extra
   // low-profile Taiwan events of that class, so warn and carry on.
   const skipped: string[] = [];
@@ -435,10 +475,23 @@ async function main() {
     }
   }
   if (skipped.length) console.warn(`Taiwan queries skipped: ${skipped.join(', ')}`);
-  const { events, places } = rowsToEvents(rows, curatedTitles());
+  const curated = curatedTitles();
+  let { events, places } = rowsToEvents(rows, curated);
 
   const outDir = join(ROOT, 'data', 'imported');
   if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
+  const prevEventsFile = join(outDir, 'events.yaml');
+  const prevPlacesFile = join(outDir, 'places.yaml');
+  if ((failed.length || skipped.length) && existsSync(prevEventsFile) && existsSync(prevPlacesFile)) {
+    const previous = {
+      events: (parse(readFileSync(prevEventsFile, 'utf8')) as ImportedEvent[]) ?? [],
+      places: (parse(readFileSync(prevPlacesFile, 'utf8')) as ImportedPlace[]) ?? [],
+    };
+    const merged = carryForward({ events, places }, previous, curated);
+    ({ events, places } = merged);
+    console.log(`Kept ${merged.carried} events from the previous import that this run could not re-fetch`);
+  }
+  if (failed.length) console.warn(`General queries failed: ${failed.join(', ')}`);
   const header = (what: string) =>
     `# ${what} imported from Wikidata by scripts/import-wikidata.ts on ${new Date().toISOString().slice(0, 10)}.\n` +
     `# Generated file: re-running the import replaces it. To edit an event, move it to data/events/\n` +

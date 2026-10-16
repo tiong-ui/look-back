@@ -4,7 +4,7 @@ import { join } from 'node:path';
 import { stringify } from 'yaml';
 import { describe, expect, it } from 'vitest';
 import { buildAtlas } from './build-data';
-import { CLASSES, detailsQuery, importanceFromSitelinks, parseDate, parsePoint, rowsToEvents, taiwanDiscoveryQuery } from './import-wikidata';
+import { CLASSES, carryForward, detailsQuery, importanceFromSitelinks, parseDate, parsePoint, rowsToEvents, taiwanDiscoveryQuery } from './import-wikidata';
 
 const v = (value: string) => ({ value });
 const WD = 'http://www.wikidata.org/entity/';
@@ -108,6 +108,27 @@ describe('Wikidata import', () => {
     expect(e.reviewed).toBe(false);
     expect(e.sources.map((s) => s.url)).toContain('https://www.wikidata.org/wiki/Q100');
     expect(atlas.events.find((x) => x.id === 'incident-228')!.reviewed).toBe(true);
+  });
+});
+
+describe('carryForward', () => {
+  const ev = (id: string, place: string, title?: string) => ({
+    id, title: { 'zh-TW': id }, summary: { 'zh-TW': id }, start: { year: 1900 }, precision: 'year',
+    categories: ['war' as const], regions: ['china'], importance: 1, reviewed: false as const, wikidata: 'Q1',
+    locations: [{ place, role: 'primary' as const }], ...(title ? { wikipedia: { en: title } } : {}),
+  });
+  const pl = (id: string) => ({ id, coords: [120, 30] as [number, number], names: [{ 'zh-TW': id }] });
+
+  it('keeps previous events this run missed, with their places, but not curated ones', () => {
+    const fresh = { events: [ev('wd-q1', 'p1')], places: [pl('p1')] };
+    const previous = {
+      events: [ev('wd-q1', 'p1'), ev('wd-q2', 'p2'), ev('wd-q3', 'p3', 'February 28 incident')],
+      places: [pl('p1'), pl('p2'), pl('p3')],
+    };
+    const out = carryForward(fresh, previous, curated);
+    expect(out.events.map((e) => e.id)).toEqual(['wd-q1', 'wd-q2']);
+    expect(out.places.map((p) => p.id)).toEqual(['p1', 'p2']);
+    expect(out.carried).toBe(1);
   });
 });
 
