@@ -1,0 +1,40 @@
+# Recomputes event importance from Wikipedia signals (language editions and
+# page views) once a month, or on demand, and commits data/importance.json.
+name: Refresh importance
+
+on:
+  schedule:
+    - cron: '17 3 1 * *' # 03:17 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write # to start the deploy workflow afterwards
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run importance
+      - name: Check the data still builds
+        run: npm run data
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- data/importance.json && git ls-files --error-unmatch data/importance.json >/dev/null 2>&1; then
+            echo "No changes"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/importance.json
+          git commit -m "Refresh event importance from Wikipedia signals"
+          git push
+          # Pushes made with GITHUB_TOKEN don't trigger other workflows, so start the deploy explicitly.
+          gh workflow run deploy.yml --ref "${GITHUB_REF_NAME}"
+        env:
+          GH_TOKEN: ${{ github.token }}
