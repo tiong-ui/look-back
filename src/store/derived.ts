@@ -7,7 +7,7 @@ const EMPTY: QueryResult = { events: [], inRange: 0, threshold: 1 };
 
 /** Events for the sidebar: every filter applied. */
 export function useListEvents(): QueryResult {
-  const { atlas, from, to, categories, showAll, placeId, inViewOnly, bounds, includeImported } = useStore();
+  const { atlas, from, to, categories, showAll, placeId, inViewOnly, bounds } = useStore();
   return useMemo(
     () =>
       atlas
@@ -16,21 +16,20 @@ export function useListEvents(): QueryResult {
             to,
             categories,
             showAll,
-            includeImported,
             placeId: placeId ?? undefined,
             bounds: inViewOnly && bounds ? bounds : undefined,
           })
         : EMPTY,
-    [atlas, from, to, categories, showAll, placeId, inViewOnly, bounds, includeImported],
+    [atlas, from, to, categories, showAll, placeId, inViewOnly, bounds],
   );
 }
 
 /** Events for the map: same, but not narrowed to one place or the current view. */
 export function useMapEvents(): QueryResult {
-  const { atlas, from, to, categories, showAll, includeImported } = useStore();
+  const { atlas, from, to, categories, showAll } = useStore();
   return useMemo(
-    () => (atlas ? queryEvents(atlas.events, atlas.places, { from, to, categories, showAll, includeImported }) : EMPTY),
-    [atlas, from, to, categories, showAll, includeImported],
+    () => (atlas ? queryEvents(atlas.events, atlas.places, { from, to, categories, showAll }) : EMPTY),
+    [atlas, from, to, categories, showAll],
   );
 }
 

@@ -10,7 +10,7 @@ import { useStore } from '../store';
 
 export function Sidebar() {
   const s = useStore();
-  const { atlas, lang, selectedId, sort, showAll, inViewOnly, includeImported, categories, placeId, set, toggleCategory } = s;
+  const { atlas, lang, selectedId, sort, showAll, inViewOnly, categories, placeId, set, toggleCategory } = s;
   const { events, inRange, threshold } = useListEvents();
   const sorted = sortEvents(events, sort);
   const [sheet, setSheet] = useState<'peek' | 'open'>('peek');
@@ -21,7 +21,6 @@ export function Sidebar() {
   useEffect(() => setLimit(PAGE), [events, sort]);
   const selectedIndex = selectedId ? sorted.findIndex((e) => e.id === selectedId) : -1;
   const shown = sorted.slice(0, Math.max(limit, selectedIndex + 1));
-  const hasImported = atlas?.events.some((e) => !e.reviewed) ?? false;
 
   if (!atlas) return null;
   const place = placeId ? atlas.places[placeId] : undefined;
@@ -46,11 +45,6 @@ export function Sidebar() {
           <label className="check">
             <input type="checkbox" checked={showAll} onChange={(e) => set({ showAll: e.target.checked })} /> {t('showAll', lang)}
           </label>
-          {hasImported && (
-            <label className="check" title={t('unreviewedNote', lang)}>
-              <input type="checkbox" checked={includeImported} onChange={(e) => set({ includeImported: e.target.checked })} /> {t('includeImported', lang)}
-            </label>
-          )}
         </div>
         {!showAll && threshold > 1 && <p className="hint">{t('majorOnly', lang, { n: threshold })}</p>}
         <div className="cat-chips" role="group" aria-label="Categories">
@@ -128,7 +122,6 @@ function EventRow({ event: e, atlas, lang, selected }: { event: AtlasEvent; atla
             {CATEGORIES[e.categories[0]].icon}
           </span>
           {loc(e.title, lang)}
-          {!e.reviewed && <span className="badge-unreviewed" title={t('unreviewedNote', lang)}>{t('unreviewed', lang)}</span>}
         </span>
         <span className="meta">
           <Dots n={e.importance} />
@@ -143,7 +136,6 @@ function EventRow({ event: e, atlas, lang, selected }: { event: AtlasEvent; atla
             <p className="muted">{t('alsoKnownAs', lang)}：{e.altNames.map((n) => loc(n, lang)).join('、')}</p>
           ) : null}
           <p>{loc(e.summary, lang)}</p>
-          {!e.reviewed && <p className="note-unreviewed">{t('unreviewedNote', lang)}</p>}
 
           <h4>{t('locations', lang)}</h4>
           <ul className="loc-list">

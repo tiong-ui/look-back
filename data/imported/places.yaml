@@ -1,6 +1,6 @@
 # Places imported from Wikidata by scripts/import-wikidata.ts on 2026-10-16.
 # Generated file: re-running the import replaces it. To edit an event, move it to data/events/
-# (and drop `reviewed: false`); curated events are skipped by later imports.
+# to rewrite it there; curated events are skipped by later imports.
 - id: wd-q1002716-site
   coords:
     - 135.620055555

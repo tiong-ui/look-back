@@ -42,7 +42,6 @@ const eventSchema = z
     importance: z.number().int().min(1).max(5).optional(),
     importanceBoost: z.number().int().min(-2).max(2).optional(),
     importanceLocked: z.boolean().optional(),
-    reviewed: z.boolean().default(true), // false for events imported automatically and not yet checked by an editor
     wikidata: z.string().regex(/^Q\d+$/).optional(),
     locations: z.array(z.object({ place: id, role }).strict()).min(1),
     relations: z.array(z.object({ event: id, type: relationType }).strict()).optional(),
@@ -237,7 +236,6 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
       regions: e.regions,
       importance,
       importanceSource,
-      reviewed: e.reviewed,
       locations: e.locations,
       relations: [...(relations.get(e.id) ?? new Map()).entries()].map(([event, type]) => ({ event, type })),
       perspectives: e.perspectives ?? [],
@@ -270,9 +268,9 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
   mkdirSync(dirname(out), { recursive: true });
   writeFileSync(out, JSON.stringify(atlas));
   const computed = atlas.events.filter((e) => e.importanceSource === 'computed').length;
-  const imported = atlas.events.filter((e) => !e.reviewed).length;
+  const imported = atlas.events.filter((e) => e.id.startsWith('wd-')).length;
   console.log(
-    `✔ ${atlas.events.length} events (${imported} imported, unreviewed), ${Object.keys(atlas.places).length} places, ${atlas.eras.length} eras, ` +
+    `✔ ${atlas.events.length} events (${imported} from Wikidata), ${Object.keys(atlas.places).length} places, ${atlas.eras.length} eras, ` +
       `${atlas.resources.length} resources → public/data/atlas.json (importance: ${computed} computed, ${atlas.events.length - computed} editor)`,
   );
 }

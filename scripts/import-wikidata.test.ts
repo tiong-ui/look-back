@@ -72,7 +72,6 @@ describe('Wikidata import', () => {
       { place: 'wd-q201', role: 'secondary' },
     ]);
     expect(e.regions).toEqual(['taiwan']);
-    expect(e.reviewed).toBe(false);
     expect(e.relations).toEqual([{ event: 'wd-q101', type: 'part_of' }]);
     expect(places.map((p) => p.id)).toContain('wd-q200');
   });
@@ -105,16 +104,14 @@ describe('Wikidata import', () => {
     const { atlas, errors } = buildAtlas(dir);
     expect(errors).toEqual([]);
     const e = atlas.events.find((x) => x.id === 'wd-q100')!;
-    expect(e.reviewed).toBe(false);
     expect(e.sources.map((s) => s.url)).toContain('https://www.wikidata.org/wiki/Q100');
-    expect(atlas.events.find((x) => x.id === 'incident-228')!.reviewed).toBe(true);
   });
 });
 
 describe('carryForward', () => {
   const ev = (id: string, place: string, title?: string) => ({
     id, title: { 'zh-TW': id }, summary: { 'zh-TW': id }, start: { year: 1900 }, precision: 'year',
-    categories: ['war' as const], regions: ['china'], importance: 1, reviewed: false as const, wikidata: 'Q1',
+    categories: ['war' as const], regions: ['china'], importance: 1, wikidata: 'Q1',
     locations: [{ place, role: 'primary' as const }], ...(title ? { wikipedia: { en: title } } : {}),
   });
   const pl = (id: string) => ({ id, coords: [120, 30] as [number, number], names: [{ 'zh-TW': id }] });

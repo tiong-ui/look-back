@@ -15,7 +15,6 @@ export interface EventFilter {
   to: number;
   categories: Set<Category>; // empty = all
   showAll: boolean; // ignore the importance threshold
-  includeImported?: boolean; // include unreviewed events imported from Wikidata (default true)
   placeId?: string;
   bounds?: Bounds; // only events with a location inside
 }
@@ -38,7 +37,6 @@ export function queryEvents(all: AtlasEvent[], places: Record<string, Place>, f:
   let inRange = 0;
   const events = all.filter((e) => {
     if (!overlaps(e, f.from, f.to)) return false;
-    if (f.includeImported === false && !e.reviewed) return false;
     inRange++;
     if (e.importance < threshold) return false;
     if (f.categories.size && !e.categories.some((c) => f.categories.has(c))) return false;
