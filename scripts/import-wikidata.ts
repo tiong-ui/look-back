@@ -28,6 +28,7 @@ import type { Category } from '../src/lib/categories';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ENDPOINT = 'https://query.wikidata.org/sparql';
+const QLEVER_ENDPOINT = 'https://qlever.cs.uni-freiburg.de/api/wikidata';
 const USER_AGENT = 'LookBack/0.1 (https://github.com/tiong-ui/look-back) event importer';
 
 // ---------------------------------------------------------------------------- what to fetch
@@ -128,25 +129,29 @@ WHERE {
 }
 
 /**
- * Events of one class located in Taiwan, however few language editions they
- * have. A subquery first narrows the class to items whose own coordinates, or
- * their location's, fall in the Taiwan box; only those few get the label and
- * date lookups, which keeps the query well inside the endpoint's time limit.
+ * Taiwan pass, step 1: find events of one class located in Taiwan, however few
+ * language editions they have. Scanning a whole class and filtering by
+ * coordinates is too heavy for query.wikidata.org (it times out), so this runs
+ * on QLever, a fast public SPARQL engine over the same Wikidata data.
  */
-export function taiwanQuery(qid: string): string {
-  // Without the hint the planner starts from every item with coordinates and times out.
+export function taiwanDiscoveryQuery(qid: string): string {
+  return `PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
+SELECT DISTINCT ?item WHERE {
+  ?item wdt:P31/wdt:P279? wd:${qid} .
+  { ?item wdt:P625 ?c } UNION { ?item wdt:P276 ?l . ?l wdt:P625 ?c }
+  BIND(geof:longitude(?c) AS ?lon)
+  BIND(geof:latitude(?c) AS ?lat)
+  FILTER(?lon >= ${TAIWAN.west} && ?lon <= ${TAIWAN.east} && ?lat >= ${TAIWAN.south} && ?lat <= ${TAIWAN.north})
+}`;
+}
+
+/** Taiwan pass, step 2: full details of known items, from query.wikidata.org (cheap: no scan). */
+export function detailsQuery(qid: string, items: string[]): string {
   return `${SELECT}
 WHERE {
-  hint:Query hint:optimizer "None" .
-  {
-    SELECT DISTINCT ?item WHERE {
-      ?item wdt:P31/wdt:P279? wd:${qid} .
-      { ?item wdt:P625 ?c } UNION { ?item wdt:P276/wdt:P625 ?c }
-      BIND(geof:longitude(?c) AS ?lon)
-      BIND(geof:latitude(?c) AS ?lat)
-      FILTER(?lon >= ${TAIWAN.west} && ?lon <= ${TAIWAN.east} && ?lat >= ${TAIWAN.south} && ?lat <= ${TAIWAN.north})
-    }
-  }
+  VALUES ?item { ${items.map((q) => `wd:${q}`).join(' ')} }
   BIND(wd:${qid} AS ?cls)
   ?item wikibase:sitelinks ?sitelinks .
   FILTER(?sitelinks >= ${TAIWAN_MIN_SITELINKS})
@@ -159,11 +164,11 @@ type Binding = Record<string, { value: string } | undefined>;
 /** The endpoint stops queries at 60 s; give up on a response that takes much longer than that. */
 const REQUEST_TIMEOUT_MS = 75_000;
 
-async function runQuery(query: string, attempts = 3): Promise<Binding[]> {
+async function runQuery(query: string, attempts = 3, endpoint = ENDPOINT): Promise<Binding[]> {
   let throttled = 0;
   for (let attempt = 0; attempt < attempts; attempt++) {
     try {
-      const res = await fetch(ENDPOINT, {
+      const res = await fetch(endpoint, {
         method: 'POST',
         headers: {
           'User-Agent': USER_AGENT,
@@ -410,16 +415,22 @@ async function main() {
     console.log(`${name.padEnd(24)} ${bindings.length} rows`);
     for (const binding of bindings) rows.push({ binding, cls });
   }
-  // Taiwan pass: lower notability floor. A timeout here only loses the extra
+  // Taiwan pass: lower notability floor. A failure here only loses the extra
   // low-profile Taiwan events of that class, so warn and carry on.
   const skipped: string[] = [];
   for (const [name, cls] of Object.entries(CLASSES)) {
     try {
-      const bindings = await runQuery(taiwanQuery(cls.qid), 1); // a query that timed out once will time out again
-      console.log(`${`${name} (Taiwan)`.padEnd(24)} ${bindings.length} rows`);
-      for (const binding of bindings) rows.push({ binding, cls });
+      const found = await runQuery(taiwanDiscoveryQuery(cls.qid), 2, QLEVER_ENDPOINT);
+      const qids = [...new Set(found.map((b) => qidOf(val(b, 'item'))).filter((q): q is string => !!q))];
+      let count = 0;
+      for (let i = 0; i < qids.length; i += 150) {
+        const bindings = await runQuery(detailsQuery(cls.qid, qids.slice(i, i + 150)));
+        count += bindings.length;
+        for (const binding of bindings) rows.push({ binding, cls });
+      }
+      console.log(`${`${name} (Taiwan)`.padEnd(24)} ${qids.length} items, ${count} rows`);
     } catch {
-      console.warn(`::warning::Taiwan query for ${name} timed out; skipped`);
+      console.warn(`::warning::Taiwan query for ${name} failed; skipped`);
       skipped.push(name);
     }
   }
