@@ -146,20 +146,28 @@ WHERE {
 
 type Binding = Record<string, { value: string } | undefined>;
 
-async function runQuery(query: string): Promise<Binding[]> {
-  for (let attempt = 0; attempt < 3; attempt++) {
-    const res = await fetch(ENDPOINT, {
-      method: 'POST',
-      headers: {
-        'User-Agent': USER_AGENT,
-        Accept: 'application/sparql-results+json',
-        'Content-Type': 'application/x-www-form-urlencoded',
-      },
-      body: new URLSearchParams({ query }),
-    });
-    if (res.ok) return ((await res.json()) as { results: { bindings: Binding[] } }).results.bindings;
-    console.warn(`  query failed (HTTP ${res.status}), retrying…`);
-    await new Promise((r) => setTimeout(r, 5000 * 2 ** attempt));
+/** The endpoint stops queries at 60 s; give up on a response that takes much longer than that. */
+const REQUEST_TIMEOUT_MS = 75_000;
+
+async function runQuery(query: string, attempts = 3): Promise<Binding[]> {
+  for (let attempt = 0; attempt < attempts; attempt++) {
+    try {
+      const res = await fetch(ENDPOINT, {
+        method: 'POST',
+        headers: {
+          'User-Agent': USER_AGENT,
+          Accept: 'application/sparql-results+json',
+          'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: new URLSearchParams({ query }),
+        signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
+      });
+      if (res.ok) return ((await res.json()) as { results: { bindings: Binding[] } }).results.bindings;
+      console.warn(`  query failed (HTTP ${res.status})${attempt + 1 < attempts ? ', retrying…' : ''}`);
+    } catch (err) {
+      console.warn(`  query failed (${(err as Error).name}: ${(err as Error).message})${attempt + 1 < attempts ? ', retrying…' : ''}`);
+    }
+    if (attempt + 1 < attempts) await new Promise((r) => setTimeout(r, 5000 * 2 ** attempt));
   }
   throw new Error('Wikidata query failed repeatedly');
 }
@@ -376,7 +384,7 @@ async function main() {
   const skipped: string[] = [];
   for (const [name, cls] of Object.entries(CLASSES)) {
     try {
-      const bindings = await runQuery(taiwanQuery(cls.qid));
+      const bindings = await runQuery(taiwanQuery(cls.qid), 1); // a query that timed out once will time out again
       console.log(`${`${name} (Taiwan)`.padEnd(24)} ${bindings.length} rows`);
       for (const binding of bindings) rows.push({ binding, cls });
     } catch {
