@@ -19,6 +19,7 @@ concurrency:
 jobs:
   import:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     env:
       BRANCH: data/wikidata-import
     steps:
