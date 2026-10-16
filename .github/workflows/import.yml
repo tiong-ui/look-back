@@ -29,6 +29,7 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Import from Wikidata
+        shell: bash # implies -o pipefail, so a failed import fails the step despite the tee
         run: npm run import | tee import.log
       - name: Validate
         run: |
