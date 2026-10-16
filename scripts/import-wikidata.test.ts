@@ -44,6 +44,10 @@ const rows = [
   { cls: CLASSES.battle, binding: { item: v(`${WD}Q103`), sitelinks: v('90'), date: v('1815-06-18T00:00:00Z'), datePrec: v('11'), coord: v('Point(4.4 50.7)'), en: v('Waterloo') } },
   // Already curated (matched by Wikipedia title): skipped.
   { cls: CLASSES.massacre, binding: { item: v(`${WD}Q104`), sitelinks: v('40'), date: v('1947-02-27T00:00:00Z'), datePrec: v('11'), coord: v('Point(121.5 25.05)'), en: v('228'), enwiki: v('February 28 incident') } },
+  // Fujian coast near Taiwan (Nanri Island): not Taiwan.
+  { cls: CLASSES.battle, binding: { item: v(`${WD}Q106`), sitelinks: v('9'), date: v('1952-10-11T00:00:00Z'), datePrec: v('11'), coord: v('Point(119.5 25.2)'), zh: v('南日岛战役'), en: v('Battle of Nanri Island (test)') } },
+  // Ryukyu Islands: Japan, not China.
+  { cls: CLASSES.earthquake, binding: { item: v(`${WD}Q107`), sitelinks: v('8'), date: v('1771-04-24T00:00:00Z'), datePrec: v('11'), coord: v('Point(124.3 24.0)'), zh: v('八重山地震'), en: v('1771 Yaeyama earthquake (test)') } },
   // BC date: Wikidata RDF uses year 0000 = 1 BC, the same as this project.
   { cls: CLASSES.war, binding: { item: v(`${WD}Q105`), sitelinks: v('30'), start: v('-0259-01-01T00:00:00Z'), startPrec: v('9'), coord: v('Point(112.9 35.8)'), zh: v('長平之戰'), en: v('Battle of Changping (test)') } },
 ];
@@ -55,7 +59,7 @@ describe('Wikidata import', () => {
   const byId = Object.fromEntries(events.map((e) => [e.id, e]));
 
   it('keeps notable events in Asia and drops the rest', () => {
-    expect(Object.keys(byId).sort()).toEqual(['wd-q100', 'wd-q101', 'wd-q105']);
+    expect(Object.keys(byId).sort()).toEqual(['wd-q100', 'wd-q101', 'wd-q105', 'wd-q106', 'wd-q107']);
   });
 
   it('groups rows into one event with all its places', () => {
@@ -76,6 +80,16 @@ describe('Wikidata import', () => {
   it('uses the event’s own coordinates when it has no location item', () => {
     expect(byId['wd-q101'].locations).toEqual([{ place: 'wd-q101-site', role: 'primary' }]);
     expect(byId['wd-q101'].end).toEqual({ year: 1885, month: 4, day: 4 });
+  });
+
+  it('converts Simplified Chinese labels to Traditional', () => {
+    expect(byId['wd-q106'].title['zh-TW']).toBe('南日島戰役');
+    expect(byId['wd-q100'].title['zh-TW']).toBe('滬尾之役'); // zh-tw label kept as is
+  });
+
+  it('tells Taiwan apart from the Fujian coast, and Ryukyu from China', () => {
+    expect(byId['wd-q106'].regions).toEqual(['china']);
+    expect(byId['wd-q107'].regions).toEqual(['japan']);
   });
 
   it('keeps BC years astronomical', () => {

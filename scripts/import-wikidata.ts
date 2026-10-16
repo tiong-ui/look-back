@@ -22,6 +22,7 @@
 import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import * as OpenCC from 'opencc-js';
 import { parse, stringify } from 'yaml';
 import type { Category } from '../src/lib/categories';
 
@@ -61,15 +62,17 @@ const TAIWAN_MIN_SITELINKS = 2;
 export const ASIA = { west: 60, east: 155, south: -11, north: 56 };
 /** Search box for the Taiwan query; it also catches parts of the Fujian coast, so results are re-checked with TAIWAN_AREAS. */
 export const TAIWAN = { west: 118, east: 122.6, south: 21.7, north: 26.5 };
-/** Taiwan and Penghu, Kinmen, Matsu. */
+/** Taiwan and Penghu, Kinmen, Matsu — kept clear of the Fujian coast. */
 export const TAIWAN_AREAS = [
-  { west: 119.3, east: 122.1, south: 21.85, north: 25.35 },
+  { west: 119.9, east: 122.1, south: 21.85, north: 25.35 },
+  { west: 119.3, east: 119.75, south: 23.15, north: 23.8 },
   { west: 118.24, east: 118.5, south: 24.35, north: 24.55 },
   { west: 119.88, east: 120.55, south: 25.9, north: 26.4 },
 ];
 export const isTaiwan = (c: [number, number]) => TAIWAN_AREAS.some((b) => inBox(c, b));
 
 const REGIONS: [string, { west: number; east: number; south: number; north: number }][] = [
+  ['japan', { west: 122.9, east: 131.5, south: 24, north: 31 }], // Ryukyu Islands
   ['korea', { west: 124, east: 131, south: 33, north: 43 }],
   ['japan', { west: 128.5, east: 150, south: 24, north: 46 }],
   ['southeast-asia', { west: 92, east: 141, south: -11, north: 21.5 }],
@@ -79,6 +82,9 @@ const REGIONS: [string, { west: number; east: number; south: number; north: numb
 ];
 
 // ---------------------------------------------------------------------------- SPARQL
+
+/** Countries, states, continents and regions: too broad to place an event on the map. */
+const BROAD_PLACES = ['Q6256', 'Q3624078', 'Q3024240', 'Q5107', 'Q7275', 'Q1620908', 'Q82794'].map((q) => `wd:${q}`).join(' ');
 
 const SELECT = `SELECT ?item ?cls ?sitelinks ?date ?datePrec ?start ?startPrec ?end ?coord ?loc ?locCoord
        ?zhtw ?zhhant ?zh ?en ?locZhtw ?locZhhant ?locZh ?locEn ?descZh ?descEn ?enwiki ?zhwiki ?partOf`;
@@ -91,6 +97,8 @@ const DETAILS = `
   OPTIONAL { ?item wdt:P582 ?end }
   OPTIONAL { ?item wdt:P625 ?coord }
   OPTIONAL { ?item wdt:P276 ?loc . ?loc wdt:P625 ?locCoord .
+    # A country or region as "location" has one representative point (the ROC's is in Taiwan), so skip those.
+    FILTER NOT EXISTS { ?loc wdt:P31 ?broad . VALUES ?broad { ${BROAD_PLACES} } }
     OPTIONAL { ?loc rdfs:label ?locZhtw FILTER(LANG(?locZhtw) = "zh-tw") }
     OPTIONAL { ?loc rdfs:label ?locZhhant FILTER(LANG(?locZhhant) = "zh-hant") }
     OPTIONAL { ?loc rdfs:label ?locZh FILTER(LANG(?locZh) = "zh") }
@@ -126,8 +134,10 @@ WHERE {
  * date lookups, which keeps the query well inside the endpoint's time limit.
  */
 export function taiwanQuery(qid: string): string {
+  // Without the hint the planner starts from every item with coordinates and times out.
   return `${SELECT}
 WHERE {
+  hint:Query hint:optimizer "None" .
   {
     SELECT DISTINCT ?item WHERE {
       ?item wdt:P31/wdt:P279? wd:${qid} .
@@ -150,6 +160,7 @@ type Binding = Record<string, { value: string } | undefined>;
 const REQUEST_TIMEOUT_MS = 75_000;
 
 async function runQuery(query: string, attempts = 3): Promise<Binding[]> {
+  let throttled = 0;
   for (let attempt = 0; attempt < attempts; attempt++) {
     try {
       const res = await fetch(ENDPOINT, {
@@ -162,7 +173,18 @@ async function runQuery(query: string, attempts = 3): Promise<Binding[]> {
         body: new URLSearchParams({ query }),
         signal: AbortSignal.timeout(REQUEST_TIMEOUT_MS),
       });
-      if (res.ok) return ((await res.json()) as { results: { bindings: Binding[] } }).results.bindings;
+      if (res.ok) {
+        await new Promise((r) => setTimeout(r, 1000)); // be gentle with the shared endpoint
+        return ((await res.json()) as { results: { bindings: Binding[] } }).results.bindings;
+      }
+      if (res.status === 429 && throttled++ < 3) {
+        // Rate limited: wait as asked and try again without using up an attempt.
+        const wait = Number(res.headers.get('retry-after')) || 30;
+        console.warn(`  rate limited, waiting ${wait} s…`);
+        await new Promise((r) => setTimeout(r, wait * 1000));
+        attempt--;
+        continue;
+      }
       console.warn(`  query failed (HTTP ${res.status})${attempt + 1 < attempts ? ', retrying…' : ''}`);
     } catch (err) {
       console.warn(`  query failed (${(err as Error).name}: ${(err as Error).message})${attempt + 1 < attempts ? ', retrying…' : ''}`);
@@ -207,8 +229,16 @@ export function parseDate(iso?: string, precision?: string) {
   return { date, precision: precisionName as 'day' | 'month' | 'year' | 'decade' | 'century' | 'millennium' };
 }
 
-const zhLabel = (b: Binding, prefix = '') =>
-  val(b, `${prefix}${prefix ? 'Zhtw' : 'zhtw'}`) ?? val(b, `${prefix}${prefix ? 'Zhhant' : 'zhhant'}`) ?? val(b, `${prefix}${prefix ? 'Zh' : 'zh'}`);
+/** Wikidata's generic "zh" labels are often Simplified; convert them to Taiwan Traditional usage. */
+export const toTraditional = OpenCC.Converter({ from: 'cn', to: 'twp' });
+
+const zhLabel = (b: Binding, prefix = '') => {
+  const k = (name: string) => (prefix ? `${prefix}${name[0].toUpperCase()}${name.slice(1)}` : name);
+  const traditional = val(b, k('zhtw')) ?? val(b, k('zhhant'));
+  if (traditional) return traditional;
+  const generic = val(b, k('zh'));
+  return generic ? toTraditional(generic) : undefined;
+};
 
 export interface ImportedEvent {
   id: string;
@@ -320,7 +350,8 @@ export function rowsToEvents(
 
     for (const l of inAsia.slice(0, 4)) if (!places.has(l.id)) places.set(l.id, { id: l.id, coords: l.coords, names: l.names });
 
-    const descZh = rs.map((r) => val(r, 'descZh')).find(Boolean);
+    const descZhRaw = rs.map((r) => val(r, 'descZh')).find(Boolean);
+    const descZh = descZhRaw ? toTraditional(descZhRaw) : undefined;
     const descEn = rs.map((r) => val(r, 'descEn')).find(Boolean);
     const partOf = [...new Set(rs.map((r) => qidOf(val(r, 'partOf'))).filter((p): p is string => !!p))];
 
