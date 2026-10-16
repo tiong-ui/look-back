@@ -29,20 +29,6 @@
   names:
     - zh-TW: 那曲市
       en: Nagqu
-- id: wd-q10126
-  coords:
-    - 106.150277777
-    - -6.12
-  names:
-    - zh-TW: 西冷
-      en: Serang
-- id: wd-q10127
-  coords:
-    - 106.640277777
-    - -6.170277777
-  names:
-    - zh-TW: 丹格朗
-      en: Tangerang
 - id: wd-q1013437
   coords:
     - 139.153611111
@@ -162,13 +148,6 @@
   names:
     - zh-TW: 華南
       en: South China
-- id: wd-q10389
-  coords:
-    - 107.606944444
-    - -6.921944444
-  names:
-    - zh-TW: 萬隆
-      en: Bandung
 - id: wd-q1039004
   coords:
     - 133.184875
@@ -176,13 +155,6 @@
   names:
     - zh-TW: 月山富田城
       en: Gassantoda Castle
-- id: wd-q10393
-  coords:
-    - 106.799263333
-    - -6.597802777
-  names:
-    - zh-TW: 茂物
-      en: Bogor
 - id: wd-q10396694-site
   coords:
     - 97
@@ -610,6 +582,13 @@
   names:
     - zh-TW: 東溪市鎮
       en: Đông Khê
+- id: wd-q10843834-site
+  coords:
+    - 121.91
+    - 25.34
+  names:
+    - zh-TW: 1867年基隆海嘯
+      en: 1867 Keelung earthquake
 - id: wd-q10854970
   coords:
     - 136.79016667
@@ -638,6 +617,13 @@
   names:
     - zh-TW: 大寧寺之變
       en: Tainei-ji incident
+- id: wd-q10861125-site
+  coords:
+    - 120.48
+    - 23.4
+  names:
+    - zh-TW: 1941年中埔地震
+      en: 1941 Chungpu earthquake
 - id: wd-q108822258-site
   coords:
     - 68.014
@@ -666,6 +652,13 @@
   names:
     - zh-TW: 2021年巴厘島地震
       en: 2021 Bali earthquake
+- id: wd-q10892015
+  coords:
+    - 120.55139167
+    - 24.07865556
+  names:
+    - zh-TW: 八卦山 (彰化縣)
+      en: Baguashan
 - id: wd-q10892144-site
   coords:
     - 135.6075
@@ -813,6 +806,12 @@
   names:
     - zh-TW: 白沙瓦
       en: Peshawar
+- id: wd-q111342102-site
+  coords:
+    - 121.61
+    - 23.4
+  names:
+    - zh-TW: 2022年3月花蓮地震
 - id: wd-q1113509-site
   coords:
     - 138.812416666
@@ -2262,6 +2261,13 @@
   names:
     - zh-TW: 魯甸縣
       en: Ludian County
+- id: wd-q13414773-site
+  coords:
+    - 120.97
+    - 23.86
+  names:
+    - zh-TW: 2013年6月南投地震
+      en: June 2013 Nantou earthquake
 - id: wd-q1341539-site
   coords:
     - 69.178333333
@@ -2700,6 +2706,13 @@
   names:
     - zh-TW: 扎黑丹
       en: Zahedan
+- id: wd-q140631
+  coords:
+    - 120.185
+    - 22.99
+  names:
+    - zh-TW: 臺南市
+      en: Tainan
 - id: wd-q140646
   coords:
     - 97.5
@@ -2735,6 +2748,13 @@
   names:
     - zh-TW: 克什米爾衝突
       en: Kashmir conflict
+- id: wd-q14168
+  coords:
+    - 109.366666666
+    - -0.083333333
+  names:
+    - zh-TW: 坤甸
+      en: Pontianak
 - id: wd-q14168886-site
   coords:
     - 104.2
@@ -3162,6 +3182,13 @@
   names:
     - zh-TW: 美娜多
       en: Manado
+- id: wd-q15904347-site
+  coords:
+    - 121.733333333
+    - 25.133333333
+  names:
+    - zh-TW: 雞籠之戰
+      en: Final Battle of San Salvador
 - id: wd-q159183
   coords:
     - 134
@@ -3743,6 +3770,13 @@
   names:
     - zh-TW: 潘傑希爾省
       en: Panjshir Province
+- id: wd-q181557
+  coords:
+    - 120.2975
+    - 22.615
+  names:
+    - zh-TW: 高雄市
+      en: Kaohsiung
 - id: wd-q1815740
   coords:
     - 78.06
@@ -5346,6 +5380,13 @@
   names:
     - zh-TW: 漢堡高地戰役
       en: Battle of Hamburger Hill
+- id: wd-q24839239-site
+  coords:
+    - 121.733333333
+    - 25.133333333
+  names:
+    - zh-TW: 第一次聖薩爾瓦多城戰役
+      en: First Battle of San Salvador
 - id: wd-q24891669
   coords:
     - 138.81611111
@@ -5381,6 +5422,20 @@
   names:
     - zh-TW: 花蓮縣
       en: Hualien County
+- id: wd-q249995
+  coords:
+    - 120.449722222
+    - 23.48
+  names:
+    - zh-TW: 嘉義市
+      en: Chiayi City
+- id: wd-q249996
+  coords:
+    - 121.7419
+    - 25.12825
+  names:
+    - zh-TW: 基隆市
+      en: Keelung
 - id: wd-q2500644-site
   coords:
     - 138.945277777
@@ -5584,6 +5639,13 @@
   names:
     - zh-TW: 得利寺之戰
       en: Battle of Te-li-Ssu
+- id: wd-q262171
+  coords:
+    - 120.506666666
+    - 26.376666666
+  names:
+    - zh-TW: 東引鄉
+      en: Dongyin Township
 - id: wd-q2621757-site
   coords:
     - 73.08703611
@@ -6017,6 +6079,13 @@
   names:
     - zh-TW: 分倍河原之戰
       en: Battle of Bubaigawara
+- id: wd-q2888438-site
+  coords:
+    - 120.507
+    - 26.378
+  names:
+    - zh-TW: 東引海戰
+      en: Battle of Dong-Yin
 - id: wd-q2888742-site
   coords:
     - 129.21666667
@@ -8005,6 +8074,13 @@
   names:
     - zh-TW: 1889年熊本地震
       en: 1889 Kumamoto earthquake
+- id: wd-q4558220-site
+  coords:
+    - 120.25
+    - 23.58
+  names:
+    - zh-TW: 1904年斗六地震
+      en: 1904 Douliu earthquake
 - id: wd-q4558378-site
   coords:
     - 76
@@ -8019,6 +8095,13 @@
   names:
     - zh-TW: 1907年坎拉托克地震
       en: 1907 Qaratog earthquake
+- id: wd-q4560300-site
+  coords:
+    - 121
+    - 24
+  names:
+    - zh-TW: 1916年南投地震
+      en: 1916–17 Nantou earthquakes
 - id: wd-q4560327-site
   coords:
     - 115
@@ -8068,6 +8151,13 @@
   names:
     - zh-TW: 1945年三河地震
       en: 1945 Mikawa earthquake
+- id: wd-q4565742-site
+  coords:
+    - 120.3
+    - 23.1
+  names:
+    - zh-TW: 1946年新化地震
+      en: 1946 Hsinhua earthquake
 - id: wd-q456847
   coords:
     - 98
@@ -8089,6 +8179,13 @@
   names:
     - zh-TW: 1963年千島羣島地震
       en: 1963 Kuril Islands earthquake
+- id: wd-q4571231-site
+  coords:
+    - 122.055
+    - 24.355
+  names:
+    - zh-TW: 1963年蘇澳地震
+      en: 1963 Su-ao earthquake
 - id: wd-q4572485-site
   coords:
     - 114.483
@@ -8425,13 +8522,6 @@
   names:
     - zh-TW: 陝西省
       en: Shaanxi
-- id: wd-q4803
-  coords:
-    - 110.816666666
-    - -7.566666666
-  names:
-    - zh-TW: 梭羅
-      en: Surakarta
 - id: wd-q48178474-site
   coords:
     - 105.963
@@ -9510,6 +9600,13 @@
   names:
     - zh-TW: Chuknagar massacre
       en: Chuknagar massacre
+- id: wd-q5116271
+  coords:
+    - 121.55279722
+    - 25.15591389
+  names:
+    - zh-TW: 中山樓
+      en: Chung-Shan Building
 - id: wd-q515573
   coords:
     - 107.02598
@@ -9853,6 +9950,13 @@
   names:
     - zh-TW: 2018年蘇拉威西島地震
       en: 2018 Sulawesi earthquake and tsunami
+- id: wd-q570509
+  coords:
+    - 121.433333333
+    - 25.166666666
+  names:
+    - zh-TW: 淡水區
+      en: Tamsui District
 - id: wd-q571891-site
   coords:
     - 88.064
@@ -10021,6 +10125,13 @@
   names:
     - zh-TW: 韶關市
       en: Shaoguan
+- id: wd-q5920767-site
+  coords:
+    - 121.986
+    - 23.684
+  names:
+    - zh-TW: 1920年花蓮地震
+      en: 1920 Hualien earthquake
 - id: wd-q592338
   coords:
     - 124.285
@@ -10049,6 +10160,13 @@
   names:
     - zh-TW: 1979年巴釐地震
       en: 1979 Bali earthquake
+- id: wd-q5942155-site
+  coords:
+    - 121.603
+    - 23.974
+  names:
+    - zh-TW: 1986年花蓮地震
+      en: 1986 Hualien earthquake
 - id: wd-q5943658-site
   coords:
     - 99.611
@@ -10084,13 +10202,6 @@
   names:
     - zh-TW: 拉美島事件
       en: Lamey Island Massacre
-- id: wd-q5972
-  coords:
-    - 98.673888888
-    - 3.589444444
-  names:
-    - zh-TW: 棉蘭
-      en: Medan
 - id: wd-q59771
   coords:
     - 150.6
@@ -10210,6 +10321,13 @@
   names:
     - zh-TW: 熊本城
       en: Kumamoto Castle
+- id: wd-q6145247
+  coords:
+    - 121.51
+    - 25.0431
+  names:
+    - zh-TW: 中山堂
+      en: Zhongshan Hall
 - id: wd-q616107
   coords:
     - 150.267
@@ -10427,6 +10545,13 @@
   names:
     - zh-TW: 2019年山形地震
       en: 2019 Yamagata earthquake
+- id: wd-q64784831-site
+  coords:
+    - 121.515277777
+    - 25.039444444
+  names:
+    - zh-TW: 623反紅媒遊行
+      en: 623 Protest
 - id: wd-q6480986
   coords:
     - 120.369816666
@@ -10455,6 +10580,13 @@
   names:
     - zh-TW: 富士川之戰
       en: Battle of Fujigawa
+- id: wd-q650908
+  coords:
+    - 109.24222222
+    - -7.42555556
+  names:
+    - zh-TW: 普禾加多
+      en: Purwokerto
 - id: wd-q653402
   coords:
     - 138.945305555
@@ -10504,6 +10636,13 @@
   names:
     - zh-TW: 查謨和克什米爾
       en: Jammu and Kashmir
+- id: wd-q66309867-site
+  coords:
+    - 121.91
+    - 24.43
+  names:
+    - zh-TW: 2019年宜蘭地震
+      en: 2019 Yilan earthquake
 - id: wd-q663729-site
   coords:
     - 105.971866
@@ -10791,6 +10930,13 @@
   names:
     - zh-TW: 香港保衞戰
       en: Battle of Hong Kong
+- id: wd-q697197
+  coords:
+    - 121.51527778
+    - 25.03944444
+  names:
+    - zh-TW: 凱達格蘭大道
+      en: Ketagalan Boulevard
 - id: wd-q697281-site
   coords:
     - 123.92561
@@ -10980,6 +11126,13 @@
   names:
     - zh-TW: 通州事件
       en: Tungchow Mutiny
+- id: wd-q708250-site
+  coords:
+    - 121.689
+    - 23.763
+  names:
+    - zh-TW: 2009年花蓮地震
+      en: 2009 Hualien earthquake
 - id: wd-q7084310
   coords:
     - 65.6589
@@ -11155,6 +11308,13 @@
   names:
     - zh-TW: 荊門市
       en: Jingmen
+- id: wd-q713556
+  coords:
+    - 121.068055555
+    - 24.663888888
+  names:
+    - zh-TW: 北埔鄉
+      en: Beipu Township
 - id: wd-q71401
   coords:
     - 113.3658
@@ -11351,6 +11511,13 @@
   names:
     - zh-TW: 太原市
       en: Taiyuan
+- id: wd-q728355-site
+  coords:
+    - 121.461754
+    - 25.189719
+  names:
+    - zh-TW: 淡水之役
+      en: Battle of Tamsui
 - id: wd-q7295155
   coords:
     - 74.9
@@ -11708,13 +11875,6 @@
   names:
     - zh-TW: 龍目島
       en: Lombok Island
-- id: wd-q7568
-  coords:
-    - 110.391280229
-    - -7.800456766
-  names:
-    - zh-TW: 日惹市
-      en: Yogyakarta
 - id: wd-q7640962
   coords:
     - 136.681777777
@@ -11911,6 +12071,13 @@
   names:
     - zh-TW: 巴焦爾地區
       en: Bajaur District
+- id: wd-q8042
+  coords:
+    - 102.259166666
+    - -3.795555555
+  names:
+    - zh-TW: 明古魯
+      en: Bengkulu
 - id: wd-q8131
   coords:
     - 104.764444444
@@ -11925,6 +12092,13 @@
   names:
     - zh-TW: 第二次塞林卡帕坦圍困戰
       en: Siege of Seringapatam
+- id: wd-q8156
+  coords:
+    - 105.2625
+    - -5.429444444
+  names:
+    - zh-TW: 班達楠榜
+      en: Bandar Lampung
 - id: wd-q815718-site
   coords:
     - 99.856
@@ -11932,6 +12106,13 @@
   names:
     - zh-TW: 2009年蘇門答臘地震
       en: 2009 Sumatra earthquakes
+- id: wd-q8179
+  coords:
+    - 106.1
+    - -2.1
+  names:
+    - zh-TW: 檳港
+      en: Pangkal Pinang
 - id: wd-q8193276-site
   coords:
     - 137.49
@@ -12100,6 +12281,13 @@
   names:
     - zh-TW: 宛城之戰
       en: Battle of Wancheng
+- id: wd-q848672
+  coords:
+    - 134.083333
+    - -0.866667
+  names:
+    - zh-TW: 曼諾瓦里
+      en: Manokwari
 - id: wd-q849190
   coords:
     - 137.393
@@ -12226,6 +12414,13 @@
   names:
     - zh-TW: 香港
       en: Hong Kong
+- id: wd-q8659209-site
+  coords:
+    - 121.07
+    - 23.9
+  names:
+    - zh-TW: 2013年南投地震
+      en: March 2013 Nantou earthquake
 - id: wd-q8660
   coords:
     - 67.01
@@ -12583,6 +12778,20 @@
   names:
     - zh-TW: 捨普爾營地包圍戰
       en: Siege of the Sherpur Cantonment
+- id: wd-q97025569
+  coords:
+    - 120.515737625
+    - 22.686035449
+  names:
+    - zh-TW: 長興村
+      en: Changxing Village
+- id: wd-q97025858
+  coords:
+    - 120.558547064
+    - 22.417581364
+  names:
+    - zh-TW: 佳冬村
+      en: Jiadong Village
 - id: wd-q97379293
   coords:
     - 140.242777777
