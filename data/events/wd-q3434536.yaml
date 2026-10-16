@@ -1,0 +1,24 @@
+id: wd-q3434536
+title:
+  zh-TW: Treaty of Huế
+  en: Treaty of Huế
+summary:
+  zh-TW: 1863 treaty between Vietnam and France
+  en: 1863 treaty between Vietnam and France
+start:
+  year: 1863
+  month: 4
+  day: 14
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q3434536
+locations:
+  - place: wd-q36399
+    role: primary
+wikipedia:
+  en: Treaty of Huế (1863)
+importHash: feb63d7cb475

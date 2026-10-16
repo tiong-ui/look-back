@@ -1,0 +1,27 @@
+id: wd-q3246392
+title:
+  zh-TW: Battle of Miani
+  en: Battle of Miani
+summary:
+  zh-TW: 1843 part of the British conquest of Sindh
+  en: 1843 part of the British conquest of Sindh
+start:
+  year: 1843
+  month: 2
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3246392
+locations:
+  - place: wd-q3246392-site
+    role: primary
+  - place: wd-q6827675
+    role: secondary
+wikipedia:
+  en: Battle of Miani
+importHash: 47256d27b694

@@ -1,0 +1,25 @@
+id: wd-q11625932
+title:
+  zh-TW: 血之勞動節事件
+  en: Bloody May Day
+summary:
+  zh-TW: riots in Japan on May 1, 1952
+  en: riots in Japan on May 1, 1952
+start:
+  year: 1952
+  month: 5
+  day: 1
+precision: day
+categories:
+  - democracy
+regions:
+  - japan
+importance: 2
+wikidata: Q11625932
+locations:
+  - place: wd-q844963
+    role: primary
+wikipedia:
+  en: Bloody May Day (1952)
+  zh: 血腥五一节事件
+importHash: 9089bcbb7c5f

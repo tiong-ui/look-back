@@ -1,0 +1,26 @@
+id: wd-q26330
+title:
+  zh-TW: 1999年傑莫利地震
+  en: 1999 Chamoli earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 1999
+  month: 3
+  day: 29
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q26330
+locations:
+  - place: wd-q26330-site
+    role: primary
+  - place: wd-q1797372
+    role: secondary
+wikipedia:
+  en: 1999 Chamoli earthquake
+importHash: b45826303c8d

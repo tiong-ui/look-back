@@ -1,0 +1,32 @@
+id: wd-q712505
+title:
+  zh-TW: 常德會戰
+  en: Battle of Changde
+summary:
+  zh-TW: 1943 battle
+  en: 1943 battle
+start:
+  year: 1943
+  month: 11
+  day: 2
+end:
+  year: 1943
+  month: 12
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q712505
+locations:
+  - place: wd-q712505-site
+    role: primary
+  - place: wd-q416544
+    role: secondary
+wikipedia:
+  en: Battle of Changde
+  zh: 常德会战
+importHash: b03bc078de9d

@@ -1,0 +1,25 @@
+id: wd-q1963613
+title:
+  zh-TW: 名古屋議定書
+  en: Nagoya Protocol
+summary:
+  zh-TW: global treaty on biological diversity
+  en: global treaty on biological diversity
+start:
+  year: 2014
+  month: 11
+  day: 12
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 3
+wikidata: Q1963613
+locations:
+  - place: wd-q11751
+    role: primary
+wikipedia:
+  en: Nagoya Protocol
+  zh: 名古屋议定书
+importHash: d90b4ac66b77

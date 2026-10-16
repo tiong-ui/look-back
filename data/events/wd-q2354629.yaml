@@ -1,0 +1,29 @@
+id: wd-q2354629
+title:
+  zh-TW: 馬來亞緊急狀態
+  en: Malayan Emergency
+summary:
+  zh-TW: 1948–1960 conflict in British Malaya
+  en: 1948–1960 conflict in British Malaya
+start:
+  year: 1948
+  month: 6
+  day: 16
+end:
+  year: 1960
+  month: 7
+  day: 12
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q2354629
+locations:
+  - place: wd-q18758
+    role: primary
+wikipedia:
+  en: Malayan Emergency
+  zh: 馬來亞緊急狀態
+importHash: f9c19d810c93

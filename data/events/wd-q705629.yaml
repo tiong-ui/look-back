@@ -1,0 +1,26 @@
+id: wd-q705629
+title:
+  zh-TW: 北越戰爭
+  en: Battle of Hokuetsu
+summary:
+  zh-TW: 1868 battle
+  en: 1868 battle
+start:
+  year: 1868
+  month: 3
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q705629
+locations:
+  - place: wd-q540312
+    role: primary
+wikipedia:
+  en: Battle of Hokuetsu
+  zh: 北越戰爭
+importHash: 4c44fca12695

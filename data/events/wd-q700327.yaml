@@ -1,0 +1,25 @@
+id: wd-q700327
+title:
+  zh-TW: 中葡和好通商條約
+  en: Sino-Portuguese Treaty of Peking
+summary:
+  zh-TW: 不平等條約
+  en: treaty
+start:
+  year: 1887
+  month: 12
+  day: 1
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 2
+wikidata: Q700327
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Sino-Portuguese Treaty of Peking
+  zh: 中葡和好通商條約
+importHash: bb01b71146ca

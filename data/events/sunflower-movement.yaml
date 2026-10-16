@@ -1,0 +1,27 @@
+id: sunflower-movement
+title:
+  zh-TW: 太陽花學運
+  en: Sunflower Movement
+summary:
+  zh-TW: 學生與公民團體占領立法院，抗議《海峽兩岸服務貿易協議》的黑箱審查。協議最終未通過，運動也深刻影響臺灣的公民意識與政治版圖。
+  en: Students and civic groups occupied the Legislative Yuan to protest the rushed review of a services trade pact with China. The pact was never ratified, and the movement reshaped Taiwan's civic awareness and politics.
+start:
+  year: 2014
+  month: 3
+  day: 18
+end:
+  year: 2014
+  month: 4
+  day: 10
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: legislative-yuan
+    role: primary
+wikipedia:
+  en: Sunflower Student Movement
+  zh: 太陽花學運

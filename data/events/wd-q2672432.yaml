@@ -1,0 +1,29 @@
+id: wd-q2672432
+title:
+  zh-TW: 元爪戰爭
+  en: Mongol invasion of Java
+summary:
+  zh-TW: 元朝入侵爪哇島
+  en: 1293 invasion
+start:
+  year: 1293
+  month: 1
+  day: 29
+end:
+  year: 1293
+  month: 8
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q2672432
+locations:
+  - place: wd-q3586
+    role: primary
+wikipedia:
+  en: Mongol invasion of Java
+  zh: 元朝和爪哇的战争
+importHash: 6a2884c4015f

@@ -1,0 +1,29 @@
+id: wd-q3381201
+title:
+  zh-TW: Battle of An Lao
+  en: Battle of An Lao
+summary:
+  zh-TW: Battle during the Vietnam War (1964)
+  en: Battle during the Vietnam War (1964)
+start:
+  year: 1964
+end:
+  year: 1964
+  month: 12
+  day: 9
+precision: year
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q3381201
+locations:
+  - place: wd-q4750136
+    role: primary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of An Lão
+importHash: 8f773a66b8c4

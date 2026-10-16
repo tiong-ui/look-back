@@ -1,0 +1,29 @@
+id: wd-q1341539
+title:
+  zh-TW: 四月革命
+  en: Saur Revolution
+summary:
+  zh-TW: April 1978 coup in Afghanistan
+  en: April 1978 coup in Afghanistan
+start:
+  year: 1978
+  month: 4
+  day: 27
+end:
+  year: 1978
+  month: 4
+  day: 28
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 4
+wikidata: Q1341539
+locations:
+  - place: wd-q1341539-site
+    role: primary
+wikipedia:
+  en: Saur Revolution
+  zh: 四月革命 (阿富汗)
+importHash: ae889ae70f57

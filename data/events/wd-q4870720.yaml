@@ -1,0 +1,27 @@
+id: wd-q4870720
+title:
+  zh-TW: 車溫達戰役
+  en: Battle of Gujranwala
+summary:
+  zh-TW: major battle in the Indo-Pakistani War of 1965
+  en: major battle in the Indo-Pakistani War of 1965
+start:
+  year: 1965
+  month: 9
+  day: 14
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870720
+locations:
+  - place: wd-q5088564
+    role: primary
+relations:
+  - event: wd-q233583
+    type: part_of
+wikipedia:
+  en: Battle of Chawinda
+importHash: f6455b6627dd

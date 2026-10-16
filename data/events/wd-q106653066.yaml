@@ -1,0 +1,27 @@
+id: wd-q106653066
+title:
+  zh-TW: 2021年印度地震
+  en: 2021 Assam earthquake
+summary:
+  zh-TW: Earthquake in India
+  en: Earthquake in India
+start:
+  year: 2021
+  month: 4
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q106653066
+locations:
+  - place: wd-q106653066-site
+    role: primary
+  - place: wd-q1164
+    role: secondary
+wikipedia:
+  en: 2021 Assam earthquake
+  zh: 2021年阿薩姆地震
+importHash: c57df1b3d3e9

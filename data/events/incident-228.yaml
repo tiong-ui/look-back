@@ -1,0 +1,39 @@
+id: incident-228
+title:
+  zh-TW: 二二八事件
+  en: 228 Incident
+summary:
+  zh-TW: 臺北查緝私菸引發的衝突迅速擴大為全島性的抗爭。國民政府自中國調派軍隊來臺鎮壓，並展開「清鄉」，大批臺灣菁英與平民遇害；行政院研究報告估計死亡人數約一萬八千至二萬八千人。
+  en: A clash over contraband cigarettes in Taipei grew into island-wide protest. The Nationalist government sent troops from China to suppress it and then carried out "village clearing" purges; many Taiwanese leaders and civilians were killed. An Executive Yuan report estimated 18,000–28,000 deaths.
+start:
+  year: 1947
+  month: 2
+  day: 27
+end:
+  year: 1947
+  month: 5
+  day: 16
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - taiwan
+importance: 5
+locations:
+  - place: taipei
+    role: primary
+  - place: kaohsiung
+    role: secondary
+  - place: chiayi
+    role: secondary
+  - place: keelung
+    role: secondary
+relations:
+  - event: white-terror
+    type: precedes
+wikipedia:
+  en: February 28 incident
+  zh: 二二八事件
+sources:
+  - resource: memorial-228

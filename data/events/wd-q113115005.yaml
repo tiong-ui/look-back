@@ -1,0 +1,32 @@
+id: wd-q113115005
+title:
+  zh-TW: Balkhab uprising
+  en: Balkhab uprising
+summary:
+  zh-TW: Hazara rebellion against Taliban
+  en: Hazara rebellion against Taliban
+start:
+  year: 2022
+  month: 6
+  day: 23
+end:
+  year: 2022
+  month: 8
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q113115005
+locations:
+  - place: wd-q2215327
+    role: primary
+relations:
+  - event: wd-q108137226
+    type: part_of
+wikipedia:
+  en: Balkhab uprising
+importHash: 078f4d9fec19

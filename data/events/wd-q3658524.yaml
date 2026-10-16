@@ -1,0 +1,25 @@
+id: wd-q3658524
+title:
+  zh-TW: 2006年鹽津地震
+  en: 2006 Yanjin earthquake
+summary:
+  zh-TW: Earthquake in China
+  en: Earthquake in China
+start:
+  year: 2006
+  month: 7
+  day: 22
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q3658524
+locations:
+  - place: wd-q3658524-site
+    role: primary
+wikipedia:
+  en: 2006 Yanjin earthquake
+  zh: 2006年盐津地震
+importHash: 84c16da305e2

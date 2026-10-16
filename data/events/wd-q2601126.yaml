@@ -1,0 +1,26 @@
+id: wd-q2601126
+title:
+  zh-TW: 薩德拉斯戰役
+  en: Battle of Sadras
+summary:
+  zh-TW: 1782 naval battle
+  en: 1782 naval battle
+start:
+  year: 1782
+  month: 2
+  day: 17
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2601126
+locations:
+  - place: wd-q2601126-site
+    role: primary
+  - place: wd-q38684
+    role: secondary
+wikipedia:
+  en: Battle of Sadras
+importHash: 298c249113a8

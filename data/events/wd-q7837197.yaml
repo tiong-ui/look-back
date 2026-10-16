@@ -1,0 +1,24 @@
+id: wd-q7837197
+title:
+  zh-TW: Treaty of Purandar
+  en: Treaty of Purandar
+summary:
+  zh-TW: treaty ending a battle at the fort
+  en: treaty ending a battle at the fort
+start:
+  year: 1665
+  month: 6
+  day: 11
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7837197
+locations:
+  - place: wd-q13118784
+    role: primary
+wikipedia:
+  en: Treaty of Purandar (1665)
+importHash: c4c257f04848

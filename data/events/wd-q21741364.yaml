@@ -1,0 +1,26 @@
+id: wd-q21741364
+title:
+  zh-TW: Battle of Fukuda Bay
+  en: Battle of Fukuda Bay
+summary:
+  zh-TW: 1565 naval battle between the Portuguese and Japanese
+  en: 1565 naval battle between the Portuguese and Japanese
+start:
+  year: 1565
+  month: 10
+  day: 28
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q21741364
+locations:
+  - place: wd-q21741364-site
+    role: primary
+  - place: wd-q11594050
+    role: secondary
+wikipedia:
+  en: Battle of Fukuda Bay
+importHash: 23dc39492e3d

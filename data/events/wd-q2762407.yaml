@@ -1,0 +1,26 @@
+id: wd-q2762407
+title:
+  zh-TW: 小豆坂之戰
+  en: Battle of Azukizaka
+summary:
+  zh-TW: battle that took place on January 15, 1564, when Matsudaira Motoyasu (later renamed Tokugawa Ieyasu), sought to destroy the growing threat of the Ikkō-ikki
+  en: battle that took place on January 15, 1564, when Matsudaira Motoyasu (later renamed Tokugawa Ieyasu), sought to destroy the growing threat of the Ikkō-ikki
+start:
+  year: 1564
+  month: 1
+  day: 25
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2762407
+locations:
+  - place: wd-q2762407-site
+    role: primary
+  - place: wd-q787290
+    role: secondary
+wikipedia:
+  en: Battle of Azukizaka (1564)
+importHash: edd751af9901

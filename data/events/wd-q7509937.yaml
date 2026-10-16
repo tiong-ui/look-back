@@ -1,0 +1,22 @@
+id: wd-q7509937
+title:
+  zh-TW: Siege of Chōkō-ji
+  en: Siege of Chōkō-ji
+summary:
+  zh-TW: 1570 siege
+  en: 1570 siege
+start:
+  year: 1570
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7509937
+locations:
+  - place: wd-q7509937-site
+    role: primary
+wikipedia:
+  en: Siege of Chōkō-ji
+importHash: 8d113a0b300b

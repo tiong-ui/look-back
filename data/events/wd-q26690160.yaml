@@ -1,0 +1,25 @@
+id: wd-q26690160
+title:
+  zh-TW: 2016年緬甸稍埠地震
+  en: 2016 Chauk earthquake
+summary:
+  zh-TW: 2016 earthquake in Myanmar
+  en: 2016 earthquake in Myanmar
+start:
+  year: 2016
+  month: 8
+  day: 24
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q26690160
+locations:
+  - place: wd-q26690160-site
+    role: primary
+wikipedia:
+  en: 2016 Chauk earthquake
+  zh: 2016年8月緬甸地震
+importHash: d37620eb12c6

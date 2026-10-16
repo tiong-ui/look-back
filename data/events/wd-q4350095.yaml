@@ -1,0 +1,25 @@
+id: wd-q4350095
+title:
+  zh-TW: 1962年緬甸軍事政變
+  en: 1962 Burmese coup d'état
+summary:
+  zh-TW: Major Burmese political event
+  en: Major Burmese political event
+start:
+  year: 1962
+  month: 3
+  day: 2
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q4350095
+locations:
+  - place: wd-q37995
+    role: primary
+wikipedia:
+  en: 1962 Burmese coup d'état
+  zh: 1962年緬甸軍事政變
+importHash: 82239a8fcfa1

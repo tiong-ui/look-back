@@ -1,0 +1,28 @@
+id: wd-q79546163
+title:
+  zh-TW: 紅八月
+  en: Red August
+summary:
+  zh-TW: “文革”時期造成的一系列非正常死亡事件
+  en: series of massacres in Beijing during August 1966; part of the Cultural Revolution
+start:
+  year: 1966
+end:
+  year: 1966
+  month: 9
+  day: 5
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q79546163
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Red August
+  zh: 红八月
+importHash: 6cf3276d5249

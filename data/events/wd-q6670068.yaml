@@ -1,0 +1,25 @@
+id: wd-q6670068
+title:
+  zh-TW: 2011年4月福島地震
+  en: April 2011 Fukushima earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2011
+  month: 4
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q6670068
+locations:
+  - place: wd-q6670068-site
+    role: primary
+wikipedia:
+  en: April 2011 Fukushima earthquake
+  zh: 2011年4月福島地震
+importHash: ee37f4e223f3

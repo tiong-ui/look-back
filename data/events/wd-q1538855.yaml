@@ -1,0 +1,32 @@
+id: wd-q1538855
+title:
+  zh-TW: 安加爾戰役
+  en: Battle of Angaur
+summary:
+  zh-TW: 1944 battle of the Pacific campaign in World War II on the island of Angaur in the Palau Islands
+  en: 1944 battle of the Pacific campaign in World War II on the island of Angaur in the Palau Islands
+start:
+  year: 1944
+  month: 9
+  day: 15
+end:
+  year: 1944
+  month: 10
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q1538855
+locations:
+  - place: wd-q1538855-site
+    role: primary
+  - place: wd-q530813
+    role: secondary
+wikipedia:
+  en: Battle of Angaur
+  zh: 安加爾戰役
+importHash: 78bed1ad98a6

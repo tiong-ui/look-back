@@ -1,0 +1,25 @@
+id: wd-q11663091
+title:
+  zh-TW: 2011年靜岡縣東部地震
+  en: 2011 Shizuoka earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2011
+  month: 3
+  day: 15
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11663091
+locations:
+  - place: wd-q11663091-site
+    role: primary
+wikipedia:
+  en: 2011 Shizuoka earthquake
+  zh: 2011年靜岡地震
+importHash: 4437afcf656c

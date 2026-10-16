@@ -1,0 +1,24 @@
+id: wd-q8048676
+title:
+  zh-TW: 揚州大屠殺 (唐朝)
+  en: Yangzhou massacre
+summary:
+  zh-TW: Tang Dynasty massacr of foreign merchants
+  en: Tang Dynasty massacr of foreign merchants
+start:
+  year: 760
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q8048676
+locations:
+  - place: wd-q57906
+    role: primary
+wikipedia:
+  en: Yangzhou massacre (760)
+  zh: 上元元年扬州屠杀事件
+importHash: f4859fc182f9

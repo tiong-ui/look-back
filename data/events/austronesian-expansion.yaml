@@ -1,0 +1,45 @@
+id: austronesian-expansion
+title:
+  zh-TW: 南島語族自臺灣向外擴散
+  en: Austronesian expansion from Taiwan
+altNames:
+  - zh-TW: 出臺灣說
+    en: Out of Taiwan model
+summary:
+  zh-TW: 依語言學與考古學的主流假說，南島語族自臺灣出發，經菲律賓擴散至東南亞島嶼、太平洋與印度洋，成為世界上分布最廣的語族之一。臺灣原住民族語言保存了南島語最古老的分支。
+  en: In the leading linguistic and archaeological model, Austronesian speakers set out from Taiwan through the Philippines into Island Southeast Asia, the Pacific and the Indian Ocean, becoming one of the most widespread language families. Taiwan's Indigenous languages preserve its oldest branches.
+start: -2499
+end: -899
+precision: century
+approximate: true
+categories:
+  - migration
+  - prehistory
+regions:
+  - taiwan
+  - southeast-asia
+  - pacific
+importance: 4
+locations:
+  - place: taiwan
+    role: origin
+  - place: batanes
+    role: destination
+  - place: manila
+    role: destination
+  - place: sulawesi
+    role: destination
+  - place: fiji
+    role: destination
+perspectives:
+  - view: scholarly
+    text:
+      zh-TW: 「出臺灣說」是目前最受支持的模型，但也有學者主張東南亞島嶼本身扮演更重要的角色，或擴散路線更為複雜。
+      en: '"Out of Taiwan" is the best-supported model, but some scholars argue Island Southeast Asia played a larger role, or that the routes were more complex.'
+  - view: indigenous
+    text:
+      zh-TW: 對臺灣原住民族而言，這段歷史確立了臺灣作為南島世界原鄉的地位，也是族群認同的重要基礎。
+      en: For Taiwan's Indigenous peoples, this history establishes Taiwan as the homeland of the Austronesian world and is an important part of identity.
+wikipedia:
+  en: Austronesian peoples
+  zh: 南島民族

@@ -1,0 +1,38 @@
+id: siege-of-fort-zeelandia
+title:
+  zh-TW: 熱蘭遮城之役
+  en: Siege of Fort Zeelandia
+summary:
+  zh-TW: 鄭成功率軍自廈門、金門渡海，圍攻荷蘭東印度公司的熱蘭遮城。九個月後荷軍投降，結束荷蘭在臺38年的統治。
+  en: Koxinga's forces crossed from Xiamen and Kinmen and besieged the Dutch East India Company's Fort Zeelandia. After nine months the Dutch surrendered, ending 38 years of Dutch rule in Taiwan.
+start:
+  year: 1661
+  month: 4
+  day: 30
+end:
+  year: 1662
+  month: 2
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: tainan-anping
+    role: primary
+  - place: xiamen
+    role: origin
+  - place: tainan-anping
+    role: destination
+relations:
+  - event: dutch-formosa
+    type: part_of
+  - event: kingdom-of-tungning
+    type: causes
+wikipedia:
+  en: Siege of Fort Zeelandia
+  zh: 熱蘭遮城之役
+sources:
+  - resource: andrade-lost-colony

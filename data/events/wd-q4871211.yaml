@@ -1,0 +1,23 @@
+id: wd-q4871211
+title:
+  zh-TW: 嚈噠–薩珊戰爭
+  en: Hephthalite–Sasanian War of 484
+summary:
+  zh-TW: military confrontation in 484 between the Sassanid Empire and the Hephthalite Empire
+  en: military confrontation in 484 between the Sassanid Empire and the Hephthalite Empire
+start:
+  year: 484
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871211
+locations:
+  - place: wd-q45313
+    role: primary
+wikipedia:
+  en: Hephthalite–Sasanian War of 484
+importHash: 7023da3bcca9

@@ -1,0 +1,31 @@
+id: wd-q2888438
+title:
+  zh-TW: 東引海戰
+  en: Battle of Dong-Yin
+summary:
+  zh-TW: 1965 naval battle in the Taiwan Strait
+  en: 1965 naval battle in the Taiwan Strait
+start:
+  year: 1965
+  month: 5
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - taiwan
+importance: 2
+wikidata: Q2888438
+locations:
+  - place: wd-q2888438-site
+    role: primary
+  - place: wd-q262171
+    role: secondary
+relations:
+  - event: wd-q179975
+    type: part_of
+wikipedia:
+  en: Battle of Dong-Yin
+  zh: 東引海戰
+importHash: 4631cf5cb28f

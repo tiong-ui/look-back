@@ -1,0 +1,27 @@
+id: wd-q908888
+title:
+  zh-TW: 甘大麥戰役
+  en: 1842 retreat from Kabul
+summary:
+  zh-TW: 1842 battle
+  en: 1842 battle
+start:
+  year: 1842
+end:
+  year: 1842
+  month: 1
+  day: 13
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q908888
+locations:
+  - place: wd-q908888-site
+    role: primary
+wikipedia:
+  en: Battle of Gandamak
+importHash: 16ee2fafcecf

@@ -1,0 +1,28 @@
+id: wd-q11325648
+title:
+  zh-TW: Nossa Senhora da Graça incident
+  en: Nossa Senhora da Graça incident
+summary:
+  zh-TW: 1610 naval clash near Nagasaki, Japan
+  en: 1610 naval clash near Nagasaki, Japan
+start:
+  year: 1610
+  month: 1
+  day: 3
+end:
+  year: 1610
+  month: 1
+  day: 6
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q11325648
+locations:
+  - place: wd-q49386021
+    role: primary
+wikipedia:
+  en: Nossa Senhora da Graça incident
+importHash: 06f10b15167f

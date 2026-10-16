@@ -1,0 +1,26 @@
+id: wd-q1477118
+title:
+  zh-TW: Operation Starlite
+  en: Operation Starlite
+summary:
+  zh-TW: 1965 first major offensive action conducted by a U.S. military unit during the Vietnam War
+  en: 1965 first major offensive action conducted by a U.S. military unit during the Vietnam War
+start:
+  year: 1965
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1477118
+locations:
+  - place: wd-q1477118-site
+    role: primary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Operation Starlite
+importHash: 7873e6c4da54

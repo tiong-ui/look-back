@@ -1,0 +1,25 @@
+id: wd-q986103
+title:
+  zh-TW: 2007年能登半島地震
+  en: 2007 Noto earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2007
+  month: 3
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q986103
+locations:
+  - place: wd-q986103-site
+    role: primary
+wikipedia:
+  en: 2007 Noto earthquake
+  zh: 2007年能登半島地震
+importHash: 7df36b98b68a

@@ -1,0 +1,28 @@
+id: taiwan-ports-opened
+title:
+  zh-TW: 臺灣開港通商
+  en: Taiwan's ports open to foreign trade
+summary:
+  zh-TW: 依《天津條約》等約定，淡水、雞籠、安平、打狗陸續開放對外通商，茶、糖、樟腦成為主要出口品，臺灣經濟重心逐漸北移。
+  en: Under the Treaty of Tientsin and related agreements, Tamsui, Kelang, Anping and Takao opened to foreign trade. Tea, sugar and camphor became the main exports, and Taiwan's economic centre gradually shifted north.
+start: 1860
+end: 1863
+precision: year
+categories:
+  - trade
+  - diplomacy
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: tamsui
+    role: primary
+  - place: keelung
+    role: secondary
+  - place: tainan-anping
+    role: secondary
+  - place: kaohsiung
+    role: secondary
+wikipedia:
+  en: Treaty of Tientsin
+  zh: 天津條約

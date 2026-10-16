@@ -1,0 +1,25 @@
+id: wd-q4871956
+title:
+  zh-TW: 折敷畑之戰
+  en: Battle of Oshikibata
+summary:
+  zh-TW: 1554 battle
+  en: 1554 battle
+start:
+  year: 1554
+  month: 7
+  day: 14
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4871956
+locations:
+  - place: wd-q4871956-site
+    role: primary
+wikipedia:
+  en: Battle of Oshikibata
+  zh: 折敷畑之战
+importHash: 7031fcfd3177

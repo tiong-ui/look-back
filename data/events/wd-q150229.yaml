@@ -1,0 +1,29 @@
+id: wd-q150229
+title:
+  zh-TW: 義和團運動
+  en: Boxer Rebellion
+summary:
+  zh-TW: 1900年發生於中國清朝末期的武裝排外暴動
+  en: anti-imperialist uprising which took place in China 1899-1901
+start:
+  year: 1899
+  month: 8
+end:
+  year: 1901
+  month: 9
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 4
+wikidata: Q150229
+locations:
+  - place: wd-q1046848
+    role: primary
+wikipedia:
+  en: Boxer Rebellion
+  zh: 义和团运动
+importHash: 2d4fc706842b

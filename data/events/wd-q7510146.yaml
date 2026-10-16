@@ -1,0 +1,29 @@
+id: wd-q7510146
+title:
+  zh-TW: Siege of Kandahar
+  en: Siege of Kandahar
+summary:
+  zh-TW: 1605–1606 siege
+  en: 1605–1606 siege
+start:
+  year: 1605
+  month: 11
+end:
+  year: 1606
+  month: 1
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510146
+locations:
+  - place: wd-q7510146-site
+    role: primary
+  - place: wd-q45604
+    role: secondary
+wikipedia:
+  en: Siege of Kandahar (1605–1606)
+importHash: 43de702eab26

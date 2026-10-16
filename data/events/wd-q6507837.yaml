@@ -1,0 +1,27 @@
+id: wd-q6507837
+title:
+  zh-TW: 黎文𠐤之亂
+  en: Le Van Khoi revolt
+summary:
+  zh-TW: 1833–1835 revolt in Vietnam
+  en: 1833–1835 revolt in Vietnam
+start:
+  year: 1833
+end:
+  year: 1835
+  month: 1
+  day: 1
+precision: year
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q6507837
+locations:
+  - place: wd-q2289221
+    role: primary
+wikipedia:
+  en: Lê Văn Khôi revolt
+  zh: 黎文𠐤之亂
+importHash: 63cfd48caf96

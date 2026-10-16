@@ -1,0 +1,25 @@
+id: wd-q7837196
+title:
+  zh-TW: 普那卡條約
+  en: Treaty of Punakha
+summary:
+  zh-TW: 不丹—印度條約
+  en: 1910 treaty between Bhutan and British India
+start:
+  year: 1910
+  month: 1
+  day: 10
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7837196
+locations:
+  - place: wd-q4383728
+    role: primary
+wikipedia:
+  en: Treaty of Punakha
+  zh: 普那卡条约
+importHash: d743fca1575e

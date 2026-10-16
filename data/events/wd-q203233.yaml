@@ -1,0 +1,28 @@
+id: wd-q203233
+title:
+  zh-TW: 普拉西戰役
+  en: Battle of Plassey
+summary:
+  zh-TW: 1757 battle which established the British Raj in India
+  en: 1757 battle which established the British Raj in India
+start:
+  year: 1757
+  month: 6
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 4
+wikidata: Q203233
+locations:
+  - place: wd-q203233-site
+    role: primary
+  - place: wd-q3346548
+    role: secondary
+wikipedia:
+  en: Battle of Plassey
+  zh: 普拉西之戰
+importHash: 02b5fce4df90

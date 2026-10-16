@@ -1,0 +1,26 @@
+id: wd-q1362162
+title:
+  zh-TW: First Carnatic War
+  en: First Carnatic War
+summary:
+  zh-TW: (1746-1748)
+  en: (1746-1748)
+start:
+  year: 1746
+end:
+  year: 1748
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1362162
+locations:
+  - place: wd-q1352
+    role: primary
+wikipedia:
+  en: First Carnatic War
+importHash: 979848d6be31

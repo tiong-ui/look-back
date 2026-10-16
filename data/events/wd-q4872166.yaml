@@ -1,0 +1,23 @@
+id: wd-q4872166
+title:
+  zh-TW: 拉希爾之戰
+  en: Battle of Rasil
+summary:
+  zh-TW: rashidun caliphate battle
+  en: rashidun caliphate battle
+start:
+  year: 644
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872166
+locations:
+  - place: wd-q7348
+    role: primary
+wikipedia:
+  en: Battle of Makran
+importHash: 5af7b29647e4

@@ -1,0 +1,31 @@
+id: wd-q4871917
+title:
+  zh-TW: 滇西緬北戰役
+  en: Battle of Northern Burma and Western Yunnan
+summary:
+  zh-TW: 1943 battle of the Second Sino-Japanese War
+  en: 1943 battle of the Second Sino-Japanese War
+start:
+  year: 1943
+  month: 10
+end:
+  year: 1945
+  month: 3
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4871917
+locations:
+  - place: wd-q4871917-site
+    role: primary
+  - place: wd-q43194
+    role: secondary
+wikipedia:
+  en: Battle of Northern Burma and Western Yunnan
+  zh: 滇西缅北战役
+importHash: c1e020722308

@@ -1,0 +1,23 @@
+id: wd-q17005397
+title:
+  zh-TW: 後突厥西征
+  en: Battle of Bolchu
+summary:
+  zh-TW: battle between the Kutluk and Turgesh Khaganates (Gokturks)
+  en: battle between the Kutluk and Turgesh Khaganates (Gokturks)
+start:
+  year: 711
+precision: year
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q17005397
+locations:
+  - place: wd-q1393642
+    role: primary
+wikipedia:
+  en: Battle of Bolchu
+  zh: 后突厥西征
+importHash: 36cca133cfb4

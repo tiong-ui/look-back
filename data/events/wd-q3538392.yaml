@@ -1,0 +1,24 @@
+id: wd-q3538392
+title:
+  zh-TW: 康各公約
+  en: Kandyan Convention
+summary:
+  zh-TW: curry_30
+  en: curry_30
+start:
+  year: 1815
+  month: 3
+  day: 10
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3538392
+locations:
+  - place: wd-q289175
+    role: primary
+wikipedia:
+  en: Kandyan Convention
+importHash: 78ef19d6d432

@@ -1,0 +1,25 @@
+id: wd-q604050
+title:
+  zh-TW: 2012年日本東北海域地震
+  en: December 2012 Sanriku earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2012
+  month: 12
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q604050
+locations:
+  - place: wd-q604050-site
+    role: primary
+wikipedia:
+  en: 2012 Sanriku earthquake
+  zh: 2012年12月三陆近海地震
+importHash: f4f47888ccc4

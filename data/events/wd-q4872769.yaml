@@ -1,0 +1,29 @@
+id: wd-q4872769
+title:
+  zh-TW: 陽夏之戰
+  en: Battle of Yangxia
+summary:
+  zh-TW: 1911武昌起義
+  en: 1911 largest military engagement of the Xinhai Revolution
+start:
+  year: 1911
+  month: 10
+  day: 18
+end:
+  year: 1911
+  month: 12
+  day: 1
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4872769
+locations:
+  - place: wd-q11746
+    role: primary
+wikipedia:
+  en: Battle of Yangxia
+  zh: 阳夏战争
+importHash: 954830769e0e

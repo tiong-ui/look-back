@@ -1,0 +1,26 @@
+id: wd-q1512810
+title:
+  zh-TW: 金田起義
+  en: Jintian Uprising
+summary:
+  zh-TW: 1851年洪秀全領導的起義
+  en: 1851 Hong Xiuquan declared uprising against the Qing dynasty
+start:
+  year: 1851
+  month: 1
+  day: 11
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1512810
+locations:
+  - place: wd-q17040234
+    role: primary
+wikipedia:
+  en: Jintian Uprising
+  zh: 金田起义
+importHash: aae9fd35f4c3

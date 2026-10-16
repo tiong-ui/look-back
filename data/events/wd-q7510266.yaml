@@ -1,0 +1,30 @@
+id: wd-q7510266
+title:
+  zh-TW: Siege of Negapatam
+  en: Siege of Negapatam
+summary:
+  zh-TW: 1781 siege during the Fourth Anglo-Dutch War
+  en: 1781 siege during the Fourth Anglo-Dutch War
+start:
+  year: 1781
+  month: 10
+  day: 21
+end:
+  year: 1781
+  month: 11
+  day: 11
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510266
+locations:
+  - place: wd-q7510266-site
+    role: primary
+  - place: wd-q695585
+    role: secondary
+wikipedia:
+  en: Siege of Negapatam
+importHash: afe5a364e21b

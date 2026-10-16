@@ -1,0 +1,32 @@
+id: wd-q2273445
+title:
+  zh-TW: 鴨綠江會戰
+  en: Battle of Yalu River
+summary:
+  zh-TW: battle in 1904
+  en: battle in 1904
+start:
+  year: 1904
+  month: 4
+  day: 30
+end:
+  year: 1904
+  month: 5
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q2273445
+locations:
+  - place: wd-q2273445-site
+    role: primary
+  - place: wd-q55498
+    role: secondary
+wikipedia:
+  en: Battle of the Yalu River (1904)
+  zh: 鸭绿江会战
+importHash: 3c1ceca056a9

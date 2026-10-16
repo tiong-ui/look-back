@@ -1,0 +1,28 @@
+id: wd-q114620
+title:
+  zh-TW: 湊川之戰
+  en: Battle of Minatogawa
+summary:
+  zh-TW: battle in Japan on July 4, 1336
+  en: battle in Japan on July 4, 1336
+start:
+  year: 1336
+  month: 7
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q114620
+locations:
+  - place: wd-q114620-site
+    role: primary
+  - place: wd-q11563141
+    role: secondary
+wikipedia:
+  en: Battle of Minatogawa
+  zh: 凑川之战
+importHash: 86298ed7034c

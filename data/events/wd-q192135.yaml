@@ -1,0 +1,26 @@
+id: wd-q192135
+title:
+  zh-TW: 反仿冒貿易協定
+  en: Anti-Counterfeiting Trade Agreement
+summary:
+  zh-TW: multinational intellectual property rights treaty
+  en: multinational intellectual property rights treaty
+start:
+  year: 2006
+precision: year
+categories:
+  - diplomacy
+regions:
+  - japan
+  - korea
+importance: 4
+wikidata: Q192135
+locations:
+  - place: wd-q1490
+    role: primary
+  - place: wd-q8684
+    role: secondary
+wikipedia:
+  en: Anti-Counterfeiting Trade Agreement
+  zh: 反假冒贸易协定
+importHash: ac8fb1bc9f0f

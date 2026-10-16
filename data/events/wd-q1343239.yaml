@@ -1,0 +1,25 @@
+id: wd-q1343239
+title:
+  zh-TW: 阿波衝海戰
+  en: Battle of Awa
+summary:
+  zh-TW: 1861 battle of the Boshin War
+  en: 1861 battle of the Boshin War
+start:
+  year: 1868
+  month: 1
+  day: 28
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1343239
+locations:
+  - place: wd-q907457
+    role: primary
+wikipedia:
+  en: Battle of Awa
+importHash: f8856c06461c

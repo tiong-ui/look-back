@@ -1,0 +1,24 @@
+id: wd-q379433
+title:
+  zh-TW: 天號作戰
+  en: Operation Ten-Go
+summary:
+  zh-TW: 1945 Japanese naval operation in World War II
+  en: 1945 Japanese naval operation in World War II
+start:
+  year: 1945
+  month: 4
+  day: 7
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 3
+wikidata: Q379433
+locations:
+  - place: wd-q379433-site
+    role: primary
+wikipedia:
+  en: Operation Kikusui I
+importHash: edd392748ebc

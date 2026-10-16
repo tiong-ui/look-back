@@ -1,0 +1,25 @@
+id: wd-q130754
+title:
+  zh-TW: 2004年印度洋大地震
+  en: 2004 Indian Ocean earthquake
+summary:
+  zh-TW: 發生於印尼的大地震
+  en: megathrust underwater earthquake and subsequent tsunami in the Indian Ocean
+start:
+  year: 2004
+  month: 12
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 5
+wikidata: Q130754
+locations:
+  - place: wd-q130754-site
+    role: primary
+wikipedia:
+  en: 2004 Indian Ocean earthquake and tsunami
+  zh: 2004年印度洋大地震
+importHash: 6782b5eb8fcf

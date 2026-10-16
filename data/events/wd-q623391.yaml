@@ -1,0 +1,25 @@
+id: wd-q623391
+title:
+  zh-TW: 江華條約
+  en: Japan–Korea Treaty of 1876
+summary:
+  zh-TW: 1876年條約
+  en: 1876 unequal treaty which forced the Korea to open the Korean Peninsula to Japanese and foreign trade
+start:
+  year: 1876
+  month: 2
+  day: 27
+precision: day
+categories:
+  - diplomacy
+regions:
+  - korea
+importance: 3
+wikidata: Q623391
+locations:
+  - place: wd-q494786
+    role: primary
+wikipedia:
+  en: Japan–Korea Treaty of 1876
+  zh: 江華島條約
+importHash: d25ea68fb40e

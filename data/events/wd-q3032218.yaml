@@ -1,0 +1,23 @@
+id: wd-q3032218
+title:
+  zh-TW: 第一次順化條約
+  en: Treaty of Huế
+summary:
+  zh-TW: 1883 treaty establishing French protectorates in Nguyễn-dynasty Vietnam
+  en: 1883 treaty establishing French protectorates in Nguyễn-dynasty Vietnam
+start:
+  year: 1883
+precision: year
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q3032218
+locations:
+  - place: wd-q36399
+    role: primary
+wikipedia:
+  en: Treaty of Huế (1883)
+  zh: 第一次順化條約
+importHash: a4c0796c72ea

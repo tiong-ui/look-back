@@ -1,0 +1,27 @@
+id: wd-q202192
+title:
+  zh-TW: 巴朗吉戛大屠殺
+  en: Balangiga Massacre
+summary:
+  zh-TW: battle during the Philippine-American War
+  en: battle during the Philippine-American War
+start:
+  year: 1901
+  month: 9
+  day: 28
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q202192
+locations:
+  - place: wd-q202192-site
+    role: primary
+  - place: wd-q313904
+    role: secondary
+wikipedia:
+  en: Battle of Balangiga
+importHash: b0569c63f0b1

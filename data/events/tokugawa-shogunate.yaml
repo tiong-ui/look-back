@@ -1,0 +1,23 @@
+id: tokugawa-shogunate
+title:
+  zh-TW: 江戶幕府
+  en: Tokugawa shogunate
+summary:
+  zh-TW: 德川家康在關原之戰勝出後開設江戶幕府，日本進入兩百多年的和平時期，並實施限制對外往來的「鎖國」政策。
+  en: After winning at Sekigahara, Tokugawa Ieyasu founded the shogunate in Edo. Japan entered more than two centuries of peace under policies that sharply limited foreign contact.
+start: 1603
+end: 1868
+precision: year
+categories:
+  - dynasty
+regions:
+  - japan
+importance: 4
+locations:
+  - place: tokyo
+    role: primary
+  - place: sekigahara
+    role: secondary
+wikipedia:
+  en: Tokugawa shogunate
+  zh: 江户幕府

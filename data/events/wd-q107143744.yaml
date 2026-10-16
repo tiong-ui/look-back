@@ -1,0 +1,24 @@
+id: wd-q107143744
+title:
+  zh-TW: 納忽昏山-不黑都兒麻之戰
+  en: Battle of Chakirmaut
+summary:
+  zh-TW: battle of Genghis Khan's unification of the Mongol tribes
+  en: battle of Genghis Khan's unification of the Mongol tribes
+start:
+  year: 1204
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q107143744
+locations:
+  - place: wd-q5955
+    role: primary
+wikipedia:
+  en: Battle of Chakirmaut
+  zh: 纳忽昏山-不黑都儿麻之战
+importHash: 85d16be31699

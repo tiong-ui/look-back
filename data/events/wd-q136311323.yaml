@@ -1,0 +1,28 @@
+id: wd-q136311323
+title:
+  zh-TW: 2025 Timor-Leste protests
+  en: 2025 Timor-Leste protests
+summary:
+  zh-TW: Student-led demonstrations in Dili, Timor-Leste
+  en: Student-led demonstrations in Dili, Timor-Leste
+start:
+  year: 2025
+  month: 9
+  day: 15
+end:
+  year: 2025
+  month: 9
+  day: 17
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q136311323
+locations:
+  - place: wd-q9310
+    role: primary
+wikipedia:
+  en: 2025 Timor-Leste protests
+importHash: 4f6f2b26dbdd

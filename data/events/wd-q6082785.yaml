@@ -1,0 +1,30 @@
+id: wd-q6082785
+title:
+  zh-TW: 1937年新疆伊斯蘭武裝叛亂
+  en: Islamic rebellion in Xinjiang (1937)
+summary:
+  zh-TW: part of the Xinjiang Wars
+  en: part of the Xinjiang Wars
+start:
+  year: 1937
+  month: 4
+  day: 2
+end:
+  year: 1937
+  month: 10
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q6082785
+locations:
+  - place: wd-q34800
+    role: primary
+wikipedia:
+  en: 1937 Islamic rebellion in Xinjiang
+  zh: 1937年新疆战争
+importHash: 1c8c37b40a8a

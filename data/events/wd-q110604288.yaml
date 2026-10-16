@@ -1,0 +1,26 @@
+id: wd-q110604288
+title:
+  zh-TW: 2022年阿富汗地震
+  en: January 2022 Afghanistan earthquake
+summary:
+  zh-TW: earthquake with epicenter in Afghanistan
+  en: earthquake with epicenter in Afghanistan
+start:
+  year: 2022
+  month: 1
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q110604288
+locations:
+  - place: wd-q110604288-site
+    role: primary
+  - place: wd-q6401411
+    role: secondary
+wikipedia:
+  en: January 2022 Afghanistan earthquakes
+importHash: 67c0b632879c

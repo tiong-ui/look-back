@@ -1,0 +1,25 @@
+id: wd-q11972636
+title:
+  zh-TW: 2013年拉格曼地震
+  en: 2013 Laghman earthquake
+summary:
+  zh-TW: 拉格曼2013年發生的一場地震
+  en: earthquake
+start:
+  year: 2013
+  month: 4
+  day: 24
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q11972636
+locations:
+  - place: wd-q11972636-site
+    role: primary
+wikipedia:
+  en: 2013 Laghman earthquake
+  zh: 2013年拉格曼地震
+importHash: 742d72581091

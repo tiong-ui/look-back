@@ -1,0 +1,28 @@
+id: wd-q4871739
+title:
+  zh-TW: 耳川之戰
+  en: Battle of Mimigawa
+summary:
+  zh-TW: 1578 battle
+  en: 1578 battle
+start:
+  year: 1578
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4871739
+locations:
+  - place: wd-q4871739-site
+    role: primary
+  - place: wd-q3314593
+    role: secondary
+  - place: wd-q11669046
+    role: secondary
+wikipedia:
+  en: Battle of Mimigawa
+  zh: 耳川之戰
+importHash: 66baa6ca0686

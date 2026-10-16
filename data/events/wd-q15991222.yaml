@@ -1,0 +1,25 @@
+id: wd-q15991222
+title:
+  zh-TW: 1965年新加坡獨立宣言
+  en: Independence of Singapore Agreement 1965
+summary:
+  zh-TW: treaty
+  en: treaty
+start:
+  year: 1965
+  month: 8
+  day: 7
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q15991222
+locations:
+  - place: wd-q1865
+    role: primary
+wikipedia:
+  en: Independence of Singapore Agreement 1965
+  zh: 1965年新加坡独立协议
+importHash: 0c3f210b2f8c

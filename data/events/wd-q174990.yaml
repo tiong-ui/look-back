@@ -1,0 +1,30 @@
+id: wd-q174990
+title:
+  zh-TW: 光州民主化運動
+  en: Gwangju Uprising
+summary:
+  zh-TW: 1980年5月18日至27日期間發生在大韓民國的光州及全羅南道地區的一次民主運動
+  en: 1980 anti-government uprising in South Korea
+start:
+  year: 1980
+  month: 5
+  day: 18
+end:
+  year: 1980
+  month: 5
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q174990
+locations:
+  - place: wd-q41283
+    role: primary
+wikipedia:
+  en: Gwangju Uprising
+  zh: 光州民主化運動
+importHash: ec0492e686f3

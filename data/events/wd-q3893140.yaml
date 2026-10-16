@@ -1,0 +1,27 @@
+id: wd-q3893140
+title:
+  zh-TW: Siege of Terabe
+  en: Siege of Terabe
+summary:
+  zh-TW: 1558 battle in feudal Japan
+  en: 1558 battle in feudal Japan
+start:
+  year: 1558
+  month: 5
+end:
+  year: 1558
+  month: 6
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q3893140
+locations:
+  - place: wd-q11233975
+    role: primary
+wikipedia:
+  en: Siege of Terabe
+importHash: 7d0044f0fc0b

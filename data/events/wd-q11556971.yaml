@@ -1,0 +1,25 @@
+id: wd-q11556971
+title:
+  zh-TW: 淺井畷之戰
+  en: Battle of Asainawate
+summary:
+  zh-TW: 1600 battle in Japan
+  en: 1600 battle in Japan
+start:
+  year: 1600
+  month: 9
+  day: 16
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q11556971
+locations:
+  - place: wd-q11556971-site
+    role: primary
+wikipedia:
+  en: Battle of Asai
+  zh: 淺井畷之戰
+importHash: 645299ecfc39

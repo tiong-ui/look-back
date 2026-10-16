@@ -1,0 +1,28 @@
+id: wd-q112762624
+title:
+  zh-TW: 孟加拉毛派叛亂
+  en: Maoist insurgency in Bangladesh
+summary:
+  zh-TW: ongoing conflict between the government of Bangladesh and the PBCP and the PBCP-J
+  en: ongoing conflict between the government of Bangladesh and the PBCP and the PBCP-J
+start:
+  year: 1993
+end:
+  year: 2021
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q112762624
+locations:
+  - place: wd-q501696
+    role: primary
+wikipedia:
+  en: Maoist insurgency in Bangladesh
+  zh: 孟加拉国毛主义叛乱
+importHash: 792a55280858

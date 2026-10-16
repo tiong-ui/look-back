@@ -1,0 +1,25 @@
+id: wd-q20051451
+title:
+  zh-TW: 2015年沙巴地震
+  en: 2015 Sabah earthquake
+summary:
+  zh-TW: earthquake in Malaysia
+  en: earthquake in Malaysia
+start:
+  year: 2015
+  month: 6
+  day: 4
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q20051451
+locations:
+  - place: wd-q20051451-site
+    role: primary
+wikipedia:
+  en: 2015 Sabah earthquake
+  zh: 2015年沙巴地震
+importHash: d08066169d74

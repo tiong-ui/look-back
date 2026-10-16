@@ -1,0 +1,22 @@
+id: wd-q18205176
+title:
+  zh-TW: Battle of Sangan
+  en: Battle of Sangan
+summary:
+  zh-TW: 1727 Safavid Iran victory in Afghanistan
+  en: 1727 Safavid Iran victory in Afghanistan
+start:
+  year: 1727
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q18205176
+locations:
+  - place: wd-q1771053
+    role: primary
+wikipedia:
+  en: Battle of Sangan
+importHash: f7adf0db9395

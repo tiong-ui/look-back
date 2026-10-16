@@ -1,0 +1,28 @@
+id: wd-q2888043
+title:
+  zh-TW: Battle of Uji
+  en: Battle of Uji
+summary:
+  zh-TW: 1221 battle in Japan
+  en: 1221 battle in Japan
+start:
+  year: 1221
+  month: 5
+precision: month
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2888043
+locations:
+  - place: wd-q2888043-site
+    role: primary
+  - place: wd-q326956
+    role: secondary
+relations:
+  - event: wd-q1372308
+    type: part_of
+wikipedia:
+  en: Battle of Uji (1221)
+importHash: ff7f7e19bc03

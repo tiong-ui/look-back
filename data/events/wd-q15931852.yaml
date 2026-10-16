@@ -1,0 +1,23 @@
+id: wd-q15931852
+title:
+  zh-TW: 遼南條約
+  en: Beijing Convention (1895)
+summary:
+  zh-TW: 遼南條約
+start:
+  year: 1895
+  month: 11
+  day: 8
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q15931852
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  zh: 遼南條約
+importHash: e92e70bccbba

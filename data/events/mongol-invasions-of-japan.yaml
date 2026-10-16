@@ -1,0 +1,25 @@
+id: mongol-invasions-of-japan
+title:
+  zh-TW: 元日戰爭（蒙古襲來）
+  en: Mongol invasions of Japan
+summary:
+  zh-TW: 元朝聯合高麗兩度自朝鮮半島渡海進攻九州博多，均因日本武士抵抗與颱風（「神風」）而失敗。
+  en: The Yuan and Goryeo twice sailed from Korea to attack Hakata in Kyushu. Both failed in the face of samurai resistance and typhoons, later called "kamikaze".
+start: 1274
+end: 1281
+precision: year
+categories:
+  - war
+regions:
+  - japan
+  - korea
+  - china
+importance: 4
+locations:
+  - place: masan
+    role: origin
+  - place: hakata
+    role: destination
+wikipedia:
+  en: Mongol invasions of Japan
+  zh: 元日战争

@@ -1,0 +1,24 @@
+id: wd-q2989462
+title:
+  zh-TW: 上海人民公社
+  en: Shanghai People's Commune
+summary:
+  zh-TW: 歷史機構
+  en: government in Shanghai established during the Cultural Revolution, modeled after the Paris Commune
+start:
+  year: 1967
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q2989462
+locations:
+  - place: wd-q8686
+    role: primary
+wikipedia:
+  en: Shanghai Revolutionary Committee
+  zh: 上海市革命委员会
+importHash: 36fd2f5f4d3d

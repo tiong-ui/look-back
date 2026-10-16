@@ -1,0 +1,28 @@
+id: wd-q4872690
+title:
+  zh-TW: 紅河中游戰役
+  en: Battle of Vinh Yen
+summary:
+  zh-TW: 1951 major engagement of the First Indochina War
+  en: 1951 major engagement of the First Indochina War
+start:
+  year: 1951
+end:
+  year: 1951
+  month: 1
+  day: 17
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4872690
+locations:
+  - place: wd-q36088
+    role: primary
+wikipedia:
+  en: Battle of Vĩnh Yên
+  zh: 永安戰役 (1951年)
+importHash: "776781824816"

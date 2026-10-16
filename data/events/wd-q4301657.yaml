@@ -1,0 +1,30 @@
+id: wd-q4301657
+title:
+  zh-TW: 蒙元統一中國
+  en: Mongol invasion of China
+summary:
+  zh-TW: 13th century conquest
+  en: 13th century conquest
+start:
+  year: 1205
+end:
+  year: 1279
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q4301657
+locations:
+  - place: wd-q7427
+    role: primary
+relations:
+  - event: wd-q2092093
+    type: part_of
+wikipedia:
+  en: Mongol conquest of China
+  zh: 蒙古征服中国
+importHash: 25e8921c6db2

@@ -1,0 +1,29 @@
+id: wd-q5452504
+title:
+  zh-TW: 第一次坎納諾爾之戰
+  en: First Battle of Cannanore
+summary:
+  zh-TW: part of the Portuguese battles in the Indian Ocean
+  en: part of the Portuguese battles in the Indian Ocean
+start:
+  year: 1501
+  month: 12
+  day: 31
+end:
+  year: 1502
+  month: 1
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q5452504
+locations:
+  - place: wd-q4789666
+    role: primary
+wikipedia:
+  en: First Battle of Cannanore
+importHash: 669cb8b75fa5

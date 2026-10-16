@@ -1,0 +1,28 @@
+id: wd-q2280725
+title:
+  zh-TW: 暹越戰爭
+  en: Siamese–Vietnamese War of 1771-1773
+summary:
+  zh-TW: part of the Siamese-Vietnamese Wars
+  en: part of the Siamese-Vietnamese Wars
+start:
+  year: 1771
+  month: 10
+end:
+  year: 1773
+  month: 3
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2280725
+locations:
+  - place: wd-q2289221
+    role: primary
+wikipedia:
+  en: Siamese–Vietnamese War (1771–1773)
+  zh: 暹越戰爭 (1769年–1773年)
+importHash: 8e7beb81518f

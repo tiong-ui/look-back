@@ -1,0 +1,25 @@
+id: wd-q5617260
+title:
+  zh-TW: Gulbarg Society massacre
+  en: Gulbarg Society massacre
+summary:
+  zh-TW: February 28, 2002 massacre happened at Ahmedabad, India
+  en: February 28, 2002 massacre happened at Ahmedabad, India
+start:
+  year: 2002
+  month: 2
+  day: 28
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q5617260
+locations:
+  - place: wd-q5617260-site
+    role: primary
+wikipedia:
+  en: Gulbarg Society massacre
+importHash: ed7b2454d800

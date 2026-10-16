@@ -1,0 +1,29 @@
+id: wd-q179975
+title:
+  zh-TW: 國共內戰
+  en: Chinese Civil War
+summary:
+  zh-TW: 中華民國政府與中國共產黨為爭奪中國控制權而爆發的戰爭
+  en: The civil war between the government of the Republic of China and the Chinese Communist Party
+start:
+  year: 1946
+  month: 3
+  day: 31
+end:
+  year: 1950
+  month: 5
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 5
+wikidata: Q179975
+locations:
+  - place: wd-q42200
+    role: primary
+wikipedia:
+  en: Chinese Civil War
+  zh: 国共内战
+importHash: d34ec1ac1fba

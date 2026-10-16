@@ -1,0 +1,25 @@
+id: wd-q8012976
+title:
+  zh-TW: 陳橋兵變
+  en: Chenqiao Coup
+summary:
+  zh-TW: 宋代周而立
+  en: military coup leading to the founding of Song Dynasty
+start:
+  year: 960
+  month: 2
+  day: 13
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q8012976
+locations:
+  - place: wd-q13763349
+    role: primary
+wikipedia:
+  en: Chenqiao mutiny
+  zh: 陈桥兵变
+importHash: 0853cd66a35b

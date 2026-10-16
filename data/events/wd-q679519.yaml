@@ -1,0 +1,25 @@
+id: wd-q679519
+title:
+  zh-TW: 2012年內格羅斯地震
+  en: 2012 Visayas earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2012
+  month: 2
+  day: 6
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q679519
+locations:
+  - place: wd-q679519-site
+    role: primary
+wikipedia:
+  en: 2012 Negros earthquake
+  zh: 2012年內格羅斯地震
+importHash: d9800539f268

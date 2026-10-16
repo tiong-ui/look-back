@@ -1,0 +1,26 @@
+id: wd-q1964948
+title:
+  zh-TW: 丸根砦
+  en: Siege of Marune
+summary:
+  zh-TW: 1560 siege
+  en: 1560 siege
+start:
+  year: 1560
+end:
+  year: 1560
+  month: 5
+  day: 29
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q1964948
+locations:
+  - place: wd-q1964948-site
+    role: primary
+wikipedia:
+  en: Siege of Marune
+importHash: c6959ba6165b

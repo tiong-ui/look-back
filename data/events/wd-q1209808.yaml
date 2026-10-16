@@ -1,0 +1,28 @@
+id: wd-q1209808
+title:
+  zh-TW: 九連城之戰
+  en: Battle of Jiuliancheng
+summary:
+  zh-TW: 中日甲午戰爭戰役
+  en: 1894 battle of the First Sino-Japanese War
+start:
+  year: 1894
+  month: 10
+  day: 24
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q1209808
+locations:
+  - place: wd-q1209808-site
+    role: primary
+  - place: wd-q55498
+    role: secondary
+wikipedia:
+  en: Battle of Jiuliancheng
+  zh: 九連城之戰
+importHash: 88967f1774d1

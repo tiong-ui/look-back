@@ -1,0 +1,34 @@
+id: wushe-incident
+title:
+  zh-TW: 霧社事件
+  en: Wushe incident
+summary:
+  zh-TW: 賽德克族馬赫坡社頭目莫那・魯道率族人於霧社公學校運動會襲擊日人，日本當局以軍警、飛機甚至毒氣反擊，參與部落死傷慘重，倖存者被強制遷居。
+  en: Mona Rudao, chief of the Seediq village of Mahebu, led an attack on Japanese at a school sports day in Wushe. The authorities struck back with troops, police, aircraft and poison gas; the villages involved suffered terrible losses and survivors were forcibly relocated.
+start:
+  year: 1930
+  month: 10
+  day: 27
+end:
+  year: 1930
+  month: 12
+precision: day
+categories:
+  - war
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: wushe
+    role: primary
+relations:
+  - event: japanese-rule-taiwan
+    type: part_of
+perspectives:
+  - view: indigenous
+    text:
+      zh-TW: 對賽德克族而言，這是為尊嚴與祖靈信仰（Gaya）而戰的抵抗行動。
+      en: For the Seediq, it was resistance fought for dignity and ancestral law (Gaya).
+wikipedia:
+  en: Musha incident
+  zh: 霧社事件

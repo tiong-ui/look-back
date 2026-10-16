@@ -1,0 +1,33 @@
+id: wd-q11268479
+title:
+  zh-TW: 黑河事變
+  en: Svobodny Massacre
+summary:
+  zh-TW: part of the Russian Civil War
+  en: part of the Russian Civil War
+start:
+  year: 1921
+  month: 1
+  day: 13
+end:
+  year: 1921
+  month: 6
+  day: 28
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q11268479
+locations:
+  - place: wd-q193636
+    role: primary
+relations:
+  - event: wd-q79911
+    type: part_of
+wikipedia:
+  en: Free City incident
+  zh: 自由市慘變
+importHash: 5c4939a57516

@@ -1,0 +1,31 @@
+id: wd-q4870744
+title:
+  zh-TW: 春川戰役
+  en: Battle of Chuncheon
+summary:
+  zh-TW: 1950 battle
+  en: 1950 battle
+start:
+  year: 1950
+  month: 6
+  day: 25
+end:
+  year: 1950
+  month: 6
+  day: 29
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4870744
+locations:
+  - place: wd-q4870744-site
+    role: primary
+  - place: wd-q42148
+    role: secondary
+wikipedia:
+  en: Battle of Chuncheon
+  zh: 春川戰役
+importHash: 48142a2b0007

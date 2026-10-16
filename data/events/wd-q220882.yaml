@@ -1,0 +1,29 @@
+id: wd-q220882
+title:
+  zh-TW: 章克申城行動
+  en: Operation Junction City
+summary:
+  zh-TW: Search and Destroy Operation of U.S. Army in Southeast Region, Vietnam in 1967
+  en: Search and Destroy Operation of U.S. Army in Southeast Region, Vietnam in 1967
+start:
+  year: 1967
+  month: 2
+  day: 22
+end:
+  year: 1967
+  month: 5
+  day: 14
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q220882
+locations:
+  - place: wd-q130391
+    role: primary
+wikipedia:
+  en: Operation Junction City
+importHash: c2d06975f933

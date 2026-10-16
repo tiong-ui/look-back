@@ -1,0 +1,25 @@
+id: wd-q497189
+title:
+  zh-TW: 日俄和親通好條約
+  en: Treaty of Shimoda
+summary:
+  zh-TW: treaty between the Russian Empire, and the Empire of Japan (Tokugawa shogunate)
+  en: treaty between the Russian Empire, and the Empire of Japan (Tokugawa shogunate)
+start:
+  year: 1855
+  month: 2
+  day: 7
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 3
+wikidata: Q497189
+locations:
+  - place: wd-q653402
+    role: primary
+wikipedia:
+  en: Treaty of Shimoda
+  zh: 日俄和亲通好条约
+importHash: 9af44432935f

@@ -1,0 +1,25 @@
+id: wd-q745411
+title:
+  zh-TW: 2009年西爪哇地震
+  en: 2009 West Java earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2009
+  month: 9
+  day: 2
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q745411
+locations:
+  - place: wd-q745411-site
+    role: primary
+wikipedia:
+  en: 2009 West Java earthquake
+  zh: 2009年西爪哇地震
+importHash: 21eea03a7544

@@ -1,0 +1,27 @@
+id: wd-q116958167
+title:
+  zh-TW: Hlaingthaya massacre
+  en: Hlaingthaya massacre
+summary:
+  zh-TW: 2021 massacre in Yangon, Myanmar
+  en: 2021 massacre in Yangon, Myanmar
+start:
+  year: 2021
+  month: 3
+  day: 14
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q116958167
+locations:
+  - place: wd-q116958167-site
+    role: primary
+  - place: wd-q5873484
+    role: secondary
+wikipedia:
+  en: Hlaingthaya massacre
+importHash: 71deb6851ded

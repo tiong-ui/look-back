@@ -1,0 +1,27 @@
+id: wd-q4211700
+title:
+  zh-TW: Actions in Inner Mongolia
+  en: Actions in Inner Mongolia
+summary:
+  zh-TW: military operations in northern China by Japan prior to the official start of hostilities in the Second Sino-Japanese War
+  en: military operations in northern China by Japan prior to the official start of hostilities in the Second Sino-Japanese War
+start:
+  year: 1933
+  month: 4
+end:
+  year: 1936
+  month: 12
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q4211700
+locations:
+  - place: wd-q1058919
+    role: primary
+wikipedia:
+  en: Actions in Inner Mongolia (1933–1936)
+importHash: 5bcf977491f5

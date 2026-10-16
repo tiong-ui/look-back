@@ -1,0 +1,34 @@
+id: third-taiwan-strait-crisis
+title:
+  zh-TW: 第三次臺海危機
+  en: Third Taiwan Strait Crisis
+summary:
+  zh-TW: 李登輝訪美後，中國在臺灣周邊試射飛彈並舉行軍演，試圖影響臺灣首次總統直選；美國派遣兩個航艦戰鬥群前往臺灣附近。
+  en: After Lee Teng-hui visited the US, China test-fired missiles and held exercises near Taiwan to sway its first direct presidential election; the US sent two carrier battle groups to the area.
+start:
+  year: 1995
+  month: 7
+end:
+  year: 1996
+  month: 3
+precision: month
+categories:
+  - war
+  - diplomacy
+regions:
+  - taiwan
+  - china
+importance: 3
+locations:
+  - place: taiwan
+    role: primary
+  - place: kaohsiung
+    role: secondary
+  - place: keelung
+    role: secondary
+relations:
+  - event: first-direct-presidential-election
+    type: related
+wikipedia:
+  en: Third Taiwan Strait Crisis
+  zh: 臺灣海峽飛彈危機

@@ -1,0 +1,28 @@
+id: wd-q815165
+title:
+  zh-TW: 勒克瑙之圍
+  en: Siege of Lucknow
+summary:
+  zh-TW: 1857 siege
+  en: 1857 siege
+start:
+  year: 1857
+  month: 5
+  day: 30
+end:
+  year: 1857
+  month: 11
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q815165
+locations:
+  - place: wd-q47916
+    role: primary
+wikipedia:
+  en: Siege of Lucknow
+importHash: ab952f02458d

@@ -1,0 +1,27 @@
+id: wd-q4392668
+title:
+  zh-TW: 托克遜戰役
+  en: Battle of Toksun
+summary:
+  zh-TW: 1933 battle of the Kumul Rebellion
+  en: 1933 battle of the Kumul Rebellion
+start:
+  year: 1933
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4392668
+locations:
+  - place: wd-q589453
+    role: primary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Khoja Niyas Hajji Rebellion
+  zh: 托克逊战役
+importHash: 3dbbf694736e

@@ -1,0 +1,28 @@
+id: wd-q10396694
+title:
+  zh-TW: 滇緬路戰役
+  en: Battle of Yunnan-Burma Road
+summary:
+  zh-TW: 1942 battle of World Ward II
+  en: 1942 battle of World Ward II
+start:
+  year: 1942
+  month: 6
+end:
+  year: 1942
+  month: 6
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q10396694
+locations:
+  - place: wd-q10396694-site
+    role: primary
+wikipedia:
+  en: Battle of the Yunnan–Burma Road
+  zh: 滇缅路战役
+importHash: 4d3d0845c128

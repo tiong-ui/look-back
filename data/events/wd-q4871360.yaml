@@ -1,0 +1,28 @@
+id: wd-q4871360
+title:
+  zh-TW: Battle of Kabul
+  en: Battle of Kabul
+summary:
+  zh-TW: 1842 punitive campaign undertaken by the British following the disastrous retreat from Kabul
+  en: 1842 punitive campaign undertaken by the British following the disastrous retreat from Kabul
+start:
+  year: 1842
+end:
+  year: 1842
+  month: 10
+  day: 1
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871360
+locations:
+  - place: wd-q4871360-site
+    role: primary
+  - place: wd-q5838
+    role: secondary
+wikipedia:
+  en: Kabul Expedition (1842)
+importHash: 9b3ae1c189d7

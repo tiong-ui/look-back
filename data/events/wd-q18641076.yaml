@@ -1,0 +1,28 @@
+id: wd-q18641076
+title:
+  zh-TW: 2014年白沙瓦學校襲擊事件
+  en: 2014 Peshawar school attack
+summary:
+  zh-TW: terrorist attack on the Army Public School in the Pakistani city of Peshawar
+  en: terrorist attack on the Army Public School in the Pakistani city of Peshawar
+start:
+  year: 2014
+  month: 12
+  day: 16
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 4
+wikidata: Q18641076
+locations:
+  - place: wd-q18641076-site
+    role: primary
+  - place: wd-q18670313
+    role: secondary
+wikipedia:
+  en: 2014 Peshawar school massacre
+  zh: 2014年白沙瓦學校襲擊事件
+importHash: 5bdccfaa5cdd

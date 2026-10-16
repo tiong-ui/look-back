@@ -1,0 +1,25 @@
+id: wd-q1091247
+title:
+  zh-TW: 新潟縣中越地震
+  en: Chūetsu Earthquake
+summary:
+  zh-TW: earthquake occurred in Niigata Prefecture, Japan on October 23, 2004
+  en: earthquake occurred in Niigata Prefecture, Japan on October 23, 2004
+start:
+  year: 2004
+  month: 10
+  day: 23
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q1091247
+locations:
+  - place: wd-q1091247-site
+    role: primary
+wikipedia:
+  en: 2004 Chūetsu earthquake
+  zh: 新潟縣中越地震
+importHash: a2026ac36b00

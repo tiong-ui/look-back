@@ -1,0 +1,35 @@
+id: wd-q188925
+title:
+  zh-TW: 諾門罕戰役
+  en: Battles of Khalkhin Gol
+summary:
+  zh-TW: 1939 Soviet–Japanese battle in Mongolia
+  en: 1939 Soviet–Japanese battle in Mongolia
+start:
+  year: 1939
+  month: 5
+  day: 11
+end:
+  year: 1939
+  month: 9
+  day: 16
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 4
+wikidata: Q188925
+locations:
+  - place: wd-q188925-site
+    role: primary
+  - place: wd-q715797
+    role: secondary
+relations:
+  - event: wd-q696389
+    type: part_of
+wikipedia:
+  en: Battles of Khalkhin Gol
+  zh: 諾門罕戰役
+importHash: 54155b25c238

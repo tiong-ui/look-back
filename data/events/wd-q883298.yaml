@@ -1,0 +1,30 @@
+id: wd-q883298
+title:
+  zh-TW: 傑勒托克桑事件
+  en: Jeltoqsan
+summary:
+  zh-TW: 1986 Alma-Ata protests and riots that resulted in massacre
+  en: 1986 Alma-Ata protests and riots that resulted in massacre
+start:
+  year: 1986
+  month: 12
+  day: 16
+end:
+  year: 1986
+  month: 12
+  day: 19
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - central-asia
+importance: 3
+wikidata: Q883298
+locations:
+  - place: wd-q35493
+    role: primary
+wikipedia:
+  en: Jeltoqsan
+  zh: 杰勒托克桑事件
+importHash: 383948d503e1

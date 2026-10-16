@@ -1,0 +1,29 @@
+id: wd-q2409264
+title:
+  zh-TW: Battle of Tashihchiao
+  en: Battle of Tashihchiao
+summary:
+  zh-TW: 1904 Russo-Japanese battle
+  en: 1904 Russo-Japanese battle
+start:
+  year: 1904
+  month: 7
+  day: 24
+end:
+  year: 1904
+  month: 7
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2409264
+locations:
+  - place: wd-q2409264-site
+    role: primary
+wikipedia:
+  en: Battle of Tashihchiao
+importHash: 38622a837863

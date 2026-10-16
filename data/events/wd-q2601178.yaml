@@ -1,0 +1,26 @@
+id: wd-q2601178
+title:
+  zh-TW: 內加帕塔姆戰役
+  en: Battle of Negapatam
+summary:
+  zh-TW: 1782 naval battle
+  en: 1782 naval battle
+start:
+  year: 1782
+  month: 7
+  day: 6
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2601178
+locations:
+  - place: wd-q2601178-site
+    role: primary
+  - place: wd-q38684
+    role: secondary
+wikipedia:
+  en: Battle of Negapatam (1782)
+importHash: 973ac9446ef7

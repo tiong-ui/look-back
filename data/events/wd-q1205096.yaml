@@ -1,0 +1,30 @@
+id: wd-q1205096
+title:
+  zh-TW: 襄樊之戰
+  en: Battle of Xiangyang
+summary:
+  zh-TW: battles during Mongol invasion of China (1267–1273)
+  en: battles during Mongol invasion of China (1267–1273)
+start:
+  year: 1267
+end:
+  year: 1273
+  month: 3
+  day: 21
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1205096
+locations:
+  - place: wd-q1205096-site
+    role: primary
+  - place: wd-q71284
+    role: secondary
+wikipedia:
+  en: Battle of Xiangyang
+  zh: 襄樊之战
+importHash: acf3261bd9cf

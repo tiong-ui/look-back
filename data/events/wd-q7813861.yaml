@@ -1,0 +1,25 @@
+id: wd-q7813861
+title:
+  zh-TW: 關於在航空器內的犯罪和犯有某些其他行為的公約
+  en: Tokyo Convention
+summary:
+  zh-TW: 1963年國際航空條約
+  en: 1963 international aviation treaty
+start:
+  year: 1963
+  month: 9
+  day: 14
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 1
+wikidata: Q7813861
+locations:
+  - place: wd-q1490
+    role: primary
+wikipedia:
+  en: Tokyo Convention
+  zh: 关于在航空器内的犯罪和犯有某些其他行为的公约
+importHash: f6bacaa95dd9

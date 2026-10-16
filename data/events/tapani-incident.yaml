@@ -1,0 +1,33 @@
+id: tapani-incident
+title:
+  zh-TW: 噍吧哖事件
+  en: Tapani incident
+altNames:
+  - zh-TW: 西來庵事件
+    en: Seiraian incident
+summary:
+  zh-TW: 余清芳等人以西來庵為據點策劃武裝抗日，於噍吧哖一帶與日軍激戰，事後日本當局大規模逮捕審判，是日治時期最後一次大規模漢人武裝抗日。
+  en: Yu Qingfang and others organised armed resistance from the Seiraian temple and fought Japanese forces around Tapani. Mass arrests and trials followed. It was the last large armed Han uprising against Japanese rule.
+start:
+  year: 1915
+  month: 7
+end:
+  year: 1915
+  month: 8
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: yujing
+    role: primary
+  - place: tainan
+    role: secondary
+relations:
+  - event: japanese-rule-taiwan
+    type: part_of
+wikipedia:
+  en: Tapani incident
+  zh: 噍吧哖事件

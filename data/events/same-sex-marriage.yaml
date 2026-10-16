@@ -1,0 +1,24 @@
+id: same-sex-marriage
+title:
+  zh-TW: 同性婚姻合法化
+  en: Same-sex marriage legalised
+summary:
+  zh-TW: 依司法院釋字第748號解釋，《司法院釋字第七四八號解釋施行法》生效，臺灣成為亞洲第一個同性婚姻合法化的國家。
+  en: Following Constitutional Interpretation No. 748, its enforcement act took effect, making Taiwan the first country in Asia to legalise same-sex marriage.
+start:
+  year: 2019
+  month: 5
+  day: 24
+precision: day
+categories:
+  - democracy
+  - culture
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: taipei
+    role: primary
+wikipedia:
+  en: Same-sex marriage in Taiwan
+  zh: 臺灣同性婚姻

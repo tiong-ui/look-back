@@ -1,0 +1,32 @@
+id: wd-q700705
+title:
+  zh-TW: 塞班島戰役
+  en: Battle of Saipan
+summary:
+  zh-TW: 1944 battle of the Pacific campaign of World War II on the island of Saipan in the Mariana Islands
+  en: 1944 battle of the Pacific campaign of World War II on the island of Saipan in the Mariana Islands
+start:
+  year: 1944
+  month: 6
+  day: 15
+end:
+  year: 1944
+  month: 7
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 3
+wikidata: Q700705
+locations:
+  - place: wd-q700705-site
+    role: primary
+  - place: wd-q51679
+    role: secondary
+wikipedia:
+  en: Battle of Saipan
+  zh: 塞班島戰役
+importHash: b3cc79e8014f

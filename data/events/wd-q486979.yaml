@@ -1,0 +1,26 @@
+id: wd-q486979
+title:
+  zh-TW: 彈琴臺之戰
+  en: Battle of Ch'ungju
+summary:
+  zh-TW: 1592 battle
+  en: 1592 battle
+start:
+  year: 1592
+  month: 4
+  day: 28
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q486979
+locations:
+  - place: wd-q486979-site
+    role: primary
+wikipedia:
+  en: Battle of Chungju
+  zh: 彈琴臺之戰
+importHash: 24d11da51410

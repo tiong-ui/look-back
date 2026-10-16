@@ -1,0 +1,28 @@
+id: wd-q114356054
+title:
+  zh-TW: 2022 Zahedan massacre
+  en: 2022 Zahedan massacre
+summary:
+  zh-TW: killings by state security forces in Iran
+  en: killings by state security forces in Iran
+start:
+  year: 2022
+  month: 9
+  day: 30
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q114356054
+locations:
+  - place: wd-q140561
+    role: primary
+relations:
+  - event: wd-q114065797
+    type: part_of
+wikipedia:
+  en: 2022 Zahedan massacre
+importHash: 6b8f68e56119

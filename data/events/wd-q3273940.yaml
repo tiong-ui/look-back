@@ -1,0 +1,28 @@
+id: wd-q3273940
+title:
+  zh-TW: Malari incident
+  en: Malari incident
+summary:
+  zh-TW: Series of Riots in Jakarta, 1974
+  en: Series of Riots in Jakarta, 1974
+start:
+  year: 1974
+  month: 1
+  day: 15
+end:
+  year: 1974
+  month: 1
+  day: 16
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q3273940
+locations:
+  - place: wd-q3630
+    role: primary
+wikipedia:
+  en: Malari incident
+importHash: 1371132f243a

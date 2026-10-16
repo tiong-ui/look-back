@@ -1,0 +1,29 @@
+id: wd-q484475
+title:
+  zh-TW: 泗川之戦
+  en: Battle of Sacheon
+summary:
+  zh-TW: Korean and Chinese siege against Japanese in 1598
+  en: Korean and Chinese siege against Japanese in 1598
+start:
+  year: 1598
+  month: 11
+  day: 6
+end:
+  year: 1598
+  month: 11
+  day: 11
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q484475
+locations:
+  - place: wd-q484475-site
+    role: primary
+wikipedia:
+  en: Battle of Sacheon (1598)
+  zh: 泗川之戰
+importHash: 8be0b674a90a

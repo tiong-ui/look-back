@@ -1,0 +1,32 @@
+id: wd-q7509791
+title:
+  zh-TW: 赤坂城之戰
+  en: Siege of Akasaka
+summary:
+  zh-TW: 1331 siege
+  en: 1331 siege
+start:
+  year: 1331
+  month: 10
+  day: 29
+end:
+  year: 1331
+  month: 11
+  day: 29
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7509791
+locations:
+  - place: wd-q17213418
+    role: primary
+relations:
+  - event: wd-q1432624
+    type: part_of
+wikipedia:
+  en: Siege of Akasaka
+  zh: 赤坂城之戰
+importHash: c31c82ade617

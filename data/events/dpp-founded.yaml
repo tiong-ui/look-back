@@ -1,0 +1,27 @@
+id: dpp-founded
+title:
+  zh-TW: 民主進步黨成立
+  en: Democratic Progressive Party founded
+summary:
+  zh-TW: 戒嚴期間黨禁仍在，黨外人士於臺北圓山大飯店突破禁令宣布組黨，成為臺灣第一個有實力的反對黨。
+  en: While the ban on new parties was still in force, opposition activists defied it at Taipei's Grand Hotel and founded the DPP, Taiwan's first viable opposition party.
+start:
+  year: 1986
+  month: 9
+  day: 28
+precision: day
+categories:
+  - democracy
+  - politics
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: taipei
+    role: primary
+relations:
+  - event: martial-law
+    type: precedes
+wikipedia:
+  en: Democratic Progressive Party
+  zh: 民主進步黨

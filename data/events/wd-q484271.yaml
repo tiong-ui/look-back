@@ -1,0 +1,25 @@
+id: wd-q484271
+title:
+  zh-TW: 露梁海戰
+  en: Battle of Noryang
+summary:
+  zh-TW: 1598 last major battle of the Japanese invasions of Korea
+  en: 1598 last major battle of the Japanese invasions of Korea
+start:
+  year: 1598
+  month: 12
+  day: 16
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q484271
+locations:
+  - place: wd-q484271-site
+    role: primary
+wikipedia:
+  en: Battle of Noryang
+  zh: 露梁海戰
+importHash: 264fab89c925

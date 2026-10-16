@@ -1,0 +1,28 @@
+id: wd-q1010239
+title:
+  zh-TW: 有田中井手之戰
+  en: Battle of Arita-Nakaide
+summary:
+  zh-TW: 1517 battle
+  en: 1517 battle
+start:
+  year: 1517
+  month: 11
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1010239
+locations:
+  - place: wd-q1010239-site
+    role: primary
+  - place: wd-q1155572
+    role: secondary
+wikipedia:
+  en: Battle of Arita-Nakaide
+  zh: 有田中井手之戰
+importHash: db0d7edb40c4

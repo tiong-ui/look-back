@@ -1,0 +1,24 @@
+id: wd-q29867946
+title:
+  zh-TW: 2017 Afghanistan–Pakistan border skirmish
+  en: 2017 Afghanistan–Pakistan border skirmish
+summary:
+  zh-TW: border skirmishes between Afghanistan and Pakistan
+  en: border skirmishes between Afghanistan and Pakistan
+start:
+  year: 2017
+  month: 5
+  day: 5
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q29867946
+locations:
+  - place: wd-q1017644
+    role: primary
+wikipedia:
+  en: 2017 Afghanistan–Pakistan border skirmish
+importHash: 2adde318fdae

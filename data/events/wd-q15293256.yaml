@@ -1,0 +1,27 @@
+id: wd-q15293256
+title:
+  zh-TW: 2013年新加坡小印度暴亂
+  en: 2013 Little India riot
+summary:
+  zh-TW: 2013 civil unrest in Singapore
+  en: 2013 civil unrest in Singapore
+start:
+  year: 2013
+  month: 12
+  day: 8
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q15293256
+locations:
+  - place: wd-q15293256-site
+    role: primary
+  - place: wd-q2392844
+    role: secondary
+wikipedia:
+  en: 2013 Little India riot
+  zh: 2013年新加坡小印度骚乱
+importHash: 6bd1ed0f2ce1

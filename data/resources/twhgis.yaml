@@ -1,0 +1,8 @@
+id: twhgis
+name:
+  zh-TW: 臺灣百年歷史地圖
+  en: Taiwan Historical Maps (Academia Sinica)
+url: https://gissrv4.sinica.edu.tw/gis/twhgis/
+type: map
+lang:
+  - zh

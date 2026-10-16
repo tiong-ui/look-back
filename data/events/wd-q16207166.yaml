@@ -1,0 +1,22 @@
+id: wd-q16207166
+title:
+  zh-TW: Battle of Ghazni
+  en: Battle of Ghazni
+summary:
+  zh-TW: 1117 battle
+  en: 1117 battle
+start:
+  year: 1117
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q16207166
+locations:
+  - place: wd-q173731
+    role: primary
+wikipedia:
+  en: Battle of Ghazni (1117)
+importHash: a3662dce1e01

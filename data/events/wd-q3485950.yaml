@@ -1,0 +1,30 @@
+id: wd-q3485950
+title:
+  zh-TW: Siege of Masulipatam
+  en: Siege of Masulipatam
+summary:
+  zh-TW: 1759 siege
+  en: 1759 siege
+start:
+  year: 1759
+  month: 3
+  day: 6
+end:
+  year: 1759
+  month: 4
+  day: 7
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3485950
+locations:
+  - place: wd-q3485950-site
+    role: primary
+  - place: wd-q845662
+    role: secondary
+wikipedia:
+  en: Siege of Masulipatam
+importHash: 8642bb7b1ea6

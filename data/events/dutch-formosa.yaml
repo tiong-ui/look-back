@@ -1,0 +1,36 @@
+id: dutch-formosa
+title:
+  zh-TW: 荷蘭統治臺灣
+  en: Dutch Formosa
+summary:
+  zh-TW: 荷蘭東印度公司先占據澎湖，被明朝驅離後於1624年轉往大員（今臺南安平）建立熱蘭遮城，以臺灣為東亞貿易據點，並引進大量漢人移民開墾。這是臺灣第一個有系統的殖民政權。
+  en: The Dutch East India Company first occupied Penghu, then, pushed out by the Ming, moved in 1624 to Tayouan (now Anping, Tainan), where it built Fort Zeelandia. It used Taiwan as an East Asian trading base and brought in many Han settlers to farm. It was the first organised colonial regime in Taiwan.
+start: 1624
+end: 1662
+precision: year
+categories:
+  - dynasty
+  - trade
+regions:
+  - taiwan
+  - southeast-asia
+importance: 5
+locations:
+  - place: tainan-anping
+    role: primary
+  - place: tainan
+    role: secondary
+  - place: penghu
+    role: secondary
+  - place: batavia
+    role: origin
+  - place: tainan-anping
+    role: destination
+relations:
+  - event: spanish-formosa
+    type: related
+wikipedia:
+  en: Dutch Formosa
+  zh: 荷蘭統治時期
+sources:
+  - resource: andrade-how-taiwan

@@ -1,0 +1,28 @@
+id: wd-q487582
+title:
+  zh-TW: 聞慶平民屠殺事件
+  en: Mungyeong massacre
+summary:
+  zh-TW: 1949 massacre against suspected communists by the South Korean Army
+  en: 1949 massacre against suspected communists by the South Korean Army
+start:
+  year: 1949
+  month: 12
+  day: 24
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q487582
+locations:
+  - place: wd-q487582-site
+    role: primary
+  - place: wd-q42095
+    role: secondary
+wikipedia:
+  en: Mungyeong massacre
+  zh: 聞慶平民屠殺事件
+importHash: d70a60ec5266

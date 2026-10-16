@@ -1,0 +1,23 @@
+id: wd-q2201391
+title:
+  zh-TW: 荷蘭人侵略龍目島和Karangasem
+  en: Dutch intervention in Lombok and Karangasem
+summary:
+  zh-TW: 1894 intervention and colonization by Dutch East Indies
+  en: 1894 intervention and colonization by Dutch East Indies
+start:
+  year: 1894
+  month: 11
+precision: month
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2201391
+locations:
+  - place: wd-q7564
+    role: primary
+wikipedia:
+  en: Dutch intervention in Lombok and Karangasem
+importHash: 3ce6f76271f0

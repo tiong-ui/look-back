@@ -1,0 +1,25 @@
+id: wd-q11648296
+title:
+  zh-TW: 1993年釧路近海地震
+  en: 1993 Kushiro-Oki earthquake
+summary:
+  zh-TW: Large earthquake in eastern Hokkaidō in January 1993
+  en: Large earthquake in eastern Hokkaidō in January 1993
+start:
+  year: 1993
+  month: 1
+  day: 15
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11648296
+locations:
+  - place: wd-q11648296-site
+    role: primary
+wikipedia:
+  en: 1993 Kushiro earthquake
+  zh: 1993年釧路近海地震
+importHash: dcb1236d167b

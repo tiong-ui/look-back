@@ -1,0 +1,33 @@
+id: second-sino-japanese-war
+title:
+  zh-TW: 中日戰爭
+  en: Second Sino-Japanese War
+summary:
+  zh-TW: 盧溝橋事變後中日全面開戰，日軍占領中國東部大片地區，戰爭在1941年後併入第二次世界大戰，至1945年日本投降結束。
+  en: Full-scale war broke out after the Marco Polo Bridge Incident; Japan occupied much of eastern China. From 1941 it merged into the Second World War, ending with Japan's surrender in 1945.
+start:
+  year: 1937
+  month: 7
+  day: 7
+end:
+  year: 1945
+  month: 9
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - china
+  - japan
+importance: 5
+locations:
+  - place: marco-polo-bridge
+    role: primary
+  - place: nanjing
+    role: secondary
+relations:
+  - event: pacific-war
+    type: related
+wikipedia:
+  en: Second Sino-Japanese War
+  zh: 抗日战争

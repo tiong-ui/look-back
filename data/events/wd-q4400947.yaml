@@ -1,0 +1,25 @@
+id: wd-q4400947
+title:
+  zh-TW: 旅大租地條約
+  en: Russia-Qing Convention
+summary:
+  zh-TW: 1898 treaty leasing Port Arthur to the Russians
+  en: 1898 treaty leasing Port Arthur to the Russians
+start:
+  year: 1898
+  month: 3
+  day: 27
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 2
+wikidata: Q4400947
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Convention for the Lease of the Liaotung Peninsula
+  zh: 旅大租地条约
+importHash: fd16c79c2a40

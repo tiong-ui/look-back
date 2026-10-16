@@ -1,0 +1,29 @@
+id: wd-q1361929
+title:
+  zh-TW: 馬印對抗
+  en: Indonesia–Malaysia confrontation
+summary:
+  zh-TW: military conflict (1963–1966)
+  en: military conflict (1963–1966)
+start:
+  year: 1963
+  month: 1
+  day: 20
+end:
+  year: 1966
+  month: 8
+  day: 11
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q1361929
+locations:
+  - place: wd-q18758
+    role: primary
+wikipedia:
+  en: Konfrontasi
+  zh: 印度尼西亚—马来西亚对抗
+importHash: 049b64e25401

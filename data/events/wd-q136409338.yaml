@@ -1,0 +1,25 @@
+id: wd-q136409338
+title:
+  zh-TW: 2025年宿務地震
+  en: 2025 Cebu earthquake
+summary:
+  zh-TW: magnitude 6.9 earthquake in the Philippines
+  en: magnitude 6.9 earthquake in the Philippines
+start:
+  year: 2025
+  month: 9
+  day: 30
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q136409338
+locations:
+  - place: wd-q136409338-site
+    role: primary
+wikipedia:
+  en: 2025 Cebu earthquake
+  zh: 2025年宿霧地震
+importHash: bb78567caebd

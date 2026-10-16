@@ -1,0 +1,25 @@
+id: wd-q4871338
+title:
+  zh-TW: 稷山之戰
+  en: Battle of Jiksan
+summary:
+  zh-TW: 1597 battle
+  en: 1597 battle
+start:
+  year: 1597
+  month: 10
+  day: 16
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4871338
+locations:
+  - place: wd-q4871338-site
+    role: primary
+wikipedia:
+  en: Battle of Jiksan
+  zh: 稷山之戰
+importHash: 8450ce2105de

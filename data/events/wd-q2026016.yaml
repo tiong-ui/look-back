@@ -1,0 +1,30 @@
+id: wd-q2026016
+title:
+  zh-TW: 馬車輪行動
+  en: Operation Cartwheel
+summary:
+  zh-TW: 第二次世界大戰會戰
+  en: 1943 major military strategy for the Allies in the Pacific theater of World War II
+start:
+  year: 1943
+  month: 6
+  day: 30
+end:
+  year: 1944
+  month: 3
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 2
+wikidata: Q2026016
+locations:
+  - place: wd-q2026016-site
+    role: primary
+wikipedia:
+  en: Operation Cartwheel
+  zh: 車輪行動
+importHash: 17c838be3b90

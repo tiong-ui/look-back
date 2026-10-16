@@ -1,0 +1,25 @@
+id: wd-q64495924
+title:
+  zh-TW: 2019年龍目島地震
+  en: 2019 Lombok earthquake
+summary:
+  zh-TW: Earthquake in Indonesia
+  en: Earthquake in Indonesia
+start:
+  year: 2019
+  month: 3
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q64495924
+locations:
+  - place: wd-q64495924-site
+    role: primary
+wikipedia:
+  en: 2019 Lombok earthquake
+  zh: 2019年龙目岛地震
+importHash: b8eaa84bfbf2

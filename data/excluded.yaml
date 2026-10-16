@@ -1,0 +1,4 @@
+# 排除清單 Excluded Wikidata items
+# Wikidata IDs listed here are never imported (or re-imported). Use it for
+# imported events you deleted and don't want back. Editable in the CMS.
+wikidata: []

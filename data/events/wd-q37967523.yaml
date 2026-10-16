@@ -1,0 +1,25 @@
+id: wd-q37967523
+title:
+  zh-TW: 2017年印度北部騷亂
+  en: 2017 Haryana riots
+summary:
+  zh-TW: riots in north India
+  en: riots in north India
+start:
+  year: 2017
+  month: 8
+  day: 25
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q37967523
+locations:
+  - place: wd-q1174
+    role: primary
+wikipedia:
+  en: 2017 Northern India riots
+  zh: 2017年印度北部骚乱
+importHash: 6d7685c3a375

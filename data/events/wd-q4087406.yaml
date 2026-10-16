@@ -1,0 +1,27 @@
+id: wd-q4087406
+title:
+  zh-TW: Battle of Agra
+  en: Battle of Agra
+summary:
+  zh-TW: This was a battle during the Indian Rebellion of 1857.
+  en: This was a battle during the Indian Rebellion of 1857.
+start:
+  year: 1857
+  month: 8
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4087406
+locations:
+  - place: wd-q4087406-site
+    role: primary
+  - place: wd-q42941
+    role: secondary
+wikipedia:
+  en: Battle of Agra
+importHash: 58137ff52d75

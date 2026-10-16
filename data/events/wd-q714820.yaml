@@ -1,0 +1,26 @@
+id: wd-q714820
+title:
+  zh-TW: 西南戰爭
+  en: Satsuma Rebellion
+summary:
+  zh-TW: revolt of disaffected samurai against the new imperial government, nine years into the Meiji Era
+  en: revolt of disaffected samurai against the new imperial government, nine years into the Meiji Era
+start:
+  year: 2005
+  month: 1
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q714820
+locations:
+  - place: wd-q13987
+    role: primary
+wikipedia:
+  en: Satsuma Rebellion
+  zh: 西南戰爭
+importHash: 5079e6e6e706

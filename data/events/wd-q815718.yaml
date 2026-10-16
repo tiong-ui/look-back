@@ -1,0 +1,25 @@
+id: wd-q815718
+title:
+  zh-TW: 2009年蘇門答臘地震
+  en: 2009 Sumatra earthquakes
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2009
+  month: 9
+  day: 30
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q815718
+locations:
+  - place: wd-q815718-site
+    role: primary
+wikipedia:
+  en: 2009 Sumatra earthquakes
+  zh: 2009年苏门答腊地震
+importHash: ac895a28d8fb

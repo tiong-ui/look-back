@@ -1,0 +1,28 @@
+id: wd-q702377
+title:
+  zh-TW: 黃海海戰
+  en: Battle of the Yellow Sea
+summary:
+  zh-TW: 1904 major naval battle of the Russo-Japanese War
+  en: 1904 major naval battle of the Russo-Japanese War
+start:
+  year: 1904
+  month: 8
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q702377
+locations:
+  - place: wd-q702377-site
+    role: primary
+  - place: wd-q37960
+    role: secondary
+wikipedia:
+  en: Battle of the Yellow Sea
+  zh: 黄海海战 (1904年)
+importHash: f3e4c5c301e5

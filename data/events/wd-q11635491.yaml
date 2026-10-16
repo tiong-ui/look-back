@@ -1,0 +1,26 @@
+id: wd-q11635491
+title:
+  zh-TW: 赤塚之戰
+  en: Battle of Akatsuka
+summary:
+  zh-TW: 1552 battle
+  en: 1552 battle
+start:
+  year: 1552
+  month: 5
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q11635491
+locations:
+  - place: wd-q11635491-site
+    role: primary
+wikipedia:
+  en: Battle of Akatsuka
+  zh: 赤塚之戰
+importHash: d1f294aac2ff

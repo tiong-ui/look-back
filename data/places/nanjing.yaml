@@ -1,0 +1,14 @@
+id: nanjing
+lng: 118.8
+lat: 32.06
+names:
+  - zh-TW: 建業
+    en: Jianye
+    to: 316
+  - zh-TW: 建康
+    en: Jiankang
+    from: 317
+    to: 1367
+  - zh-TW: 南京
+    en: Nanjing
+    from: 1368

@@ -1,0 +1,25 @@
+id: wd-q17002732
+title:
+  zh-TW: 2014年盈江地震
+  en: 2014 Yunnan earthquake
+summary:
+  zh-TW: earthquake in China
+  en: earthquake in China
+start:
+  year: 2014
+  month: 5
+  day: 24
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q17002732
+locations:
+  - place: wd-q17002732-site
+    role: primary
+wikipedia:
+  en: 2014 Yingjiang earthquake
+  zh: 2014年盈江地震
+importHash: 6c4a6ff441b1

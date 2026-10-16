@@ -1,0 +1,25 @@
+id: wd-q703655
+title:
+  zh-TW: 女真入侵日本
+  en: Toi invasion
+summary:
+  zh-TW: 1019 invasion of northern Kyūshū by Jurchen pirates
+  en: 1019 invasion of northern Kyūshū by Jurchen pirates
+start:
+  year: 1019
+  month: 4
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q703655
+locations:
+  - place: wd-q2344806
+    role: primary
+wikipedia:
+  en: Toi invasion
+  zh: 刀伊入寇
+importHash: 55a3acd489d5

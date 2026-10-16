@@ -1,0 +1,31 @@
+id: wd-q4202020
+title:
+  zh-TW: 蘇聯入侵新疆
+  en: Soviet invasion of Xinjiang
+summary:
+  zh-TW: 1934年中蘇軍事衝突
+  en: 1934 military campaign of the Soviet Union
+start:
+  year: 1934
+  month: 4
+end:
+  year: 1934
+  month: 4
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q4202020
+locations:
+  - place: wd-q34800
+    role: primary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Soviet invasion of Xinjiang
+  zh: 苏联干涉新疆内战
+importHash: f6af962eaadd

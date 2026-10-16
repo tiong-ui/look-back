@@ -1,0 +1,25 @@
+id: dapenkeng-culture
+title:
+  zh-TW: 大坌坑文化
+  en: Dapenkeng culture
+summary:
+  zh-TW: 臺灣最早的新石器時代文化（約距今六千年前），帶有繩紋陶器，普遍被視為南島語族祖先的文化之一。
+  en: Taiwan's earliest Neolithic culture (about 6,000 years ago), known for cord-marked pottery and widely seen as ancestral to Austronesian-speaking peoples.
+start: -3999
+end: -2499
+precision: millennium
+approximate: true
+categories:
+  - prehistory
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: dapenkeng
+    role: primary
+relations:
+  - event: austronesian-expansion
+    type: causes
+wikipedia:
+  en: Dapenkeng culture
+  zh: 大坌坑文化

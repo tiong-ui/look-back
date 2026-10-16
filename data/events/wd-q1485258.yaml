@@ -1,0 +1,29 @@
+id: wd-q1485258
+title:
+  zh-TW: Battle of Chora
+  en: Battle of Chora
+summary:
+  zh-TW: 2007 battle during the War in Afghanistan
+  en: 2007 battle during the War in Afghanistan
+start:
+  year: 2007
+end:
+  year: 2007
+  month: 6
+  day: 19
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1485258
+locations:
+  - place: wd-q1485258-site
+    role: primary
+  - place: wd-q183028
+    role: secondary
+wikipedia:
+  en: Battle of Chora
+importHash: 81eea7ed4792

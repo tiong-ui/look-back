@@ -1,0 +1,24 @@
+id: wd-q15224206
+title:
+  zh-TW: Battle of Ghazni
+  en: Battle of Ghazni
+summary:
+  zh-TW: 998 battle
+  en: 998 battle
+start:
+  year: 998
+  month: 3
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q15224206
+locations:
+  - place: wd-q173731
+    role: primary
+wikipedia:
+  en: Battle of Ghazni (998)
+importHash: 7f40e1b9453c

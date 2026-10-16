@@ -1,0 +1,26 @@
+id: wd-q4438406
+title:
+  zh-TW: 迪化之戰
+  en: Battle of Urumqi
+summary:
+  zh-TW: Spring of 1933
+  en: Spring of 1933
+start:
+  year: 1933
+precision: year
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4438406
+locations:
+  - place: wd-q16959
+    role: primary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Battle of Ürümqi (1933)
+  zh: 迪化之战 (1933年)
+importHash: 37ce8666e5cf

@@ -1,0 +1,25 @@
+id: wd-q492630
+title:
+  zh-TW: 長丘屠殺
+  en: Go Dai Massacre
+summary:
+  zh-TW: event
+  en: event
+start:
+  year: 1966
+  month: 2
+  day: 26
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q492630
+locations:
+  - place: wd-q2446195
+    role: primary
+wikipedia:
+  zh: 長丘屠殺
+importHash: 9d775019ac61

@@ -1,0 +1,32 @@
+id: an-lushan-rebellion
+title:
+  zh-TW: 安史之亂
+  en: An Lushan Rebellion
+summary:
+  zh-TW: 節度使安祿山與史思明起兵叛唐，攻陷洛陽、長安，戰亂持續八年，唐朝由盛轉衰。
+  en: Military governors An Lushan and Shi Siming rebelled against the Tang and took Luoyang and Chang'an. Eight years of war turned the dynasty from its height into decline.
+start:
+  year: 755
+  month: 12
+end:
+  year: 763
+  month: 2
+precision: month
+categories:
+  - war
+regions:
+  - china
+importance: 4
+locations:
+  - place: beijing
+    role: origin
+  - place: luoyang
+    role: destination
+  - place: changan
+    role: destination
+relations:
+  - event: tang-dynasty
+    type: part_of
+wikipedia:
+  en: An Lushan rebellion
+  zh: 安史之乱

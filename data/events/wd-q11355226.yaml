@@ -1,0 +1,28 @@
+id: wd-q11355226
+title:
+  zh-TW: 三島事件
+  en: Mishima incident
+summary:
+  zh-TW: 1970年三島由紀夫帶領盾會成員發動的未遂政變
+  en: attempted coup d'état in Japan on 25 November 1970 by writer Yukio Mishima
+start:
+  year: 1970
+  month: 11
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q11355226
+locations:
+  - place: wd-q11355226-site
+    role: primary
+  - place: wd-q11479979
+    role: secondary
+wikipedia:
+  en: Mishima incident
+  zh: 三島事件
+importHash: e47956e6ca3e

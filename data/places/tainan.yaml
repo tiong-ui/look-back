@@ -1,0 +1,21 @@
+id: tainan
+lng: 120.2027
+lat: 22.9908
+names:
+  - zh-TW: 赤崁
+    en: Saccam
+    to: 1661
+  - zh-TW: 承天府
+    en: Chengtian
+    from: 1661
+    to: 1683
+  - zh-TW: 臺灣府城
+    en: Taiwan-fu
+    from: 1684
+    to: 1887
+  - zh-TW: 臺南
+    en: Tainan
+    from: 1887
+modern:
+  zh-TW: 臺南市
+  en: Tainan

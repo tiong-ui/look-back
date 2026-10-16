@@ -1,0 +1,29 @@
+id: wd-q483464
+title:
+  zh-TW: 砥平里戰鬥
+  en: Battle of Chipyong-ni
+summary:
+  zh-TW: 朝鮮戰爭中1951年2月的一場戰鬥
+  en: 1951 battle of the Korean War
+start:
+  year: 1951
+  month: 2
+  day: 13
+end:
+  year: 1951
+  month: 2
+  day: 15
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q483464
+locations:
+  - place: wd-q6202946
+    role: primary
+wikipedia:
+  en: Battle of Chipyong-ni
+  zh: 砥平里戰役
+importHash: d60f19055db9

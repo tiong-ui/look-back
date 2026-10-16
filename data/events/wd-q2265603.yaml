@@ -1,0 +1,28 @@
+id: wd-q2265603
+title:
+  zh-TW: Battles of La Naval de Manila
+  en: Battles of La Naval de Manila
+summary:
+  zh-TW: 1646 naval battle of the Eighty Years' War
+  en: 1646 naval battle of the Eighty Years' War
+start:
+  year: 1646
+  month: 3
+  day: 15
+end:
+  year: 1646
+  month: 10
+  day: 4
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2265603
+locations:
+  - place: wd-q676154
+    role: primary
+wikipedia:
+  en: Battles of La Naval de Manila
+importHash: 795f195c7619

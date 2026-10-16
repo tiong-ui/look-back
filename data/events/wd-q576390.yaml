@@ -1,0 +1,27 @@
+id: wd-q576390
+title:
+  zh-TW: 2011年盈江地震
+  en: 2011 Yunnan earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2011
+  month: 3
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q576390
+locations:
+  - place: wd-q576390-site
+    role: primary
+  - place: wd-q43194
+    role: secondary
+wikipedia:
+  en: 2011 Yunnan earthquake
+  zh: 2011年盈江地震
+importHash: c1f2627e35dc

@@ -1,0 +1,32 @@
+id: sino-french-war-taiwan
+title:
+  zh-TW: 清法戰爭臺灣戰役
+  en: Keelung Campaign of the Sino-French War
+summary:
+  zh-TW: 清法戰爭期間法軍進攻雞籠與滬尾（淡水），在滬尾之役受挫，隨後封鎖臺灣並占領澎湖，直到1885年停戰。
+  en: During the Sino-French War, French forces attacked Kelang and Hobe (Tamsui). They were checked at the Battle of Tamsui, then blockaded Taiwan and occupied Penghu until the 1885 ceasefire.
+start:
+  year: 1884
+  month: 8
+end:
+  year: 1885
+  month: 6
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: keelung
+    role: primary
+  - place: tamsui
+    role: primary
+  - place: penghu
+    role: secondary
+relations:
+  - event: taiwan-province
+    type: causes
+wikipedia:
+  en: Keelung Campaign
+  zh: 清法戰爭

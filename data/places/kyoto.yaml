@@ -1,0 +1,10 @@
+id: kyoto
+lng: 135.77
+lat: 35.01
+names:
+  - zh-TW: 平安京
+    en: Heian-kyō
+    to: 1868
+  - zh-TW: 京都
+    en: Kyoto
+    from: 1869

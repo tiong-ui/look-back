@@ -1,0 +1,27 @@
+id: wd-q617321
+title:
+  zh-TW: 英邁戰爭
+  en: Anglo-Mysore wars
+summary:
+  zh-TW: 18th century wars between Mysore (Hyder Ali and Tipu sultan) and British
+  en: 18th century wars between Mysore (Hyder Ali and Tipu sultan) and British
+start:
+  year: 1767
+end:
+  year: 1799
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q617321
+locations:
+  - place: wd-q617321-site
+    role: primary
+wikipedia:
+  en: Anglo-Mysore wars
+  zh: 英邁戰爭
+importHash: bc35004100ad

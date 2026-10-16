@@ -1,0 +1,30 @@
+id: wd-q3073029
+title:
+  zh-TW: Siege of Pondicherry
+  en: Siege of Pondicherry
+summary:
+  zh-TW: 1760 siege of the Seven Years’ War
+  en: 1760 siege of the Seven Years’ War
+start:
+  year: 1760
+  month: 9
+  day: 4
+end:
+  year: 1761
+  month: 1
+  day: 15
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3073029
+locations:
+  - place: wd-q3073029-site
+    role: primary
+  - place: wd-q639421
+    role: secondary
+wikipedia:
+  en: Siege of Pondicherry (1760)
+importHash: 213fa9d4e0d7

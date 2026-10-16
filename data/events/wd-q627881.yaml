@@ -1,0 +1,28 @@
+id: wd-q627881
+title:
+  zh-TW: 孔坡之圍
+  en: Siege of Cawnpore
+summary:
+  zh-TW: siege during the Indian rebellion of 1857
+  en: siege during the Indian rebellion of 1857
+start:
+  year: 1857
+  month: 6
+  day: 5
+end:
+  year: 1857
+  month: 6
+  day: 25
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q627881
+locations:
+  - place: wd-q66568
+    role: primary
+wikipedia:
+  en: Siege of Cawnpore
+importHash: 15eccc811416

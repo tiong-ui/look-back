@@ -1,0 +1,28 @@
+id: wd-q1476042
+title:
+  zh-TW: 森蚺行動
+  en: Operation Anaconda
+summary:
+  zh-TW: 2002 military operation
+  en: 2002 military operation
+start:
+  year: 2002
+end:
+  year: 2002
+  month: 3
+  day: 18
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q1476042
+locations:
+  - place: wd-q1476042-site
+    role: primary
+wikipedia:
+  en: Operation Anaconda
+  zh: 森蚺行動
+importHash: 289e909cdd0b

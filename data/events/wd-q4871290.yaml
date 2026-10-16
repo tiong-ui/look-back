@@ -1,0 +1,23 @@
+id: wd-q4871290
+title:
+  zh-TW: Battle of Itakhuli
+  en: Battle of Itakhuli
+summary:
+  zh-TW: battle to pushback Mughals from Mughal occupied Ahom territory
+  en: battle to pushback Mughals from Mughal occupied Ahom territory
+start:
+  year: 1682
+  month: 8
+precision: month
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871290
+locations:
+  - place: wd-q199605
+    role: primary
+wikipedia:
+  en: Battle of Itakhuli
+importHash: 32dc15f9dc86

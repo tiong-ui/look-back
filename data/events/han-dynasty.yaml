@@ -1,0 +1,26 @@
+id: han-dynasty
+title:
+  zh-TW: 漢朝
+  en: Han dynasty
+summary:
+  zh-TW: 劉邦建立的王朝，分為西漢與東漢，確立了延續兩千年的帝制中國基本制度，並經絲路與中亞、西方往來。
+  en: The dynasty founded by Liu Bang, divided into Western and Eastern Han. It set the basic institutions of imperial China for two thousand years and traded with Central Asia and the West along the Silk Road.
+start: -201
+end: 220
+precision: year
+categories:
+  - dynasty
+regions:
+  - china
+importance: 5
+locations:
+  - place: changan
+    role: primary
+  - place: luoyang
+    role: secondary
+relations:
+  - event: three-kingdoms
+    type: precedes
+wikipedia:
+  en: Han dynasty
+  zh: 汉朝

@@ -1,0 +1,30 @@
+id: wd-q709191
+title:
+  zh-TW: 壬午兵變
+  en: Imo Incident
+summary:
+  zh-TW: 1882年朝鮮王國政變
+  en: mutiny of the Joseon military against the government of Joseon in Seoul in 1882
+start:
+  year: 1882
+  month: 7
+  day: 19
+end:
+  year: 1882
+  month: 8
+  day: 30
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q709191
+locations:
+  - place: wd-q624467
+    role: primary
+wikipedia:
+  en: Imo Incident
+  zh: 壬午兵变
+importHash: 77e10bf1db50

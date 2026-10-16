@@ -1,0 +1,23 @@
+id: wd-q25052814
+title:
+  zh-TW: Sleep hollow
+  en: Sleep hollow
+summary:
+  zh-TW: medical condition
+  en: medical condition
+start:
+  year: 2013
+  month: 3
+precision: month
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 1
+wikidata: Q25052814
+locations:
+  - place: wd-q13641721
+    role: primary
+wikipedia:
+  en: Sleeping sickness of Kalachi, Kazakhstan
+importHash: bdad9c41f1a7

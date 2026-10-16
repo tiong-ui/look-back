@@ -1,0 +1,24 @@
+id: wd-q1953346
+title:
+  zh-TW: Battle of Cape Rachado
+  en: Battle of Cape Rachado
+summary:
+  zh-TW: 1606 naval engagement between Dutch and Portuguese fleets
+  en: 1606 naval engagement between Dutch and Portuguese fleets
+start:
+  year: 1606
+  month: 8
+  day: 18
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1953346
+locations:
+  - place: wd-q7683445
+    role: primary
+wikipedia:
+  en: Battle of Cape Rachado
+importHash: ff84ec4e08db

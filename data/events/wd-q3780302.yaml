@@ -1,0 +1,26 @@
+id: wd-q3780302
+title:
+  zh-TW: 陽城之戰
+  en: Battle of Yangcheng
+summary:
+  zh-TW: battle between the warlords Yuan Shao and Yuan Shu (191)
+  en: battle between the warlords Yuan Shao and Yuan Shu (191)
+start:
+  year: 191
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q3780302
+locations:
+  - place: wd-q3780302-site
+    role: primary
+  - place: wd-q877609
+    role: secondary
+wikipedia:
+  en: Battle of Yangcheng
+  zh: 阳城之战
+importHash: 96e93a474b4c

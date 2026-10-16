@@ -1,0 +1,29 @@
+id: wd-q4870709
+title:
+  zh-TW: 火燒莊戰役
+  en: Battle of Changhsing
+summary:
+  zh-TW: 1895年乙未戰爭戰役之一
+  en: battle during the Japanese invasion of Taiwan
+start:
+  year: 1895
+  month: 11
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - taiwan
+importance: 2
+wikidata: Q4870709
+locations:
+  - place: wd-q97025569
+    role: primary
+relations:
+  - event: wd-q717373
+    type: part_of
+wikipedia:
+  en: Battle of Changhsing
+  zh: 火燒庄戰役
+importHash: 036197869fd1

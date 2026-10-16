@@ -1,0 +1,30 @@
+id: wd-q210423
+title:
+  zh-TW: 合肥之戰
+  en: Battle of Xiaoyao Ford
+summary:
+  zh-TW: battle between warlords Cao Cao and Sun Quan (214-215)
+  en: battle between warlords Cao Cao and Sun Quan (214-215)
+start:
+  year: 214
+end:
+  year: 215
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q210423
+locations:
+  - place: wd-q210423-site
+    role: primary
+  - place: wd-q185684
+    role: secondary
+wikipedia:
+  en: Battle of Xiaoyao Ford
+  zh: 合肥之戰
+importHash: 7e34942c4993

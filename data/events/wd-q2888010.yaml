@@ -1,0 +1,28 @@
+id: wd-q2888010
+title:
+  zh-TW: 石橋山之戰
+  en: Battle of Ishibashiyama
+summary:
+  zh-TW: 1180 battle of the Genpei War
+  en: 1180 battle of the Genpei War
+start:
+  year: 1180
+  month: 9
+  day: 14
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2888010
+locations:
+  - place: wd-q2888010-site
+    role: primary
+  - place: wd-q47393082
+    role: secondary
+wikipedia:
+  en: Battle of Ishibashiyama
+  zh: 石橋山之戰
+importHash: 411dd3670653

@@ -1,0 +1,28 @@
+id: wd-q385180
+title:
+  zh-TW: 黃海海戰
+  en: Battle of the Yalu River
+summary:
+  zh-TW: 1894年中日海戰
+  en: battle in 1894
+start:
+  year: 1894
+  month: 9
+  day: 17
+precision: day
+categories:
+  - war
+regions:
+  - china
+  - korea
+importance: 3
+wikidata: Q385180
+locations:
+  - place: wd-q385180-site
+    role: primary
+  - place: wd-q52059
+    role: secondary
+wikipedia:
+  en: Battle of the Yalu River (1894)
+  zh: 黄海海战 (1894年)
+importHash: 695e1307189f

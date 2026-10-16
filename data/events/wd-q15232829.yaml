@@ -1,0 +1,25 @@
+id: wd-q15232829
+title:
+  zh-TW: Kalagong massacre
+  en: Kalagong massacre
+summary:
+  zh-TW: Mass killing of civilians by Japanese troops in Burma on 7 July 1945
+  en: Mass killing of civilians by Japanese troops in Burma on 7 July 1945
+start:
+  year: 1945
+  month: 7
+  day: 7
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q15232829
+locations:
+  - place: wd-q48734634
+    role: primary
+wikipedia:
+  en: Kalagon massacre
+importHash: be7ecb07cc83

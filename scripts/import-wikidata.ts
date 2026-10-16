@@ -10,21 +10,27 @@
 // massacres, protests, coups, earthquakes, epidemics and other historical
 // events that have a date, a location with coordinates in Asia, and enough
 // Wikipedia language editions to count as notable (fewer are needed for
-// events in Taiwan). Events already curated in data/events/ are skipped.
+// events in Taiwan). Events already curated or edited in data/events/ are skipped.
 //
-// Output:
-//   data/imported/events.yaml   events
-//   data/imported/places.yaml   their places
+// Output: one file per record in data/events/ and data/places/, merged with
+// what is already there:
+//   - new events and places are added;
+//   - events this importer wrote earlier and nobody has edited since are
+//     refreshed from Wikidata (detected with importHash, see data-utils.ts);
+//   - events edited by a person (in the CMS or by hand) and curated events are
+//     never overwritten, and existing files are never deleted;
+//   - Wikidata IDs listed in data/excluded.yaml are skipped.
 //
 // Needs network access to query.wikidata.org, so it runs in
 // .github/workflows/import.yml rather than locally in restricted sandboxes.
 
-import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import * as OpenCC from 'opencc-js';
-import { parse, stringify } from 'yaml';
+import { parse } from 'yaml';
 import type { Category } from '../src/lib/categories';
+import { clean, contentHash, isUntouchedImport, readRecords, writeRecord } from './data-utils';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ENDPOINT = 'https://query.wikidata.org/sparql';
@@ -269,7 +275,8 @@ export interface ImportedPlace {
 }
 
 export interface Curated {
-  wikipediaTitles: Set<string>; // normalised titles of curated events
+  wikipediaTitles: Set<string>; // normalised titles of curated or edited events
+  qids?: Set<string>; // Wikidata IDs of curated or edited events, and excluded ones
 }
 
 const normTitle = (t: string) => t.replace(/_/g, ' ').trim().toLowerCase();
@@ -316,6 +323,7 @@ export function rowsToEvents(
     const sitelinks = Number(val(first, 'sitelinks') ?? 0);
     const enwiki = rs.map((r) => val(r, 'enwiki')).find(Boolean);
     const zhwiki = rs.map((r) => val(r, 'zhwiki')).find(Boolean);
+    if (curated.qids?.has(qid)) continue;
     if ((enwiki && curated.wikipediaTitles.has(normTitle(enwiki))) || (zhwiki && curated.wikipediaTitles.has(normTitle(zhwiki)))) continue;
 
     // Dates: prefer "point in time", else "start time"; take the earliest.
@@ -394,47 +402,71 @@ export function rowsToEvents(
 
 // ---------------------------------------------------------------------------- main
 
-function curatedTitles(): Curated {
-  const dir = join(ROOT, 'data', 'events');
-  const titles = new Set<string>();
-  for (const f of readdirSync(dir).filter((f) => /\.ya?ml$/.test(f))) {
-    for (const e of (parse(readFileSync(join(dir, f), 'utf8')) as { wikipedia?: { en?: string; zh?: string } }[]) ?? []) {
-      if (e.wikipedia?.en) titles.add(normTitle(e.wikipedia.en));
-      if (e.wikipedia?.zh) titles.add(normTitle(e.wikipedia.zh));
-    }
+interface ExistingEvent {
+  id: string;
+  wikidata?: string;
+  importHash?: string;
+  wikipedia?: { en?: string; zh?: string };
+}
+
+/** Events already in data/events/, and what the importer must leave alone. */
+export function existingData(dataDir = join(ROOT, 'data')) {
+  const events = new Map<string, ExistingEvent>();
+  for (const { record } of readRecords(join(dataDir, 'events'))) {
+    const e = record as ExistingEvent;
+    if (e?.id) events.set(e.id, e);
   }
-  return { wikipediaTitles: titles };
+  const titles = new Set<string>();
+  const qids = new Set<string>();
+  for (const e of events.values()) {
+    if (isUntouchedImport(e)) continue; // ours to refresh
+    if (e.wikipedia?.en) titles.add(normTitle(e.wikipedia.en));
+    if (e.wikipedia?.zh) titles.add(normTitle(e.wikipedia.zh));
+    if (e.wikidata) qids.add(e.wikidata);
+  }
+  const excludedFile = join(dataDir, 'excluded.yaml');
+  const excluded = ((parse(readFileSync(excludedFile, 'utf8')) as { wikidata?: (string | { id: string })[] })?.wikidata ?? [])
+    .map((x) => (typeof x === 'string' ? x : x.id))
+    .filter(Boolean);
+  for (const q of excluded) qids.add(q);
+  const places = new Set(readRecords(join(dataDir, 'places')).map(({ file }) => file.replace(/\.ya?ml$/, '')));
+  return { events, places, curated: { wikipediaTitles: titles, qids } satisfies Curated, excluded: excluded.length };
 }
 
 /**
- * When some queries failed, keep the previous import's events that this run
- * could not re-fetch (and their places), so a busy endpoint never deletes data.
+ * Merge freshly imported events and places into data/: add new ones, refresh
+ * events the importer wrote and nobody has edited, keep everything else.
  */
-export function carryForward(
-  fresh: { events: ImportedEvent[]; places: ImportedPlace[] },
-  previous: { events: ImportedEvent[]; places: ImportedPlace[] },
-  curated: Curated,
-): { events: ImportedEvent[]; places: ImportedPlace[]; carried: number } {
-  const have = new Set(fresh.events.map((e) => e.id));
-  const isCurated = (e: ImportedEvent) =>
-    [e.wikipedia?.en, e.wikipedia?.zh].some((t) => t && curated.wikipediaTitles.has(normTitle(t)));
-  const carriedEvents = previous.events.filter((e) => !have.has(e.id) && !isCurated(e));
-  const placeIds = new Set(fresh.places.map((p) => p.id));
-  const prevPlaces = new Map(previous.places.map((p) => [p.id, p]));
-  const extraPlaces: ImportedPlace[] = [];
-  for (const e of carriedEvents)
-    for (const l of e.locations) {
-      const p = prevPlaces.get(l.place);
-      if (p && !placeIds.has(p.id)) {
-        placeIds.add(p.id);
-        extraPlaces.push(p);
-      }
+export function mergeImport(
+  dataDir: string,
+  events: ImportedEvent[],
+  places: ImportedPlace[],
+  existing = existingData(dataDir),
+) {
+  const eventsDir = join(dataDir, 'events');
+  const placesDir = join(dataDir, 'places');
+  const count = { added: 0, refreshed: 0, unchanged: 0, keptEdited: 0, newPlaces: 0 };
+  for (const e of events) {
+    const before = existing.events.get(e.id);
+    if (before && !isUntouchedImport(before)) {
+      count.keptEdited++;
+      continue;
     }
-  return {
-    events: [...fresh.events, ...carriedEvents].sort((a, b) => a.start.year - b.start.year || a.id.localeCompare(b.id)),
-    places: [...fresh.places, ...extraPlaces].sort((a, b) => a.id.localeCompare(b.id)),
-    carried: carriedEvents.length,
-  };
+    const record = { ...clean(e), importHash: contentHash(e) };
+    if (before?.importHash === record.importHash) {
+      count.unchanged++;
+      continue;
+    }
+    writeRecord(eventsDir, e.id, record);
+    if (before) count.refreshed++;
+    else count.added++;
+  }
+  for (const { coords, ...p } of places) {
+    if (existing.places.has(p.id)) continue;
+    writeRecord(placesDir, p.id, { id: p.id, lng: coords[0], lat: coords[1], names: p.names });
+    count.newPlaces++;
+  }
+  return count;
 }
 
 async function main() {
@@ -448,7 +480,7 @@ async function main() {
       console.log(`${name.padEnd(24)} ${bindings.length} rows`);
       for (const binding of bindings) rows.push({ binding, cls });
     } catch {
-      console.warn(`::warning::Query for ${name} failed; keeping that class's events from the previous import`);
+      console.warn(`::warning::Query for ${name} failed; its existing events are kept`);
       failed.push(name);
     }
   }
@@ -472,36 +504,17 @@ async function main() {
       skipped.push(name);
     }
   }
-  if (skipped.length) console.warn(`Taiwan queries skipped: ${skipped.join(', ')}`);
-  const curated = curatedTitles();
-  let { events, places } = rowsToEvents(rows, curated);
+  const existing = existingData();
+  const { events, places } = rowsToEvents(rows, existing.curated);
+  const count = mergeImport(join(ROOT, 'data'), events, places, existing);
 
-  const outDir = join(ROOT, 'data', 'imported');
-  if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
-  const prevEventsFile = join(outDir, 'events.yaml');
-  const prevPlacesFile = join(outDir, 'places.yaml');
-  if ((failed.length || skipped.length) && existsSync(prevEventsFile) && existsSync(prevPlacesFile)) {
-    const previous = {
-      events: (parse(readFileSync(prevEventsFile, 'utf8')) as ImportedEvent[]) ?? [],
-      places: (parse(readFileSync(prevPlacesFile, 'utf8')) as ImportedPlace[]) ?? [],
-    };
-    const merged = carryForward({ events, places }, previous, curated);
-    ({ events, places } = merged);
-    console.log(`Kept ${merged.carried} events from the previous import that this run could not re-fetch`);
-  }
-  if (failed.length) console.warn(`General queries failed: ${failed.join(', ')}`);
-  const header = (what: string) =>
-    `# ${what} imported from Wikidata by scripts/import-wikidata.ts on ${new Date().toISOString().slice(0, 10)}.\n` +
-    `# Generated file: re-running the import replaces it. To edit an event, move it to data/events/\n` +
-    `# to rewrite it there; curated events are skipped by later imports.\n`;
-  writeFileSync(join(outDir, 'events.yaml'), header('Events') + stringify(events, { lineWidth: 0 }));
-  writeFileSync(join(outDir, 'places.yaml'), header('Places') + stringify(places, { lineWidth: 0, collectionStyle: 'any' }));
-  const byRegion = events.reduce<Record<string, number>>((acc, e) => {
-    for (const r of e.regions) acc[r] = (acc[r] ?? 0) + 1;
-    return acc;
-  }, {});
-  console.log(`Imported ${events.length} events and ${places.length} places →  data/imported/`);
-  console.log('By region:', byRegion);
+  if (failed.length) console.warn(`General queries failed: ${failed.join(', ')} (their existing events are kept)`);
+  if (skipped.length) console.warn(`Taiwan queries skipped: ${skipped.join(', ')}`);
+  console.log(`Wikidata returned ${events.length} new or importable events; ${existing.excluded} IDs are on the exclusion list`);
+  console.log(
+    `Added ${count.added}, refreshed ${count.refreshed}, unchanged ${count.unchanged}, ` +
+      `kept ${count.keptEdited} edited by people; ${count.newPlaces} new places`,
+  );
 }
 
 if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {

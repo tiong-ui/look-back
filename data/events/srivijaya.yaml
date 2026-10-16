@@ -1,0 +1,23 @@
+id: srivijaya
+title:
+  zh-TW: 三佛齊
+  en: Srivijaya
+summary:
+  zh-TW: 以蘇門答臘巨港為中心的海洋強權，控制麻六甲海峽的貿易，也是佛教學術中心，唐朝僧人義淨曾在此停留。
+  en: A maritime power centred on Palembang in Sumatra that controlled trade through the Strait of Malacca. It was also a centre of Buddhist learning where the Tang monk Yijing stayed.
+start: 650
+end: 1275
+precision: century
+approximate: true
+categories:
+  - dynasty
+  - trade
+regions:
+  - southeast-asia
+importance: 3
+locations:
+  - place: palembang
+    role: primary
+wikipedia:
+  en: Srivijaya
+  zh: 三佛齐

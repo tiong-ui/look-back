@@ -1,0 +1,25 @@
+id: wd-q710671
+title:
+  zh-TW: 日比谷縱火事件
+  en: Hibiya incendiary incident
+summary:
+  zh-TW: 1905年日本東京暴動縱火事件
+  en: 1905 riots in Tokyo
+start:
+  year: 1905
+  month: 9
+  day: 5
+precision: day
+categories:
+  - democracy
+regions:
+  - japan
+importance: 2
+wikidata: Q710671
+locations:
+  - place: wd-q1378533
+    role: primary
+wikipedia:
+  en: Hibiya incendiary incident
+  zh: 日比谷縱火事件
+importHash: 23f0e7399ef8

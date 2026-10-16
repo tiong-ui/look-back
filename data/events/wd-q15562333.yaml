@@ -1,0 +1,23 @@
+id: wd-q15562333
+title:
+  zh-TW: 第七次霍亂大流行
+  en: Seventh cholera pandemic
+summary:
+  zh-TW: the cholera pandemic, which spread mainly between 1961 and 1975, but the strain involved persists to the present
+  en: the cholera pandemic, which spread mainly between 1961 and 1975, but the strain involved persists to the present
+start:
+  year: 1961
+precision: year
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q15562333
+locations:
+  - place: wd-q14634
+    role: primary
+wikipedia:
+  en: Seventh cholera pandemic
+  zh: 第七次霍乱大流行
+importHash: 0584702dc3db

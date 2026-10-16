@@ -1,0 +1,32 @@
+id: wd-q1641195
+title:
+  zh-TW: 戊申順化屠殺
+  en: massacre at Huế
+summary:
+  zh-TW: massacre in Vietnam War
+  en: massacre in Vietnam War
+start:
+  year: 1968
+  month: 2
+  day: 28
+end:
+  year: 1968
+  month: 2
+  day: 28
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1641195
+locations:
+  - place: wd-q36399
+    role: primary
+  - place: wd-q36167
+    role: secondary
+wikipedia:
+  en: Massacre at Huế
+  zh: 戊申順化屠殺
+importHash: 9217a4790156

@@ -1,0 +1,27 @@
+id: wd-q4120993
+title:
+  zh-TW: 1966年塔什干地震
+  en: Tashkent earthquake (1966)
+summary:
+  zh-TW: 1966 earthquake centered in Tashkent, Uzbek SSR
+  en: 1966 earthquake centered in Tashkent, Uzbek SSR
+start:
+  year: 1966
+  month: 4
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 2
+wikidata: Q4120993
+locations:
+  - place: wd-q4120993-site
+    role: primary
+  - place: wd-q269
+    role: secondary
+wikipedia:
+  en: 1966 Tashkent earthquake
+  zh: 1966年塔什干地震
+importHash: 9426ab68f5c7

@@ -1,0 +1,27 @@
+id: wd-q11357636
+title:
+  zh-TW: 三里塚鬥爭
+  en: Sanrizuka Struggle
+summary:
+  zh-TW: 關於成田國際機場之建設的抗爭
+  en: Japanese civil conflict over the construction of Narita Airport (1966-present)
+start:
+  year: 1966
+precision: year
+categories:
+  - democracy
+regions:
+  - japan
+importance: 1
+wikidata: Q11357636
+locations:
+  - place: wd-q11357636-site
+    role: primary
+  - place: wd-q273798
+    role: secondary
+  - place: wd-q1203689
+    role: secondary
+wikipedia:
+  en: Sanrizuka Struggle
+  zh: 三里塚鬥爭
+importHash: c1e38d4578f8

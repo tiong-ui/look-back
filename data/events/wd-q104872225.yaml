@@ -1,0 +1,25 @@
+id: wd-q104872225
+title:
+  zh-TW: 1947 Amritsar train massacre
+  en: 1947 Amritsar train massacre
+summary:
+  zh-TW: 1947 massacre in Amritsar, India
+  en: 1947 massacre in Amritsar, India
+start:
+  year: 1947
+  month: 9
+  day: 22
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q104872225
+locations:
+  - place: wd-q48403
+    role: primary
+wikipedia:
+  en: 1947 Amritsar train massacre
+importHash: ca6bce9a6fa3

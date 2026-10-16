@@ -1,0 +1,25 @@
+id: wd-q14168886
+title:
+  zh-TW: 2013年定西地震
+  en: 2013 Dingxi earthquakes
+summary:
+  zh-TW: 2013年中國甘肅省地震
+  en: 2013 earthquakes centered in Dingxi, Gansu province, China
+start:
+  year: 2013
+  month: 7
+  day: 22
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q14168886
+locations:
+  - place: wd-q14168886-site
+    role: primary
+wikipedia:
+  en: 2013 Dingxi earthquakes
+  zh: 2013年定西地震
+importHash: b8bf0138d6a6

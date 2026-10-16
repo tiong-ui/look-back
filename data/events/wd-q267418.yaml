@@ -1,0 +1,31 @@
+id: wd-q267418
+title:
+  zh-TW: Uzbin Valley ambush
+  en: Uzbin Valley ambush
+summary:
+  zh-TW: 2008 military Skirmish Between Taliban and French ISAF Forces in Afghanistan
+  en: 2008 military Skirmish Between Taliban and French ISAF Forces in Afghanistan
+start:
+  year: 2008
+  month: 8
+  day: 18
+end:
+  year: 2008
+  month: 8
+  day: 19
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q267418
+locations:
+  - place: wd-q267418-site
+    role: primary
+  - place: wd-q3473688
+    role: secondary
+wikipedia:
+  en: Uzbin Valley ambush
+importHash: b75470e92120

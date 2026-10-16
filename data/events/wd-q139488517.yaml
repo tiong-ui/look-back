@@ -1,0 +1,25 @@
+id: wd-q139488517
+title:
+  zh-TW: 2026年三陸近海地震
+  en: 2026 Sanriku earthquake
+summary:
+  zh-TW: earthquake in north Japan
+  en: earthquake in north Japan
+start:
+  year: 2026
+  month: 4
+  day: 20
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q139488517
+locations:
+  - place: wd-q139488517-site
+    role: primary
+wikipedia:
+  en: 2026 Sanriku earthquake
+  zh: 2026年三陆近海地震
+importHash: d63806a7384d

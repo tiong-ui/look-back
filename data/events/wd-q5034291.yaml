@@ -1,0 +1,27 @@
+id: wd-q5034291
+title:
+  zh-TW: 曹操攻徐州之戰
+  en: Cao Cao's invasion of Xu Province
+summary:
+  zh-TW: invasion by warlord Cao Cao against Tao Qian (193-194)
+  en: invasion by warlord Cao Cao against Tao Qian (193-194)
+start:
+  year: 193
+end:
+  year: 194
+  month: 1
+  day: 1
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q5034291
+locations:
+  - place: wd-q16963
+    role: primary
+wikipedia:
+  en: Cao Cao's invasion of Xu Province
+  zh: 曹操攻徐州之战
+importHash: 52e82ded9c77

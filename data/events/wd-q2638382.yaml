@@ -1,0 +1,29 @@
+id: wd-q2638382
+title:
+  zh-TW: Battle of Musa Qala
+  en: Battle of Musa Qala
+summary:
+  zh-TW: British led military action in Helmand Province, southern Afghanistan
+  en: British led military action in Helmand Province, southern Afghanistan
+start:
+  year: 2007
+  month: 12
+  day: 7
+end:
+  year: 2007
+  month: 12
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2638382
+locations:
+  - place: wd-q1953989
+    role: primary
+wikipedia:
+  en: Battle of Musa Qala
+importHash: 675e7f061629

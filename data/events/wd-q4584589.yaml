@@ -1,0 +1,25 @@
+id: wd-q4584589
+title:
+  zh-TW: 1988年尼泊爾地震
+  en: 1988 Nepal earthquake
+summary:
+  zh-TW: August 1988 earthquake in India and Nepal
+  en: August 1988 earthquake in India and Nepal
+start:
+  year: 1988
+  month: 8
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4584589
+locations:
+  - place: wd-q4584589-site
+    role: primary
+wikipedia:
+  en: 1988 Nepal earthquake
+  zh: 1988年尼泊爾地震
+importHash: c649bca0a6b4

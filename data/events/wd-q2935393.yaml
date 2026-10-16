@@ -1,0 +1,29 @@
+id: wd-q2935393
+title:
+  zh-TW: 休恩半島戰役
+  en: Huon Peninsula campaign
+summary:
+  zh-TW: 1943 Part of the New Guinea Campaign of the Pacific Theater (World War II)
+  en: 1943 Part of the New Guinea Campaign of the Pacific Theater (World War II)
+start:
+  year: 1943
+  month: 9
+  day: 22
+end:
+  year: 1944
+  month: 3
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 2
+wikidata: Q2935393
+locations:
+  - place: wd-q1350254
+    role: primary
+wikipedia:
+  en: Huon Peninsula campaign
+importHash: 126a265ef34d

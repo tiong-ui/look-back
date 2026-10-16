@@ -1,0 +1,26 @@
+id: wd-q764967
+title:
+  zh-TW: 安集延事件
+  en: Andijan massacre
+summary:
+  zh-TW: 2005年烏茲別克事件
+  en: violent incident in Andijan, Uzbekistan
+start:
+  year: 2005
+  month: 5
+  day: 13
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - central-asia
+importance: 3
+wikidata: Q764967
+locations:
+  - place: wd-q764967-site
+    role: primary
+wikipedia:
+  en: Andijan massacre
+  zh: 安集延事件
+importHash: 50beae10a411

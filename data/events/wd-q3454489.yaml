@@ -1,0 +1,26 @@
+id: wd-q3454489
+title:
+  zh-TW: 庫那西利·美那西之戰
+  en: Menashi–Kunashir rebellion
+summary:
+  zh-TW: 1789 battle between Wajin and Ainu in Northeastern Hokkaido
+  en: 1789 battle between Wajin and Ainu in Northeastern Hokkaido
+start:
+  year: 1789
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q3454489
+locations:
+  - place: wd-q847285
+    role: primary
+  - place: wd-q1134120
+    role: secondary
+wikipedia:
+  en: Menashi–Kunashir rebellion
+  zh: 國後目梨之戰
+importHash: ee313397862a

@@ -1,0 +1,25 @@
+id: wd-q123913022
+title:
+  zh-TW: 2023年積石山縣地震
+  en: 2023 Jishishan earthquake
+summary:
+  zh-TW: 發生於中國甘肅的地震
+  en: 18 December 2023 earthquake in Gansu, China
+start:
+  year: 2023
+  month: 12
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 3
+wikidata: Q123913022
+locations:
+  - place: wd-q123913022-site
+    role: primary
+wikipedia:
+  en: 2023 Jishishan earthquake
+  zh: 2023年积石山县地震
+importHash: d5108ee860cc

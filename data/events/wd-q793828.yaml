@@ -1,0 +1,26 @@
+id: wd-q793828
+title:
+  zh-TW: Battle of Kharda
+  en: Battle of Kharda
+summary:
+  zh-TW: 1795 battle between Nizam and Maratha Confederacy in Western India
+  en: 1795 battle between Nizam and Maratha Confederacy in Western India
+start:
+  year: 1795
+  month: 3
+  day: 11
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q793828
+locations:
+  - place: wd-q793828-site
+    role: primary
+  - place: wd-q6400611
+    role: secondary
+wikipedia:
+  en: Battle of Kharda
+importHash: 30b7bdcce296

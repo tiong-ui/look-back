@@ -1,0 +1,26 @@
+id: wd-q12427302
+title:
+  zh-TW: 楚烏薩戰役
+  en: Battle of Chausa
+summary:
+  zh-TW: 1539 military engagement between Humayun and Sher Shah Suri
+  en: 1539 military engagement between Humayun and Sher Shah Suri
+start:
+  year: 1539
+  month: 7
+  day: 6
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q12427302
+locations:
+  - place: wd-q11913632
+    role: primary
+wikipedia:
+  en: Battle of Chausa
+  zh: 楚烏薩戰役
+importHash: 4442a3cb2d8e

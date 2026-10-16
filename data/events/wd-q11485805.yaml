@@ -1,0 +1,24 @@
+id: wd-q11485805
+title:
+  zh-TW: 1894 Shōnai earthquake
+  en: 1894 Shōnai earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 1894
+  month: 10
+  day: 22
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11485805
+locations:
+  - place: wd-q11485805-site
+    role: primary
+wikipedia:
+  en: 1894 Shōnai earthquake
+importHash: 821f321c30d2

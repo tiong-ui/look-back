@@ -1,0 +1,25 @@
+id: wd-q50178713
+title:
+  zh-TW: 2018年巴布亞紐幾內亞地震
+  en: 2018 Papua New Guinea earthquake
+summary:
+  zh-TW: 2018 earthquake in Papua New Guinea
+  en: 2018 earthquake in Papua New Guinea
+start:
+  year: 2018
+  month: 2
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - asia
+importance: 2
+wikidata: Q50178713
+locations:
+  - place: wd-q50178713-site
+    role: primary
+wikipedia:
+  en: 2018 Papua New Guinea earthquake
+  zh: 2018年新几内亚岛地震
+importHash: c868763609cb

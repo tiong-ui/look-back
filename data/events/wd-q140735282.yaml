@@ -1,0 +1,25 @@
+id: wd-q140735282
+title:
+  zh-TW: 2026年熊本地震
+  en: 2026 Kumamoto earthquake
+summary:
+  zh-TW: 2026年日本九州中部熊本地方發生的地震
+  en: 2026 earthquake in Japan
+start:
+  year: 2026
+  month: 7
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 3
+wikidata: Q140735282
+locations:
+  - place: wd-q140735282-site
+    role: primary
+wikipedia:
+  en: 2026 Kumamoto earthquake
+  zh: 2026年熊本地震
+importHash: 3421db4721d5

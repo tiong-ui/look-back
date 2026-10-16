@@ -1,0 +1,24 @@
+id: wd-q3180568
+title:
+  zh-TW: Luso Sundanese padrão
+  en: Luso Sundanese padrão
+summary:
+  zh-TW: Sundanese archaeological site
+  en: Sundanese archaeological site
+start:
+  year: 1522
+  month: 8
+  day: 31
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q3180568
+locations:
+  - place: wd-q1286686
+    role: primary
+wikipedia:
+  en: Luso-Sundanese padrão
+importHash: af4b0681fc1b

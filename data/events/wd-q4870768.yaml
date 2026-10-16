@@ -1,0 +1,28 @@
+id: wd-q4870768
+title:
+  zh-TW: 科欽之戰
+  en: Battle of Cochin
+summary:
+  zh-TW: 1504 battle
+  en: 1504 battle
+start:
+  year: 1504
+  month: 3
+  day: 26
+end:
+  year: 1504
+  month: 7
+  day: 13
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870768
+locations:
+  - place: wd-q1800
+    role: primary
+wikipedia:
+  en: Battle of Cochin
+importHash: 6e4efdad292a

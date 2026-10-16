@@ -1,0 +1,27 @@
+id: taiwan-jade-network
+title:
+  zh-TW: 臺灣玉的海上交流網絡
+  en: Maritime jade network from Taiwan
+summary:
+  zh-TW: 花蓮豐田出產的閃玉被製成耳飾等器物，廣泛流通於菲律賓、越南、泰國與婆羅洲，顯示臺灣早在數千年前就是東南亞海上交流的一環。
+  en: Nephrite from Fengtian in Hualien was made into ear ornaments and other objects that circulated across the Philippines, Vietnam, Thailand and Borneo, showing Taiwan was part of Southeast Asian maritime exchange thousands of years ago.
+start: -1999
+end: 500
+precision: century
+approximate: true
+categories:
+  - trade
+  - prehistory
+regions:
+  - taiwan
+  - southeast-asia
+importance: 2
+locations:
+  - place: fengtian
+    role: origin
+  - place: manila
+    role: destination
+  - place: sa-huynh
+    role: destination
+wikipedia:
+  en: Maritime Jade Road

@@ -1,0 +1,28 @@
+id: wd-q7509865
+title:
+  zh-TW: Siege of Batavia
+  en: Siege of Batavia
+summary:
+  zh-TW: military campaign in Java by Sultan Agung in 1628 and 1629
+  en: military campaign in Java by Sultan Agung in 1628 and 1629
+start:
+  year: 1628
+end:
+  year: 1629
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q7509865
+locations:
+  - place: wd-q7509865-site
+    role: primary
+  - place: wd-q3757
+    role: secondary
+wikipedia:
+  en: Siege of Batavia
+importHash: 5fec641aafed

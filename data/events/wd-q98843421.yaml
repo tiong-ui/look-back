@@ -1,0 +1,25 @@
+id: wd-q98843421
+title:
+  zh-TW: 2020年內蒙古雙語教育新政策爭議
+  en: 2020 Inner Mongolia protests
+summary:
+  zh-TW: protest events in Inner Mongolia, China
+  en: protest events in Inner Mongolia, China
+start:
+  year: 2020
+  month: 8
+  day: 31
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q98843421
+locations:
+  - place: wd-q41079
+    role: primary
+wikipedia:
+  en: 2020 Inner Mongolia protests
+  zh: 2020年內蒙古雙語教育新政策爭議
+importHash: 422df8125a9d

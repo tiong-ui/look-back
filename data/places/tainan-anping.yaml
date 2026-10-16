@@ -1,0 +1,13 @@
+id: tainan-anping
+lng: 120.1606
+lat: 23.0016
+names:
+  - zh-TW: 大員
+    en: Tayouan
+    to: 1661
+  - zh-TW: 安平
+    en: Anping
+    from: 1662
+modern:
+  zh-TW: 臺南市安平區
+  en: Anping, Tainan

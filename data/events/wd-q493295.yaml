@@ -1,0 +1,29 @@
+id: wd-q493295
+title:
+  zh-TW: 金城戰役
+  en: Battle of Kumsong
+summary:
+  zh-TW: 1953 battle
+  en: 1953 battle
+start:
+  year: 1953
+  month: 7
+  day: 13
+end:
+  year: 1953
+  month: 7
+  day: 27
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q493295
+locations:
+  - place: wd-q485618
+    role: primary
+wikipedia:
+  en: Battle of Kumsong
+  zh: 金城戰役
+importHash: 90530bf7d0f7

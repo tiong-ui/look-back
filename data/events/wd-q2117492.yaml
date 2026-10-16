@@ -1,0 +1,29 @@
+id: wd-q2117492
+title:
+  zh-TW: 巴塘海峽戰役
+  en: Battle of Badung Strait
+summary:
+  zh-TW: 1942 navel battle
+  en: 1942 navel battle
+start:
+  year: 1942
+  month: 2
+  day: 18
+end:
+  year: 1942
+  month: 2
+  day: 20
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2117492
+locations:
+  - place: wd-q2455801
+    role: primary
+wikipedia:
+  en: Battle of Badung Strait
+  zh: 巴塘海峡战役
+importHash: 23aa384eb8cb

@@ -1,0 +1,24 @@
+id: wd-q136695875
+title:
+  zh-TW: November 2025 Afghanistan earthquake
+  en: November 2025 Afghanistan earthquake
+summary:
+  zh-TW: earthquake in Balkh Province, Afghanistan
+  en: earthquake in Balkh Province, Afghanistan
+start:
+  year: 2025
+  month: 11
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q136695875
+locations:
+  - place: wd-q136695875-site
+    role: primary
+wikipedia:
+  en: 2025 Balkh earthquake
+importHash: c846147438df

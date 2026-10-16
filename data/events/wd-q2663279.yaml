@@ -1,0 +1,28 @@
+id: wd-q2663279
+title:
+  zh-TW: 八里橋之戰
+  en: Battle of Palikao
+summary:
+  zh-TW: 1860 battle during the Second Opium War
+  en: 1860 battle during the Second Opium War
+start:
+  year: 1860
+  month: 9
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2663279
+locations:
+  - place: wd-q2663279-site
+    role: primary
+  - place: wd-q2566752
+    role: secondary
+wikipedia:
+  en: Battle of Palikao
+  zh: 八里橋之戰
+importHash: 97be88faef49

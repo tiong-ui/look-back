@@ -1,0 +1,22 @@
+id: wd-q4872020
+title:
+  zh-TW: Battle of Peshawar
+  en: Battle of Peshawar
+summary:
+  zh-TW: 1758 battle between Maratha and Durrani Empires
+  en: 1758 battle between Maratha and Durrani Empires
+start:
+  year: 1758
+  month: 5
+  day: 8
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872020
+locations:
+  - place: wd-q1113311
+    role: primary
+importHash: d542edcc3052

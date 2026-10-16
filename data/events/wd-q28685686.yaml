@@ -1,0 +1,25 @@
+id: wd-q28685686
+title:
+  zh-TW: 2016年鳥取地震
+  en: 2016 Tottori earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2016
+  month: 10
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q28685686
+locations:
+  - place: wd-q28685686-site
+    role: primary
+wikipedia:
+  en: 2016 Tottori earthquake
+  zh: 2016年鸟取地震
+importHash: 3be5aa07bd71

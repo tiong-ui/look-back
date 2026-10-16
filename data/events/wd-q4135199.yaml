@@ -1,0 +1,20 @@
+id: wd-q4135199
+title:
+  zh-TW: Q4135199
+summary:
+  zh-TW: Q4135199
+start:
+  year: 1873
+  month: 8
+  day: 24
+precision: day
+categories:
+  - diplomacy
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4135199
+locations:
+  - place: wd-q486195
+    role: primary
+importHash: 95f51dc7833f

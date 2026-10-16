@@ -1,0 +1,27 @@
+id: wd-q163270
+title:
+  zh-TW: 第二次三十年戰爭
+  en: Second Thirty Years' War
+summary:
+  zh-TW: periodization scheme encompassing European wars from 1914 to 1945
+  en: periodization scheme encompassing European wars from 1914 to 1945
+start:
+  year: 1914
+end:
+  year: 1945
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q163270
+locations:
+  - place: wd-q5401
+    role: primary
+wikipedia:
+  en: Second Thirty Years' War
+  zh: 第二次三十年战争
+importHash: 69a7e3b5bc7f

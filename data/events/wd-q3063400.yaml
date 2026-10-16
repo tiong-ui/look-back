@@ -1,0 +1,28 @@
+id: wd-q3063400
+title:
+  zh-TW: Battle of Madras
+  en: Battle of Madras
+summary:
+  zh-TW: 1746 battle of the War of the Austrian Succession
+  en: 1746 battle of the War of the Austrian Succession
+start:
+  year: 1746
+  month: 9
+  day: 7
+end:
+  year: 1746
+  month: 9
+  day: 9
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3063400
+locations:
+  - place: wd-q1352
+    role: primary
+wikipedia:
+  en: Battle of Madras
+importHash: c24b4f0387b0

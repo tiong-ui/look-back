@@ -1,0 +1,27 @@
+id: wd-q35519507
+title:
+  zh-TW: 2017年九寨溝地震
+  en: 2017 Jiuzhaigou earthquake
+summary:
+  zh-TW: 2017年發生的中國地震
+  en: 7.0 Mw earthquake which took place near Zhangzha Town on 8 August 2017
+start:
+  year: 2017
+  month: 8
+  day: 8
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q35519507
+locations:
+  - place: wd-q35519507-site
+    role: primary
+  - place: wd-q1200130
+    role: secondary
+wikipedia:
+  en: 2017 Jiuzhaigou earthquake
+  zh: 2017年九寨沟地震
+importHash: a4de3af13e73

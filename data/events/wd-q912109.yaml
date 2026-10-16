@@ -1,0 +1,25 @@
+id: wd-q912109
+title:
+  zh-TW: 漢城條約
+  en: Japan–Korea Treaty of 1885
+summary:
+  zh-TW: 1885年日本與朝鮮國締結的條約
+  en: 1885 treaty between Japan and Korea regarding the Gapsin Coup
+start:
+  year: 1885
+  month: 1
+  day: 9
+precision: day
+categories:
+  - diplomacy
+regions:
+  - korea
+importance: 2
+wikidata: Q912109
+locations:
+  - place: wd-q624467
+    role: primary
+wikipedia:
+  en: Japan–Korea Treaty of 1885
+  zh: 汉城条约
+importHash: 366b6f2754ac

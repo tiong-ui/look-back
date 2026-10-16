@@ -1,0 +1,32 @@
+id: wd-q710000
+title:
+  zh-TW: 蘭里島之戰
+  en: Battle of Ramree Island
+summary:
+  zh-TW: 1945 battle
+  en: 1945 battle
+start:
+  year: 1945
+  month: 1
+  day: 14
+end:
+  year: 1945
+  month: 2
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q710000
+locations:
+  - place: wd-q710000-site
+    role: primary
+  - place: wd-q2528002
+    role: secondary
+wikipedia:
+  en: Battle of Ramree Island
+  zh: 兰里岛之战
+importHash: 954f6c0711e0

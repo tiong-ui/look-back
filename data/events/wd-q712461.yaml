@@ -1,0 +1,30 @@
+id: wd-q712461
+title:
+  zh-TW: 會津戰爭
+  en: Battle of Aizu
+summary:
+  zh-TW: 1868 battle of the Boshin War
+  en: 1868 battle of the Boshin War
+start:
+  year: 1868
+  month: 11
+  day: 6
+end:
+  year: 1868
+  month: 11
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q712461
+locations:
+  - place: wd-q712461-site
+    role: primary
+wikipedia:
+  en: Battle of Aizu
+  zh: 會津戰爭
+importHash: 4e2a89329a7d

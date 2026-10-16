@@ -1,0 +1,25 @@
+id: wd-q55529
+title:
+  zh-TW: 730事件
+  en: "730"
+summary:
+  zh-TW: 沖繩由靠右改為靠左行駛的運動
+  en: day in Okinawa when the change from right-hand traffic to left-hand traffic occurred
+start:
+  year: 1978
+  month: 7
+  day: 30
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q55529
+locations:
+  - place: wd-q766445
+    role: primary
+wikipedia:
+  en: 730 (transport)
+  zh: 730 (交通)
+importHash: 265474e3e03f

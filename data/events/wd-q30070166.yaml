@@ -1,0 +1,25 @@
+id: wd-q30070166
+title:
+  zh-TW: 1973年阿富汗政變
+  en: 1973 Afghan coup d'état
+summary:
+  zh-TW: July 1973 coup in Afghanistan removing the monarchy and establishing a republic
+  en: July 1973 coup in Afghanistan removing the monarchy and establishing a republic
+start:
+  year: 1973
+  month: 7
+  day: 17
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q30070166
+locations:
+  - place: wd-q5838
+    role: primary
+wikipedia:
+  en: 1973 Afghan coup d'état
+  zh: 1973年阿富汗政變
+importHash: 7ebdd6713fdf

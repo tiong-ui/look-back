@@ -1,0 +1,27 @@
+id: wd-q1073897
+title:
+  zh-TW: 小谷城之戰
+  en: Siege of Odani Castle
+summary:
+  zh-TW: 1573 siege in Japan
+  en: 1573 siege in Japan
+start:
+  year: 1573
+end:
+  year: 1573
+  month: 10
+  day: 6
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q1073897
+locations:
+  - place: wd-q2436937
+    role: primary
+wikipedia:
+  en: Siege of Odani Castle
+  zh: 小谷城之戰
+importHash: 65f0e10186aa

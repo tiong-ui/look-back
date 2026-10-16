@@ -1,0 +1,26 @@
+id: wd-q123215
+title:
+  zh-TW: Battle of Jaxartes
+  en: Battle of Jaxartes
+summary:
+  zh-TW: 329 BCE battle
+  en: 329 BCE battle
+start:
+  year: -328
+  month: 10
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q123215
+locations:
+  - place: wd-q123215-site
+    role: primary
+  - place: wd-q483159
+    role: secondary
+wikipedia:
+  en: Battle of Jaxartes
+importHash: 7fb2f36e2a0f

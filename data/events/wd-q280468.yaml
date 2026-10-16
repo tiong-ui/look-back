@@ -1,0 +1,28 @@
+id: wd-q280468
+title:
+  zh-TW: 北邑戰役
+  en: Battle of Ap Bac
+summary:
+  zh-TW: 1963 battle of the Vietnam War
+  en: 1963 battle of the Vietnam War
+start:
+  year: 1963
+  month: 1
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q280468
+locations:
+  - place: wd-q280468-site
+    role: primary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of Ap Bac
+importHash: e48f2e39d3c9

@@ -1,0 +1,30 @@
+id: wd-q1014253
+title:
+  zh-TW: 蒙金戰爭
+  en: Mongol conquest of the Jin dynasty
+summary:
+  zh-TW: 1211–1234 campaign in northern China
+  en: 1211–1234 campaign in northern China
+start:
+  year: 1211
+end:
+  year: 1234
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q1014253
+locations:
+  - place: wd-q1046848
+    role: primary
+relations:
+  - event: wd-q4301657
+    type: part_of
+wikipedia:
+  en: Mongol conquest of the Jin dynasty
+  zh: 蒙金戰爭
+importHash: 29c1a744ec54

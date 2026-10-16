@@ -1,0 +1,25 @@
+id: wd-q5558506
+title:
+  zh-TW: 武漢分共
+  en: 715 Incident
+summary:
+  zh-TW: 歷史事件
+  en: event in which Wuhan Government leader Wang Jingwei ordered a purge of Communists in July 1927
+start:
+  year: 1927
+  month: 7
+  day: 15
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q5558506
+locations:
+  - place: wd-q11746
+    role: primary
+wikipedia:
+  en: July 15 Incident
+  zh: 七一五事变
+importHash: 337f6c6679bc

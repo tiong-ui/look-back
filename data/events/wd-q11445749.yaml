@@ -1,0 +1,27 @@
+id: wd-q11445749
+title:
+  zh-TW: 奧州徵戰
+  en: Battle of Ōshū
+summary:
+  zh-TW: 1189 battle in Tōhoku, Japan
+  en: 1189 battle in Tōhoku, Japan
+start:
+  year: 1189
+end:
+  year: 1189
+  month: 10
+  day: 21
+precision: year
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q11445749
+locations:
+  - place: wd-q907389
+    role: primary
+wikipedia:
+  en: Battle of Ōshū
+  zh: 奧州合戰
+importHash: dc4e1e9341ac

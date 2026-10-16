@@ -1,0 +1,28 @@
+id: wd-q4870294
+title:
+  zh-TW: 廈門戰役
+  en: Battle of Amoy
+summary:
+  zh-TW: 第一次鴉片戰爭的一部分
+  en: 1841 battle of the First Opium War
+start:
+  year: 1841
+  month: 8
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870294
+locations:
+  - place: wd-q4870294-site
+    role: primary
+  - place: wd-q68744
+    role: secondary
+wikipedia:
+  en: Battle of Amoy
+  zh: 厦门战役 (鸦片战争)
+importHash: d32f5adb5a19

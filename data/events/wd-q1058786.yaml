@@ -1,0 +1,30 @@
+id: wd-q1058786
+title:
+  zh-TW: 神流川之戰
+  en: Battle of Kannagawa
+summary:
+  zh-TW: 1582 battle
+  en: 1582 battle
+start:
+  year: 1582
+  month: 6
+  day: 29
+end:
+  year: 1582
+  month: 7
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1058786
+locations:
+  - place: wd-q1058786-site
+    role: primary
+wikipedia:
+  en: Battle of Kanagawa
+  zh: 神流川之戰
+importHash: 2f9cc45376ce

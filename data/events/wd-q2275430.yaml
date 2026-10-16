@@ -1,0 +1,30 @@
+id: wd-q2275430
+title:
+  zh-TW: Second Siege of Takatenjin
+  en: Second Siege of Takatenjin
+summary:
+  zh-TW: 1581 The Takeda lost the fortress to Oda Nobunaga
+  en: 1581 The Takeda lost the fortress to Oda Nobunaga
+start:
+  year: 1581
+  month: 4
+  day: 1
+end:
+  year: 1581
+  month: 3
+  day: 22
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2275430
+locations:
+  - place: wd-q2275430-site
+    role: primary
+  - place: wd-q11669114
+    role: secondary
+wikipedia:
+  en: Siege of Takatenjin (1581)
+importHash: 067fb2af2495

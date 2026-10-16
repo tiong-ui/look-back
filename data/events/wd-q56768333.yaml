@@ -1,0 +1,27 @@
+id: wd-q56768333
+title:
+  zh-TW: 2018年蘇拉威西島地震
+  en: 2018 Sulawesi earthquake and tsunami
+summary:
+  zh-TW: 2018 earthquake in Minahassa Peninsula
+  en: 2018 earthquake in Minahassa Peninsula
+start:
+  year: 2018
+  month: 9
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q56768333
+locations:
+  - place: wd-q56768333-site
+    role: primary
+  - place: wd-q15814
+    role: secondary
+wikipedia:
+  en: 2018 Sulawesi earthquake and tsunami
+  zh: 2018年苏拉威西岛地震
+importHash: e2e9c51dc29c

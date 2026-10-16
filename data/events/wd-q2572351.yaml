@@ -1,0 +1,25 @@
+id: wd-q2572351
+title:
+  zh-TW: 西貢條約
+  en: treaty of Saigon
+summary:
+  zh-TW: 1862 treaty between Vietnam and France
+  en: 1862 treaty between Vietnam and France
+start:
+  year: 1862
+  month: 6
+  day: 5
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q2572351
+locations:
+  - place: wd-q1854
+    role: primary
+wikipedia:
+  en: Treaty of Saigon (1862)
+  zh: 第一次西貢條約
+importHash: 3821e51fe338

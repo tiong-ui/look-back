@@ -1,0 +1,25 @@
+id: wd-q1575941
+title:
+  zh-TW: 羅森-西協議
+  en: Nishi–Rosen Agreement
+summary:
+  zh-TW: agreement signed between the Empire of Japan and the Empire of Russia
+  en: agreement signed between the Empire of Japan and the Empire of Russia
+start:
+  year: 1898
+  month: 4
+  day: 25
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 2
+wikidata: Q1575941
+locations:
+  - place: wd-q1490
+    role: primary
+wikipedia:
+  en: Nishi–Rosen Agreement
+  zh: 罗森-西协议
+importHash: d8ddd1ec4c39

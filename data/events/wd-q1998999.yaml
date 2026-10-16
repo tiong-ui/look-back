@@ -1,0 +1,29 @@
+id: wd-q1998999
+title:
+  zh-TW: 西貢之圍
+  en: Siege of Saigon
+summary:
+  zh-TW: two-year siege of Saigon started with its capture on February 17, 1859 by Franco-Spanish forces
+  en: two-year siege of Saigon started with its capture on February 17, 1859 by Franco-Spanish forces
+start:
+  year: 1860
+  month: 3
+end:
+  year: 1861
+  month: 2
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1998999
+locations:
+  - place: wd-q1998999-site
+    role: primary
+  - place: wd-q1854
+    role: secondary
+wikipedia:
+  en: Siege of Saigon
+importHash: d31b39c0d179

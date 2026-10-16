@@ -1,0 +1,30 @@
+id: wd-q836310
+title:
+  zh-TW: 六七暴動
+  en: Hong Kong 1967 leftist riots
+summary:
+  zh-TW: 1967年香港親共人士對抗英屬香港政府的暴動
+  en: riot
+start:
+  year: 1967
+  month: 5
+end:
+  year: 1967
+  month: 12
+  day: 1
+precision: month
+categories:
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q836310
+locations:
+  - place: wd-q836310-site
+    role: primary
+  - place: wd-q1054923
+    role: secondary
+wikipedia:
+  en: 1967 Hong Kong riots
+  zh: 六七暴動
+importHash: 75396782d90a

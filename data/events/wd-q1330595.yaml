@@ -1,0 +1,31 @@
+id: wd-q1330595
+title:
+  zh-TW: 樊城之戰
+  en: Battle of Fancheng
+summary:
+  zh-TW: battle between warlords Liu Bei and Cao Cao (219)
+  en: battle between warlords Liu Bei and Cao Cao (219)
+start:
+  year: 219
+  month: 7
+end:
+  year: 219
+  month: 9
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1330595
+locations:
+  - place: wd-q1330595-site
+    role: primary
+  - place: wd-q1349369
+    role: secondary
+wikipedia:
+  en: Battle of Fancheng
+  zh: 樊城之戰
+importHash: e056d32c0bbd

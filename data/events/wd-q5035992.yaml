@@ -1,0 +1,28 @@
+id: wd-q5035992
+title:
+  zh-TW: Capitulation of Tainan
+  en: Capitulation of Tainan
+summary:
+  zh-TW: 1895 last act in the Japanese invasion of Taiwan
+  en: 1895 last act in the Japanese invasion of Taiwan
+start:
+  year: 1895
+  month: 10
+  day: 21
+precision: day
+categories:
+  - war
+  - diplomacy
+regions:
+  - taiwan
+importance: 2
+wikidata: Q5035992
+locations:
+  - place: wd-q140631
+    role: primary
+relations:
+  - event: wd-q717373
+    type: part_of
+wikipedia:
+  en: Capitulation of Tainan
+importHash: 7acdc57f0c91

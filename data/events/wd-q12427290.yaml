@@ -1,0 +1,25 @@
+id: wd-q12427290
+title:
+  zh-TW: 喬裡－喬拉事件
+  en: Chauri Chaura incident
+summary:
+  zh-TW: train accident in Uttar Pradesh, India
+  en: train accident in Uttar Pradesh, India
+start:
+  year: 1922
+  month: 2
+  day: 5
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q12427290
+locations:
+  - place: wd-q12427290-site
+    role: primary
+wikipedia:
+  en: Chauri Chaura incident
+  zh: 乔里乔拉事件
+importHash: 021c8605c202

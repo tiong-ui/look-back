@@ -1,0 +1,32 @@
+id: wd-q1352401
+title:
+  zh-TW: 薩英戰爭
+  en: Bombardment of Kagoshima
+summary:
+  zh-TW: 薩摩藩與英國之間的軍事衝突
+  en: 1863 battle between Britain and the Satsuma Domain
+start:
+  year: 1863
+  month: 8
+  day: 15
+end:
+  year: 1863
+  month: 8
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1352401
+locations:
+  - place: wd-q1352401-site
+    role: primary
+  - place: wd-q15674
+    role: secondary
+wikipedia:
+  en: Bombardment of Kagoshima
+  zh: 薩英戰爭
+importHash: 54a7b249cdaf

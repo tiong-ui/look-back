@@ -1,0 +1,28 @@
+id: wd-q1078359
+title:
+  zh-TW: 厓山海戰
+  en: Battle of Yamen
+summary:
+  zh-TW: 元朝正式滅亡宋朝的一場戰役
+  en: 1279 battle
+start:
+  year: 1279
+  month: 3
+  day: 19
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q1078359
+locations:
+  - place: wd-q1078359-site
+    role: primary
+  - place: wd-q1023903
+    role: secondary
+wikipedia:
+  en: Battle of Yamen
+  zh: 崖门海战
+importHash: e6cf5af17281

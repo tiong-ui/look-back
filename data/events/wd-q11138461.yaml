@@ -1,0 +1,25 @@
+id: wd-q11138461
+title:
+  zh-TW: Kot Massacre
+  en: Kot Massacre
+summary:
+  zh-TW: 1846 mass killing of Nepalese government officials and royals
+  en: 1846 mass killing of Nepalese government officials and royals
+start:
+  year: 1846
+  month: 9
+  day: 14
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q11138461
+locations:
+  - place: wd-q6122177
+    role: primary
+wikipedia:
+  en: Kot massacre
+importHash: 4781e1bae313

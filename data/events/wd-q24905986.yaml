@@ -1,0 +1,22 @@
+id: wd-q24905986
+title:
+  zh-TW: 1985 Gujarat riots
+  en: 1985 Gujarat riots
+summary:
+  zh-TW: Indian Hindu-Muslim violence in Gujarat State
+  en: Indian Hindu-Muslim violence in Gujarat State
+start:
+  year: 1985
+precision: year
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q24905986
+locations:
+  - place: wd-q24905986-site
+    role: primary
+wikipedia:
+  en: 1985 Gujarat riots
+importHash: 13f19fd71c9b

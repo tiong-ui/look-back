@@ -1,0 +1,29 @@
+id: wd-q476634
+title:
+  zh-TW: 南昌起義
+  en: Nanchang Uprising
+summary:
+  zh-TW: 1927年起義
+  en: communist rebellion to form the PLA in China
+start:
+  year: 1927
+  month: 8
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q476634
+locations:
+  - place: wd-q171943
+    role: primary
+relations:
+  - event: wd-q179975
+    type: part_of
+wikipedia:
+  en: Nanchang Uprising
+  zh: 南昌起義
+importHash: 804f3c1b832a

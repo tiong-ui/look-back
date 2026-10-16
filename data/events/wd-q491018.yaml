@@ -1,0 +1,25 @@
+id: wd-q491018
+title:
+  zh-TW: 居昌事件
+  en: Geochang massacre
+summary:
+  zh-TW: 居昌事件
+start:
+  year: 1951
+  month: 2
+  day: 9
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q491018
+locations:
+  - place: wd-q491018-site
+    role: primary
+wikipedia:
+  en: Geochang massacre
+  zh: 居昌屠杀事件
+importHash: d014f61ef404

@@ -1,0 +1,25 @@
+id: wd-q13593376
+title:
+  zh-TW: 2013年亞齊地震
+  en: 2013 Aceh earthquake
+summary:
+  zh-TW: earthquake that struck Aceh, Sumatra, Indonesia in 2013
+  en: earthquake that struck Aceh, Sumatra, Indonesia in 2013
+start:
+  year: 2013
+  month: 7
+  day: 2
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q13593376
+locations:
+  - place: wd-q13593376-site
+    role: primary
+wikipedia:
+  en: 2013 Aceh earthquake
+  zh: 2013年亞齊地震
+importHash: 7e1e8deb5f46

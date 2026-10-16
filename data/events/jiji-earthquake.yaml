@@ -1,0 +1,23 @@
+id: jiji-earthquake
+title:
+  zh-TW: 九二一大地震
+  en: 921 earthquake
+summary:
+  zh-TW: 南投集集發生規模7.3地震，造成2,400多人死亡、十萬多棟房屋損毀，是臺灣戰後傷亡最慘重的天災，也帶動建築法規與防災體系的改革。
+  en: A magnitude 7.3 quake centred near Jiji, Nantou, killed more than 2,400 people and damaged over 100,000 homes. Taiwan's deadliest post-war disaster, it led to reforms of building codes and disaster response.
+start:
+  year: 1999
+  month: 9
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: jiji
+    role: primary
+wikipedia:
+  en: 1999 Jiji earthquake
+  zh: 九二一大地震

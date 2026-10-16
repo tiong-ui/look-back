@@ -1,0 +1,27 @@
+id: wd-q4872771
+title:
+  zh-TW: 英吉沙戰役
+  en: Battle of Yangi Hissar
+summary:
+  zh-TW: 1934 battle of the Kumul Rebellion
+  en: 1934 battle of the Kumul Rebellion
+start:
+  year: 1934
+  month: 4
+precision: month
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4872771
+locations:
+  - place: wd-q1023063
+    role: primary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Battle of Yangi Hissar
+  zh: 英吉沙战役
+importHash: de789825c1b6

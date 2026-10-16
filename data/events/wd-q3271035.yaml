@@ -1,0 +1,23 @@
+id: wd-q3271035
+title:
+  zh-TW: 沙苑之役
+  en: Battle of Shayuan
+summary:
+  zh-TW: battle during the Northern and Southern Dynasties of China
+  en: battle during the Northern and Southern Dynasties of China
+start:
+  year: 537
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q3271035
+locations:
+  - place: wd-q47974
+    role: primary
+wikipedia:
+  en: Battle of Shayuan
+  zh: 沙苑之戰
+importHash: 86849c42708c

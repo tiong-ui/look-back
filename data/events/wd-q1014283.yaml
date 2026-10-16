@@ -1,0 +1,25 @@
+id: wd-q1014283
+title:
+  zh-TW: 三陸遙沖地震
+  en: 1994 offshore Sanriku earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 1994
+  month: 12
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q1014283
+locations:
+  - place: wd-q1014283-site
+    role: primary
+wikipedia:
+  en: 1994 offshore Sanriku earthquake
+  zh: 三陆遥冲地震
+importHash: aa148ee7ba22

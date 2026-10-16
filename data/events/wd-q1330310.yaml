@@ -1,0 +1,30 @@
+id: wd-q1330310
+title:
+  zh-TW: 長坂坡之戰
+  en: Battle of Changban
+summary:
+  zh-TW: battle between warlords Cao Cao and Liu Bei (208)
+  en: battle between warlords Cao Cao and Liu Bei (208)
+start:
+  year: 208
+  month: 10
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1330310
+locations:
+  - place: wd-q1330310-site
+    role: primary
+  - place: wd-q71323
+    role: secondary
+relations:
+  - event: wd-q830059
+    type: part_of
+wikipedia:
+  en: Battle of Changban
+  zh: 长坂坡之战
+importHash: 5a60c21beab9

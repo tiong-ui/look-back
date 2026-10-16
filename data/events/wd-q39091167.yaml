@@ -1,0 +1,29 @@
+id: wd-q39091167
+title:
+  zh-TW: 哈勒比德之圍
+  en: Siege of Dwarasamudra
+summary:
+  zh-TW: 1311 siege of Hoysala Empire by Delhi Sultanate
+  en: 1311 siege of Hoysala Empire by Delhi Sultanate
+start:
+  year: 1311
+  month: 3
+  day: 6
+end:
+  year: 1311
+  month: 3
+  day: 7
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q39091167
+locations:
+  - place: wd-q1013556
+    role: primary
+wikipedia:
+  en: Siege of Dwarasamudra
+  zh: 哈勒比德之围
+importHash: b6b1301a2fa6

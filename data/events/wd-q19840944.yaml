@@ -1,0 +1,25 @@
+id: wd-q19840944
+title:
+  zh-TW: 中美友好通商航海條約
+  en: Treaty of Friendship, Commerce and Navigation between the United States of America and the Republic of China
+summary:
+  zh-TW: 1946 treaty between the United States and China
+  en: 1946 treaty between the United States and China
+start:
+  year: 1946
+  month: 11
+  day: 4
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q19840944
+locations:
+  - place: wd-q16666
+    role: primary
+wikipedia:
+  en: Treaty of Friendship, Commerce and Navigation between the United States of America and the Republic of China
+  zh: 中美友好通商航海条约
+importHash: 7014eaf14012

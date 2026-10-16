@@ -1,0 +1,27 @@
+id: wd-q493131
+title:
+  zh-TW: 平澤戰役
+  en: Battle of Pyongtaek
+summary:
+  zh-TW: 1950 battle of the Korean War
+  en: 1950 battle of the Korean War
+start:
+  year: 1950
+  month: 7
+  day: 6
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q493131
+locations:
+  - place: wd-q493131-site
+    role: primary
+  - place: wd-q42154
+    role: secondary
+wikipedia:
+  en: Battle of Pyongtaek
+  zh: 平泽战役
+importHash: 556b90ec2e7b

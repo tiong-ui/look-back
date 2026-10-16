@@ -1,0 +1,25 @@
+id: wd-q27970555
+title:
+  zh-TW: 2016年亞齊地震
+  en: 2016 Aceh earthquake
+summary:
+  zh-TW: earthquake in Sumatra, Indonesia
+  en: earthquake in Sumatra, Indonesia
+start:
+  year: 2016
+  month: 12
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q27970555
+locations:
+  - place: wd-q27970555-site
+    role: primary
+wikipedia:
+  en: 2016 Aceh earthquake
+  zh: 2016年亚齐地震
+importHash: ccc675c9f551

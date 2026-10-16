@@ -1,0 +1,27 @@
+id: imjin-war
+title:
+  zh-TW: 壬辰戰爭
+  en: Imjin War
+summary:
+  zh-TW: 豐臣秀吉兩度出兵朝鮮，自肥前名護屋城渡海登陸釜山，明朝出兵援朝，戰爭以秀吉死後日軍撤退告終，三國均受重創。
+  en: Toyotomi Hideyoshi twice invaded Korea, sailing from Nagoya Castle in Hizen to land at Busan. The Ming sent armies to help Joseon, and the war ended with Japan's withdrawal after Hideyoshi's death, leaving all three states badly damaged.
+start: 1592
+end: 1598
+precision: year
+categories:
+  - war
+regions:
+  - korea
+  - japan
+  - china
+importance: 4
+locations:
+  - place: hizen-nagoya
+    role: origin
+  - place: busan
+    role: destination
+  - place: seoul
+    role: secondary
+wikipedia:
+  en: Imjin War
+  zh: 壬辰倭乱

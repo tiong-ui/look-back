@@ -1,0 +1,27 @@
+id: wd-q21201293
+title:
+  zh-TW: 2015年興都庫什山脈地震
+  en: 2015 Hindu Kush earthquake
+summary:
+  zh-TW: earthquake which occurred on 26 October 2015
+  en: earthquake which occurred on 26 October 2015
+start:
+  year: 2015
+  month: 10
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 3
+wikidata: Q21201293
+locations:
+  - place: wd-q21201293-site
+    role: primary
+  - place: wd-q5472
+    role: secondary
+wikipedia:
+  en: October 2015 Hindu Kush earthquake
+  zh: 2015年興都庫什山脈地震
+importHash: 83f00801ae2e

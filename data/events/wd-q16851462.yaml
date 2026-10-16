@@ -1,0 +1,25 @@
+id: wd-q16851462
+title:
+  zh-TW: Siege of Kamarja
+  en: Siege of Kamarja
+summary:
+  zh-TW: battle fought in 729 CE
+  en: battle fought in 729 CE
+start:
+  year: 729
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+  - south-asia
+importance: 1
+wikidata: Q16851462
+locations:
+  - place: wd-q16851462-site
+    role: primary
+  - place: wd-q60294813
+    role: secondary
+wikipedia:
+  en: Siege of Kamarja
+importHash: 4f70d48cc231

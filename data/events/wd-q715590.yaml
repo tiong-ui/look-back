@@ -1,0 +1,25 @@
+id: wd-q715590
+title:
+  zh-TW: 塘沽協定
+  en: Tanggu Truce
+summary:
+  zh-TW: 和約
+  en: peace treaty
+start:
+  year: 1933
+  month: 5
+  day: 31
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 3
+wikidata: Q715590
+locations:
+  - place: wd-q1210368
+    role: primary
+wikipedia:
+  en: Tanggu Truce
+  zh: 塘沽协定
+importHash: b116204f1629

@@ -1,0 +1,26 @@
+id: wd-q4870289
+title:
+  zh-TW: 安布爾戰役
+  en: Battle of Ambur
+summary:
+  zh-TW: 1749 battle
+  en: 1749 battle
+start:
+  year: 1749
+  month: 8
+  day: 3
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870289
+locations:
+  - place: wd-q584854
+    role: primary
+wikipedia:
+  en: Battle of Ambur
+  zh: 安布爾戰役
+importHash: c2b334838895

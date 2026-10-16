@@ -1,0 +1,29 @@
+id: wd-q4872810
+title:
+  zh-TW: 鎮海之戰
+  en: Battle of Zhenhai
+summary:
+  zh-TW: 中法戰爭戰役
+start:
+  year: 1885
+  month: 3
+  day: 1
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4872810
+locations:
+  - place: wd-q4872810-site
+    role: primary
+  - place: wd-q197712
+    role: secondary
+relations:
+  - event: wd-q706183
+    type: part_of
+wikipedia:
+  en: Battle of Zhenhai
+  zh: 镇海之战 (1885年)
+importHash: 26ac136b015e

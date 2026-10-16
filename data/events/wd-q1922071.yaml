@@ -1,0 +1,38 @@
+id: wd-q1922071
+title:
+  zh-TW: 1971年印巴戰爭
+  en: Indo-Pakistani War of 1971
+summary:
+  zh-TW: 軍事衝突
+  en: 1971 war between India and Pakistan along Bengladesh Liberation War
+start:
+  year: 1971
+  month: 12
+  day: 3
+end:
+  year: 1971
+  month: 12
+  day: 16
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q1922071
+locations:
+  - place: wd-q38684
+    role: primary
+  - place: wd-q1366583
+    role: secondary
+  - place: wd-q2399139
+    role: secondary
+  - place: wd-q2635466
+    role: secondary
+relations:
+  - event: wd-q371394
+    type: part_of
+wikipedia:
+  en: India–Pakistan war of 1971
+  zh: 1971年印巴战争
+importHash: 6a8823359f97

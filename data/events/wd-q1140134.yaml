@@ -1,0 +1,28 @@
+id: wd-q1140134
+title:
+  zh-TW: 慶長琉球之役
+  en: Invasion of Ryukyu
+summary:
+  zh-TW: invasion of the Ryukyu Kingdom by the Satsuma Domain, resulting in the former’s being reduced to a vassal state of the latter
+  en: invasion of the Ryukyu Kingdom by the Satsuma Domain, resulting in the former’s being reduced to a vassal state of the latter
+start:
+  year: 1609
+  month: 5
+end:
+  year: 1609
+  month: 4
+  day: 5
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q1140134
+locations:
+  - place: wd-q10905515
+    role: primary
+wikipedia:
+  en: Invasion of Ryukyu
+  zh: 慶長琉球之役
+importHash: 2fbe58667c2e

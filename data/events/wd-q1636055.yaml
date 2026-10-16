@@ -1,0 +1,25 @@
+id: wd-q1636055
+title:
+  zh-TW: 2007年9月蘇門答臘地震
+  en: September 2007 Sumatra earthquakes
+summary:
+  zh-TW: earthquake in Indonesia
+  en: earthquake in Indonesia
+start:
+  year: 2007
+  month: 9
+  day: 12
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1636055
+locations:
+  - place: wd-q1636055-site
+    role: primary
+wikipedia:
+  en: 2007 Bengkulu earthquakes
+  zh: 2007年9月蘇門答臘地震
+importHash: eecc4c375899

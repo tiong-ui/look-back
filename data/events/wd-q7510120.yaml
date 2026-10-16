@@ -1,0 +1,28 @@
+id: wd-q7510120
+title:
+  zh-TW: Siege of Jinji
+  en: Siege of Jinji
+summary:
+  zh-TW: 1690–1698 siege
+  en: 1690–1698 siege
+start:
+  year: 1689
+end:
+  year: 1698
+  month: 1
+  day: 8
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510120
+locations:
+  - place: wd-q1524976
+    role: primary
+  - place: wd-q3536493
+    role: secondary
+wikipedia:
+  en: Siege of Jinji
+importHash: 93ddbba196ab

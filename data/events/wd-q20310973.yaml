@@ -1,0 +1,23 @@
+id: wd-q20310973
+title:
+  zh-TW: 錫斯坦－俾路支斯坦叛亂
+  en: insurgency in Sistan and Balochistan
+summary:
+  zh-TW: separatist/religious insurgency being waged against the government of Iran
+  en: separatist/religious insurgency being waged against the government of Iran
+start:
+  year: 2004
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q20310973
+locations:
+  - place: wd-q939575
+    role: primary
+wikipedia:
+  en: Insurgency in Sistan and Balochistan
+importHash: b85dc095a97f

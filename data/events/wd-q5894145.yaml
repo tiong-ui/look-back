@@ -1,0 +1,28 @@
+id: wd-q5894145
+title:
+  zh-TW: 雙十暴動
+  en: Hong Kong 1956 riots
+summary:
+  zh-TW: 1956年發生於香港的暴動
+  en: political riots
+start:
+  year: 1956
+  month: 10
+end:
+  year: 1956
+  month: 10
+  day: 12
+precision: month
+categories:
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q5894145
+locations:
+  - place: wd-q8646
+    role: primary
+wikipedia:
+  en: 1956 Hong Kong riots
+  zh: 雙十暴動
+importHash: 6900fb6b44a9

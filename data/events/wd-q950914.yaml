@@ -1,0 +1,24 @@
+id: wd-q950914
+title:
+  zh-TW: Battle of Penfui
+  en: Battle of Penfui
+summary:
+  zh-TW: Took place on 9 November 1749 in the hillside of Penfui, near modern Kupang
+  en: Took place on 9 November 1749 in the hillside of Penfui, near modern Kupang
+start:
+  year: 1749
+  month: 11
+  day: 9
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q950914
+locations:
+  - place: wd-q950914-site
+    role: primary
+wikipedia:
+  en: Battle of Penfui
+importHash: 9ea36065bd7d

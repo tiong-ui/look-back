@@ -1,0 +1,25 @@
+id: wd-q4389555
+title:
+  zh-TW: 1948年福井地震
+  en: 1948 Fukui earthquake
+summary:
+  zh-TW: June 1948 earthquake in Japan
+  en: June 1948 earthquake in Japan
+start:
+  year: 1948
+  month: 6
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q4389555
+locations:
+  - place: wd-q4389555-site
+    role: primary
+wikipedia:
+  en: 1948 Fukui earthquake
+  zh: 福井地震
+importHash: e77197b1a67c

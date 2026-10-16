@@ -1,0 +1,27 @@
+id: wd-q210137
+title:
+  zh-TW: 2005年克什米爾大地震
+  en: 2005 Kashmir earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2005
+  month: 10
+  day: 8
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 4
+wikidata: Q210137
+locations:
+  - place: wd-q210137-site
+    role: primary
+  - place: wd-q43100
+    role: secondary
+wikipedia:
+  en: 2005 Kashmir earthquake
+  zh: 2005年克什米尔大地震
+importHash: 7a4b580e3003

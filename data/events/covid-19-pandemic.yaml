@@ -1,0 +1,30 @@
+id: covid-19-pandemic
+title:
+  zh-TW: COVID-19 疫情
+  en: COVID-19 pandemic
+summary:
+  zh-TW: 新型冠狀病毒自武漢爆發並蔓延全球，造成數百萬人死亡。臺灣初期以邊境管制與口罩配給等措施成功控制疫情，受到國際關注。
+  en: The novel coronavirus broke out in Wuhan and spread worldwide, killing millions. Taiwan's early border controls and mask rationing contained it successfully and drew international attention.
+start:
+  year: 2019
+  month: 12
+end:
+  year: 2023
+  month: 5
+  day: 5
+precision: month
+categories:
+  - disaster
+regions:
+  - china
+  - taiwan
+  - world
+importance: 5
+locations:
+  - place: wuhan
+    role: primary
+  - place: taipei
+    role: secondary
+wikipedia:
+  en: COVID-19 pandemic
+  zh: 2019冠状病毒病疫情

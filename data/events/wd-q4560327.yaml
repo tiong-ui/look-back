@@ -1,0 +1,27 @@
+id: wd-q4560327
+title:
+  zh-TW: 1917年巴釐地震
+  en: 1917 Bali earthquake
+summary:
+  zh-TW: Earthquake in Indonesia in 1917
+  en: Earthquake in Indonesia in 1917
+start:
+  year: 1917
+  month: 1
+  day: 20
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4560327
+locations:
+  - place: wd-q4560327-site
+    role: primary
+  - place: wd-q4648
+    role: secondary
+wikipedia:
+  en: 1917 Bali earthquake
+  zh: 1917年巴厘岛地震
+importHash: 1a1b971dff84

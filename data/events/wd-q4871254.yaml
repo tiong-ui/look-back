@@ -1,0 +1,28 @@
+id: wd-q4871254
+title:
+  zh-TW: 虎牢之戰
+  en: Battle of Hulao
+summary:
+  zh-TW: 621 battle in China
+  en: 621 battle in China
+start:
+  year: 621
+  month: 5
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q4871254
+locations:
+  - place: wd-q4871254-site
+    role: primary
+  - place: wd-q841965
+    role: secondary
+wikipedia:
+  en: Battle of Hulao
+  zh: 虎牢之戰
+importHash: 2df4971f399e

@@ -1,0 +1,33 @@
+id: wd-q12444297
+title:
+  zh-TW: Bhumij Revolt
+  en: Bhumij Revolt
+summary:
+  zh-TW: 1832-33 Indian tribal rebellion
+  en: 1832-33 Indian tribal rebellion
+start:
+  year: 1830
+end:
+  year: 1834
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q12444297
+locations:
+  - place: wd-q12444297-site
+    role: primary
+  - place: wd-q6312870
+    role: secondary
+  - place: wd-q6747189
+    role: secondary
+  - place: wd-q7523493
+    role: secondary
+wikipedia:
+  en: Bhumij Revolt
+importHash: 70c38026047d

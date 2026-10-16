@@ -1,0 +1,32 @@
+id: wd-q2889417
+title:
+  zh-TW: 莫羅泰島戰役
+  en: Battle of Morotai
+summary:
+  zh-TW: 1944 Extended WWII battle of the Pacific War
+  en: 1944 Extended WWII battle of the Pacific War
+start:
+  year: 1944
+  month: 9
+  day: 15
+end:
+  year: 1944
+  month: 10
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2889417
+locations:
+  - place: wd-q2889417-site
+    role: primary
+  - place: wd-q19146
+    role: secondary
+wikipedia:
+  en: Battle of Morotai
+  zh: 摩羅泰島戰役
+importHash: acf4219c021d

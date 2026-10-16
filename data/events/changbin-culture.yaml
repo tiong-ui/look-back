@@ -1,0 +1,27 @@
+id: changbin-culture
+title:
+  zh-TW: 長濱文化
+  en: Changbin culture
+summary:
+  zh-TW: 臺灣已知最早的舊石器時代文化，以臺東八仙洞遺址為代表。當時臺灣海峽因冰期海平面下降而部分露出，人群以打製石器狩獵採集維生。
+  en: Taiwan's earliest known Paleolithic culture, best known from the Baxian Caves in Taitung. During the Ice Age, lower seas partly exposed the Taiwan Strait, and people lived by hunting and gathering with chipped-stone tools.
+start: -27999
+end: -2999
+precision: millennium
+approximate: true
+categories:
+  - prehistory
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: changbin
+    role: primary
+relations:
+  - event: dapenkeng-culture
+    type: precedes
+wikipedia:
+  en: Changbin culture
+  zh: 長濱文化
+sources:
+  - resource: nmp

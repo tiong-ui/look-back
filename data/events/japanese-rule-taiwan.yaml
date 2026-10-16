@@ -1,0 +1,39 @@
+id: japanese-rule-taiwan
+title:
+  zh-TW: 日治時期
+  en: Japanese rule of Taiwan
+altNames:
+  - zh-TW: 日據時期
+    en: Japanese occupation period
+summary:
+  zh-TW: 臺灣成為日本第一個殖民地。總督府建立現代行政、戶籍、衛生、教育與鐵路體系，發展糖業與米作，但臺灣人在政治上受到差別待遇，武裝與非武裝抗日運動持續不斷。
+  en: Taiwan became Japan's first colony. The Government-General built modern administration, household registration, public health, schools and railways and developed sugar and rice, but Taiwanese faced political discrimination, and armed and peaceful resistance continued throughout.
+start: 1895
+end: 1945
+precision: year
+categories:
+  - dynasty
+regions:
+  - taiwan
+  - japan
+importance: 5
+locations:
+  - place: taipei
+    role: primary
+  - place: tokyo
+    role: secondary
+relations:
+  - event: roc-takes-over-taiwan
+    type: precedes
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 殖民統治帶來現代化建設，也伴隨壓迫與剝削；「日治」一詞較中性地描述這段時期。
+      en: Colonial rule brought modernisation alongside oppression and exploitation; "Japanese rule" (日治) is the more neutral term for the period.
+  - view: roc
+    text:
+      zh-TW: 過去官方多用「日據」，強調其為非法占據。
+      en: Official usage long favoured "Japanese occupation" (日據), stressing illegitimate occupation.
+wikipedia:
+  en: Taiwan under Japanese rule
+  zh: 臺灣日治時期

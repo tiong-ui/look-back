@@ -1,0 +1,10 @@
+id: shimonoseki
+lng: 130.94
+lat: 33.96
+names:
+  - zh-TW: 馬關
+    en: Bakan
+    to: 1901
+  - zh-TW: 下關
+    en: Shimonoseki
+    from: 1902

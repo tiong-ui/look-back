@@ -1,0 +1,28 @@
+id: wd-q4870476
+title:
+  zh-TW: Battle of Bharatpur
+  en: Battle of Bharatpur
+summary:
+  zh-TW: 1805 battle of the Second Anglo-Maratha War
+  en: 1805 battle of the Second Anglo-Maratha War
+start:
+  year: 1805
+  month: 1
+  day: 2
+end:
+  year: 1805
+  month: 2
+  day: 22
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870476
+locations:
+  - place: wd-q4870476-site
+    role: primary
+wikipedia:
+  en: Siege of Bharatpur (1805)
+importHash: fd6a93fcce0c

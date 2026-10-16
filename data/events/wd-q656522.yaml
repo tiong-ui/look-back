@@ -1,0 +1,26 @@
+id: wd-q656522
+title:
+  zh-TW: Battle of Condore
+  en: Battle of Condore
+summary:
+  zh-TW: 1758 battle
+  en: 1758 battle
+start:
+  year: 1758
+  month: 12
+  day: 9
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q656522
+locations:
+  - place: wd-q656522-site
+    role: primary
+  - place: wd-q5512315
+    role: secondary
+wikipedia:
+  en: Battle of Condore
+importHash: b61a93b0b61c

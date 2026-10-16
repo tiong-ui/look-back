@@ -1,0 +1,22 @@
+id: wd-q107629208
+title:
+  zh-TW: Irghiz River skirmish
+  en: Irghiz River skirmish
+summary:
+  zh-TW: first battle fought between the Khwarezmian and Mongol empires, on the banks of the Irghiz river
+  en: first battle fought between the Khwarezmian and Mongol empires, on the banks of the Irghiz river
+start:
+  year: 1209
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q107629208
+locations:
+  - place: wd-q107629208-site
+    role: primary
+wikipedia:
+  en: Irghiz River skirmish
+importHash: 8cd4a810117a

@@ -1,0 +1,27 @@
+id: wd-q111014585
+title:
+  zh-TW: 2022年蘇門答臘地震
+  en: West Pasaman earthquake 2022
+summary:
+  zh-TW: 2022 earthquake in West Sumatra
+  en: 2022 earthquake in West Sumatra
+start:
+  year: 2022
+  month: 2
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q111014585
+locations:
+  - place: wd-q111014585-site
+    role: primary
+  - place: wd-q6048
+    role: secondary
+wikipedia:
+  en: 2022 Sumatra earthquake
+  zh: 2022年苏门答腊地震
+importHash: 7ab96bb31cd4

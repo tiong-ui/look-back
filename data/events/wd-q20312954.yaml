@@ -1,0 +1,25 @@
+id: wd-q20312954
+title:
+  zh-TW: Battle of Chanderi
+  en: Battle of Chanderi
+summary:
+  zh-TW: 1528 babur vs rajputs
+  en: 1528 babur vs rajputs
+start:
+  year: 1528
+  month: 1
+precision: month
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q20312954
+locations:
+  - place: wd-q20312954-site
+    role: primary
+  - place: wd-q860192
+    role: secondary
+wikipedia:
+  en: Battle of Chanderi
+importHash: 212c26b28205

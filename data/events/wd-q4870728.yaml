@@ -1,0 +1,28 @@
+id: wd-q4870728
+title:
+  zh-TW: 鎮海之戰
+  en: Battle of Chinhai
+summary:
+  zh-TW: 第一次鴉片戰爭戰役
+  en: 1841 battle
+start:
+  year: 1841
+  month: 10
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870728
+locations:
+  - place: wd-q4870728-site
+    role: primary
+  - place: wd-q197712
+    role: secondary
+wikipedia:
+  en: Battle of Chinhai
+  zh: 镇海之战 (1841年)
+importHash: 55fbec4d0bbb

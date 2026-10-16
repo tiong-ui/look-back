@@ -1,0 +1,24 @@
+id: wd-q3501420
+title:
+  zh-TW: June 2012 Afghanistan earthquakes
+  en: June 2012 Afghanistan earthquakes
+summary:
+  zh-TW: earthquakes in Afghanistan in 2012
+  en: earthquakes in Afghanistan in 2012
+start:
+  year: 2012
+  month: 6
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3501420
+locations:
+  - place: wd-q3501420-site
+    role: primary
+wikipedia:
+  en: 2012 Afghanistan earthquakes
+importHash: 51c3f6ad8e72

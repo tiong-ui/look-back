@@ -1,0 +1,24 @@
+id: wd-q866901
+title:
+  zh-TW: 1905年藏族騷亂
+  en: 1905 Tibetan Rebellion
+summary:
+  zh-TW: rebellion by Tibetans in Yunnan and Sichuan against the Qing Dynasty in 1905, precipitated by the Qing government's allowing Christian missionaries to visit Buddhist areas
+  en: rebellion by Tibetans in Yunnan and Sichuan against the Qing Dynasty in 1905, precipitated by the Qing government's allowing Christian missionaries to visit Buddhist areas
+start:
+  year: 1905
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q866901
+locations:
+  - place: wd-q19770
+    role: primary
+wikipedia:
+  en: Batang uprising
+  zh: 巴塘事变
+importHash: 6aefc16dd89e

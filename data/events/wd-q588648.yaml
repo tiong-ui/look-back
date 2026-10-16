@@ -1,0 +1,32 @@
+id: wd-q588648
+title:
+  zh-TW: 廣州城戰役
+  en: Battle of Canton
+summary:
+  zh-TW: 1857 battle
+  en: 1857 battle
+start:
+  year: 1857
+  month: 12
+  day: 28
+end:
+  year: 1857
+  month: 12
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q588648
+locations:
+  - place: wd-q588648-site
+    role: primary
+  - place: wd-q16572
+    role: secondary
+wikipedia:
+  en: Battle of Canton (1857)
+  zh: 廣州城戰役
+importHash: d94730be7a9c

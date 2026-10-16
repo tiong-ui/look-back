@@ -1,0 +1,26 @@
+id: wd-q1971773
+title:
+  zh-TW: Battle of Maravar Pass
+  en: Battle of Maravar Pass
+summary:
+  zh-TW: 1985 battle
+  en: 1985 battle
+start:
+  year: 1985
+  month: 4
+  day: 22
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1971773
+locations:
+  - place: wd-q1971773-site
+    role: primary
+  - place: wd-q188147
+    role: secondary
+wikipedia:
+  en: Battle of Maravar Pass
+importHash: 94222c5fc432

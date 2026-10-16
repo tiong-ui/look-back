@@ -1,0 +1,25 @@
+id: wd-q11481675
+title:
+  zh-TW: 常陸丸事件
+  en: Hitachi Maru Incident
+summary:
+  zh-TW: 1904 maritime incident
+  en: 1904 maritime incident
+start:
+  year: 1904
+  month: 6
+  day: 15
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q11481675
+locations:
+  - place: wd-q52055
+    role: primary
+wikipedia:
+  en: Hitachi Maru Incident
+  zh: 常陸丸事件
+importHash: 634f7d88a8ac

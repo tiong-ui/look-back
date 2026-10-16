@@ -1,0 +1,29 @@
+id: kaohsiung-incident
+title:
+  zh-TW: 美麗島事件
+  en: Kaohsiung Incident
+altNames:
+  - zh-TW: 高雄事件
+    en: Formosa Incident
+summary:
+  zh-TW: 《美麗島》雜誌社於世界人權日在高雄舉行遊行，遭軍警包圍並爆發衝突。黨外領袖遭大規模逮捕與軍法審判，辯護律師團與受刑人家屬後來成為民主運動的中堅。
+  en: Formosa magazine held a Human Rights Day rally in Kaohsiung, which was surrounded by troops and police and ended in clashes. Opposition leaders were rounded up and court-martialled; their defence lawyers and families later became the core of the democracy movement.
+start:
+  year: 1979
+  month: 12
+  day: 10
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: kaohsiung
+    role: primary
+relations:
+  - event: dpp-founded
+    type: precedes
+wikipedia:
+  en: Kaohsiung Incident
+  zh: 美麗島事件

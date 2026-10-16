@@ -1,0 +1,24 @@
+id: wd-q4871844
+title:
+  zh-TW: Battle of Nadaun
+  en: Battle of Nadaun
+summary:
+  zh-TW: 1691 battle of the Mughal–Sikh Wars
+  en: 1691 battle of the Mughal–Sikh Wars
+start:
+  year: 1691
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871844
+locations:
+  - place: wd-q4871844-site
+    role: primary
+  - place: wd-q2452658
+    role: secondary
+wikipedia:
+  en: Battle of Nadaun
+importHash: 5c19f6ca5f17

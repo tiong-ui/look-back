@@ -1,0 +1,29 @@
+id: wd-q4871396
+title:
+  zh-TW: 喀什戰役
+  en: Battle of Kashgar
+summary:
+  zh-TW: battle of Kashgar took place in 1933 during the Xinjiang Wars
+  en: battle of Kashgar took place in 1933 during the Xinjiang Wars
+start:
+  year: 1933
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4871396
+locations:
+  - place: wd-q34800
+    role: primary
+  - place: wd-q170521
+    role: secondary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Battle of Kashgar (1933)
+  zh: 喀什战役 (1933年)
+importHash: 38974709728e

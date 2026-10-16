@@ -1,0 +1,27 @@
+id: wd-q1062771
+title:
+  zh-TW: 乙巳之變
+  en: Isshi Incident
+summary:
+  zh-TW: successful plot by Nakatomi no Kamatari, Prince Naka no Ōe and others who conspired to eliminate the main branch of the Soga clan
+  en: successful plot by Nakatomi no Kamatari, Prince Naka no Ōe and others who conspired to eliminate the main branch of the Soga clan
+start:
+  year: 645
+  month: 7
+  day: 13
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1062771
+locations:
+  - place: wd-q1062771-site
+    role: primary
+  - place: wd-q11532703
+    role: secondary
+wikipedia:
+  en: Isshi incident
+  zh: 乙巳之變
+importHash: c981f74b3bef

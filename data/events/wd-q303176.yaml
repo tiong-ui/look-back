@@ -1,0 +1,27 @@
+id: wd-q303176
+title:
+  zh-TW: 馬尼拉戰役
+  en: Battle of Manila
+summary:
+  zh-TW: mock battle in 1898 during the Spanish–American War
+  en: mock battle in 1898 during the Spanish–American War
+start:
+  year: 1898
+  month: 8
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q303176
+locations:
+  - place: wd-q303176-site
+    role: primary
+  - place: wd-q6749659
+    role: secondary
+wikipedia:
+  en: Battle of Manila (1898)
+importHash: 37e2aa8f9a78

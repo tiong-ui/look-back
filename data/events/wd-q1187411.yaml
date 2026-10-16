@@ -1,0 +1,27 @@
+id: wd-q1187411
+title:
+  zh-TW: 後三年之役
+  en: Gosannen War
+summary:
+  zh-TW: fought in the 1080s in Mutsu Province on the Japanese island of Honshū
+  en: fought in the 1080s in Mutsu Province on the Japanese island of Honshū
+start:
+  year: 1083
+end:
+  year: 1087
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q1187411
+locations:
+  - place: wd-q907389
+    role: primary
+wikipedia:
+  en: Gosannen War
+  zh: 後三年之役
+importHash: 544b151788a8

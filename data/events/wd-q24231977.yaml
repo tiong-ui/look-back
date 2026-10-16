@@ -1,0 +1,25 @@
+id: wd-q24231977
+title:
+  zh-TW: 洪洞趙城地震
+  en: 1303 Hongdong earthquake
+summary:
+  zh-TW: earthquake in northern China (25 September 1303)
+  en: earthquake in northern China (25 September 1303)
+start:
+  year: 1303
+  month: 10
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q24231977
+locations:
+  - place: wd-q24231977-site
+    role: primary
+wikipedia:
+  en: 1303 Hongdong earthquake
+  zh: 洪洞趙城地震
+importHash: 07028f138cf7

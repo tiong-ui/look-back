@@ -1,0 +1,25 @@
+id: wd-q4574199
+title:
+  zh-TW: 通海大地震
+  en: 1970 Tonghai earthquake
+summary:
+  zh-TW: 1970年發生於雲南通海的地震
+  en: Earthquake 1970 occurred at 01am on January 5 with a moment magnitude of 7.1 and a Mercalli intensity of X (Extreme)
+start:
+  year: 1970
+  month: 1
+  day: 4
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q4574199
+locations:
+  - place: wd-q4574199-site
+    role: primary
+wikipedia:
+  en: 1970 Tonghai earthquake
+  zh: 1970年通海地震
+importHash: 87a7b1f2f9c6

@@ -1,0 +1,28 @@
+id: wd-q715791
+title:
+  zh-TW: 平壤之戰
+  en: Battle of Pyongyang
+summary:
+  zh-TW: 中日甲午戰爭戰役
+  en: 1894 battle
+start:
+  year: 1894
+  month: 9
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q715791
+locations:
+  - place: wd-q715791-site
+    role: primary
+  - place: wd-q18808
+    role: secondary
+wikipedia:
+  en: Battle of Pyongyang (1894)
+  zh: 平壤之戰 (1894年)
+importHash: cd919870337b

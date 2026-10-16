@@ -1,0 +1,26 @@
+id: wd-q154788
+title:
+  zh-TW: 烏坎事件
+  en: Wukan protests
+summary:
+  zh-TW: rebellion
+  en: rebellion
+start:
+  year: 2011
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q154788
+locations:
+  - place: wd-q154788-site
+    role: primary
+  - place: wd-q8039132
+    role: secondary
+wikipedia:
+  en: Wukan protests
+  zh: 烏坎事件
+importHash: 42eaf017f57e

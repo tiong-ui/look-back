@@ -1,0 +1,32 @@
+id: wd-q2440191
+title:
+  zh-TW: 遼陽會戰
+  en: Battle of Liaoyang
+summary:
+  zh-TW: 1904 Russo-Japanese War battle
+  en: 1904 Russo-Japanese War battle
+start:
+  year: 1904
+  month: 8
+  day: 25
+end:
+  year: 1904
+  month: 9
+  day: 5
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q2440191
+locations:
+  - place: wd-q2440191-site
+    role: primary
+  - place: wd-q75203
+    role: secondary
+wikipedia:
+  en: Battle of Liaoyang
+  zh: 辽阳会战
+importHash: ef5ef5cf8f27

@@ -1,0 +1,31 @@
+id: wd-q97160469
+title:
+  zh-TW: 2020－2021年哈巴羅夫斯克邊疆區示威
+  en: 2020–2021 Khabarovsk Krai protests
+summary:
+  zh-TW: series of protests in Khabarovsk Krai of Russia starting in July 2020
+  en: series of protests in Khabarovsk Krai of Russia starting in July 2020
+start:
+  year: 2020
+  month: 7
+  day: 11
+end:
+  year: 2021
+  month: 9
+  day: 19
+precision: day
+categories:
+  - democracy
+regions:
+  - asia
+importance: 2
+wikidata: Q97160469
+locations:
+  - place: wd-q4454
+    role: primary
+  - place: wd-q7788
+    role: secondary
+wikipedia:
+  en: 2020–2021 Khabarovsk Krai protests
+  zh: 2020—2021年哈巴羅夫斯克邊疆區示威
+importHash: 6af7176edc42

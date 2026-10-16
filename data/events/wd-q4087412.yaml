@@ -1,0 +1,22 @@
+id: wd-q4087412
+title:
+  zh-TW: 巴爾赫之戰
+  en: Battle of Balkh
+summary:
+  zh-TW: 900 battle
+  en: 900 battle
+start:
+  year: 900
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4087412
+locations:
+  - place: wd-q182159
+    role: primary
+wikipedia:
+  en: Battle of Balkh
+importHash: 97a0d79e203d

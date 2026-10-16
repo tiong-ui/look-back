@@ -1,0 +1,25 @@
+id: wd-q67440288
+title:
+  zh-TW: 1993 Manipur riot
+  en: 1993 Manipur riot
+summary:
+  zh-TW: ساسان سایکو
+  en: ساسان سایکو
+start:
+  year: 1993
+  month: 5
+  day: 3
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q67440288
+locations:
+  - place: wd-q1193
+    role: primary
+wikipedia:
+  en: 1993 Pangal massacre
+importHash: 30e61b7a21e1

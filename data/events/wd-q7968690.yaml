@@ -1,0 +1,27 @@
+id: wd-q7968690
+title:
+  zh-TW: 漢攻大宛之戰
+  en: War of the Heavenly Horses
+summary:
+  zh-TW: war fought between the Han Empire and the Central Asian state of Dayuan
+  en: war fought between the Han Empire and the Central Asian state of Dayuan
+start:
+  year: -103
+end:
+  year: -100
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q7968690
+locations:
+  - place: wd-q486324
+    role: primary
+wikipedia:
+  en: War of the Heavenly Horses
+  zh: 汉攻大宛之战
+importHash: 0b29a97a29f5

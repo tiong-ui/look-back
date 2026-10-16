@@ -1,0 +1,29 @@
+id: wd-q5935403
+title:
+  zh-TW: 虎克軍叛亂
+  en: Hukbalahap Rebellion
+summary:
+  zh-TW: 1942–1954 communist rebellion in the Philippines
+  en: 1942–1954 communist rebellion in the Philippines
+start:
+  year: 1942
+  month: 3
+  day: 29
+end:
+  year: 1954
+  month: 5
+  day: 17
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q5935403
+locations:
+  - place: wd-q13617
+    role: primary
+wikipedia:
+  en: Hukbalahap rebellion
+  zh: 虎克軍反叛
+importHash: 67ee99d0745a

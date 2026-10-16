@@ -1,0 +1,23 @@
+id: wd-q4126363
+title:
+  zh-TW: 大鹽平八郎之亂
+  en: Rebellion of Ōshio Heihachirō
+summary:
+  zh-TW: 1837 Japanese rebellion in Ōsaka, by Ōshio Heihachirō
+  en: 1837 Japanese rebellion in Ōsaka, by Ōshio Heihachirō
+start:
+  year: 1837
+  month: 3
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4126363
+locations:
+  - place: wd-q11439906
+    role: primary
+importHash: 29e11d24248b

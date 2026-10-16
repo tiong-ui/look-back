@@ -1,0 +1,33 @@
+id: wd-q1322760
+title:
+  zh-TW: 箱館灣海戰
+  en: Naval Battle of Hakodate
+summary:
+  zh-TW: 1869 battle
+  en: 1869 battle
+start:
+  year: 1869
+  month: 5
+  day: 4
+end:
+  year: 1869
+  month: 5
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1322760
+locations:
+  - place: wd-q11396019
+    role: primary
+relations:
+  - event: wd-q716562
+    type: part_of
+wikipedia:
+  en: Naval Battle of Hakodate
+  zh: 箱館灣海戰
+importHash: ec0ff30d3664

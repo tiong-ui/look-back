@@ -1,0 +1,33 @@
+id: martial-law
+title:
+  zh-TW: 臺灣戒嚴
+  en: Martial law in Taiwan
+summary:
+  zh-TW: 臺灣省警備總司令部宣布全省戒嚴，持續至1987年7月15日解除，長達38年，是當時世界上最長的戒嚴之一。期間禁止組黨、限制言論與出版自由。
+  en: The Taiwan Garrison Command declared martial law across the island. It lasted 38 years, until 15 July 1987, one of the longest periods of martial law in the world at the time. New parties were banned and speech and publishing restricted.
+start:
+  year: 1949
+  month: 5
+  day: 20
+end:
+  year: 1987
+  month: 7
+  day: 15
+precision: day
+categories:
+  - politics
+  - democracy
+regions:
+  - taiwan
+importance: 5
+locations:
+  - place: taipei
+    role: primary
+relations:
+  - event: white-terror
+    type: has_part
+  - event: roc-government-retreat
+    type: related
+wikipedia:
+  en: Martial law in Taiwan
+  zh: 臺灣省戒嚴令

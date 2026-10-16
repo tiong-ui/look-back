@@ -1,0 +1,25 @@
+id: wd-q22662663
+title:
+  zh-TW: 2016年高雄美濃地震
+  en: 2016 Kaohsiung earthquake
+summary:
+  zh-TW: 206地震，芮氏規模6.6
+  en: deadly earthquake centered north of Pingtung City, Taiwan
+start:
+  year: 2016
+  month: 2
+  day: 6
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 4
+wikidata: Q22662663
+locations:
+  - place: wd-q22662663-site
+    role: primary
+wikipedia:
+  en: 2016 southern Taiwan earthquake
+  zh: 2016年高雄美濃地震
+importHash: 8933cc0b903f

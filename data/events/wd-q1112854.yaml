@@ -1,0 +1,27 @@
+id: wd-q1112854
+title:
+  zh-TW: 明入越
+  en: Ming–Hồ War
+summary:
+  zh-TW: war
+  en: war
+start:
+  year: 1406
+end:
+  year: 1407
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1112854
+locations:
+  - place: wd-q1112854-site
+    role: primary
+wikipedia:
+  en: Ming conquest of Đại Ngu
+  zh: 明入越
+importHash: 9c3e6a1b69c0

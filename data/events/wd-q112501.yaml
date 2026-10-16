@@ -1,0 +1,32 @@
+id: wd-q112501
+title:
+  zh-TW: 三藩之亂
+  en: Revolt of the Three Feudatories
+summary:
+  zh-TW: rebellion in China lasting from 1673 to 1681
+  en: rebellion in China lasting from 1673 to 1681
+start:
+  year: 1681
+  month: 11
+end:
+  year: 1681
+  month: 1
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q112501
+locations:
+  - place: wd-q5413
+    role: primary
+relations:
+  - event: wd-q3427966
+    type: part_of
+wikipedia:
+  en: Revolt of the Three Feudatories
+  zh: 三藩之乱
+importHash: 25b0d4925551

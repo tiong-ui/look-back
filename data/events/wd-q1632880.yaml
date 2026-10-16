@@ -1,0 +1,27 @@
+id: wd-q1632880
+title:
+  zh-TW: 泰緬戰爭 (1759年-1760年)
+  en: Burmese–Siamese War of 1759–60
+summary:
+  zh-TW: conflict between the Konbuang dynasty of Burma and the Thai kingdom of Ayutthaya
+  en: conflict between the Konbuang dynasty of Burma and the Thai kingdom of Ayutthaya
+start:
+  year: 1759
+  month: 12
+end:
+  year: 1760
+  month: 5
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1632880
+locations:
+  - place: wd-q843954
+    role: primary
+wikipedia:
+  en: Burmese–Siamese War (1759–1760)
+importHash: 48934c0f9988

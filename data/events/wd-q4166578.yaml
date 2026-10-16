@@ -1,0 +1,25 @@
+id: wd-q4166578
+title:
+  zh-TW: Battle of Khanwa
+  en: Battle of Khanwa
+summary:
+  zh-TW: 1527 battle of the Mughal Empire
+  en: 1527 battle of the Mughal Empire
+start:
+  year: 1527
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4166578
+locations:
+  - place: wd-q4166578-site
+    role: primary
+  - place: wd-q42941
+    role: secondary
+wikipedia:
+  en: Battle of Khanwa
+importHash: 8bc3504b82b0

@@ -1,0 +1,30 @@
+id: wd-q16931406
+title:
+  zh-TW: Siege of Chittorgarh
+  en: Siege of Chittorgarh
+summary:
+  zh-TW: siege by the Mughal forces of Akbar of the Mewari Rajput fort of Chittorgarh.
+  en: siege by the Mughal forces of Akbar of the Mewari Rajput fort of Chittorgarh.
+start:
+  year: 1567
+  month: 10
+  day: 30
+end:
+  year: 1568
+  month: 3
+  day: 4
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q16931406
+locations:
+  - place: wd-q16931406-site
+    role: primary
+  - place: wd-q3695769
+    role: secondary
+wikipedia:
+  en: Siege of Chittorgarh (1567–1568)
+importHash: b1c27f3bb89c

@@ -1,0 +1,28 @@
+id: wd-q16914766
+title:
+  zh-TW: 2014年泰國軍事政變
+  en: 2014 Thai coup d'état
+summary:
+  zh-TW: 2014年5月22日泰國境內的一次軍事政變
+  en: 2014 military coup in Thailand
+start:
+  year: 2014
+  month: 5
+  day: 22
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q16914766
+locations:
+  - place: wd-q16914766-site
+    role: primary
+relations:
+  - event: wd-q15243731
+    type: part_of
+wikipedia:
+  en: 2014 Thai coup d'état
+  zh: 2014年泰國政變
+importHash: f502ef9c2b60

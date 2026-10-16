@@ -1,0 +1,29 @@
+id: wd-q56193001
+title:
+  zh-TW: 2018年8月19日龍目島地震
+  en: 19 August 2018 Lombok earthquake
+summary:
+  zh-TW: Earthquake in Indonesia
+  en: Earthquake in Indonesia
+start:
+  year: 2018
+  month: 8
+  day: 19
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q56193001
+locations:
+  - place: wd-q56193001-site
+    role: primary
+  - place: wd-q7564
+    role: secondary
+  - place: wd-q186367
+    role: secondary
+wikipedia:
+  en: 19 August 2018 Lombok earthquake
+  zh: 2018年8月19日龙目岛地震
+importHash: f0e44a892c76

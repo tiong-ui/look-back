@@ -1,0 +1,25 @@
+id: wd-q702053
+title:
+  zh-TW: 1906年梅山地震
+  en: 1906 Meishan earthquake
+summary:
+  zh-TW: earthquake struck Chiayi County, Taiwan on March 16, 1906
+  en: earthquake struck Chiayi County, Taiwan on March 16, 1906
+start:
+  year: 1906
+  month: 3
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q702053
+locations:
+  - place: wd-q702053-site
+    role: primary
+wikipedia:
+  en: 1906 Meishan earthquake
+  zh: 1906年梅山地震
+importHash: ef5e0379cb64

@@ -1,0 +1,23 @@
+id: wd-q1747156
+title:
+  zh-TW: 2002年古吉拉特騷亂
+  en: 2002 Gujarat violence
+summary:
+  zh-TW: 2002年印度宗教衝突
+  en: communal violence in Gujarat, India
+start:
+  year: 2002
+precision: year
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 3
+wikidata: Q1747156
+locations:
+  - place: wd-q1061
+    role: primary
+wikipedia:
+  en: 2002 Gujarat violence
+  zh: 2002年古吉拉特骚乱
+importHash: 02329747026d

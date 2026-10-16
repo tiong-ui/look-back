@@ -1,0 +1,25 @@
+id: guo-huaiyi-rebellion
+title:
+  zh-TW: 郭懷一事件
+  en: Guo Huaiyi rebellion
+summary:
+  zh-TW: 不滿荷蘭東印度公司重稅與欺壓的漢人農民在郭懷一領導下起事，數千人遭荷軍與其原住民盟軍鎮壓殺害。
+  en: Han farmers angered by the Dutch East India Company's heavy taxes and abuses rose up under Guo Huaiyi. The Dutch and their Indigenous allies crushed the revolt and killed thousands.
+start:
+  year: 1652
+  month: 9
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+importance: 2
+locations:
+  - place: tainan
+    role: primary
+relations:
+  - event: dutch-formosa
+    type: part_of
+wikipedia:
+  en: Guo Huaiyi rebellion
+  zh: 郭懷一事件

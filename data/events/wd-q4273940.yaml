@@ -1,0 +1,23 @@
+id: wd-q4273940
+title:
+  zh-TW: 馬六甲圍城戰
+  en: Siege of Malacca
+summary:
+  zh-TW: 1568 offensive by Sultanate of Aceh
+  en: 1568 offensive by Sultanate of Aceh
+start:
+  year: 1568
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q4273940
+locations:
+  - place: wd-q61089
+    role: primary
+wikipedia:
+  en: Siege of Malacca (1568)
+  zh: 马六甲围城战 (1568年)
+importHash: 9405da0fa2fc

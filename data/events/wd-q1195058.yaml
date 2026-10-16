@@ -1,0 +1,31 @@
+id: wd-q1195058
+title:
+  zh-TW: 四·一二事件
+  en: Shanghai massacre of 1927
+summary:
+  zh-TW: 中國國民黨採取的反共清黨的政治運動和組織措施 (1927-1928)
+  en: mass arrests and executions of members of the Chinese Communist Party and some leftists of the Kuomintang by the Nationalist government (1927-1928)
+start:
+  year: 1927
+  month: 4
+  day: 12
+end:
+  year: 1927
+  month: 4
+  day: 15
+precision: day
+categories:
+  - politics
+  - war
+  - democracy
+regions:
+  - china
+importance: 3
+wikidata: Q1195058
+locations:
+  - place: wd-q8686
+    role: primary
+wikipedia:
+  en: Shanghai massacre
+  zh: 四一二事件
+importHash: bb3f5399a326

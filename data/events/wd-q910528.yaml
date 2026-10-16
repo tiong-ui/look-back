@@ -1,0 +1,27 @@
+id: wd-q910528
+title:
+  zh-TW: Battle of Mudki
+  en: Battle of Mudki
+summary:
+  zh-TW: 1845 battle of the Anglo-Sikh war
+  en: 1845 battle of the Anglo-Sikh war
+start:
+  year: 1845
+  month: 12
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q910528
+locations:
+  - place: wd-q910528-site
+    role: primary
+  - place: wd-q6907135
+    role: secondary
+wikipedia:
+  en: Battle of Mudki
+importHash: 35b579ad1c38

@@ -1,0 +1,30 @@
+id: wd-q1076079
+title:
+  zh-TW: 鹽尻峠之戰
+  en: Battle of Shiojiritōge
+summary:
+  zh-TW: 1548 battle
+  en: 1548 battle
+start:
+  year: 1548
+  month: 9
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1076079
+locations:
+  - place: wd-q1076079-site
+    role: primary
+  - place: wd-q10434172
+    role: secondary
+  - place: wd-q11400310
+    role: secondary
+wikipedia:
+  en: Battle of Shiojiritoge
+  zh: 盐尻峠之战
+importHash: 1ac6e7159833

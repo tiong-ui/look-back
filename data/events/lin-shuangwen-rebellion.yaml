@@ -1,0 +1,30 @@
+id: lin-shuangwen-rebellion
+title:
+  zh-TW: 林爽文事件
+  en: Lin Shuangwen rebellion
+summary:
+  zh-TW: 天地會領袖林爽文於大里杙起事，戰火延燒全臺一年多，清廷調派福康安率大軍來臺才平定，是清治時期規模最大的民變。
+  en: Heaven and Earth Society leader Lin Shuangwen rose up at Dalikit. Fighting spread across Taiwan for more than a year until the Qing sent Fuk'anggan with a large army. It was the largest revolt of the Qing era.
+start:
+  year: 1786
+  month: 11
+end:
+  year: 1788
+  month: 2
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: dali
+    role: primary
+  - place: chiayi
+    role: secondary
+relations:
+  - event: qing-rule-taiwan
+    type: part_of
+wikipedia:
+  en: Lin Shuangwen rebellion
+  zh: 林爽文事件

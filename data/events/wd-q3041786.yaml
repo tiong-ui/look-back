@@ -1,0 +1,26 @@
+id: wd-q3041786
+title:
+  zh-TW: 安沛起義
+  en: Yên Bái Mutiny
+summary:
+  zh-TW: failed 1930 uprising in colonial Vietnam against French regime
+  en: failed 1930 uprising in colonial Vietnam against French regime
+start:
+  year: 1930
+  month: 2
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q3041786
+locations:
+  - place: wd-q26019
+    role: primary
+wikipedia:
+  en: Yên Bái mutiny
+  zh: 安沛起義
+importHash: 02bdf9baf60a

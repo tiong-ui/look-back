@@ -1,0 +1,27 @@
+id: wd-q1432624
+title:
+  zh-TW: 元弘之亂
+  en: Genkō War
+summary:
+  zh-TW: civil war
+  en: civil war
+start:
+  year: 1331
+end:
+  year: 1333
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q1432624
+locations:
+  - place: wd-q200267
+    role: primary
+wikipedia:
+  en: Genkō War
+  zh: 元弘之亂
+importHash: 8959c1b64e3c

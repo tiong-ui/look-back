@@ -1,0 +1,23 @@
+id: hualien-earthquake-2024
+title:
+  zh-TW: 2024年花蓮地震
+  en: 2024 Hualien earthquake
+summary:
+  zh-TW: 花蓮外海發生規模7.2地震，是九二一以來臺灣最強烈的地震，造成太魯閣等地嚴重落石與傷亡。
+  en: A magnitude 7.2 quake struck off Hualien, Taiwan's strongest since 921, causing heavy rockfalls and casualties in Taroko and elsewhere.
+start:
+  year: 2024
+  month: 4
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: hualien
+    role: primary
+wikipedia:
+  en: 2024 Hualien earthquake
+  zh: 2024年花蓮地震

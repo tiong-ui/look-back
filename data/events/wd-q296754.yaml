@@ -1,0 +1,30 @@
+id: wd-q296754
+title:
+  zh-TW: 新加坡戰役
+  en: Battle of Singapore
+summary:
+  zh-TW: 第二次世界大戰東南亞戰區新加坡戰役
+  en: 1942 World War II battle
+start:
+  year: 1942
+  month: 2
+  day: 8
+end:
+  year: 1942
+  month: 2
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 4
+wikidata: Q296754
+locations:
+  - place: wd-q296754-site
+    role: primary
+wikipedia:
+  en: Fall of Singapore
+  zh: 新加坡戰役
+importHash: 83a9e52c0d47

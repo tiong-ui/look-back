@@ -1,0 +1,25 @@
+id: wd-q4907243
+title:
+  zh-TW: Bijon Setu massacre
+  en: Bijon Setu massacre
+summary:
+  zh-TW: 1982 murder of monks and a nun in India
+  en: 1982 murder of monks and a nun in India
+start:
+  year: 1982
+  month: 4
+  day: 30
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4907243
+locations:
+  - place: wd-q108067900
+    role: primary
+wikipedia:
+  en: Bijon Setu massacre
+importHash: 71dab83aab80

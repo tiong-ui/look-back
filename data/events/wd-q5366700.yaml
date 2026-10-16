@@ -1,0 +1,29 @@
+id: wd-q5366700
+title:
+  zh-TW: 月山富田城之戰
+  en: Siege of Gassan Toda
+summary:
+  zh-TW: 1542 first siege of Gassan Toda
+  en: 1542 first siege of Gassan Toda
+start:
+  year: 1542
+end:
+  year: 1543
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q5366700
+locations:
+  - place: wd-q5366700-site
+    role: primary
+  - place: wd-q1039004
+    role: secondary
+wikipedia:
+  en: Sieges of Gassantoda Castle
+  zh: 月山富田城之戰
+importHash: 7c0131dbd1a3

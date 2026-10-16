@@ -1,0 +1,25 @@
+id: wd-q1348836
+title:
+  zh-TW: 2011年巴基斯坦地震
+  en: 2011 Pakistan earthquake
+summary:
+  zh-TW: January 2011 earthquake in Pakistan
+  en: January 2011 earthquake in Pakistan
+start:
+  year: 2011
+  month: 1
+  day: 19
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1348836
+locations:
+  - place: wd-q1348836-site
+    role: primary
+wikipedia:
+  en: 2011 Dalbandin earthquake
+  zh: 2011年巴基斯坦地震
+importHash: 969397392e4c

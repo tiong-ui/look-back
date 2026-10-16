@@ -1,0 +1,25 @@
+id: wd-q1395235
+title:
+  zh-TW: 東南亞無核武器區條約
+  en: Southeast Asian Nuclear-Weapon-Free Zone Treaty
+summary:
+  zh-TW: 國際條約
+  en: 1995 international treaty
+start:
+  year: 1995
+  month: 12
+  day: 15
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1395235
+locations:
+  - place: wd-q1861
+    role: primary
+wikipedia:
+  en: Southeast Asian Nuclear-Weapon-Free Zone Treaty
+  zh: 东南亚无核武器区条约
+importHash: 7dc6fe7fe524

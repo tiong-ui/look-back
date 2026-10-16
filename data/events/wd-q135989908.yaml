@@ -1,0 +1,38 @@
+id: wd-q135989908
+title:
+  zh-TW: 2025年8月印度尼西亞示威
+  en: August–September 2025 Indonesian protests
+summary:
+  zh-TW: protests in Indonesia since August 2025
+  en: protests in Indonesia since August 2025
+start:
+  year: 2025
+  month: 8
+  day: 25
+end:
+  year: 2025
+  month: 9
+  day: 9
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q135989908
+locations:
+  - place: wd-q14168
+    role: primary
+  - place: wd-q848672
+    role: secondary
+  - place: wd-q7253
+    role: secondary
+  - place: wd-q3630
+    role: secondary
+relations:
+  - event: wd-q132473192
+    type: part_of
+wikipedia:
+  en: August 2025 Indonesian protests
+  zh: 2025年8月印度尼西亞示威
+importHash: 41a6709b3370

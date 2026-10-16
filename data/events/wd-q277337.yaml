@@ -1,0 +1,32 @@
+id: wd-q277337
+title:
+  zh-TW: 長津湖戰役
+  en: Battle of Changjin Reservoir
+summary:
+  zh-TW: 朝鮮戰爭戰役
+  en: 1950 battle in the Korean War
+start:
+  year: 1950
+  month: 11
+  day: 27
+end:
+  year: 1950
+  month: 12
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q277337
+locations:
+  - place: wd-q277337-site
+    role: primary
+  - place: wd-q12614724
+    role: secondary
+wikipedia:
+  en: Battle of Chosin Reservoir
+  zh: 长津湖战役
+importHash: b8a31e4c63dc

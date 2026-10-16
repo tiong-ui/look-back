@@ -1,0 +1,25 @@
+id: wd-q1192118
+title:
+  zh-TW: 濟物浦海戰
+  en: Battle of Chemulpo Bay
+summary:
+  zh-TW: 1904年俄羅斯與日本之間的戰爭
+  en: 1904 battle of the Russo-Japanese War
+start:
+  year: 1904
+  month: 2
+  day: 9
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q1192118
+locations:
+  - place: wd-q1192118-site
+    role: primary
+wikipedia:
+  en: Battle of Chemulpo Bay
+  zh: 仁川海战
+importHash: 7dec0430912f

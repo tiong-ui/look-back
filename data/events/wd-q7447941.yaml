@@ -1,0 +1,26 @@
+id: wd-q7447941
+title:
+  zh-TW: 塞琉古-孔雀戰爭
+  en: Seleucid–Mauryan War
+summary:
+  zh-TW: war
+  en: war
+start:
+  year: -304
+end:
+  year: -302
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q7447941
+locations:
+  - place: wd-q46507260
+    role: primary
+wikipedia:
+  en: Seleucid–Mauryan War
+importHash: 301afd42d595

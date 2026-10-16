@@ -1,0 +1,28 @@
+id: wd-q26493
+title:
+  zh-TW: 丹丹納幹戰役
+  en: Battle of Dandanaqan
+summary:
+  zh-TW: 1040 battle of the Seljuk-Ghaznavid Wars
+  en: 1040 battle of the Seljuk-Ghaznavid Wars
+start:
+  year: 1040
+  month: 5
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 3
+wikidata: Q26493
+locations:
+  - place: wd-q26493-site
+    role: primary
+  - place: wd-q193325
+    role: secondary
+wikipedia:
+  en: Battle of Dandanaqan
+  zh: 丹丹納干戰役
+importHash: 978a8a9dc87f

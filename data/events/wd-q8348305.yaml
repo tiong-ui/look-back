@@ -1,0 +1,22 @@
+id: wd-q8348305
+title:
+  zh-TW: 1582 Cagayan battles
+  en: 1582 Cagayan battles
+summary:
+  zh-TW: combats of Spanish soldiers against Japanese pirates in the Philippines
+  en: combats of Spanish soldiers against Japanese pirates in the Philippines
+start:
+  year: 1582
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q8348305
+locations:
+  - place: wd-q13759
+    role: primary
+wikipedia:
+  en: 1582 Cagayan battles
+importHash: b77e5c2e4bfc

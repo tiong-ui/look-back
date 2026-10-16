@@ -1,0 +1,25 @@
+id: wd-q2096814
+title:
+  zh-TW: 直接行動日
+  en: Direct Action Day
+summary:
+  zh-TW: day of widespread communal rioting between Muslims and Hindus in the city of Calcutta
+  en: day of widespread communal rioting between Muslims and Hindus in the city of Calcutta
+start:
+  year: 1946
+  month: 8
+  day: 16
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 3
+wikidata: Q2096814
+locations:
+  - place: wd-q2096814-site
+    role: primary
+wikipedia:
+  en: Direct Action Day
+  zh: 直接行動日
+importHash: 43434c08e254

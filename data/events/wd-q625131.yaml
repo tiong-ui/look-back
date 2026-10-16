@@ -1,0 +1,31 @@
+id: wd-q625131
+title:
+  zh-TW: 南原之戰
+  en: Siege of Namwon
+summary:
+  zh-TW: 1597 siege
+  en: 1597 siege
+start:
+  year: 1597
+  month: 9
+  day: 23
+end:
+  year: 1597
+  month: 9
+  day: 26
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q625131
+locations:
+  - place: wd-q625131-site
+    role: primary
+  - place: wd-q12589976
+    role: secondary
+wikipedia:
+  en: Siege of Namwon
+  zh: 南原之戰
+importHash: f5c53ac29c6b

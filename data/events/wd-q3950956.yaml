@@ -1,0 +1,28 @@
+id: wd-q3950956
+title:
+  zh-TW: 卡特萬之戰
+  en: Battle of Qatwan
+summary:
+  zh-TW: 1141年發生於中亞的戰役
+  en: 1141 battle in Central Asia
+start:
+  year: 1141
+  month: 9
+  day: 16
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q3950956
+locations:
+  - place: wd-q3950956-site
+    role: primary
+  - place: wd-q5753
+    role: secondary
+wikipedia:
+  en: Battle of Qatwan
+  zh: 卡特万之战
+importHash: 599a3c5c95ca

@@ -1,0 +1,26 @@
+id: wd-q1057910
+title:
+  zh-TW: 官渡之戰
+  en: Battle of Guandu
+summary:
+  zh-TW: 三國時代袁紹與曹操之間的重大戰役
+  en: 200 battle between warlords Cao Cao and Yuan Shao (200)
+start:
+  year: 200
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q1057910
+locations:
+  - place: wd-q1057910-site
+    role: primary
+  - place: wd-q31850954
+    role: secondary
+wikipedia:
+  en: Battle of Guandu
+  zh: 官渡之战
+importHash: a0472d13bdaf

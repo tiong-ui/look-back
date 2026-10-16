@@ -1,0 +1,28 @@
+id: wd-q18124347
+title:
+  zh-TW: Battle of Khyber Pass
+  en: Battle of Khyber Pass
+summary:
+  zh-TW: 1738 battle
+  en: 1738 battle
+start:
+  year: 1738
+  month: 11
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q18124347
+locations:
+  - place: wd-q191333
+    role: primary
+relations:
+  - event: wd-q6957844
+    type: part_of
+wikipedia:
+  en: Battle of Khyber Pass (1738)
+importHash: 0ef1961985e3

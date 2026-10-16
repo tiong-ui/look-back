@@ -1,0 +1,25 @@
+id: wd-q1073936
+title:
+  zh-TW: 一乘谷之戰
+  en: Siege of Ichijōdani Castle
+summary:
+  zh-TW: 1573 siege
+  en: 1573 siege
+start:
+  year: 1573
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q1073936
+locations:
+  - place: wd-q1073936-site
+    role: primary
+  - place: wd-q2968274
+    role: secondary
+wikipedia:
+  en: Siege of Ichijōdani Castle
+  zh: 一乘谷之戰
+importHash: 2ddd7ad4bdf7

@@ -1,0 +1,31 @@
+id: wd-q210800
+title:
+  zh-TW: 旅順會戰
+  en: Siege of Port Arthur
+summary:
+  zh-TW: 俄日戰爭中的戰役
+  en: 1905 battle of the Russo-Japanese war
+start:
+  year: 1904
+  month: 8
+  day: 1
+end:
+  year: 1905
+  month: 1
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 3
+wikidata: Q210800
+locations:
+  - place: wd-q210800-site
+    role: primary
+  - place: wd-q326917
+    role: secondary
+wikipedia:
+  en: Siege of Port Arthur
+  zh: 旅順會戰
+importHash: 88ab7aabcf6e

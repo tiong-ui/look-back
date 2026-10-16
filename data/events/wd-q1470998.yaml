@@ -1,0 +1,25 @@
+id: wd-q1470998
+title:
+  zh-TW: 西姆拉協定
+  en: Simla Agreement
+summary:
+  zh-TW: Diplomatic Agreement between India and Pakistan recognizing creation of Bangladesh
+  en: Diplomatic Agreement between India and Pakistan recognizing creation of Bangladesh
+start:
+  year: 1972
+  month: 7
+  day: 2
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 3
+wikidata: Q1470998
+locations:
+  - place: wd-q83786
+    role: primary
+wikipedia:
+  en: Simla Agreement
+  zh: 西姆拉协定
+importHash: df8037f87b08

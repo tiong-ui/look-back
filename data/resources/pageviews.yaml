@@ -1,0 +1,8 @@
+id: pageviews
+name:
+  zh-TW: 維基媒體瀏覽量工具
+  en: Wikimedia Pageviews
+url: https://pageviews.wmcloud.org/
+type: tool
+lang:
+  - en

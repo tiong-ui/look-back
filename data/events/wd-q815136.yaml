@@ -1,0 +1,28 @@
+id: wd-q815136
+title:
+  zh-TW: Battle of Jellalabad
+  en: Battle of Jellalabad
+summary:
+  zh-TW: 1841 siege
+  en: 1841 siege
+start:
+  year: 1841
+  month: 11
+  day: 12
+end:
+  year: 1842
+  month: 4
+  day: 13
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q815136
+locations:
+  - place: wd-q183303
+    role: primary
+wikipedia:
+  en: Battle of Jalalabad (1842)
+importHash: bf9bc1f3ff77

@@ -1,0 +1,29 @@
+id: wd-q707956
+title:
+  zh-TW: 通州事件
+  en: Tungchow Mutiny
+summary:
+  zh-TW: assault on Japanese civilians and troops
+  en: assault on Japanese civilians and troops
+start:
+  year: 1937
+  month: 7
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q707956
+locations:
+  - place: wd-q707956-site
+    role: primary
+  - place: wd-q393836
+    role: secondary
+wikipedia:
+  en: Tongzhou mutiny
+  zh: 通州事件
+importHash: 6a00bda2b3b8

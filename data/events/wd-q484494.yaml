@@ -1,0 +1,28 @@
+id: wd-q484494
+title:
+  zh-TW: 烏山戰役
+  en: Battle of Osan
+summary:
+  zh-TW: 1950 first battle between North Korean and American forces during the Korean War
+  en: 1950 first battle between North Korean and American forces during the Korean War
+start:
+  year: 1950
+  month: 7
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q484494
+locations:
+  - place: wd-q484494-site
+    role: primary
+  - place: wd-q42129
+    role: secondary
+wikipedia:
+  en: Battle of Osan
+  zh: 烏山戰役
+importHash: c29d6c7c2f1b

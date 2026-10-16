@@ -1,0 +1,26 @@
+id: wd-q244926
+title:
+  zh-TW: 五一五事件
+  en: May 15 Incident
+summary:
+  zh-TW: 刺殺了犬養毅首相的暴亂事件
+  en: attempted coup d'état in Japan in 1932
+start:
+  year: 1932
+  month: 5
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q244926
+locations:
+  - place: wd-q244926-site
+    role: primary
+wikipedia:
+  en: May 15 incident
+  zh: 五一五事件
+importHash: 1a3ffe5425f7

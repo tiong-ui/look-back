@@ -1,0 +1,25 @@
+id: wd-q5177978
+title:
+  zh-TW: 司馬昭弒君
+  en: Coup of Cao Mao
+summary:
+  zh-TW: 三國時期政變
+  en: Coup d'état in state of Cao Wei (260)
+start:
+  year: 260
+  month: 6
+  day: 2
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q5177978
+locations:
+  - place: wd-q187136
+    role: primary
+wikipedia:
+  en: Sima Zhao's regicide of Cao Mao
+  zh: 贾充弑君
+importHash: 0dd4da9ea5cc

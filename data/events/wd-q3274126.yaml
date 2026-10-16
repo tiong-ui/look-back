@@ -1,0 +1,27 @@
+id: wd-q3274126
+title:
+  zh-TW: 2007年千島群島地震
+  en: 2007 Kuril Islands earthquake
+summary:
+  zh-TW: earthquake occurred east of the Kuril Islands on 13 January 2007
+  en: earthquake occurred east of the Kuril Islands on 13 January 2007
+start:
+  year: 2007
+  month: 1
+  day: 13
+precision: day
+categories:
+  - disaster
+regions:
+  - asia
+importance: 1
+wikidata: Q3274126
+locations:
+  - place: wd-q3274126-site
+    role: primary
+  - place: wd-q80389
+    role: secondary
+wikipedia:
+  en: 2007 Kuril Islands earthquake
+  zh: 2007年千島群島地震
+importHash: 147e52ae543e

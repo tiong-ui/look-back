@@ -1,0 +1,23 @@
+id: wd-q2890128
+title:
+  zh-TW: Second Battle of Tarain
+  en: Second Battle of Tarain
+summary:
+  zh-TW: 1192 battle near modern Taraori, India
+  en: 1192 battle near modern Taraori, India
+start:
+  year: 1192
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2890128
+locations:
+  - place: wd-q944133
+    role: primary
+wikipedia:
+  en: Second Battle of Tarain
+importHash: 7f176b215462

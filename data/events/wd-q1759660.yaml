@@ -1,0 +1,32 @@
+id: wd-q1759660
+title:
+  zh-TW: 第二次長沙戰役
+  en: Battle of Changsha
+summary:
+  zh-TW: Japan's second attempt at taking the city of Changsha, China
+  en: Japan's second attempt at taking the city of Changsha, China
+start:
+  year: 1941
+  month: 9
+  day: 6
+end:
+  year: 1941
+  month: 10
+  day: 8
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q1759660
+locations:
+  - place: wd-q1759660-site
+    role: primary
+  - place: wd-q174091
+    role: secondary
+wikipedia:
+  en: Battle of Changsha (1941)
+  zh: 第二次长沙战役
+importHash: 4495e665bbf9

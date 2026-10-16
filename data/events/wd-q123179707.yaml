@@ -1,0 +1,25 @@
+id: wd-q123179707
+title:
+  zh-TW: Sack of Delhi
+  en: Sack of Delhi
+summary:
+  zh-TW: 1398 sack
+  en: 1398 sack
+start:
+  year: 1398
+  month: 12
+  day: 25
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q123179707
+locations:
+  - place: wd-q1353
+    role: primary
+wikipedia:
+  en: Sack of Delhi (1398)
+importHash: 076f86020271

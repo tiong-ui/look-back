@@ -1,0 +1,27 @@
+id: wd-q2095678
+title:
+  zh-TW: 阿瑟耶戰役
+  en: Battle of Assaye
+summary:
+  zh-TW: 1803 battle of the Second Anglo-Maratha War
+  en: 1803 battle of the Second Anglo-Maratha War
+start:
+  year: 1803
+  month: 9
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2095678
+locations:
+  - place: wd-q2095678-site
+    role: primary
+  - place: wd-q739902
+    role: secondary
+wikipedia:
+  en: Battle of Assaye
+importHash: 5d1fba3dd7c1

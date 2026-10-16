@@ -1,0 +1,49 @@
+id: treaty-of-san-francisco
+title:
+  zh-TW: 舊金山和約
+  en: Treaty of San Francisco
+summary:
+  zh-TW: 二戰同盟國與日本簽訂和約，日本放棄對臺灣及澎湖的一切權利，但條約並未指定臺灣歸屬，中華民國與中華人民共和國皆未受邀簽署。
+  en: The Allies signed a peace treaty with Japan. Japan renounced all claims to Taiwan and Penghu, but the treaty did not say to whom; neither the ROC nor the PRC was invited to sign.
+start:
+  year: 1951
+  month: 9
+  day: 8
+end:
+  year: 1952
+  month: 4
+  day: 28
+precision: day
+categories:
+  - diplomacy
+regions:
+  - taiwan
+  - japan
+  - world
+importance: 4
+locations:
+  - place: san-francisco
+    role: primary
+  - place: taiwan
+    role: secondary
+relations:
+  - event: pacific-war
+    type: caused_by
+  - event: treaty-of-taipei
+    type: related
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 條約未指定臺灣歸屬，是「臺灣地位未定論」與臺灣人民自決主張的重要法理依據。
+      en: Because the treaty named no recipient, it is a key legal basis for the "undetermined status" argument and for Taiwanese self-determination.
+  - view: roc
+    text:
+      zh-TW: 中華民國認為臺灣主權已依《中日和約》等文件歸還中華民國。
+      en: The ROC holds that sovereignty over Taiwan returned to it through the Treaty of Taipei and related documents.
+  - view: prc
+    text:
+      zh-TW: 中華人民共和國不承認舊金山和約，主張依開羅宣言與波茨坦公告，臺灣已歸還中國。
+      en: The PRC does not recognise the treaty and holds that Taiwan was returned to China under the Cairo Declaration and Potsdam Proclamation.
+wikipedia:
+  en: Treaty of San Francisco
+  zh: 舊金山和約

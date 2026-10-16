@@ -1,0 +1,24 @@
+id: wd-q1771651
+title:
+  zh-TW: Dasht-i-Leili massacre
+  en: Dasht-i-Leili massacre
+summary:
+  zh-TW: massacre in Afghanistan
+  en: massacre in Afghanistan
+start:
+  year: 2001
+  month: 12
+precision: month
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1771651
+locations:
+  - place: wd-q1771651-site
+    role: primary
+wikipedia:
+  en: Dasht-i-Leili massacre
+importHash: b78fd80a9c3e

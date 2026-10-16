@@ -388,3 +388,4 @@ Quality of content matters more than quantity. A **hand-curated core** is the st
 
 **Wikidata import (added):** `npm run import` / the *Import events from Wikidata* workflow pulls notable events in Asia (and every event in Taiwan with 2+ language editions) from Wikidata. They are shown like any other event; an editor can move one into `data/events/` to write a fuller summary.
 
+**Unified data and CMS (added):** all records live in `data/` as one YAML file each: events from curation, books and Wikidata alike. They are edited through Sveltia CMS at `/admin` (token sign-in, no server). The Wikidata import merges instead of overwriting: events a person has edited are kept, and an exclusion list stops deleted imports from coming back. See `docs/ADMIN.md` and `docs/DATA.md`.

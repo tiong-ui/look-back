@@ -1,0 +1,26 @@
+id: wd-q1133861
+title:
+  zh-TW: 三增峠之戰
+  en: Battle of Mimasetōge
+summary:
+  zh-TW: 1569 battle in Japan
+  en: 1569 battle in Japan
+start:
+  year: 1569
+  month: 11
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1133861
+locations:
+  - place: wd-q1133861-site
+    role: primary
+wikipedia:
+  en: Battle of Mimasetoge
+  zh: 三增峠之戰
+importHash: 66862dccc3bf

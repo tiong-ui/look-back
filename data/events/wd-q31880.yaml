@@ -1,0 +1,33 @@
+id: wd-q31880
+title:
+  zh-TW: 卡斯蒂利亞戰爭
+  en: Castille War
+summary:
+  zh-TW: 1578 war between Brunei and Spain
+  en: 1578 war between Brunei and Spain
+start:
+  year: 1578
+  month: 4
+  day: 26
+end:
+  year: 1578
+  month: 7
+  day: 6
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q31880
+locations:
+  - place: wd-q124873
+    role: primary
+  - place: wd-q36117
+    role: secondary
+  - place: wd-q13887
+    role: secondary
+wikipedia:
+  en: Castilian War
+  zh: 卡斯蒂利亞戰爭
+importHash: 88efa55d6c9b

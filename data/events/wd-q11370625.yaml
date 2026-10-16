@@ -1,0 +1,27 @@
+id: wd-q11370625
+title:
+  zh-TW: 乾岔子島事件
+  en: Kanchazu Island incident
+summary:
+  zh-TW: 1937 Soviet–Japanese border clash
+  en: 1937 Soviet–Japanese border clash
+start:
+  year: 1937
+  month: 6
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q11370625
+locations:
+  - place: wd-q6862
+    role: primary
+relations:
+  - event: wd-q696389
+    type: part_of
+wikipedia:
+  en: Kanchazu Island incident
+  zh: 乾岔子島事件
+importHash: 3d59f7efa3f0

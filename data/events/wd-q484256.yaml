@@ -1,0 +1,27 @@
+id: wd-q484256
+title:
+  zh-TW: 玉浦海戰
+  en: Battle of Okpo
+summary:
+  zh-TW: 1592 naval battle
+  en: 1592 naval battle
+start:
+  year: 1592
+  month: 5
+  day: 8
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q484256
+locations:
+  - place: wd-q484256-site
+    role: primary
+  - place: wd-q492640
+    role: secondary
+wikipedia:
+  en: Battle of Okpo
+  zh: 玉浦海战
+importHash: ae71f7522ddd

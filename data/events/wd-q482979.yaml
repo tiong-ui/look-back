@@ -1,0 +1,30 @@
+id: wd-q482979
+title:
+  zh-TW: 釜山環形防禦圈戰役
+  en: Battle of Pusan Perimeter
+summary:
+  zh-TW: 1950 major battle of the Korean War
+  en: 1950 major battle of the Korean War
+start:
+  year: 1950
+  month: 8
+  day: 4
+end:
+  year: 1950
+  month: 9
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q482979
+locations:
+  - place: wd-q24297886
+    role: primary
+wikipedia:
+  en: Battle of the Pusan Perimeter
+  zh: 釜山環形防禦圈戰役
+importHash: 1291d41a43e0

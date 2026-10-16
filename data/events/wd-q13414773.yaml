@@ -1,0 +1,25 @@
+id: wd-q13414773
+title:
+  zh-TW: 2013年6月南投地震
+  en: June 2013 Nantou earthquake
+summary:
+  zh-TW: earthquake which struck central Taiwan on Sunday, 2 June 2013
+  en: earthquake which struck central Taiwan on Sunday, 2 June 2013
+start:
+  year: 2013
+  month: 6
+  day: 2
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q13414773
+locations:
+  - place: wd-q13414773-site
+    role: primary
+wikipedia:
+  en: June 2013 Nantou earthquake
+  zh: 2013年6月南投地震
+importHash: ed160265ed8b

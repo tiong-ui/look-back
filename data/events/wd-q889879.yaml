@@ -1,0 +1,29 @@
+id: wd-q889879
+title:
+  zh-TW: 同治回變
+  en: Dungan revolt
+summary:
+  zh-TW: 1862年－1873年間陝西和甘肅的回民動亂
+  en: Muslim minority revolt against Qing dynasty China
+start:
+  year: 1862
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+  - china
+importance: 3
+wikidata: Q889879
+locations:
+  - place: wd-q889879-site
+    role: primary
+  - place: wd-q47974
+    role: secondary
+  - place: wd-q42392
+    role: secondary
+wikipedia:
+  en: Dungan Revolt (1862–1877)
+  zh: 同治陕甘回乱
+importHash: dbac18cb957d

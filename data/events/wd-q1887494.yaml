@@ -1,0 +1,28 @@
+id: wd-q1887494
+title:
+  zh-TW: 以仁王舉兵
+  en: Battle of Uji
+summary:
+  zh-TW: 1180 opening battle of the Genpei War
+  en: 1180 opening battle of the Genpei War
+start:
+  year: 1180
+  month: 6
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1887494
+locations:
+  - place: wd-q1887494-site
+    role: primary
+  - place: wd-q326956
+    role: secondary
+wikipedia:
+  en: Battle of Uji (1180)
+  zh: 以仁王舉兵
+importHash: 2c45cda17a6b

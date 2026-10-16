@@ -1,0 +1,27 @@
+id: wd-q1649183
+title:
+  zh-TW: 庫達洛爾海戰
+  en: Battle of Cuddalore
+summary:
+  zh-TW: 1783 naval battle between British and French
+  en: 1783 naval battle between British and French
+start:
+  year: 1783
+  month: 6
+  day: 20
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1649183
+locations:
+  - place: wd-q1649183-site
+    role: primary
+  - place: wd-q639421
+    role: secondary
+wikipedia:
+  en: Battle of Cuddalore (1783)
+  zh: 古達羅爾海戰
+importHash: 8e1fa92966c8

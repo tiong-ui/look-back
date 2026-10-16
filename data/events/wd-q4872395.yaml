@@ -1,0 +1,31 @@
+id: wd-q4872395
+title:
+  zh-TW: 仕林河戰役
+  en: Battle of Slim River
+summary:
+  zh-TW: 1942 battle of the Malayan Campaign in World War II
+  en: 1942 battle of the Malayan Campaign in World War II
+start:
+  year: 1942
+  month: 1
+  day: 6
+end:
+  year: 1942
+  month: 1
+  day: 8
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4872395
+locations:
+  - place: wd-q4872395-site
+    role: primary
+  - place: wd-q7540603
+    role: secondary
+wikipedia:
+  en: Battle of Slim River
+importHash: 7ccdb922cce9

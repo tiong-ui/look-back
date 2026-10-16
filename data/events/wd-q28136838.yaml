@@ -1,0 +1,28 @@
+id: wd-q28136838
+title:
+  zh-TW: 特魯納賈亞叛亂
+  en: Trunajaya rebellion
+summary:
+  zh-TW: 17th-century unsuccessful rebellion in Java
+  en: 17th-century unsuccessful rebellion in Java
+start:
+  year: 1674
+end:
+  year: 1681
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q28136838
+locations:
+  - place: wd-q3757
+    role: primary
+wikipedia:
+  en: Trunajaya rebellion
+  zh: 杜鲁诺佐约起义
+importHash: b03d0bd98a99

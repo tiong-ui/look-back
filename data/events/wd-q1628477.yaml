@@ -1,0 +1,27 @@
+id: wd-q1628477
+title:
+  zh-TW: 第烏戰役
+  en: Battle of Diu
+summary:
+  zh-TW: 1509 battle between a great Muslim compound and Portuguese-Hindu forces in India
+  en: 1509 battle between a great Muslim compound and Portuguese-Hindu forces in India
+start:
+  year: 1509
+  month: 2
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q1628477
+locations:
+  - place: wd-q1628477-site
+    role: primary
+  - place: wd-q66710
+    role: secondary
+wikipedia:
+  en: Battle of Diu
+  zh: 第乌战役 (1509年)
+importHash: b34037efe3f6

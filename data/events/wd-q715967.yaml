@@ -1,0 +1,23 @@
+id: wd-q715967
+title:
+  zh-TW: 恰克圖界約
+  en: Treaty of Kyakhta
+summary:
+  zh-TW: 1727 treaty between Qing China and Imperial Russia
+  en: 1727 treaty between Qing China and Imperial Russia
+start:
+  year: 1727
+precision: year
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 3
+wikidata: Q715967
+locations:
+  - place: wd-q156337
+    role: primary
+wikipedia:
+  en: Treaty of Kyakhta (1727)
+  zh: 恰克圖界約
+importHash: 4963b5d5302f

@@ -1,0 +1,26 @@
+id: wd-q4132831
+title:
+  zh-TW: 梅爾夫戰役
+  en: Battle of Merv
+summary:
+  zh-TW: 1510 battle between the Safavid Iran and the Shaybanids
+  en: 1510 battle between the Safavid Iran and the Shaybanids
+start:
+  year: 1510
+  month: 12
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q4132831
+locations:
+  - place: wd-q193325
+    role: primary
+wikipedia:
+  en: Battle of Merv
+  zh: 梅爾夫戰役
+importHash: 412c7c542047

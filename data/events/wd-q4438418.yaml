@@ -1,0 +1,31 @@
+id: wd-q4438418
+title:
+  zh-TW: 浦項洞戰役
+  en: Battle of P'ohang-dong
+summary:
+  zh-TW: 朝鮮戰爭中的戰役
+  en: 1950 battle in the Korean War
+start:
+  year: 1950
+  month: 8
+  day: 5
+end:
+  year: 1950
+  month: 8
+  day: 20
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4438418
+locations:
+  - place: wd-q4438418-site
+    role: primary
+  - place: wd-q42157
+    role: secondary
+wikipedia:
+  en: Battle of P'ohang-dong
+  zh: 浦項戰役
+importHash: 1323e459f8a2

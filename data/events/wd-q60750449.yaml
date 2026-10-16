@@ -1,0 +1,25 @@
+id: wd-q60750449
+title:
+  zh-TW: Khejarli massacre
+  en: Khejarli massacre
+summary:
+  zh-TW: Massacre of environmentalist protesters
+  en: Massacre of environmentalist protesters
+start:
+  year: 1730
+  month: 9
+  day: 11
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q60750449
+locations:
+  - place: wd-q60750449-site
+    role: primary
+wikipedia:
+  en: Khejarli massacre
+importHash: a7ca4d33332d

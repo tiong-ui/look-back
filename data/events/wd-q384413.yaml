@@ -1,0 +1,26 @@
+id: wd-q384413
+title:
+  zh-TW: Battle of Bilin River
+  en: Battle of Bilin River
+summary:
+  zh-TW: 1942 conflict
+  en: 1942 conflict
+start:
+  year: 1942
+  month: 2
+  day: 18
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q384413
+locations:
+  - place: wd-q384413-site
+    role: primary
+  - place: wd-q55571635
+    role: secondary
+wikipedia:
+  en: Battle of Bilin River
+importHash: 20880611552c

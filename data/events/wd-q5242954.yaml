@@ -1,0 +1,24 @@
+id: wd-q5242954
+title:
+  zh-TW: 渴水日戰爭
+  en: Day of Thirst
+summary:
+  zh-TW: 724 battle between Caliphate and Türgesh tribal confederation
+  en: 724 battle between Caliphate and Türgesh tribal confederation
+start:
+  year: 724
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q5242954
+locations:
+  - place: wd-q373808
+    role: primary
+wikipedia:
+  en: Day of Thirst
+  zh: 渴水日戰爭
+importHash: ec65f901509b

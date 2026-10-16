@@ -1,0 +1,25 @@
+id: wd-q4870727
+title:
+  zh-TW: 奇連瓦拉赫戰役
+  en: Battle of Chillianwala
+summary:
+  zh-TW: 1849 battle of the Second Anglo-Sikh War
+  en: 1849 battle of the Second Anglo-Sikh War
+start:
+  year: 1849
+  month: 1
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4870727
+locations:
+  - place: wd-q5099045
+    role: primary
+wikipedia:
+  en: Battle of Chillianwala
+importHash: aa25507ca086

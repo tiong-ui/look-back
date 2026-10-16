@@ -1,0 +1,29 @@
+id: wd-q56209446
+title:
+  zh-TW: 佳士事件
+  en: Jasic incident
+summary:
+  zh-TW: 2018年廣東深圳的工人運動暨維權抗爭事件
+  en: 2018 labour dispute in Shenzhen, China
+start:
+  year: 2018
+  month: 7
+  day: 27
+end:
+  year: 2018
+  month: 8
+  day: 24
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q56209446
+locations:
+  - place: wd-q15174
+    role: primary
+wikipedia:
+  en: Jasic incident
+  zh: 佳士事件
+importHash: 9b7388ab96d9

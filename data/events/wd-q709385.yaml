@@ -1,0 +1,28 @@
+id: wd-q709385
+title:
+  zh-TW: 南昌會戰
+  en: Battle of Nanchang
+summary:
+  zh-TW: 1939 battle of the Second Sino-Japanese war
+  en: 1939 battle of the Second Sino-Japanese war
+start:
+  year: 1939
+  month: 5
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q709385
+locations:
+  - place: wd-q709385-site
+    role: primary
+  - place: wd-q171943
+    role: secondary
+wikipedia:
+  en: Battle of Nanchang
+  zh: 南昌会战
+importHash: 60fd9e032008

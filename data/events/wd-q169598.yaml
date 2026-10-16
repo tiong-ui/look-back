@@ -1,0 +1,27 @@
+id: wd-q169598
+title:
+  zh-TW: 本能寺之變
+  en: Honnō-ji Incident
+summary:
+  zh-TW: forced suicide of Oda Nobunaga at the hands of traitor Akechi Mitsuhide
+  en: forced suicide of Oda Nobunaga at the hands of traitor Akechi Mitsuhide
+start:
+  year: 1582
+  month: 7
+  day: 1
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q169598
+locations:
+  - place: wd-q169598-site
+    role: primary
+  - place: wd-q17025628
+    role: secondary
+wikipedia:
+  en: Honnō-ji Incident
+  zh: 本能寺之变
+importHash: 49d0482410d1

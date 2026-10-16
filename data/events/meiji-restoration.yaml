@@ -1,0 +1,25 @@
+id: meiji-restoration
+title:
+  zh-TW: 明治維新
+  en: Meiji Restoration
+summary:
+  zh-TW: 幕府倒台、天皇親政，日本全面推動西化與工業化，迅速成為東亞強權，並開始向外擴張，包括琉球、臺灣與朝鮮。
+  en: The shogunate fell and imperial rule was restored. Japan pushed through Westernisation and industrialisation, quickly became East Asia's leading power and began expanding, including into Ryukyu, Taiwan and Korea.
+start:
+  year: 1868
+  month: 1
+  day: 3
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 4
+locations:
+  - place: tokyo
+    role: primary
+  - place: kyoto
+    role: secondary
+wikipedia:
+  en: Meiji Restoration
+  zh: 明治维新

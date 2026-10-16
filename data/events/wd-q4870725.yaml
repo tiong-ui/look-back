@@ -1,0 +1,28 @@
+id: wd-q4870725
+title:
+  zh-TW: 嘉義之役
+  en: Battle of Chiayi
+summary:
+  zh-TW: 嘉義之役
+start:
+  year: 1895
+  month: 10
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - taiwan
+importance: 2
+wikidata: Q4870725
+locations:
+  - place: wd-q249995
+    role: primary
+relations:
+  - event: wd-q717373
+    type: part_of
+wikipedia:
+  en: Battle of Chiayi
+  zh: 嘉義之役
+importHash: 126bd39705b3

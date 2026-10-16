@@ -1,0 +1,27 @@
+id: wd-q987349
+title:
+  zh-TW: 晉陽之戰
+  en: Battle of Jinyang
+summary:
+  zh-TW: 戰國時代晉國四位大夫勢力之間的一場戰爭
+  en: battle
+start:
+  year: -454
+end:
+  year: -452
+  month: 5
+  day: 3
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q987349
+locations:
+  - place: wd-q72778
+    role: primary
+wikipedia:
+  en: Battle of Jinyang
+  zh: 晉陽之戰
+importHash: 182fc730bc74

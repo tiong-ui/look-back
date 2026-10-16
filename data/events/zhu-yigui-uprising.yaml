@@ -1,0 +1,30 @@
+id: zhu-yigui-uprising
+title:
+  zh-TW: 朱一貴事件
+  en: Zhu Yigui uprising
+summary:
+  zh-TW: 朱一貴於羅漢門起事，短時間內攻下臺灣府城並稱王，是清治初期規模最大的民變之一，約兩個月後遭清軍平定。
+  en: Zhu Yigui rose up at Lohanmen, quickly took the prefectural capital and proclaimed himself king. One of the largest revolts of early Qing rule, it was put down after about two months.
+start:
+  year: 1721
+  month: 4
+end:
+  year: 1721
+  month: 6
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+importance: 2
+locations:
+  - place: neimen
+    role: primary
+  - place: tainan
+    role: secondary
+relations:
+  - event: qing-rule-taiwan
+    type: part_of
+wikipedia:
+  en: Zhu Yigui
+  zh: 朱一貴事件

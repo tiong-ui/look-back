@@ -1,0 +1,25 @@
+id: wd-q4870302
+title:
+  zh-TW: 安東戰役
+  en: Battle of Andong
+summary:
+  zh-TW: 1950 battle during Korean War
+  en: 1950 battle during Korean War
+start:
+  year: 1950
+  month: 7
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4870302
+locations:
+  - place: wd-q42116
+    role: primary
+wikipedia:
+  en: Battle of Andong
+  zh: 安東戰役
+importHash: 4a1f4833ef5b

@@ -1,0 +1,29 @@
+id: wd-q704333
+title:
+  zh-TW: 葡荷澳門戰役
+  en: Battle of Macau
+summary:
+  zh-TW: 1622 battle
+  en: 1622 battle
+start:
+  year: 1622
+  month: 6
+  day: 22
+end:
+  year: 1622
+  month: 6
+  day: 24
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q704333
+locations:
+  - place: wd-q3916279
+    role: primary
+wikipedia:
+  en: Battle of Macau
+  zh: 葡荷澳門戰役
+importHash: a3b4cca0fa40

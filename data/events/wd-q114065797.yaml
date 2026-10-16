@@ -1,0 +1,31 @@
+id: wd-q114065797
+title:
+  zh-TW: 阿米尼示威
+  en: Mahsa Amini protests
+summary:
+  zh-TW: 2022年9月至今的伊朗示威
+  en: Iranian protest movement in 2022–2023
+start:
+  year: 2022
+end:
+  year: 2023
+  month: 9
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+  - democracy
+regions:
+  - south-asia
+importance: 4
+wikidata: Q114065797
+locations:
+  - place: wd-q939575
+    role: primary
+  - place: wd-q140561
+    role: secondary
+wikipedia:
+  en: Mahsa Amini protests
+  zh: 阿米尼示威
+importHash: 6842c0063088

@@ -1,0 +1,30 @@
+id: wd-q784397
+title:
+  zh-TW: 西沙之戰
+  en: Battle of the Paracel Islands
+summary:
+  zh-TW: 中華人民共和國與越南共和國之間的海上戰鬥
+  en: 1974 naval battle between the People's Republic of China and the Republic of Vietnam (South Vietnam) in the Paracel Islands
+start:
+  year: 1974
+  month: 1
+  day: 19
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q784397
+locations:
+  - place: wd-q784397-site
+    role: primary
+  - place: wd-q274388
+    role: secondary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of the Paracel Islands
+  zh: 西沙海战
+importHash: a51224731ae0

@@ -1,0 +1,26 @@
+id: mughal-empire
+title:
+  zh-TW: 蒙兀兒帝國建立
+  en: Founding of the Mughal Empire
+summary:
+  zh-TW: 巴布爾在第一次帕尼帕特之戰擊敗德里蘇丹國，建立蒙兀兒帝國，統治印度次大陸大部分地區達兩百年。
+  en: Babur defeated the Delhi Sultanate at the First Battle of Panipat and founded the Mughal Empire, which ruled most of the Indian subcontinent for two centuries.
+start:
+  year: 1526
+  month: 4
+  day: 21
+precision: day
+categories:
+  - dynasty
+  - war
+regions:
+  - south-asia
+importance: 3
+locations:
+  - place: panipat
+    role: primary
+  - place: delhi
+    role: secondary
+wikipedia:
+  en: First Battle of Panipat
+  zh: 第一次帕尼帕特战役

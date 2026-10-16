@@ -1,0 +1,25 @@
+id: wd-q55080471
+title:
+  zh-TW: 2018年大阪地震
+  en: 2018 Osaka earthquake
+summary:
+  zh-TW: 2018年6月18日發生於日本大阪府北部的一場地震
+  en: earthquake in Japan
+start:
+  year: 2018
+  month: 6
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 3
+wikidata: Q55080471
+locations:
+  - place: wd-q55080471-site
+    role: primary
+wikipedia:
+  en: 2018 Osaka earthquake
+  zh: 2018年大阪地震
+importHash: 1abf18466e53

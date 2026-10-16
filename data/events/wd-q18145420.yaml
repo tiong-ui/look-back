@@ -1,0 +1,27 @@
+id: wd-q18145420
+title:
+  zh-TW: 雨傘革命
+  en: 2014 Hong Kong protests
+summary:
+  zh-TW: 2014年在香港爆發的大型民主抗爭運動
+  en: pro-democracy political movement that was created spontaneously
+start:
+  year: 2014
+end:
+  year: 2014
+  month: 12
+  day: 15
+precision: year
+categories:
+  - democracy
+regions:
+  - china
+importance: 4
+wikidata: Q18145420
+locations:
+  - place: wd-q8646
+    role: primary
+wikipedia:
+  en: 2014 Hong Kong protests
+  zh: 雨傘革命
+importHash: 6702e69ffed1

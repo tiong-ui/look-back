@@ -1,0 +1,24 @@
+id: wd-q7045496
+title:
+  zh-TW: 諾阿卡利動亂
+  en: Noakhali riots
+summary:
+  zh-TW: Bangladesh hindu genocide
+  en: Bangladesh hindu genocide
+start:
+  year: 1946
+  month: 11
+precision: month
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q7045496
+locations:
+  - place: wd-q68585
+    role: primary
+wikipedia:
+  en: Noakhali riots
+  zh: 諾阿卡利動亂
+importHash: 1c2802e9c108

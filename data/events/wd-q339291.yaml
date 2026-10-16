@@ -1,0 +1,32 @@
+id: wd-q339291
+title:
+  zh-TW: 武昌起義
+  en: Wuchang Uprising
+summary:
+  zh-TW: 1911年由革命黨人發動的反清武裝起義
+  en: armed rebellion in 10 October 1911 against the Qing dynasty that marked the start of the Xinhai Revolution
+start:
+  year: 1911
+  month: 10
+  day: 10
+end:
+  year: 1911
+  month: 12
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q339291
+locations:
+  - place: wd-q339291-site
+    role: primary
+  - place: wd-q1014420
+    role: secondary
+wikipedia:
+  en: Wuchang Uprising
+  zh: 武昌起义
+importHash: fee257bcc551

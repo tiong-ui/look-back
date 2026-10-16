@@ -1,0 +1,32 @@
+id: wd-q4438381
+title:
+  zh-TW: Battle of Asal Uttar
+  en: Battle of Asal Uttar
+summary:
+  zh-TW: battle fought during the Indo-Pakistani War of 1965
+  en: battle fought during the Indo-Pakistani War of 1965
+start:
+  year: 1965
+  month: 9
+  day: 8
+end:
+  year: 1965
+  month: 9
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4438381
+locations:
+  - place: wd-q4438381-site
+    role: primary
+relations:
+  - event: wd-q233583
+    type: part_of
+wikipedia:
+  en: Battle of Asal Uttar
+importHash: 24ea9d241cc3

@@ -1,0 +1,28 @@
+id: wd-q17016230
+title:
+  zh-TW: Batte of Delhi
+  en: Batte of Delhi
+summary:
+  zh-TW: 1757 fought between the Maratha Empire and Rohilla Afghans
+  en: 1757 fought between the Maratha Empire and Rohilla Afghans
+start:
+  year: 1757
+  month: 8
+  day: 11
+end:
+  year: 1757
+  month: 8
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q17016230
+locations:
+  - place: wd-q45957
+    role: primary
+wikipedia:
+  en: Battle of Delhi (1757)
+importHash: 6f266e5d1810

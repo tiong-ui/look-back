@@ -1,0 +1,25 @@
+id: wd-q18613312
+title:
+  zh-TW: 哈里斯坦戰役
+  en: Battle of Kharistan
+summary:
+  zh-TW: battle fought in 737 between Caliphate and Türgesh tribal confederation
+  en: battle fought in 737 between Caliphate and Türgesh tribal confederation
+start:
+  year: 737
+  month: 12
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q18613312
+locations:
+  - place: wd-q309345
+    role: primary
+wikipedia:
+  en: Battle of Kharistan
+  zh: 喀里斯坦之战
+importHash: 830ddb42ece5

@@ -1,0 +1,22 @@
+id: wd-q16207176
+title:
+  zh-TW: Battle of Ghazni
+  en: Battle of Ghazni
+summary:
+  zh-TW: battle in 1148
+  en: battle in 1148
+start:
+  year: 1148
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q16207176
+locations:
+  - place: wd-q173731
+    role: primary
+wikipedia:
+  en: Battle of Ghazni (1148)
+importHash: 55b3c4c619a7

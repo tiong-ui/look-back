@@ -1,0 +1,26 @@
+id: taiwan-relations-act
+title:
+  zh-TW: 臺灣關係法
+  en: Taiwan Relations Act
+summary:
+  zh-TW: 美國與中華人民共和國建交、與中華民國斷交後，美國國會通過《臺灣關係法》，以法律維持與臺灣的非官方關係，並承諾提供防禦性武器。
+  en: After the US recognised the PRC and broke ties with the ROC, Congress passed the Taiwan Relations Act, keeping unofficial relations with Taiwan in law and committing to provide defensive arms.
+start:
+  year: 1979
+  month: 4
+  day: 10
+precision: day
+categories:
+  - diplomacy
+regions:
+  - taiwan
+  - world
+importance: 4
+locations:
+  - place: washington
+    role: primary
+  - place: taipei
+    role: secondary
+wikipedia:
+  en: Taiwan Relations Act
+  zh: 臺灣關係法

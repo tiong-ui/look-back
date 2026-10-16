@@ -1,0 +1,25 @@
+id: wd-q2097061
+title:
+  zh-TW: 2010年高雄地震
+  en: 2010 Kaohsiung earthquakes
+summary:
+  zh-TW: Earthquake in Taiwan
+  en: Earthquake in Taiwan
+start:
+  year: 2010
+  month: 3
+  day: 4
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 3
+wikidata: Q2097061
+locations:
+  - place: wd-q2097061-site
+    role: primary
+wikipedia:
+  en: 2010 Kaohsiung earthquake
+  zh: 2010年高雄地震
+importHash: 9d1abe94842b

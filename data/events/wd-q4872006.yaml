@@ -1,0 +1,28 @@
+id: wd-q4872006
+title:
+  zh-TW: Battle of Peiwar Kotal
+  en: Battle of Peiwar Kotal
+summary:
+  zh-TW: 1878 battle of the Second Anglo-Afghan War
+  en: 1878 battle of the Second Anglo-Afghan War
+start:
+  year: 1878
+  month: 11
+  day: 28
+end:
+  year: 1878
+  month: 11
+  day: 29
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872006
+locations:
+  - place: wd-q2378590
+    role: primary
+wikipedia:
+  en: Battle of Peiwar Kotal
+importHash: 8bc10faf9363

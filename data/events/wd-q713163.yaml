@@ -1,0 +1,26 @@
+id: wd-q713163
+title:
+  zh-TW: 宮城事件
+  en: Kyūjō Incident
+summary:
+  zh-TW: 二戰末期發生在日本的未遂軍事政變
+  en: coup d'état
+start:
+  year: 1945
+  month: 8
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q713163
+locations:
+  - place: wd-q500681
+    role: primary
+wikipedia:
+  en: Kyūjō incident
+  zh: 宫城事件
+importHash: 6c9746bae1c7

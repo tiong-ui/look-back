@@ -1,0 +1,33 @@
+id: wd-q7510168
+title:
+  zh-TW: Siege of Kumamoto Castle
+  en: Siege of Kumamoto Castle
+summary:
+  zh-TW: 1877 Japanese military event
+  en: 1877 Japanese military event
+start:
+  year: 1877
+  month: 2
+  day: 19
+end:
+  year: 1877
+  month: 4
+  day: 12
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510168
+locations:
+  - place: wd-q7510168-site
+    role: primary
+  - place: wd-q613355
+    role: secondary
+relations:
+  - event: wd-q714820
+    type: part_of
+wikipedia:
+  en: Siege of Kumamoto Castle
+importHash: 355d49201ab2

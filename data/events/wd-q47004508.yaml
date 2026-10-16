@@ -1,0 +1,26 @@
+id: wd-q47004508
+title:
+  zh-TW: 欽達武勒起義
+  en: Chindawol uprising
+summary:
+  zh-TW: 1979 insurrection in Old Kabul
+  en: 1979 insurrection in Old Kabul
+start:
+  year: 1979
+  month: 6
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q47004508
+locations:
+  - place: wd-q5838
+    role: primary
+wikipedia:
+  en: Chindawol uprising
+  zh: 欽達武勒起義
+importHash: 6322ea5ac382

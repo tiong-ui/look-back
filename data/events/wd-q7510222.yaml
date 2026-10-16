@@ -1,0 +1,26 @@
+id: wd-q7510222
+title:
+  zh-TW: Siege of Malacca
+  en: Siege of Malacca
+summary:
+  zh-TW: 1606 Portugal repels Dutch and Johor forces
+  en: 1606 Portugal repels Dutch and Johor forces
+start:
+  year: 1606
+end:
+  year: 1606
+  month: 8
+  day: 17
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q7510222
+locations:
+  - place: wd-q61089
+    role: primary
+wikipedia:
+  en: Siege of Malacca (1606)
+importHash: 325839d0e4a4

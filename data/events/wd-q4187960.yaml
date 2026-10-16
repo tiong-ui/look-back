@@ -1,0 +1,28 @@
+id: wd-q4187960
+title:
+  zh-TW: 稻生之戰
+  en: Battle of Inō
+summary:
+  zh-TW: 1556 battle in Japan
+  en: 1556 battle in Japan
+start:
+  year: 1556
+  month: 10
+  day: 7
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q4187960
+locations:
+  - place: wd-q4187960-site
+    role: primary
+  - place: wd-q17226865
+    role: secondary
+wikipedia:
+  en: Battle of Inō
+  zh: 稻生之戰
+importHash: 97463e13fbbe

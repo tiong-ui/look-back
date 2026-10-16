@@ -1,0 +1,25 @@
+id: wd-q608727
+title:
+  zh-TW: 白江口之戰
+  en: Battle of Baekgang
+summary:
+  zh-TW: 7th-century battle in Korea
+  en: 7th-century battle in Korea
+start:
+  year: 663
+precision: year
+categories:
+  - war
+regions:
+  - korea
+importance: 3
+wikidata: Q608727
+locations:
+  - place: wd-q608727-site
+    role: primary
+  - place: wd-q41157
+    role: secondary
+wikipedia:
+  en: Battle of Baekgang
+  zh: 白江口之战
+importHash: 75881f0217a7

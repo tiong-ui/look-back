@@ -1,0 +1,24 @@
+id: wd-q6994574
+title:
+  zh-TW: Nepal–Britain Treaty of 1923
+  en: Nepal–Britain Treaty of 1923
+summary:
+  zh-TW: 1923 treaty between Nepal and the United Kingdom
+  en: 1923 treaty between Nepal and the United Kingdom
+start:
+  year: 1923
+  month: 12
+  day: 21
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q6994574
+locations:
+  - place: wd-q3457358
+    role: primary
+wikipedia:
+  en: Nepal–Britain Treaty of 1923
+importHash: 5f96e5c20d73

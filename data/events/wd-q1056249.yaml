@@ -1,0 +1,26 @@
+id: wd-q1056249
+title:
+  zh-TW: 小田井原之戰
+  en: Battle of Odaihara
+summary:
+  zh-TW: 1547 battle
+  en: 1547 battle
+start:
+  year: 1547
+  month: 9
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1056249
+locations:
+  - place: wd-q3357559
+    role: primary
+wikipedia:
+  en: Battle of Odaihara
+  zh: 小田井原之战
+importHash: aa577b8e3d26

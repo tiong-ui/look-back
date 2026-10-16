@@ -1,0 +1,24 @@
+id: wd-q4087449
+title:
+  zh-TW: Battle of Najafgarh
+  en: Battle of Najafgarh
+summary:
+  zh-TW: It was a subsidiary event of the Siege of Delhi during the Indian Rebellion of 1857
+  en: It was a subsidiary event of the Siege of Delhi during the Indian Rebellion of 1857
+start:
+  year: 1857
+  month: 8
+  day: 25
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4087449
+locations:
+  - place: wd-q6959903
+    role: primary
+wikipedia:
+  en: Battle of Najafgarh
+importHash: 300bdc043c03

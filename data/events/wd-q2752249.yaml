@@ -1,0 +1,26 @@
+id: wd-q2752249
+title:
+  zh-TW: Siege of Edo
+  en: Siege of Edo
+summary:
+  zh-TW: 1524 siege of Edo Castle in Japan
+  en: 1524 siege of Edo Castle in Japan
+start:
+  year: 1524
+  month: 2
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2752249
+locations:
+  - place: wd-q2752249-site
+    role: primary
+  - place: wd-q2749804
+    role: secondary
+wikipedia:
+  en: Siege of Edo
+importHash: 4211af522164

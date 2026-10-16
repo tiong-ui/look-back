@@ -1,0 +1,24 @@
+id: wd-q909414
+title:
+  zh-TW: Operation Mountain Fury
+  en: Operation Mountain Fury
+summary:
+  zh-TW: 2006 military operation
+  en: 2006 military operation
+start:
+  year: 2006
+  month: 9
+  day: 16
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q909414
+locations:
+  - place: wd-q185575
+    role: primary
+wikipedia:
+  en: Operation Mountain Fury
+importHash: 289820fd1cff

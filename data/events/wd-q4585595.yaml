@@ -1,0 +1,27 @@
+id: wd-q4585595
+title:
+  zh-TW: 烏魯木齊五·一九騷亂
+  en: 1989 Ürümqi unrest
+summary:
+  zh-TW: 1989年新疆烏魯木齊的騷亂
+  en: 1989 riots in Xinjiang, China
+start:
+  year: 1989
+  month: 5
+  day: 19
+precision: day
+categories:
+  - democracy
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4585595
+locations:
+  - place: wd-q16959
+    role: primary
+  - place: wd-q7165785
+    role: secondary
+wikipedia:
+  en: 1989 Ürümqi unrest
+  zh: 乌鲁木齐五·一九骚乱
+importHash: 9e037a22ccfc

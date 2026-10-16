@@ -1,0 +1,24 @@
+id: wd-q3269746
+title:
+  zh-TW: 八魯灣之戰
+  en: Battle of Parwan
+summary:
+  zh-TW: 1221 battles involving the Mongol Empire
+  en: 1221 battles involving the Mongol Empire
+start:
+  year: 1221
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3269746
+locations:
+  - place: wd-q188157
+    role: primary
+wikipedia:
+  en: Battle of Parwan
+  zh: 八魯灣之戰
+importHash: 4455eeb78e4b

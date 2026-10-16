@@ -1,0 +1,26 @@
+id: wd-q116180398
+title:
+  zh-TW: 2014年莎車縣暴恐襲擊案
+  en: 2014 Yarkant attacks
+summary:
+  zh-TW: violent conflict in Xinjiang, China
+  en: violent conflict in Xinjiang, China
+start:
+  year: 2014
+  month: 7
+  day: 28
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - central-asia
+importance: 1
+wikidata: Q116180398
+locations:
+  - place: wd-q116180398-site
+    role: primary
+wikipedia:
+  en: 2014 Yarkand violence
+  zh: 2014年莎车县暴恐袭击案
+importHash: ada41fe7c8b7

@@ -1,0 +1,24 @@
+id: wd-q138853914
+title:
+  zh-TW: 2026 Molucca Sea earthquake
+  en: 2026 Molucca Sea earthquake
+summary:
+  zh-TW: 2026 earthquake
+  en: 2026 earthquake
+start:
+  year: 2026
+  month: 4
+  day: 1
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q138853914
+locations:
+  - place: wd-q138853914-site
+    role: primary
+wikipedia:
+  en: 2026 North Maluku earthquake
+importHash: eecc8dea611f

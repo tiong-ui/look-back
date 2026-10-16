@@ -1,0 +1,28 @@
+id: wd-q6161350
+title:
+  zh-TW: 2011年金三角中國船員遇襲案
+  en: Mekong River massacre
+summary:
+  zh-TW: 跨國案件
+  en: 2011 hijacking of two Chinese cargo ships and subsequent massacre of all 13 crew members
+start:
+  year: 2011
+  month: 10
+  day: 5
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q6161350
+locations:
+  - place: wd-q6161350-site
+    role: primary
+  - place: wd-q475399
+    role: secondary
+wikipedia:
+  en: Mekong River massacre
+  zh: 湄公河慘案
+importHash: 96c9b6333aa7

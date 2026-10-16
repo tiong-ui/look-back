@@ -1,0 +1,25 @@
+id: wd-q4870743
+title:
+  zh-TW: 穿鼻之戰
+  en: Battle of Chuenpee
+summary:
+  zh-TW: battle in Opium War (November 3, 1839)
+  en: battle in Opium War (November 3, 1839)
+start:
+  year: 1839
+  month: 11
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 1
+wikidata: Q4870743
+locations:
+  - place: wd-q4870743-site
+    role: primary
+wikipedia:
+  en: Battle of Chuenpi
+  zh: 穿鼻之战
+importHash: 413308f64a79

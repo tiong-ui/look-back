@@ -1,0 +1,26 @@
+id: wd-q1036636
+title:
+  zh-TW: 黃山伐之戰
+  en: Battle of Hwangsanbeol
+summary:
+  zh-TW: 660年百濟和新羅之間的戰役
+  en: battle between Silla and Baekje in 660
+start:
+  year: 660
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q1036636
+locations:
+  - place: wd-q42088
+    role: primary
+relations:
+  - event: wd-q10922917
+    type: part_of
+wikipedia:
+  en: Battle of Hwangsanbeol
+importHash: 9a73ea5ba8f6

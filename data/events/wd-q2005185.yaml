@@ -1,0 +1,24 @@
+id: wd-q2005185
+title:
+  zh-TW: 馬陵之戰
+  en: Battle of Maling
+summary:
+  zh-TW: battle in 342 BC
+  en: battle in 342 BC
+start:
+  year: -341
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2005185
+locations:
+  - place: wd-q2005185-site
+    role: primary
+wikipedia:
+  en: Battle of Maling
+  zh: 馬陵之戰
+importHash: bd6e89f25a77

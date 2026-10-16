@@ -1,0 +1,30 @@
+id: wd-q4870267
+title:
+  zh-TW: Siege of Aligarh
+  en: Siege of Aligarh
+summary:
+  zh-TW: battle between the Maratha Confederacy and the British East India Company during the Second Anglo-Maratha War (1803–1805) at Aligarh, India
+  en: battle between the Maratha Confederacy and the British East India Company during the Second Anglo-Maratha War (1803–1805) at Aligarh, India
+start:
+  year: 1803
+  month: 9
+  day: 1
+end:
+  year: 1803
+  month: 9
+  day: 4
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870267
+locations:
+  - place: wd-q4870267-site
+    role: primary
+  - place: wd-q201832
+    role: secondary
+wikipedia:
+  en: Siege of Aligarh
+importHash: 92210cc65978

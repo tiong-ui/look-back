@@ -1,0 +1,23 @@
+id: tang-dynasty
+title:
+  zh-TW: 唐朝
+  en: Tang dynasty
+summary:
+  zh-TW: 以長安為都城的大一統王朝，長安是當時世界最大的城市之一，唐代文化、制度與佛教對日本、朝鮮半島影響深遠。
+  en: A unified dynasty ruling from Chang'an, then one of the world's largest cities. Tang culture, institutions and Buddhism deeply influenced Japan and Korea.
+start: 618
+end: 907
+precision: year
+categories:
+  - dynasty
+regions:
+  - china
+importance: 5
+locations:
+  - place: changan
+    role: primary
+  - place: luoyang
+    role: secondary
+wikipedia:
+  en: Tang dynasty
+  zh: 唐朝

@@ -1,0 +1,28 @@
+id: wd-q21030182
+title:
+  zh-TW: 昆都士之戰
+  en: Battle of Kunduz
+summary:
+  zh-TW: 2015 battle for the control of the city of Kunduz
+  en: 2015 battle for the control of the city of Kunduz
+start:
+  year: 2015
+  month: 4
+  day: 24
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q21030182
+locations:
+  - place: wd-q21030182-site
+    role: primary
+  - place: wd-q108155
+    role: secondary
+wikipedia:
+  en: Battle of Kunduz (2015)
+  zh: 昆都士之戰
+importHash: c1adf486c5e2

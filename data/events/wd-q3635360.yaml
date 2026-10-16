@@ -1,0 +1,27 @@
+id: wd-q3635360
+title:
+  zh-TW: Battle of Haldighati
+  en: Battle of Haldighati
+summary:
+  zh-TW: 1576 battle of the Mughal-Rajput Wars
+  en: 1576 battle of the Mughal-Rajput Wars
+start:
+  year: 1576
+  month: 6
+  day: 28
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3635360
+locations:
+  - place: wd-q3635360-site
+    role: primary
+  - place: wd-q3249952
+    role: secondary
+wikipedia:
+  en: Battle of Haldighati
+importHash: ce10aa938c37

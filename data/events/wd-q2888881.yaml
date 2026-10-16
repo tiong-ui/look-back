@@ -1,0 +1,26 @@
+id: wd-q2888881
+title:
+  zh-TW: Fall of Kandahar
+  en: Fall of Kandahar
+summary:
+  zh-TW: 2001 event in the War of Afghanistan
+  en: 2001 event in the War of Afghanistan
+start:
+  year: 2001
+  month: 12
+  day: 7
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2888881
+locations:
+  - place: wd-q2888881-site
+    role: primary
+  - place: wd-q45604
+    role: secondary
+wikipedia:
+  en: Fall of Kandahar
+importHash: 391dac6814af

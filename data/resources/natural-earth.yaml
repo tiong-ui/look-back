@@ -1,0 +1,8 @@
+id: natural-earth
+name:
+  zh-TW: Natural Earth
+  en: Natural Earth
+url: https://www.naturalearthdata.com/
+type: map
+lang:
+  - en

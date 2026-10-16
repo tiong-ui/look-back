@@ -1,0 +1,27 @@
+id: wd-q1116528
+title:
+  zh-TW: 南都燒討
+  en: Siege of Nara
+summary:
+  zh-TW: 1181 siege
+  en: 1181 siege
+start:
+  year: 1181
+  month: 1
+  day: 22
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q1116528
+locations:
+  - place: wd-q1116528-site
+    role: primary
+  - place: wd-q169134
+    role: secondary
+wikipedia:
+  en: Siege of Nara
+  zh: 南都燒討
+importHash: ba3639514173

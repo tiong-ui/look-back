@@ -25,7 +25,11 @@ Node 20 or newer.
 
 ## Content
 
-All events, places, eras and resource links are YAML files in [`data/`](data/). See the [data guide](docs/DATA.md) for how to add or edit them, and the [editorial guidelines](docs/EDITORIAL.md) for wording and perspectives. The reference list shown in the app is [`data/resources.yaml`](data/resources.yaml).
+Every event, place, era and reference is one YAML file in [`data/`](data/), whether written by hand, entered in the CMS, or imported from Wikidata.
+
+- **管理介面 / Admin:** https://tiong-ui.github.io/look-back/admin/ : add and edit events (e.g. from books) with forms. See the [操作手冊 / admin guide](docs/ADMIN.md).
+- [Data guide](docs/DATA.md): file formats and how the Wikidata import merges with your edits.
+- [Editorial guidelines](docs/EDITORIAL.md): wording and perspectives.
 
 ## Setup on GitHub (one time)
 
@@ -37,6 +41,7 @@ All events, places, eras and resource links are YAML files in [`data/`](data/). 
 
 - [Proposal](docs/PROPOSAL.md): product and technical design, decisions, roadmap
 - [Data guide](docs/DATA.md)
+- [Admin guide (中文)](docs/ADMIN.md)
 - [Editorial guidelines](docs/EDITORIAL.md)
 
 ## Credits

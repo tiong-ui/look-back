@@ -1,0 +1,29 @@
+id: three-kingdoms
+title:
+  zh-TW: 三國時代
+  en: Three Kingdoms
+summary:
+  zh-TW: 東漢滅亡後，魏、蜀、吳三國鼎立，戰亂導致人口銳減，也成為後世文學與戲曲的重要題材。
+  en: After the Eastern Han fell, Wei, Shu and Wu divided China. The wars caused a sharp fall in population and became a favourite subject of later literature and drama.
+start: 220
+end: 280
+precision: year
+categories:
+  - dynasty
+  - war
+regions:
+  - china
+importance: 4
+locations:
+  - place: luoyang
+    role: primary
+  - place: chengdu
+    role: secondary
+  - place: nanjing
+    role: secondary
+relations:
+  - event: wu-yizhou-expedition
+    type: has_part
+wikipedia:
+  en: Three Kingdoms
+  zh: 三国

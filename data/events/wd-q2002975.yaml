@@ -1,0 +1,29 @@
+id: wd-q2002975
+title:
+  zh-TW: 尼泊爾內戰
+  en: Nepalese Civil War
+summary:
+  zh-TW: 戰爭
+  en: civil war in Nepal between 1996 and 2006
+start:
+  year: 1996
+  month: 2
+  day: 13
+end:
+  year: 2006
+  month: 11
+  day: 21
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q2002975
+locations:
+  - place: wd-q2002975-site
+    role: primary
+wikipedia:
+  en: Nepalese Civil War
+  zh: 尼泊尔内战
+importHash: b4d9a2d7f8e9

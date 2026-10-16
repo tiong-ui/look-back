@@ -1,0 +1,25 @@
+id: wd-q24963774
+title:
+  zh-TW: Battle of Ravi
+  en: Battle of Ravi
+summary:
+  zh-TW: 1306 battle in India
+  en: 1306 battle in India
+start:
+  year: 1306
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q24963774
+locations:
+  - place: wd-q317899
+    role: primary
+relations:
+  - event: wd-q2079940
+    type: part_of
+wikipedia:
+  en: Mongol invasion of India (1306)
+importHash: 7edeb3012866

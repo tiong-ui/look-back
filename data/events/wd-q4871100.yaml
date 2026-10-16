@@ -1,0 +1,26 @@
+id: wd-q4871100
+title:
+  zh-TW: 岐阜城之戰
+  en: Battle of Gifu Castle
+summary:
+  zh-TW: 1600 battle
+  en: 1600 battle
+start:
+  year: 1600
+  month: 9
+  day: 30
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4871100
+locations:
+  - place: wd-q4871100-site
+    role: primary
+  - place: wd-q1367052
+    role: secondary
+wikipedia:
+  en: Battle of Gifu Castle
+importHash: 0318c762faf1

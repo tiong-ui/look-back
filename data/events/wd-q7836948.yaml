@@ -1,0 +1,24 @@
+id: wd-q7836948
+title:
+  zh-TW: 日泰同盟條約
+  en: Treaty between Thailand and Japan Concerning the Continuance of Friendly Relations and the Mutual Respect of Each Other's Territorial Integrity
+summary:
+  zh-TW: 1940 treaty between Thailand and Japan
+  en: 1940 treaty between Thailand and Japan
+start:
+  year: 1940
+  month: 6
+  day: 12
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 1
+wikidata: Q7836948
+locations:
+  - place: wd-q1207735
+    role: primary
+wikipedia:
+  en: Treaty between Thailand and Japan (1940)
+importHash: c6853ebf80a7

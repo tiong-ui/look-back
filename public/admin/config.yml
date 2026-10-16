@@ -1,0 +1,414 @@
+# Sveltia CMS configuration for 回望 Look Back.
+# The editor lives at https://tiong-ui.github.io/look-back/admin/
+# Docs: https://sveltiacms.app/en/docs  ·  How to use it: docs/ADMIN.md
+#
+# Every record is one YAML file named after its id (data/events/<id>.yaml …).
+# Saving in the CMS commits to the main branch, which redeploys the site.
+# Field rules here mirror the checks in scripts/build-data.ts; keep them in sync.
+
+app_title: 回望 Look Back 管理
+site_url: https://tiong-ui.github.io/look-back/
+logo_url: /look-back/favicon.svg
+
+backend:
+  name: github
+  repo: tiong-ui/look-back
+  branch: main
+  # Sign in with a GitHub personal access token: no OAuth server needed.
+  auth_methods: [token]
+  commit_messages:
+    create: '新增 {{collection}}：{{slug}}'
+    update: '更新 {{collection}}：{{slug}}'
+    delete: '刪除 {{collection}}：{{slug}}'
+
+media_folder: public/images
+public_folder: /look-back/images
+
+output:
+  omit_empty_optional_fields: true
+
+editor:
+  preview: false
+
+collections:
+  # ------------------------------------------------------------------ events
+  - name: events
+    label: 歷史事件
+    label_singular: 事件
+    description: 地圖與時間軸上的所有事件。來自維基數據的事件也在這裡，修改後就不會再被自動匯入覆蓋。
+    icon: history_edu
+    folder: data/events
+    format: yaml
+    extension: yaml
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{start.year}}｜{{title.zh-TW}}'
+    sortable_fields:
+      fields: [start.year, title.zh-TW, importance]
+      default: { field: start.year, direction: ascending }
+    view_filters:
+      - { label: 臺灣, field: regions, pattern: taiwan }
+      - { label: 來自維基數據, field: id, pattern: '^wd-' }
+      - { label: 手動建立, field: id, pattern: '^(?!wd-)' }
+    fields:
+      - name: id
+        label: 編號（英文）
+        hint: 小寫英文、數字與連字號，例如 `mudan-incident`。建立後請勿再改，其他事件會用它來連結。
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', '只能使用小寫英文、數字與連字號']
+      - name: title
+        label: 標題
+        widget: object
+        fields:
+          - { name: zh-TW, label: 中文 }
+          - { name: en, label: 英文, required: false }
+      - name: altNames
+        label: 其他名稱
+        widget: list
+        required: false
+        collapsed: true
+        summary: '{{fields.zh-TW}}'
+        fields:
+          - { name: zh-TW, label: 中文 }
+          - { name: en, label: 英文, required: false }
+      - name: summary
+        label: 摘要
+        hint: 兩三句話，依 docs/EDITORIAL.md 以臺灣主體觀點書寫。
+        widget: object
+        fields:
+          - { name: zh-TW, label: 中文, widget: text }
+          - { name: en, label: 英文, widget: text, required: false }
+      - name: start
+        label: 開始日期
+        hint: 年份請用天文紀年：西元前1年＝0，西元前200年＝-199。
+        widget: object
+        fields:
+          - { name: year, label: 年, widget: number, value_type: int }
+          - { name: month, label: 月, widget: number, value_type: int, min: 1, max: 12, required: false }
+          - { name: day, label: 日, widget: number, value_type: int, min: 1, max: 31, required: false }
+      - name: end
+        label: 結束日期
+        hint: 單日事件可留空。
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: year, label: 年, widget: number, value_type: int, required: false }
+          - { name: month, label: 月, widget: number, value_type: int, min: 1, max: 12, required: false }
+          - { name: day, label: 日, widget: number, value_type: int, min: 1, max: 31, required: false }
+      - name: precision
+        label: 日期精確度
+        widget: select
+        default: year
+        options:
+          - { label: 日, value: day }
+          - { label: 月, value: month }
+          - { label: 年, value: year }
+          - { label: 十年, value: decade }
+          - { label: 世紀, value: century }
+          - { label: 千年, value: millennium }
+      - { name: approximate, label: 大約（顯示「約」）, widget: boolean, required: false, default: false }
+      - name: categories
+        label: 分類
+        widget: select
+        multiple: true
+        min: 1
+        options:
+          - { label: 🏺 史前, value: prehistory }
+          - { label: 🏛️ 政治, value: politics }
+          - { label: 👑 王朝政權, value: dynasty }
+          - { label: ⚔️ 戰爭衝突, value: war }
+          - { label: 🤝 外交條約, value: diplomacy }
+          - { label: 🗳️ 民主人權, value: democracy }
+          - { label: ⚓ 貿易, value: trade }
+          - { label: 🧭 遷徙探索, value: migration }
+          - { label: ☸️ 宗教, value: religion }
+          - { label: 🎭 文化社會, value: culture }
+          - { label: 🌋 災害疫病, value: disaster }
+      - name: regions
+        label: 地區
+        hint: 「臺灣」會提高事件的重要度。
+        widget: select
+        multiple: true
+        min: 1
+        options:
+          - { label: 臺灣, value: taiwan }
+          - { label: 中國, value: china }
+          - { label: 香港, value: hong-kong }
+          - { label: 日本, value: japan }
+          - { label: 韓國, value: korea }
+          - { label: 東南亞, value: southeast-asia }
+          - { label: 南亞, value: south-asia }
+          - { label: 中亞, value: central-asia }
+          - { label: 東亞, value: east-asia }
+          - { label: 亞洲, value: asia }
+          - { label: 太平洋, value: pacific }
+          - { label: 世界, value: world }
+      - name: importance
+        label: 重要度（1–5）
+        hint: 有維基百科條目的事件，每月會依維基百科重新計算；要固定請勾選下方「鎖定」。
+        widget: number
+        value_type: int
+        min: 1
+        max: 5
+        required: false
+      - { name: importanceLocked, label: 鎖定重要度, widget: boolean, required: false, default: false }
+      - name: locations
+        label: 地點
+        widget: list
+        min: 1
+        summary: '{{fields.role}}：{{fields.place}}'
+        hint: 找不到地點時，請先到「地點」新增。「出發地」與「目的地」會在地圖上畫出移動路線。
+        fields:
+          - name: place
+            label: 地點
+            widget: relation
+            collection: places
+            value_field: id
+            search_fields: [names.*.zh-TW, names.*.en, id]
+            display_fields: ['{{names.0.zh-TW}}（{{id}}）']
+          - name: role
+            label: 角色
+            widget: select
+            default: primary
+            options:
+              - { label: 發生地, value: primary }
+              - { label: 相關地, value: secondary }
+              - { label: 出發地, value: origin }
+              - { label: 目的地, value: destination }
+              - { label: 範圍, value: area }
+      - name: relations
+        label: 相關事件
+        widget: list
+        required: false
+        collapsed: true
+        summary: '{{fields.type}}：{{fields.event}}'
+        hint: 只需在一邊設定，另一邊會自動顯示相反關係。
+        fields:
+          - name: event
+            label: 事件
+            widget: relation
+            collection: events
+            value_field: id
+            search_fields: [title.zh-TW, title.en, id]
+            display_fields: ['{{start.year}} {{title.zh-TW}}']
+          - name: type
+            label: 關係
+            widget: select
+            options:
+              - { label: 導致, value: causes }
+              - { label: 起因, value: caused_by }
+              - { label: 屬於, value: part_of }
+              - { label: 包含, value: has_part }
+              - { label: 之後是, value: precedes }
+              - { label: 承接, value: follows }
+              - { label: 相關, value: related }
+      - name: perspectives
+        label: 各方觀點
+        hint: 有爭議的事件，列出各方觀點。
+        widget: list
+        required: false
+        collapsed: true
+        summary: '{{fields.view}}'
+        fields:
+          - name: view
+            label: 觀點
+            widget: select
+            options:
+              - { label: 臺灣主體觀點, value: taiwan }
+              - { label: 中華民國官方觀點, value: roc }
+              - { label: 中華人民共和國官方觀點, value: prc }
+              - { label: 日本觀點, value: japan }
+              - { label: 原住民族觀點, value: indigenous }
+              - { label: 學界觀點, value: scholarly }
+          - name: text
+            label: 內容
+            widget: object
+            fields:
+              - { name: zh-TW, label: 中文, widget: text }
+              - { name: en, label: 英文, widget: text, required: false }
+      - name: sources
+        label: 資料來源
+        hint: 書本請先在「參考資源」新增（類型選「書籍」），再在這裡選取並填頁碼。
+        widget: list
+        required: false
+        summary: '{{fields.resource}} {{fields.page}} {{fields.url}}'
+        fields:
+          - name: resource
+            label: 參考資源
+            widget: relation
+            collection: resources
+            value_field: id
+            search_fields: [name.zh-TW, name.en, id]
+            display_fields: ['{{name.zh-TW}}']
+            required: false
+          - { name: page, label: 頁碼／章節, hint: 例如 p.215 或 第三章, required: false }
+          - { name: url, label: 網址, hint: 特定網頁的連結（選填）, widget: string, type: url, required: false }
+          - name: title
+            label: 連結標題
+            widget: object
+            required: false
+            collapsed: true
+            fields:
+              - { name: zh-TW, label: 中文 }
+              - { name: en, label: 英文, required: false }
+      - name: wikipedia
+        label: 維基百科條目
+        hint: 填條目標題（不是網址），會自動產生連結，也用來計算重要度。
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: zh, label: 中文條目, required: false }
+          - { name: en, label: 英文條目, required: false }
+      - { name: wikidata, label: 維基數據編號, hint: 例如 Q12345, required: false, pattern: ['^Q\d+$', '格式為 Q 加數字'] }
+      - { name: importanceBoost, label: 重要度加減（-2 到 2）, widget: number, value_type: int, min: -2, max: 2, required: false }
+      # Written by the Wikidata importer. Any edit to the entry makes it differ
+      # from the stored content, so the importer will no longer overwrite it.
+      - { name: importHash, widget: hidden }
+
+  # ------------------------------------------------------------------ places
+  - name: places
+    label: 地點
+    label_singular: 地點
+    description: 事件發生的地點。同一地點在不同時代可有不同名稱。
+    icon: location_on
+    folder: data/places
+    format: yaml
+    extension: yaml
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{names.0.zh-TW}}（{{id}}）'
+    fields:
+      - name: id
+        label: 編號（英文）
+        hint: 例如 `tainan-anping`。建立後請勿再改。
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', '只能使用小寫英文、數字與連字號']
+      - name: lng
+        label: 經度
+        hint: 在 Google 地圖對地點按右鍵，第一個數字是緯度、第二個是經度。臺灣約為 120 到 122。
+        widget: number
+        value_type: float
+        min: -180
+        max: 180
+      - { name: lat, label: 緯度, hint: 臺灣約為 22 到 25。, widget: number, value_type: float, min: -90, max: 90 }
+      - name: names
+        label: 名稱
+        hint: 不同時代的名稱，例如 大員（到1661年）→ 安平（1662年起）。只有一個名稱就不用填年份。
+        widget: list
+        min: 1
+        summary: '{{fields.zh-TW}} {{fields.from}}–{{fields.to}}'
+        fields:
+          - { name: zh-TW, label: 中文 }
+          - { name: en, label: 英文, required: false }
+          - { name: from, label: 起始年, widget: number, value_type: int, required: false }
+          - { name: to, label: 結束年, widget: number, value_type: int, required: false }
+      - name: modern
+        label: 今日名稱
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: zh-TW, label: 中文 }
+          - { name: en, label: 英文, required: false }
+
+  # ------------------------------------------------------------------ resources
+  - name: resources
+    label: 參考資源
+    label_singular: 參考資源
+    description: 網站「參考資源」頁的清單，事件的資料來源也從這裡選取。書本請選類型「書籍」。
+    icon: menu_book
+    folder: data/resources
+    format: yaml
+    extension: yaml
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{name.zh-TW}}'
+    fields:
+      - name: id
+        label: 編號（英文）
+        hint: 例如 `su-beng-400`。
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', '只能使用小寫英文、數字與連字號']
+      - name: name
+        label: 名稱
+        hint: 書本請寫「作者《書名》」。
+        widget: object
+        fields:
+          - { name: zh-TW, label: 中文 }
+          - { name: en, label: 英文, required: false }
+      - name: type
+        label: 類型
+        widget: select
+        options:
+          - { label: 書籍, value: book }
+          - { label: 百科, value: encyclopedia }
+          - { label: 檔案與文獻, value: archive }
+          - { label: 博物館與紀念館, value: museum }
+          - { label: 學術機構, value: academic }
+          - { label: 歷史地圖與地理資料, value: map }
+          - { label: 開放資料, value: data }
+          - { label: 工具, value: tool }
+      - { name: url, label: 網址, widget: string, type: url, required: false }
+      - name: lang
+        label: 語言
+        widget: select
+        multiple: true
+        options:
+          - { label: 中文, value: zh }
+          - { label: 英文, value: en }
+          - { label: 日文, value: ja }
+      - name: description
+        label: 說明
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: zh-TW, label: 中文, widget: text }
+          - { name: en, label: 英文, widget: text, required: false }
+
+  # ------------------------------------------------------------------ eras
+  - name: eras
+    label: 時代
+    label_singular: 時代
+    description: 時間軸上的時代快捷按鈕。
+    icon: timeline
+    folder: data/eras
+    format: yaml
+    extension: yaml
+    identifier_field: id
+    slug: '{{id}}'
+    summary: '{{group}}｜{{name.zh-TW}}（{{from}}–{{to}}）'
+    sortable_fields:
+      fields: [from, group]
+      default: { field: from, direction: ascending }
+    fields:
+      - { name: id, label: 編號（英文）, pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', '只能使用小寫英文、數字與連字號'] }
+      - name: group
+        label: 分組
+        widget: select
+        options:
+          - { label: 臺灣, value: taiwan }
+          - { label: 中國, value: china }
+          - { label: 日本, value: japan }
+          - { label: 韓國, value: korea }
+      - name: name
+        label: 名稱
+        widget: object
+        fields:
+          - { name: zh-TW, label: 中文 }
+          - { name: en, label: 英文, required: false }
+      - { name: from, label: 起始年, hint: 天文紀年（西元前1年＝0）, widget: number, value_type: int }
+      - { name: to, label: 結束年, widget: number, value_type: int }
+
+singletons:
+  - name: excluded
+    label: 排除清單
+    icon: block
+    file: data/excluded.yaml
+    format: yaml
+    fields:
+      - name: wikidata
+        label: 維基數據編號
+        hint: 列在這裡的維基數據事件不會再被匯入。刪除匯入的事件後，請把它的維基數據編號加到這裡。
+        widget: list
+        required: false
+        field: { name: id, label: 編號, hint: 例如 Q12345, pattern: ['^Q\d+$', '格式為 Q 加數字'] }

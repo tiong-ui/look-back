@@ -1,0 +1,32 @@
+id: wd-q2889446
+title:
+  zh-TW: 那產戰役
+  en: Battle of Na San
+summary:
+  zh-TW: 1952 battle of the First Indochina War
+  en: 1952 battle of the First Indochina War
+start:
+  year: 1952
+  month: 11
+  day: 23
+end:
+  year: 1952
+  month: 12
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2889446
+locations:
+  - place: wd-q2889446-site
+    role: primary
+  - place: wd-q33379
+    role: secondary
+wikipedia:
+  en: Battle of Nà Sản
+  zh: 那產戰役
+importHash: af529fb37c3c

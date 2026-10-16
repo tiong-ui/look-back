@@ -1,0 +1,25 @@
+id: wd-q3272511
+title:
+  zh-TW: 中山艦事件
+  en: Zhongshan Warship Incident
+summary:
+  zh-TW: 1926年中國政治事件
+  en: 1926 purge undertaken by Chiang Kai-shek
+start:
+  year: 1926
+  month: 3
+  day: 20
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q3272511
+locations:
+  - place: wd-q16572
+    role: primary
+wikipedia:
+  en: Canton Coup
+  zh: 中山舰事件
+importHash: 47bf88de7c26

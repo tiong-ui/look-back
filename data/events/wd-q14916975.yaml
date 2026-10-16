@@ -1,0 +1,25 @@
+id: wd-q14916975
+title:
+  zh-TW: 三寶顏危機
+  en: Zamboanga City crisis
+summary:
+  zh-TW: military conflict in 2013 in the Philippines
+  en: military conflict in 2013 in the Philippines
+start:
+  year: 2013
+  month: 9
+precision: month
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q14916975
+locations:
+  - place: wd-q14916975-site
+    role: primary
+  - place: wd-q1629
+    role: secondary
+wikipedia:
+  en: Zamboanga siege
+importHash: 4866aeef0600

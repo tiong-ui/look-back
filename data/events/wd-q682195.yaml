@@ -1,0 +1,28 @@
+id: wd-q682195
+title:
+  zh-TW: Operation Masher
+  en: Operation Masher
+summary:
+  zh-TW: Battle of the Vietnam War in Bình Định 1966
+  en: Battle of the Vietnam War in Bình Định 1966
+start:
+  year: 1966
+  month: 1
+  day: 24
+end:
+  year: 1966
+  month: 3
+  day: 6
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q682195
+locations:
+  - place: wd-q2276503
+    role: primary
+wikipedia:
+  en: Operation Masher
+importHash: ca100eaa69b9

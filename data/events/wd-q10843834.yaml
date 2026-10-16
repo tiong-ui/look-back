@@ -1,0 +1,25 @@
+id: wd-q10843834
+title:
+  zh-TW: 1867年基隆海嘯
+  en: 1867 Keelung earthquake
+summary:
+  zh-TW: Earthquake and tsunami affecting Taiwan
+  en: Earthquake and tsunami affecting Taiwan
+start:
+  year: 1867
+  month: 12
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q10843834
+locations:
+  - place: wd-q10843834-site
+    role: primary
+wikipedia:
+  en: 1867 Keelung earthquake
+  zh: 1867年基隆海嘯
+importHash: 0f615bb0d224

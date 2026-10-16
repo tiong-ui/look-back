@@ -1,0 +1,28 @@
+id: wd-q1379863
+title:
+  zh-TW: Operation Red Dagger
+  en: Operation Red Dagger
+summary:
+  zh-TW: 2008 battle
+  en: 2008 battle
+start:
+  year: 2008
+  month: 12
+  day: 11
+end:
+  year: 2008
+  month: 12
+  day: 26
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1379863
+locations:
+  - place: wd-q173821
+    role: primary
+wikipedia:
+  en: Operation Red Dagger
+importHash: e578bba87607

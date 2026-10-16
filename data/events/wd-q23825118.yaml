@@ -1,0 +1,28 @@
+id: wd-q23825118
+title:
+  zh-TW: 2016年熊本地震
+  en: 2016 Kumamoto earthquakes
+summary:
+  zh-TW: 發生在日本九州島的地震
+  en: natural disaster in Japan
+start:
+  year: 2016
+  month: 4
+end:
+  year: 2016
+  month: 4
+  day: 16
+precision: month
+categories:
+  - disaster
+regions:
+  - japan
+importance: 3
+wikidata: Q23825118
+locations:
+  - place: wd-q23825118-site
+    role: primary
+wikipedia:
+  en: 2016 Kumamoto earthquakes
+  zh: 2016年熊本地震
+importHash: 1d07cb7dbb9c

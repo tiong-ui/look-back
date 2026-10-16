@@ -1,0 +1,24 @@
+id: wd-q5124705
+title:
+  zh-TW: 倭國大亂
+  en: Civil War of Wa
+summary:
+  zh-TW: 2nd-century war in Japan
+  en: 2nd-century war in Japan
+start:
+  year: 200
+precision: century
+approximate: true
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q5124705
+locations:
+  - place: wd-q841337
+    role: primary
+wikipedia:
+  en: Civil War of Wa
+  zh: 倭國大亂
+importHash: 7ea96ac56a52

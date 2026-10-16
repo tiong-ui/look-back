@@ -1,0 +1,27 @@
+id: wd-q24839239
+title:
+  zh-TW: 第一次聖薩爾瓦多城戰役
+  en: First Battle of San Salvador
+summary:
+  zh-TW: 1641 battle of San Salvador
+  en: 1641 battle of San Salvador
+start:
+  year: 1641
+  month: 8
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - taiwan
+importance: 2
+wikidata: Q24839239
+locations:
+  - place: wd-q24839239-site
+    role: primary
+  - place: wd-q249996
+    role: secondary
+wikipedia:
+  en: Battle of San Salvador (1641)
+  zh: 第一次聖薩爾瓦多城戰役
+importHash: 510ac4dff0f6

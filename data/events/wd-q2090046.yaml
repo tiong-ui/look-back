@@ -1,0 +1,24 @@
+id: wd-q2090046
+title:
+  zh-TW: 秋月之亂
+  en: Akizuki Rebellion
+summary:
+  zh-TW: 秋月之亂
+start:
+  year: 1876
+  month: 11
+  day: 24
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q2090046
+locations:
+  - place: wd-q720625
+    role: primary
+wikipedia:
+  en: Akizuki rebellion
+importHash: 7f351df9244c

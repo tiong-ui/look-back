@@ -1,0 +1,28 @@
+id: wd-q617210
+title:
+  zh-TW: 第三次英國-馬拉塔戰爭
+  en: Third Anglo-Maratha War
+summary:
+  zh-TW: conflict between the British East India Company and the Maratha Empire (1817–1819)
+  en: conflict between the British East India Company and the Maratha Empire (1817–1819)
+start:
+  year: 1817
+  month: 11
+end:
+  year: 1818
+  month: 2
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q617210
+locations:
+  - place: wd-q1191
+    role: primary
+wikipedia:
+  en: Third Anglo-Maratha War
+  zh: 第三次馬拉塔戰爭
+importHash: 568a4c81d63a

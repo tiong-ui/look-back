@@ -1,0 +1,31 @@
+id: wd-q3950658
+title:
+  zh-TW: Battle of Siping
+  en: Battle of Siping
+summary:
+  zh-TW: 1946 battle of the Chinese Civil War
+  en: 1946 battle of the Chinese Civil War
+start:
+  year: 1946
+  month: 3
+  day: 15
+end:
+  year: 1946
+  month: 3
+  day: 17
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q3950658
+locations:
+  - place: wd-q92297
+    role: primary
+relations:
+  - event: wd-q179975
+    type: part_of
+wikipedia:
+  en: Battle of Siping
+importHash: 923019aa75df

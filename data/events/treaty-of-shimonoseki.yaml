@@ -1,0 +1,34 @@
+id: treaty-of-shimonoseki
+title:
+  zh-TW: 馬關條約：臺灣割讓日本
+  en: Treaty of Shimonoseki cedes Taiwan
+summary:
+  zh-TW: 甲午戰爭戰敗後，清廷於馬關與日本簽約，將臺灣、澎湖永久割讓給日本。臺灣人民未被徵詢，消息傳來引發強烈反彈。
+  en: After losing the First Sino-Japanese War, the Qing signed a treaty at Shimonoseki ceding Taiwan and Penghu to Japan in perpetuity. Taiwanese people were not consulted, and the news provoked fierce opposition.
+start:
+  year: 1895
+  month: 4
+  day: 17
+precision: day
+categories:
+  - diplomacy
+regions:
+  - taiwan
+  - japan
+  - china
+importance: 5
+locations:
+  - place: shimonoseki
+    role: primary
+  - place: taiwan
+    role: secondary
+relations:
+  - event: first-sino-japanese-war
+    type: caused_by
+  - event: republic-of-formosa
+    type: causes
+  - event: japanese-rule-taiwan
+    type: causes
+wikipedia:
+  en: Treaty of Shimonoseki
+  zh: 馬關條約

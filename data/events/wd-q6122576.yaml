@@ -1,0 +1,25 @@
+id: wd-q6122576
+title:
+  zh-TW: Jaghalkani-i-Takhta Pul massacres
+  en: Jaghalkani-i-Takhta Pul massacres
+summary:
+  zh-TW: massacre by Taliban in Afghanistan in 1998
+  en: massacre by Taliban in Afghanistan in 1998
+start:
+  year: 1998
+  month: 8
+  day: 8
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q6122576
+locations:
+  - place: wd-q6122576-site
+    role: primary
+wikipedia:
+  en: 1998 Mazar-i-Sharif massacre
+importHash: efa13695ab46

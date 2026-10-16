@@ -1,0 +1,27 @@
+id: hong-kong-protests-2019
+title:
+  zh-TW: 香港反送中運動
+  en: 2019–2020 Hong Kong protests
+summary:
+  zh-TW: 香港民眾大規模抗議《逃犯條例》修訂，運動擴大為爭取民主的抗爭。2020年中國實施《港區國安法》後，香港公民自由大幅緊縮，此事也深刻影響臺灣對「一國兩制」的看法。
+  en: Mass protests against an extradition bill grew into a pro-democracy movement. After China imposed the National Security Law in 2020, Hong Kong's civil liberties were sharply curtailed, deeply shaping Taiwanese views of "one country, two systems".
+start:
+  year: 2019
+  month: 6
+end:
+  year: 2020
+  month: 6
+  day: 30
+precision: month
+categories:
+  - democracy
+regions:
+  - china
+  - hong-kong
+importance: 3
+locations:
+  - place: hong-kong
+    role: primary
+wikipedia:
+  en: 2019–2020 Hong Kong protests
+  zh: 反對逃犯條例修訂草案運動

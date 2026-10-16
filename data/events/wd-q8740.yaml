@@ -1,0 +1,31 @@
+id: wd-q8740
+title:
+  zh-TW: 越南戰爭
+  en: Vietnam War
+summary:
+  zh-TW: 1964年至1975年南北越之間爆發的戰爭
+  en: armed conflict in Vietnam, Laos, and Cambodia between North Vietnam and South Vietnam, from 1955 to 1975
+start:
+  year: 1975
+  month: 4
+  day: 30
+end:
+  year: 1975
+  month: 4
+  day: 30
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 5
+wikidata: Q8740
+locations:
+  - place: wd-q131217
+    role: primary
+  - place: wd-q37660
+    role: secondary
+wikipedia:
+  en: Vietnam War
+  zh: 越南战争
+importHash: 8e27d4f8502f

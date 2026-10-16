@@ -1,0 +1,25 @@
+id: wd-q4871383
+title:
+  zh-TW: 迦納口之戰
+  en: Battle of Kanōguchi
+summary:
+  zh-TW: 1544 battle
+  en: 1544 battle
+start:
+  year: 1544
+  month: 10
+  day: 18
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4871383
+locations:
+  - place: wd-q11398782
+    role: primary
+wikipedia:
+  en: Battle of Kanōguchi
+  zh: 加納口之戰
+importHash: 8e2333a96eb9

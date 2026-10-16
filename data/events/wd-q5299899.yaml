@@ -1,0 +1,28 @@
+id: wd-q5299899
+title:
+  zh-TW: 雙十節事件
+  en: Double Tenth Incident
+summary:
+  zh-TW: WWII massacre committed by Japanese in Singapore
+  en: WWII massacre committed by Japanese in Singapore
+start:
+  year: 1943
+  month: 10
+  day: 10
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q5299899
+locations:
+  - place: wd-q5299899-site
+    role: primary
+  - place: wd-q1763931
+    role: secondary
+wikipedia:
+  en: Double Tenth incident
+  zh: 雙十節事件
+importHash: 251a18e88f38

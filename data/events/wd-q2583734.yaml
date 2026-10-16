@@ -1,0 +1,29 @@
+id: wd-q2583734
+title:
+  zh-TW: 印尼東帝汶入侵戰爭
+  en: Indonesian invasion of East Timor
+summary:
+  zh-TW: 軍事行動
+  en: 1975 military invasion
+start:
+  year: 1975
+  month: 12
+  day: 7
+end:
+  year: 1979
+  month: 3
+  day: 26
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q2583734
+locations:
+  - place: wd-q142965
+    role: primary
+wikipedia:
+  en: Indonesian invasion of East Timor
+  zh: 印度尼西亞入侵東帝汶
+importHash: 55b7524e9d82

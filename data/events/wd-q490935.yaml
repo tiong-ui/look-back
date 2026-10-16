@@ -1,0 +1,27 @@
+id: wd-q490935
+title:
+  zh-TW: 蔚山城之戰
+  en: Siege of Ulsan
+summary:
+  zh-TW: 1597 siege
+  en: 1597 siege
+start:
+  year: 1598
+end:
+  year: 1598
+  month: 1
+  day: 4
+precision: year
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q490935
+locations:
+  - place: wd-q625881
+    role: primary
+wikipedia:
+  en: Siege of Ulsan
+  zh: 蔚山城之戰
+importHash: 8eee52f75370

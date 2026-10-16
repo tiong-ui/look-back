@@ -1,0 +1,25 @@
+id: wd-q604938
+title:
+  zh-TW: 北京條約
+  en: Convention of Peking
+summary:
+  zh-TW: 清朝政府與外國所簽的戰敗條約
+  en: Set of three treaties involving territorial changes
+start:
+  year: 1860
+  month: 10
+  day: 18
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 3
+wikidata: Q604938
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Convention of Peking
+  zh: 北京条约
+importHash: c18b3e7df143

@@ -1,0 +1,25 @@
+id: wd-q7126934
+title:
+  zh-TW: Palawan massacre
+  en: Palawan massacre
+summary:
+  zh-TW: massacre of American POWs by Japanese soldiers during World War II in Palawan, Philippines
+  en: massacre of American POWs by Japanese soldiers during World War II in Palawan, Philippines
+start:
+  year: 1944
+  month: 12
+  day: 14
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q7126934
+locations:
+  - place: wd-q111739
+    role: primary
+wikipedia:
+  en: Palawan massacre
+importHash: 8505bb93a421

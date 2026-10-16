@@ -1,0 +1,28 @@
+id: wd-q1208970
+title:
+  zh-TW: 牛莊之戰
+  en: Battle of Yingkou
+summary:
+  zh-TW: Land battle of the First Sino-Japanese War (4 March 1895)
+  en: Land battle of the First Sino-Japanese War (4 March 1895)
+start:
+  year: 1895
+  month: 3
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1208970
+locations:
+  - place: wd-q1208970-site
+    role: primary
+  - place: wd-q75150
+    role: secondary
+wikipedia:
+  en: Battle of Yingkou
+  zh: 营口之战
+importHash: cf981d28ccf8

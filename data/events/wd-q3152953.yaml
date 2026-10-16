@@ -1,0 +1,29 @@
+id: wd-q3152953
+title:
+  zh-TW: 2001 uprising in Herat
+  en: 2001 uprising in Herat
+summary:
+  zh-TW: insurrection and uprising in the Afghan city of Herat
+  en: insurrection and uprising in the Afghan city of Herat
+start:
+  year: 2001
+  month: 11
+  day: 12
+end:
+  year: 2001
+  month: 11
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3152953
+locations:
+  - place: wd-q45313
+    role: primary
+wikipedia:
+  en: 2001 uprising in Herat
+importHash: ee681b154abd

@@ -1,0 +1,30 @@
+id: wd-q4348916
+title:
+  zh-TW: 第一次洛東江突出部戰役
+  en: First Battle of Naktong Bulge
+summary:
+  zh-TW: 1950 battle of the Korean War during the battle of Pusan Perimeter
+  en: 1950 battle of the Korean War during the battle of Pusan Perimeter
+start:
+  year: 1950
+end:
+  year: 1950
+  month: 8
+  day: 19
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4348916
+locations:
+  - place: wd-q4348916-site
+    role: primary
+relations:
+  - event: wd-q482979
+    type: part_of
+wikipedia:
+  en: First Battle of Naktong Bulge
+importHash: d21f20dfdae5

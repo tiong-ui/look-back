@@ -1,0 +1,22 @@
+id: wd-q1846216
+title:
+  zh-TW: Siege of Odawara
+  en: Siege of Odawara
+summary:
+  zh-TW: "1569"
+  en: "1569"
+start:
+  year: 1569
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q1846216
+locations:
+  - place: wd-q1013437
+    role: primary
+wikipedia:
+  en: Siege of Odawara (1569)
+importHash: 7cc0688ac8d7

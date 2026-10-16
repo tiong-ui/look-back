@@ -1,0 +1,27 @@
+id: wd-q496145
+title:
+  zh-TW: 山清·咸陽事件
+  en: Sancheong-Hamyang massacre
+summary:
+  zh-TW: 山清·咸陽事件
+start:
+  year: 1951
+  month: 2
+  day: 7
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q496145
+locations:
+  - place: wd-q496145-site
+    role: primary
+  - place: wd-q50248
+    role: secondary
+wikipedia:
+  en: Sancheong–Hamyang massacre
+  zh: 山清·咸陽屠殺事件
+importHash: 92930ea14e2a

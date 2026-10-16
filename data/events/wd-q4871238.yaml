@@ -1,0 +1,29 @@
+id: wd-q4871238
+title:
+  zh-TW: 華木戰役
+  en: Battle of Hòa Mộc
+summary:
+  zh-TW: 1885 battle
+  en: 1885 battle
+start:
+  year: 1885
+  month: 3
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4871238
+locations:
+  - place: wd-q4871238-site
+    role: primary
+relations:
+  - event: wd-q706183
+    type: part_of
+wikipedia:
+  en: Battle of Hòa Mộc
+  zh: 左育之戰
+importHash: 94d45ae55b45

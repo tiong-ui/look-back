@@ -1,0 +1,25 @@
+id: wd-q4576105
+title:
+  zh-TW: 1974年伊豆半島近海地震
+  en: 1974 Izu Peninsula earthquake
+summary:
+  zh-TW: earthquake impacting Izu Peninsula, Japan
+  en: earthquake impacting Izu Peninsula, Japan
+start:
+  year: 1974
+  month: 5
+  day: 8
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q4576105
+locations:
+  - place: wd-q4576105-site
+    role: primary
+wikipedia:
+  en: 1974 Izu Peninsula earthquake
+  zh: 1974年伊豆半岛近海地震
+importHash: f56ab44cbacb

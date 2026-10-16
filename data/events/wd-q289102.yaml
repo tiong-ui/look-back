@@ -1,0 +1,25 @@
+id: wd-q289102
+title:
+  zh-TW: 朝鮮海峽海戰
+  en: Battle of Korea Strait
+summary:
+  zh-TW: 1950 naval battle of the Korean War
+  en: 1950 naval battle of the Korean War
+start:
+  year: 1950
+  month: 6
+  day: 26
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q289102
+locations:
+  - place: wd-q289102-site
+    role: primary
+wikipedia:
+  en: Battle of Korea Strait
+  zh: 朝鮮海峽海戰
+importHash: 438e6f632f60

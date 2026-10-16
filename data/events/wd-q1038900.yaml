@@ -1,0 +1,29 @@
+id: wd-q1038900
+title:
+  zh-TW: 廣州暴動
+  en: Guangzhou Uprising
+summary:
+  zh-TW: failed Communist uprising in Guangzhou, China
+  en: failed Communist uprising in Guangzhou, China
+start:
+  year: 1927
+  month: 12
+  day: 11
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1038900
+locations:
+  - place: wd-q16572
+    role: primary
+relations:
+  - event: wd-q179975
+    type: part_of
+wikipedia:
+  en: Guangzhou Uprising
+  zh: 廣州暴動 (1927年)
+importHash: 6c811c121250

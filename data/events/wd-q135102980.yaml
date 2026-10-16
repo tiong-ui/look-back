@@ -1,0 +1,25 @@
+id: wd-q135102980
+title:
+  zh-TW: 守護民主臺灣大遊行 123別印來
+  en: 2023 Taiwanese anti-Indian migrant worker protest
+summary:
+  zh-TW: protest in Taiwan
+  en: protest in Taiwan
+start:
+  year: 2023
+  month: 12
+  day: 3
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 2
+wikidata: Q135102980
+locations:
+  - place: wd-q1867
+    role: primary
+wikipedia:
+  en: 2023 Taiwanese anti–Indian migrant worker protest
+  zh: 守護民主台灣大遊行 123別印來
+importHash: 02b8972c3bd9

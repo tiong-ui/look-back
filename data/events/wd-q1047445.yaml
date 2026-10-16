@@ -1,0 +1,25 @@
+id: wd-q1047445
+title:
+  zh-TW: 多大浦之戰
+  en: Battle of Dadaejin
+summary:
+  zh-TW: 1592 siege
+  en: 1592 siege
+start:
+  year: 1592
+  month: 5
+  day: 24
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q1047445
+locations:
+  - place: wd-q1047445-site
+    role: primary
+wikipedia:
+  en: Battle of Dadaejin
+  zh: 多大浦之戰
+importHash: d2070089df17

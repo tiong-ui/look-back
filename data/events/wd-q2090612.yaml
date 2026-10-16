@@ -1,0 +1,26 @@
+id: wd-q2090612
+title:
+  zh-TW: 萩之亂
+  en: Hagi Rebellion
+summary:
+  zh-TW: 1876 failed Japanese revolt
+  en: 1876 failed Japanese revolt
+start:
+  year: 1876
+  month: 11
+  day: 5
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2090612
+locations:
+  - place: wd-q378225
+    role: primary
+wikipedia:
+  en: Hagi Rebellion
+  zh: 萩之亂
+importHash: 6d868bcbc82b

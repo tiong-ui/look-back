@@ -1,0 +1,22 @@
+id: wd-q23043477
+title:
+  zh-TW: Battle of Chach
+  en: Battle of Chach
+summary:
+  zh-TW: 1009 battle fought at the banks of the Indus
+  en: 1009 battle fought at the banks of the Indus
+start:
+  year: 1009
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q23043477
+locations:
+  - place: wd-q3695085
+    role: primary
+wikipedia:
+  en: Battle of Chach
+importHash: 46ea47855c5c

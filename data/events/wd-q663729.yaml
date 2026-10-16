@@ -1,0 +1,29 @@
+id: wd-q663729
+title:
+  zh-TW: 街亭之戰
+  en: Battle of Jieting
+summary:
+  zh-TW: 228 battle between states of Cao Wei and Shu Han
+  en: 228 battle between states of Cao Wei and Shu Han
+start:
+  year: 228
+  month: 2
+end:
+  year: 228
+  month: 5
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q663729
+locations:
+  - place: wd-q663729-site
+    role: primary
+wikipedia:
+  en: Battle of Jieting
+  zh: 街亭之戰
+importHash: adb438ca4a6f

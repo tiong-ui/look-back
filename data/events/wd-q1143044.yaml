@@ -1,0 +1,28 @@
+id: wd-q1143044
+title:
+  zh-TW: 川中島之戰
+  en: Battles of Kawanakajima
+summary:
+  zh-TW: 1553–1564 battles
+  en: 1553–1564 battles
+start:
+  year: 1553
+end:
+  year: 1564
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q1143044
+locations:
+  - place: wd-q1143044-site
+    role: primary
+wikipedia:
+  en: Battles of Kawanakajima
+  zh: 川中島之戰
+importHash: b7be2af3ca64

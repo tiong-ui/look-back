@@ -1,0 +1,31 @@
+id: wd-q482456
+title:
+  zh-TW: 430事件
+  en: Fall of Saigon
+summary:
+  zh-TW: 越南人民軍在1975年攻陷西貢、使南越滅亡的戰役
+  en: 1975 capture of Saigon by the People’s Army of Vietnam and the National Liberation Front of South Vietnam
+start:
+  year: 1975
+  month: 4
+  day: 30
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 4
+wikidata: Q482456
+locations:
+  - place: wd-q482456-site
+    role: primary
+  - place: wd-q1854
+    role: secondary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Fall of Saigon
+  zh: 四三〇事件
+importHash: c6905741e116

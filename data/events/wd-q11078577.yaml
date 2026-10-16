@@ -1,0 +1,28 @@
+id: wd-q11078577
+title:
+  zh-TW: 播州之役
+  en: Bozhou rebellion
+summary:
+  zh-TW: 明萬曆三大徵之一役
+  en: 1590–1600 rebellion in Ming China
+start:
+  year: 1590
+end:
+  year: 1600
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q11078577
+locations:
+  - place: wd-q1190484
+    role: primary
+wikipedia:
+  en: Bozhou rebellion
+  zh: 播州之役
+importHash: bb615dcf9ff5

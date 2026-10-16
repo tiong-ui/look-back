@@ -1,0 +1,22 @@
+id: wd-q10540836
+title:
+  zh-TW: 1762 Arakan earthquake
+  en: 1762 Arakan earthquake
+summary:
+  zh-TW: Earthquake in Bangladesh and Myanmar
+  en: Earthquake in Bangladesh and Myanmar
+start:
+  year: 1762
+precision: year
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q10540836
+locations:
+  - place: wd-q10540836-site
+    role: primary
+wikipedia:
+  en: 1762 Arakan earthquake
+importHash: 2f6c72ec2671

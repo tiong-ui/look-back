@@ -1,0 +1,27 @@
+id: wd-q3272771
+title:
+  zh-TW: 2006年千島群島地震
+  en: 2006 Kuril Islands earthquake
+summary:
+  zh-TW: 維基新聞新聞稿
+  en: earthquake in Japan
+start:
+  year: 2006
+  month: 11
+  day: 15
+precision: day
+categories:
+  - disaster
+regions:
+  - asia
+importance: 2
+wikidata: Q3272771
+locations:
+  - place: wd-q3272771-site
+    role: primary
+  - place: wd-q80389
+    role: secondary
+wikipedia:
+  en: 2006 Kuril Islands earthquake
+  zh: 2006年千岛群岛地震
+importHash: b39e07f3900b

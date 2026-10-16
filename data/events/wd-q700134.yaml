@@ -1,0 +1,30 @@
+id: wd-q700134
+title:
+  zh-TW: 廟街事件
+  en: Nikolayevsk Incident
+summary:
+  zh-TW: 俄國紅軍屠殺日本人事件
+  en: Massacre of Japanese prisoners-of-war in the Far Eastern Republic during the Russian Civil War
+start:
+  year: 1920
+  month: 3
+precision: month
+categories:
+  - war
+  - democracy
+regions:
+  - asia
+importance: 3
+wikidata: Q700134
+locations:
+  - place: wd-q700134-site
+    role: primary
+  - place: wd-q173037
+    role: secondary
+relations:
+  - event: wd-q79911
+    type: part_of
+wikipedia:
+  en: Nikolayevsk incident
+  zh: 廟街事件
+importHash: cd8e647a4b03

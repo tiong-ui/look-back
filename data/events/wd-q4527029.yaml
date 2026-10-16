@@ -1,0 +1,29 @@
+id: wd-q4527029
+title:
+  zh-TW: 進攻庫倫
+  en: Battle of Urga
+summary:
+  zh-TW: 1921 battle
+  en: 1921 battle
+start:
+  year: 1921
+  month: 2
+  day: 1
+end:
+  year: 1921
+  month: 2
+  day: 4
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4527029
+locations:
+  - place: wd-q23430
+    role: primary
+wikipedia:
+  en: Battle of Urga
+  zh: 庫倫之戰
+importHash: aebd934d501b

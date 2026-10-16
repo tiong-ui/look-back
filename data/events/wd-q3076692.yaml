@@ -1,0 +1,25 @@
+id: wd-q3076692
+title:
+  zh-TW: 1949年喀伊特地震
+  en: 1949 Khait earthquake
+summary:
+  zh-TW: Earthquake in present-day Tajikistan
+  en: Earthquake in present-day Tajikistan
+start:
+  year: 1949
+  month: 7
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 2
+wikidata: Q3076692
+locations:
+  - place: wd-q3076692-site
+    role: primary
+wikipedia:
+  en: 1949 Khait earthquake
+  zh: 1949年霍伊特地震
+importHash: 32a9d6db0e6e

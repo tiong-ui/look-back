@@ -1,0 +1,24 @@
+id: wd-q2124824
+title:
+  zh-TW: 2010年巴布亞地震
+  en: 2010 Papua earthquake
+summary:
+  zh-TW: 2010 magnitude 7.0 earthquake in Papua, province of Indonesia
+  en: 2010 magnitude 7.0 earthquake in Papua, province of Indonesia
+start:
+  year: 2010
+  month: 6
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2124824
+locations:
+  - place: wd-q2124824-site
+    role: primary
+wikipedia:
+  en: 2010 Papua earthquake
+importHash: 23fba71f5a1c

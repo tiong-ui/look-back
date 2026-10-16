@@ -1,0 +1,30 @@
+id: wd-q7521988
+title:
+  zh-TW: 信川良民虐殺事件
+  en: Sinchon Massacre
+summary:
+  zh-TW: anti-communist mass killings in Korea
+  en: anti-communist mass killings in Korea
+start:
+  year: 1950
+  month: 10
+  day: 17
+end:
+  year: 1950
+  month: 12
+  day: 7
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q7521988
+locations:
+  - place: wd-q704821
+    role: primary
+wikipedia:
+  en: Sinchon Massacre
+  zh: 信川良民虐殺事件
+importHash: 630f6d1619df

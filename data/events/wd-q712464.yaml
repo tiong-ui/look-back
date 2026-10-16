@@ -1,0 +1,26 @@
+id: wd-q712464
+title:
+  zh-TW: 舍門將軍號事件
+  en: General Sherman incident
+summary:
+  zh-TW: 1866年美國與朝鮮衝突事件
+  en: battle
+start:
+  year: 1866
+  month: 9
+  day: 5
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q712464
+locations:
+  - place: wd-q330618
+    role: primary
+wikipedia:
+  en: General Sherman incident
+  zh: 舍门将军号事件
+importHash: 8b44fae93824

@@ -1,0 +1,24 @@
+id: wd-q3522435
+title:
+  zh-TW: 卡坦庫迪清真寺大屠殺
+  en: Kattankudy mosque massacre
+summary:
+  zh-TW: 卡坦庫迪清真寺大屠殺
+start:
+  year: 1990
+  month: 8
+  day: 3
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3522435
+locations:
+  - place: wd-q3536064
+    role: primary
+wikipedia:
+  en: Kattankudy mosque massacre
+importHash: 71775c202302

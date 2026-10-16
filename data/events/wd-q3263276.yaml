@@ -1,0 +1,29 @@
+id: wd-q3263276
+title:
+  zh-TW: 汶萊內戰
+  en: Bruneian Civil War of 1660
+summary:
+  zh-TW: Civil war fought in Brunei from 1660 to 1673
+  en: Civil war fought in Brunei from 1660 to 1673
+start:
+  year: 1660
+end:
+  year: 1673
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q3263276
+locations:
+  - place: wd-q170462
+    role: primary
+  - place: wd-q179029
+    role: secondary
+wikipedia:
+  en: Bruneian Civil War of 1660
+  zh: 文莱内战
+importHash: c0c48e3b99b8

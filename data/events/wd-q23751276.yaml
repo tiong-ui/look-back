@@ -1,0 +1,27 @@
+id: wd-q23751276
+title:
+  zh-TW: 塔拉西戰役
+  en: Battle of Talasea
+summary:
+  zh-TW: 1944 military engagement on New Britain, Pacific Ocean
+  en: 1944 military engagement on New Britain, Pacific Ocean
+start:
+  year: 1944
+  month: 3
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 2
+wikidata: Q23751276
+locations:
+  - place: wd-q23751276-site
+    role: primary
+  - place: wd-q59771
+    role: secondary
+wikipedia:
+  en: Battle of Talasea
+importHash: 261936471edc

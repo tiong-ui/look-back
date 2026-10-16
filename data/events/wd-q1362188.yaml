@@ -1,0 +1,27 @@
+id: wd-q1362188
+title:
+  zh-TW: 塔裡克提之戰
+  en: Battle of Talikota
+summary:
+  zh-TW: 1565 battle between the Deccan Sultanates and Vijayanagara Empire
+  en: 1565 battle between the Deccan Sultanates and Vijayanagara Empire
+start:
+  year: 1565
+  month: 1
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q1362188
+locations:
+  - place: wd-q1362188-site
+    role: primary
+  - place: wd-q26732
+    role: secondary
+wikipedia:
+  en: Battle of Talikota
+importHash: e5e5fee0daa4

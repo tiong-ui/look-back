@@ -1,0 +1,29 @@
+id: wd-q617070
+title:
+  zh-TW: 第一次英邁戰爭
+  en: First Anglo-Mysore War
+summary:
+  zh-TW: conflict in India between the Sultanate of Mysore and the East India Company.
+  en: conflict in India between the Sultanate of Mysore and the East India Company.
+start:
+  year: 1767
+end:
+  year: 1769
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q617070
+locations:
+  - place: wd-q10086
+    role: primary
+relations:
+  - event: wd-q617321
+    type: part_of
+wikipedia:
+  en: First Anglo-Mysore War
+importHash: 1c8866123248

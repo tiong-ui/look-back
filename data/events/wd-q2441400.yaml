@@ -1,0 +1,25 @@
+id: wd-q2441400
+title:
+  zh-TW: 2001年印度古吉拉特邦大地震
+  en: 2001 Gujarat earthquake
+summary:
+  zh-TW: earthquake in India
+  en: earthquake in India
+start:
+  year: 2001
+  month: 1
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 3
+wikidata: Q2441400
+locations:
+  - place: wd-q2441400-site
+    role: primary
+wikipedia:
+  en: 2001 Gujarat earthquake
+  zh: 2001年印度古吉拉特邦大地震
+importHash: 962df76569c8

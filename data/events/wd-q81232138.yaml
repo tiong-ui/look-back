@@ -1,0 +1,25 @@
+id: wd-q81232138
+title:
+  zh-TW: Rengat massacre
+  en: Rengat massacre
+summary:
+  zh-TW: war crime by Dutch forces
+  en: war crime by Dutch forces
+start:
+  year: 1949
+  month: 1
+  day: 5
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q81232138
+locations:
+  - place: wd-q3425451
+    role: primary
+wikipedia:
+  en: Rengat massacre
+importHash: bc8e12fc6c3e

@@ -1,0 +1,26 @@
+id: wd-q7699558
+title:
+  zh-TW: 天誅組之變
+  en: Tenchūgumi Incident
+summary:
+  zh-TW: 1863-64 anti-shogunate uprising in Yamato Province, Japan
+  en: 1863-64 anti-shogunate uprising in Yamato Province, Japan
+start:
+  year: 1863
+  month: 9
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q7699558
+locations:
+  - place: wd-q907495
+    role: primary
+wikipedia:
+  en: Tenchūgumi incident
+  zh: 天诛组之变
+importHash: 1e0e26a2762f

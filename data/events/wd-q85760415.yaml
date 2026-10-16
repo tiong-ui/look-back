@@ -1,0 +1,26 @@
+id: wd-q85760415
+title:
+  zh-TW: 金邊的陷落
+  en: Fall of Phnom Penh
+summary:
+  zh-TW: 紅色高棉在1975年攻陷金邊的事件
+  en: fall of Cambodian capital
+start:
+  year: 1975
+  month: 4
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q85760415
+locations:
+  - place: wd-q1850
+    role: primary
+wikipedia:
+  en: Fall of Phnom Penh
+  zh: 金邊陷落
+importHash: 01d6ab3ed50d

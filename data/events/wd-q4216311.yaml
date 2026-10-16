@@ -1,0 +1,27 @@
+id: wd-q4216311
+title:
+  zh-TW: 第一次高麗契丹戰爭
+  en: First conflict in the Goryeo–Khitan Wars
+summary:
+  zh-TW: 第一次高麗契丹戰爭
+start:
+  year: 993
+  month: 11
+end:
+  year: 993
+  month: 12
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q4216311
+locations:
+  - place: wd-q483134
+    role: primary
+wikipedia:
+  en: First conflict in the Goryeo–Khitan War
+  zh: 第一次高丽契丹战争
+importHash: 2527d0d33a46

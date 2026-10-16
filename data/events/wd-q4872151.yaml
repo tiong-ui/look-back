@@ -1,0 +1,24 @@
+id: wd-q4872151
+title:
+  zh-TW: Battle of Raichur
+  en: Battle of Raichur
+summary:
+  zh-TW: 1520 war in India
+  en: 1520 war in India
+start:
+  year: 1520
+  month: 5
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872151
+locations:
+  - place: wd-q916838
+    role: primary
+wikipedia:
+  en: Battle of Raichur
+importHash: 68cc65247f5a

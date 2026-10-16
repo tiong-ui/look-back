@@ -1,0 +1,13 @@
+id: liberty-square
+lng: 121.5218
+lat: 25.0346
+names:
+  - zh-TW: 中正紀念堂廣場
+    en: CKS Memorial Hall plaza
+    to: 2006
+  - zh-TW: 自由廣場
+    en: Liberty Square
+    from: 2007
+modern:
+  zh-TW: 臺北市中正區
+  en: Zhongzheng, Taipei

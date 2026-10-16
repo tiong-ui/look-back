@@ -1,0 +1,28 @@
+id: wd-q2397117
+title:
+  zh-TW: 采石之戰
+  en: Battle of Caishi
+summary:
+  zh-TW: 1161年宋金之戰
+  en: 1161 battle during the Jin-Song wars
+start:
+  year: 1161
+end:
+  year: 1161
+  month: 12
+  day: 4
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2397117
+locations:
+  - place: wd-q15943627
+    role: primary
+wikipedia:
+  en: Battle of Caishi
+  zh: 采石之戰 (1161年)
+importHash: d034b450f37b

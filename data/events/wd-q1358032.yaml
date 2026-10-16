@@ -1,0 +1,30 @@
+id: wd-q1358032
+title:
+  zh-TW: 黑溝臺會戰
+  en: Battle of Sandepu
+summary:
+  zh-TW: 1905 battle
+  en: 1905 battle
+start:
+  year: 1905
+  month: 1
+  day: 25
+end:
+  year: 1905
+  month: 1
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1358032
+locations:
+  - place: wd-q1358032-site
+    role: primary
+wikipedia:
+  en: Battle of Sandepu
+  zh: 黑沟台会战
+importHash: a5cfba46e721

@@ -1,0 +1,30 @@
+id: wd-q2748355
+title:
+  zh-TW: 邊界戰役
+  en: Battle of Route Coloniale 4
+summary:
+  zh-TW: battle of the First Indochina War along Route Coloniale 4 (RC4, aka. Highway 4)
+  en: battle of the First Indochina War along Route Coloniale 4 (RC4, aka. Highway 4)
+start:
+  year: 1950
+  month: 10
+  day: 18
+end:
+  year: 1950
+  month: 10
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2748355
+locations:
+  - place: wd-q10840765
+    role: primary
+wikipedia:
+  en: Battle of Route Coloniale 4
+  zh: 边界战役
+importHash: 1e0dc0aa9f0b

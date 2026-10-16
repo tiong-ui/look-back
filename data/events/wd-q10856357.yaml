@@ -1,0 +1,29 @@
+id: wd-q10856357
+title:
+  zh-TW: 大寧寺之變
+  en: Tainei-ji incident
+summary:
+  zh-TW: coup attempt in 1551 in Japan
+  en: coup attempt in 1551 in Japan
+start:
+  year: 1551
+end:
+  year: 1551
+  month: 10
+  day: 10
+precision: year
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q10856357
+locations:
+  - place: wd-q10856357-site
+    role: primary
+  - place: wd-q11434510
+    role: secondary
+wikipedia:
+  en: Tainei-ji incident
+  zh: 大寧寺之變
+importHash: 9c4393a7627b

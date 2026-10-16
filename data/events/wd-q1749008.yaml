@@ -1,0 +1,24 @@
+id: wd-q1749008
+title:
+  zh-TW: Battle of Sittang Bridge
+  en: Battle of Sittang Bridge
+summary:
+  zh-TW: 1942 conflict
+  en: 1942 conflict
+start:
+  year: 1942
+  month: 2
+  day: 23
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1749008
+locations:
+  - place: wd-q1749008-site
+    role: primary
+wikipedia:
+  en: Battle of Sittang Bridge
+importHash: 26a2c4abb3db

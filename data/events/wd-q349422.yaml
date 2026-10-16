@@ -1,0 +1,26 @@
+id: wd-q349422
+title:
+  zh-TW: 桶狹間之戰
+  en: Battle of Okehazama
+summary:
+  zh-TW: 1560 battle
+  en: 1560 battle
+start:
+  year: 1560
+  month: 6
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q349422
+locations:
+  - place: wd-q349422-site
+    role: primary
+wikipedia:
+  en: Battle of Okehazama
+  zh: 桶狹間之戰
+importHash: fee92e33a576

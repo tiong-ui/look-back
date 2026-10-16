@@ -1,0 +1,28 @@
+id: wd-q711223
+title:
+  zh-TW: 民都洛島戰役
+  en: Battle of Mindoro
+summary:
+  zh-TW: 1944 battle
+  en: 1944 battle
+start:
+  year: 1944
+end:
+  year: 1944
+  month: 12
+  day: 16
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q711223
+locations:
+  - place: wd-q211800
+    role: primary
+wikipedia:
+  en: Battle of Mindoro
+  zh: 民都洛島戰役
+importHash: c69f9c26036d

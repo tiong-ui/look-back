@@ -1,0 +1,26 @@
+id: wd-q2662144
+title:
+  zh-TW: Battle of Pondicherry
+  en: Battle of Pondicherry
+summary:
+  zh-TW: 1759 naval battle in India during the Seven Years' War
+  en: 1759 naval battle in India during the Seven Years' War
+start:
+  year: 1759
+  month: 9
+  day: 10
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2662144
+locations:
+  - place: wd-q2662144-site
+    role: primary
+  - place: wd-q639421
+    role: secondary
+wikipedia:
+  en: Battle of Pondicherry
+importHash: 85186256aeec

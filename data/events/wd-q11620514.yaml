@@ -1,0 +1,25 @@
+id: wd-q11620514
+title:
+  zh-TW: 萱津之戰
+  en: Battle of Kiyosu
+summary:
+  zh-TW: 1552 battle
+  en: 1552 battle
+start:
+  year: 1552
+  month: 9
+  day: 14
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q11620514
+locations:
+  - place: wd-q11620514-site
+    role: primary
+wikipedia:
+  en: Battle of Kiyosu Castle
+  zh: 萱津之戰
+importHash: 736f2fb8e111

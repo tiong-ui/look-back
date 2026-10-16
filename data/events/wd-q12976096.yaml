@@ -1,0 +1,28 @@
+id: wd-q12976096
+title:
+  zh-TW: 庫達洛爾圍城戰
+  en: Siege of Cuddalore
+summary:
+  zh-TW: 1783 battle of the American Revolutionary War
+  en: 1783 battle of the American Revolutionary War
+start:
+  year: 1783
+  month: 6
+  day: 7
+end:
+  year: 1783
+  month: 7
+  day: 25
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q12976096
+locations:
+  - place: wd-q279951
+    role: primary
+wikipedia:
+  en: Siege of Cuddalore
+importHash: d21ecd1e3100

@@ -1,0 +1,27 @@
+id: wd-q279611
+title:
+  zh-TW: 幸州山城之戰
+  en: Siege of Haengju
+summary:
+  zh-TW: 1593 siege
+  en: 1593 siege
+start:
+  year: 1593
+  month: 3
+  day: 14
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q279611
+locations:
+  - place: wd-q279611-site
+    role: primary
+  - place: wd-q12624761
+    role: secondary
+wikipedia:
+  en: Battle of Haengju
+  zh: 幸州山城之戰
+importHash: 1bfb813ebf68

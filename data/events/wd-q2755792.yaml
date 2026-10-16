@@ -1,0 +1,28 @@
+id: wd-q2755792
+title:
+  zh-TW: 拉哇格德屠殺
+  en: Rawagede massacre
+summary:
+  zh-TW: mass killing of civilians by Dutch forces in West Java
+  en: mass killing of civilians by Dutch forces in West Java
+start:
+  year: 1947
+  month: 12
+  day: 9
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2755792
+locations:
+  - place: wd-q2755792-site
+    role: primary
+  - place: wd-q891546
+    role: secondary
+wikipedia:
+  en: Rawagede massacre
+  zh: 拉哇格德屠杀
+importHash: 9b9ee9a20f42

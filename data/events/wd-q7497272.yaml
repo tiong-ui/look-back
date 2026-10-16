@@ -1,0 +1,25 @@
+id: wd-q7497272
+title:
+  zh-TW: 信濃川事件
+  en: Shinano River incident
+summary:
+  zh-TW: 1922 massacre of Korean labourers
+  en: 1922 massacre of Korean labourers
+start:
+  year: 1922
+  month: 7
+precision: month
+categories:
+  - war
+  - democracy
+regions:
+  - japan
+importance: 1
+wikidata: Q7497272
+locations:
+  - place: wd-q7497272-site
+    role: primary
+wikipedia:
+  en: Shinano River incident
+  zh: 信濃川事件
+importHash: 8dc9bda4158e

@@ -1,0 +1,29 @@
+id: wd-q870947
+title:
+  zh-TW: 郅支之戰
+  en: Battle of Zhizhi
+summary:
+  zh-TW: battle in 36 BC between the Han dynasty and the Xiongnu chieftain Zhizhi Chanyu
+  en: battle in 36 BC between the Han dynasty and the Xiongnu chieftain Zhizhi Chanyu
+start:
+  year: -35
+  month: 10
+end:
+  year: -35
+  month: 12
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q870947
+locations:
+  - place: wd-q486545
+    role: primary
+wikipedia:
+  en: Battle of Zhizhi
+  zh: 郅支围城战
+importHash: e5ae0ac5825f

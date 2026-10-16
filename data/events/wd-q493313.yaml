@@ -1,0 +1,32 @@
+id: wd-q493313
+title:
+  zh-TW: 清川江戰役
+  en: Battle of the Ch'ongch'on River
+summary:
+  zh-TW: 1950 battle
+  en: 1950 battle
+start:
+  year: 1950
+  month: 11
+  day: 25
+end:
+  year: 1950
+  month: 12
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q493313
+locations:
+  - place: wd-q493313-site
+    role: primary
+  - place: wd-q499266
+    role: secondary
+wikipedia:
+  en: Battle of the Ch'ongch'on River
+  zh: 清川江戰役
+importHash: d431c665a30f

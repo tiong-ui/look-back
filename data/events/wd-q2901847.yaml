@@ -1,0 +1,22 @@
+id: wd-q2901847
+title:
+  zh-TW: Siege of Takatō
+  en: Siege of Takatō
+summary:
+  zh-TW: 1582 siege of Takeda Morinobu
+  en: 1582 siege of Takeda Morinobu
+start:
+  year: 1582
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q2901847
+locations:
+  - place: wd-q11672954
+    role: primary
+wikipedia:
+  en: Siege of Takatō (1582)
+importHash: 871120f96c13

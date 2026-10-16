@@ -1,0 +1,25 @@
+id: wd-q4577217
+title:
+  zh-TW: 1976年莫羅灣地震
+  en: 1976 Moro Gulf Erdbeben
+summary:
+  zh-TW: Erdbeben in den Philippinien
+  en: Erdbeben in den Philippinien
+start:
+  year: 1976
+  month: 8
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q4577217
+locations:
+  - place: wd-q4577217-site
+    role: primary
+wikipedia:
+  en: 1976 Moro Gulf earthquake
+  zh: 1976年莫羅灣地震
+importHash: 5ee4a6a7080b

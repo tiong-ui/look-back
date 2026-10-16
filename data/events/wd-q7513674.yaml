@@ -1,0 +1,23 @@
+id: wd-q7513674
+title:
+  zh-TW: Chhota Ghallughara
+  en: Chhota Ghallughara
+summary:
+  zh-TW: 1746 massacre of Sikhs
+  en: 1746 massacre of Sikhs
+start:
+  year: 1746
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7513674
+locations:
+  - place: wd-q146708
+    role: primary
+wikipedia:
+  en: Chhota Ghallughara
+importHash: 002e1479a51a

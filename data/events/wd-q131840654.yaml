@@ -1,0 +1,25 @@
+id: wd-q131840654
+title:
+  zh-TW: 2025年嘉義地震
+  en: 2025 Tainan–Chiayi earthquake
+summary:
+  zh-TW: 發生於2025年1月21日，震央位於嘉義縣大埔鄉的地震
+  en: damaging earthquake centered in Tainan City, Taiwan
+start:
+  year: 2025
+  month: 1
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q131840654
+locations:
+  - place: wd-q131840654-site
+    role: primary
+wikipedia:
+  en: 2025 Tainan–Chiayi earthquake
+  zh: 2025年嘉南地震
+importHash: 182cb47c4ec9

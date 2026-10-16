@@ -1,0 +1,25 @@
+id: wd-q7510367
+title:
+  zh-TW: Siege of Samarkand
+  en: Siege of Samarkand
+summary:
+  zh-TW: 1497 part of Timurid Civil Wars
+  en: 1497 part of Timurid Civil Wars
+start:
+  year: 1497
+  month: 5
+precision: month
+categories:
+  - war
+regions:
+  - central-asia
+importance: 1
+wikidata: Q7510367
+locations:
+  - place: wd-q7510367-site
+    role: primary
+  - place: wd-q5753
+    role: secondary
+wikipedia:
+  en: Siege of Samarkand (1497)
+importHash: 76ca18139585

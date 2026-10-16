@@ -1,0 +1,32 @@
+id: wd-q716562
+title:
+  zh-TW: 箱館戰爭
+  en: Battle of Hakodate
+summary:
+  zh-TW: 戊辰戰爭的一部分
+  en: last stage of the Boshin War, occurring around Hakodate in the northern Japanese island of Hokkaidō
+start:
+  year: 1868
+  month: 12
+  day: 4
+end:
+  year: 1869
+  month: 6
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q716562
+locations:
+  - place: wd-q716562-site
+    role: primary
+  - place: wd-q35581
+    role: secondary
+wikipedia:
+  en: Battle of Hakodate
+  zh: 箱館戰爭
+importHash: 77615fb7e415

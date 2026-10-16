@@ -1,0 +1,24 @@
+id: wd-q1278603
+title:
+  zh-TW: 鄢陵之戰
+  en: Battle of Yanling
+summary:
+  zh-TW: battle between the states of Chu and Jin (575 BC)
+  en: battle between the states of Chu and Jin (575 BC)
+start:
+  year: -574
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1278603
+locations:
+  - place: wd-q1198943
+    role: primary
+wikipedia:
+  en: Battle of Yanling
+  zh: 鄢陵之战
+importHash: 0efbadbd1a75

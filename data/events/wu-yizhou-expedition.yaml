@@ -1,0 +1,40 @@
+id: wu-yizhou-expedition
+title:
+  zh-TW: 孫權遣軍至「夷洲」
+  en: Eastern Wu expedition to "Yizhou"
+summary:
+  zh-TW: 東吳孫權派衛溫、諸葛直率萬人渡海尋找「夷洲」，擄回數千人，但軍隊因疫病折損大半。「夷洲」是否即為臺灣，學界仍有爭議；此行亦未在當地建立任何統治。
+  en: Sun Quan of Eastern Wu sent Wei Wen and Zhuge Zhi with ten thousand troops across the sea to "Yizhou". They brought back several thousand captives, but disease killed most of the army. Whether Yizhou was Taiwan is still debated, and no rule was set up there.
+start: 230
+precision: year
+categories:
+  - war
+  - migration
+regions:
+  - taiwan
+  - china
+importance: 2
+locations:
+  - place: nanjing
+    role: origin
+  - place: taiwan
+    role: destination
+relations:
+  - event: sui-liuqiu-expeditions
+    type: related
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 這是一次擄掠人口的軍事行動，即使「夷洲」確為臺灣，也不代表任何政權在臺灣建立了統治。
+      en: This was a raid to capture people. Even if Yizhou was Taiwan, it does not mean any state established rule over Taiwan.
+  - view: prc
+    text:
+      zh-TW: 中國官方常以此作為「臺灣自古屬於中國」的早期證據。
+      en: Chinese official accounts often cite it as early evidence that "Taiwan has belonged to China since ancient times".
+  - view: scholarly
+    text:
+      zh-TW: 「夷洲」的位置有臺灣、琉球、日本等多種說法，現存史料不足以定論。
+      en: Yizhou has been identified with Taiwan, Ryukyu or Japan; surviving sources cannot settle it.
+wikipedia:
+  en: Yizhou (Taiwan)
+  zh: 夷州

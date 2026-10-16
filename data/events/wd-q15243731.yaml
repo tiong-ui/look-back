@@ -1,0 +1,25 @@
+id: wd-q15243731
+title:
+  zh-TW: 2013年泰國反政府示威
+  en: 2013–14 Thai political crisis
+summary:
+  zh-TW: protests against the government of Yingluck Shinawatra by the PDRC
+  en: protests against the government of Yingluck Shinawatra by the PDRC
+start:
+  year: 2013
+  month: 10
+  day: 31
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q15243731
+locations:
+  - place: wd-q15243731-site
+    role: primary
+wikipedia:
+  en: 2013–2014 Thai political crisis
+  zh: 2013年—2014年泰國反政府示威
+importHash: 43ad25ecf38b

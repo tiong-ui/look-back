@@ -1,0 +1,29 @@
+id: wd-q1519185
+title:
+  zh-TW: Hastings 行動
+  en: Operation Hastings
+summary:
+  zh-TW: 1966 battle of the Vietnam War
+  en: 1966 battle of the Vietnam War
+start:
+  year: 1966
+  month: 7
+  day: 15
+end:
+  year: 1966
+  month: 8
+  day: 3
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1519185
+locations:
+  - place: wd-q2349960
+    role: primary
+wikipedia:
+  en: Operation Hastings
+importHash: b5189f554211

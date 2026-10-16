@@ -1,0 +1,25 @@
+id: wd-q2639320
+title:
+  zh-TW: 楊達波條約
+  en: Treaty of Yandabo
+summary:
+  zh-TW: 東印度公司與緬甸王國間的不平等條約
+  en: Treaty of Peace between the East India Company and His Majesty the King of Ava
+start:
+  year: 1826
+  month: 2
+  day: 24
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 3
+wikidata: Q2639320
+locations:
+  - place: wd-q3571527
+    role: primary
+wikipedia:
+  en: Treaty of Yandabo
+  zh: 杨达坡条约
+importHash: f888097fa924

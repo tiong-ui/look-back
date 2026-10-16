@@ -1,0 +1,25 @@
+id: wd-q2329463
+title:
+  zh-TW: 2010年4月蘇門答臘地震
+  en: April 2010 Sumatra earthquake
+summary:
+  zh-TW: Earthquake in Indonesia
+  en: Earthquake in Indonesia
+start:
+  year: 2010
+  month: 4
+  day: 6
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2329463
+locations:
+  - place: wd-q2329463-site
+    role: primary
+wikipedia:
+  en: 2010 Banyak Islands earthquake
+  zh: 2010年4月苏门答腊地震
+importHash: 2381eb7138aa

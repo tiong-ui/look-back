@@ -1,0 +1,27 @@
+id: wd-q106859969
+title:
+  zh-TW: 1674年安汶地震
+  en: 1674 Ambon earthquake and megatsunami
+summary:
+  zh-TW: Earthquake and tsunami in Indonesia
+  en: Earthquake and tsunami in Indonesia
+start:
+  year: 1674
+  month: 2
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q106859969
+locations:
+  - place: wd-q106859969-site
+    role: primary
+  - place: wd-q171510
+    role: secondary
+wikipedia:
+  en: 1674 Ambon earthquake and megatsunami
+  zh: 1674年安汶地震
+importHash: fa54d8ea66a9

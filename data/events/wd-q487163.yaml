@@ -1,0 +1,28 @@
+id: wd-q487163
+title:
+  zh-TW: 尼泊爾王室槍擊事件
+  en: Nepalese royal massacre
+summary:
+  zh-TW: 2001年尼泊爾王室成員槍擊事件
+  en: event on 1 June 2001 in Kathmandu, Nepal in which Crown Prince Dipendra killed most of the royal family (including King Birendra and himself) with a gun
+start:
+  year: 2001
+  month: 6
+  day: 1
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 4
+wikidata: Q487163
+locations:
+  - place: wd-q487163-site
+    role: primary
+  - place: wd-q1050042
+    role: secondary
+wikipedia:
+  en: Nepalese royal massacre
+  zh: 尼泊尔王室枪击事件
+importHash: ae989970fe45

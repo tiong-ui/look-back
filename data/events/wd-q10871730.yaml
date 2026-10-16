@@ -1,0 +1,23 @@
+id: wd-q10871730
+title:
+  zh-TW: 中俄勘分西北界約記
+  en: Treaty of Tarbagatai
+summary:
+  zh-TW: 西北失地
+  en: 1864 border treaty between Qing China and Russian Empire
+start:
+  year: 1864
+precision: year
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q10871730
+locations:
+  - place: wd-q4451925
+    role: primary
+wikipedia:
+  en: Treaty of Tarbagatai
+  zh: 中俄勘分西北界约记
+importHash: 87e5ef93a1fc

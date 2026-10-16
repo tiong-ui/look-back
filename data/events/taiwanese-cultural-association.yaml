@@ -1,0 +1,27 @@
+id: taiwanese-cultural-association
+title:
+  zh-TW: 臺灣文化協會成立
+  en: Taiwanese Cultural Association founded
+summary:
+  zh-TW: 蔣渭水、林獻堂等人於大稻埕成立臺灣文化協會，透過演講、讀報與戲劇推動文化啟蒙，與臺灣議會設置請願運動共同構成非武裝抗日的主軸。
+  en: Chiang Wei-shui, Lin Hsien-tang and others founded the Taiwanese Cultural Association in Dadaocheng. Through lectures, reading rooms and theatre it promoted cultural awakening and, with the petition for a Taiwanese parliament, led non-violent resistance to colonial rule.
+start:
+  year: 1921
+  month: 10
+  day: 17
+precision: day
+categories:
+  - culture
+  - democracy
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: dadaocheng
+    role: primary
+relations:
+  - event: japanese-rule-taiwan
+    type: part_of
+wikipedia:
+  en: Taiwanese Cultural Association
+  zh: 臺灣文化協會

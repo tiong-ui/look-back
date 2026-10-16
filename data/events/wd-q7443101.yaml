@@ -1,0 +1,28 @@
+id: wd-q7443101
+title:
+  zh-TW: 第二次洛東江突出部戰役
+  en: Second Battle of Naktong Bulge
+summary:
+  zh-TW: 1950 battle of the Korean War
+  en: 1950 battle of the Korean War
+start:
+  year: 1950
+end:
+  year: 1950
+  month: 9
+  day: 12
+precision: year
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q7443101
+locations:
+  - place: wd-q7443101-site
+    role: primary
+  - place: wd-q55501
+    role: secondary
+wikipedia:
+  en: Second Battle of Naktong Bulge
+importHash: 9925eb480a6c

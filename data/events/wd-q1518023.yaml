@@ -1,0 +1,28 @@
+id: wd-q1518023
+title:
+  zh-TW: 馬京達瑙大屠殺
+  en: Maguindanao massacre
+summary:
+  zh-TW: 2009 political violence in the Philippines
+  en: 2009 political violence in the Philippines
+start:
+  year: 2009
+  month: 11
+  day: 23
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1518023
+locations:
+  - place: wd-q1518023-site
+    role: primary
+  - place: wd-q212222
+    role: secondary
+wikipedia:
+  en: Maguindanao massacre
+  zh: 馬京達瑙大屠殺
+importHash: 2357df0cf631

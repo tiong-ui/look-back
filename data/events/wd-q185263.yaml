@@ -1,0 +1,29 @@
+id: wd-q185263
+title:
+  zh-TW: Santhal rebellion
+  en: Santhal rebellion
+summary:
+  zh-TW: rebellion in present-day Jharkhand, Eastern India
+  en: rebellion in present-day Jharkhand, Eastern India
+start:
+  year: 1855
+  month: 6
+  day: 30
+end:
+  year: 1855
+  month: 11
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q185263
+locations:
+  - place: wd-q185263-site
+    role: primary
+wikipedia:
+  en: Santhal rebellion
+importHash: 922460b3b4bf

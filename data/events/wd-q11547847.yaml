@@ -1,0 +1,25 @@
+id: wd-q11547847
+title:
+  zh-TW: 2013年雅安地震
+  en: 2013 Lushan earthquake
+summary:
+  zh-TW: 2013年發生在中國四川省雅安市蘆山縣的地震
+  en: 2013 earthquake in Sichuan, China
+start:
+  year: 2013
+  month: 4
+  day: 20
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 3
+wikidata: Q11547847
+locations:
+  - place: wd-q11547847-site
+    role: primary
+wikipedia:
+  en: 2013 Lushan earthquake
+  zh: 2013年芦山地震
+importHash: b8f0e082f3e3

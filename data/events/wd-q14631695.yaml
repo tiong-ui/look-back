@@ -1,0 +1,31 @@
+id: wd-q14631695
+title:
+  zh-TW: Siege of Jinju (1592)
+  en: Siege of Jinju
+summary:
+  zh-TW: 第一次朝鮮之役中的一場戰鬥
+  en: 1592 Part of Japanese invasions of Korea
+start:
+  year: 1592
+  month: 11
+  day: 8
+end:
+  year: 1592
+  month: 11
+  day: 13
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q14631695
+locations:
+  - place: wd-q14631695-site
+    role: primary
+  - place: wd-q12618350
+    role: secondary
+wikipedia:
+  en: Siege of Jinju (1592)
+  zh: 第一次晉州城之戰
+importHash: 79b965432772

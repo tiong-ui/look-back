@@ -1,0 +1,29 @@
+id: wd-q16932099
+title:
+  zh-TW: 葡萄牙人與馬來人的軍事衝突
+  en: Malay-Portuguese War
+summary:
+  zh-TW: 1509–1641 series of military engagements
+  en: 1509–1641 series of military engagements
+start:
+  year: 1509
+end:
+  year: 1641
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q16932099
+locations:
+  - place: wd-q48359
+    role: primary
+  - place: wd-q18758
+    role: secondary
+wikipedia:
+  en: Malay–Portuguese conflicts
+  zh: 葡萄牙人与马来人的军事冲突
+importHash: 9b8de81603d5

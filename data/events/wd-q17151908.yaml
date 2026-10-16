@@ -1,0 +1,30 @@
+id: wd-q17151908
+title:
+  zh-TW: 哲斯頓起義
+  en: Jesselton Revolt
+summary:
+  zh-TW: Uprising against Japanese in Borneo
+  en: Uprising against Japanese in Borneo
+start:
+  year: 1943
+  month: 10
+  day: 9
+end:
+  year: 1944
+  month: 1
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q17151908
+locations:
+  - place: wd-q17151908-site
+    role: primary
+wikipedia:
+  en: Jesselton revolt
+  zh: 哲斯顿起义
+importHash: 18934ae22f2f

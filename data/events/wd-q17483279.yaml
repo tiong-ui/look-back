@@ -1,0 +1,27 @@
+id: wd-q17483279
+title:
+  zh-TW: 2014年魯甸地震
+  en: 2014 Ludian earthquake
+summary:
+  zh-TW: 2014年8月3日中國雲南魯甸縣地震
+  en: earthquake that struck Ludian County, Yunnan, China on 3 August 2014
+start:
+  year: 2014
+  month: 8
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 3
+wikidata: Q17483279
+locations:
+  - place: wd-q17483279-site
+    role: primary
+  - place: wd-q1339201
+    role: secondary
+wikipedia:
+  en: 2014 Ludian earthquake
+  zh: 2014年鲁甸地震
+importHash: 79661d8e6197

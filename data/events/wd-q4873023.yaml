@@ -1,0 +1,33 @@
+id: wd-q4873023
+title:
+  zh-TW: Battle of the Tennis Court
+  en: Battle of the Tennis Court
+summary:
+  zh-TW: part of the Battle of Kohima in North East India in 1944
+  en: part of the Battle of Kohima in North East India in 1944
+start:
+  year: 1944
+  month: 4
+  day: 8
+end:
+  year: 1944
+  month: 5
+  day: 13
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4873023
+locations:
+  - place: wd-q4873023-site
+    role: primary
+  - place: wd-q234056
+    role: secondary
+relations:
+  - event: wd-q383614
+    type: part_of
+wikipedia:
+  en: Battle of the Tennis Court
+importHash: 5c902ce0c58f

@@ -1,0 +1,24 @@
+id: wd-q2518823
+title:
+  zh-TW: 巴塞因條約 (1802年)
+  en: Treaty of Bassein
+summary:
+  zh-TW: treaty between the British East India Company and Baji Rao II
+  en: treaty between the British East India Company and Baji Rao II
+start:
+  year: 1802
+  month: 12
+  day: 31
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2518823
+locations:
+  - place: wd-q870103
+    role: primary
+wikipedia:
+  en: Treaty of Bassein (1802)
+importHash: 478176f88aae

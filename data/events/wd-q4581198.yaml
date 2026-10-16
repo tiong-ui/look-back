@@ -1,0 +1,27 @@
+id: wd-q4581198
+title:
+  zh-TW: 1983年日本海中部地震
+  en: 1983 Sea of Japan earthquake
+summary:
+  zh-TW: 1983 earthquake and tsunami centered off the coast of Akita Prefecture, Japan
+  en: 1983 earthquake and tsunami centered off the coast of Akita Prefecture, Japan
+start:
+  year: 1983
+  month: 5
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q4581198
+locations:
+  - place: wd-q4581198-site
+    role: primary
+  - place: wd-q27092
+    role: secondary
+wikipedia:
+  en: 1983 Sea of Japan earthquake
+  zh: 日本海中部地震
+importHash: dfb61678ca50

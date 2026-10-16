@@ -1,0 +1,26 @@
+id: wd-q7509853
+title:
+  zh-TW: 圍攻巴爾赫
+  en: Siege of Balkh
+summary:
+  zh-TW: 1370 Timurid conquest of the city of Balkh
+  en: 1370 Timurid conquest of the city of Balkh
+start:
+  year: 1370
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q7509853
+locations:
+  - place: wd-q182159
+    role: primary
+relations:
+  - event: wd-q65121240
+    type: part_of
+wikipedia:
+  en: Siege of Balkh (1370)
+  zh: 圍攻巴爾赫 (1370年)
+importHash: ee49ceb35352

@@ -1,0 +1,29 @@
+id: wd-q2378252
+title:
+  zh-TW: 壬申之亂
+  en: Jinshin War
+summary:
+  zh-TW: 672 succession war in Japan
+  en: 672 succession war in Japan
+start:
+  year: 672
+  month: 7
+  day: 27
+end:
+  year: 672
+  month: 8
+  day: 24
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 3
+wikidata: Q2378252
+locations:
+  - place: wd-q843882
+    role: primary
+wikipedia:
+  en: Jinshin War
+  zh: 壬申之亂
+importHash: 22bba611d1c7

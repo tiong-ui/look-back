@@ -1,0 +1,31 @@
+id: wd-q16207303
+title:
+  zh-TW: Battle of the Sittang Bend
+  en: Battle of the Sittang Bend
+summary:
+  zh-TW: part of Burma Campaign during World War 2
+  en: part of Burma Campaign during World War 2
+start:
+  year: 1945
+  month: 8
+  day: 7
+end:
+  year: 1945
+  month: 8
+  day: 7
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q16207303
+locations:
+  - place: wd-q16207303-site
+    role: primary
+  - place: wd-q491905
+    role: secondary
+wikipedia:
+  en: Battle of the Sittang Bend
+importHash: 10049d73e9e3

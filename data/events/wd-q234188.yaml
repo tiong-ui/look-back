@@ -1,0 +1,30 @@
+id: wd-q234188
+title:
+  zh-TW: 關原之戰
+  en: Battle of Sekigahara
+summary:
+  zh-TW: 日本戰國時代的一場戰役
+  en: 1600 battle preceding Tokugawa shogunate in Japan
+start:
+  year: 1600
+  month: 10
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 4
+wikidata: Q234188
+locations:
+  - place: wd-q234188-site
+    role: primary
+  - place: wd-q427600
+    role: secondary
+  - place: wd-q45798
+    role: secondary
+wikipedia:
+  en: Battle of Sekigahara
+  zh: 關原之戰
+importHash: e5a6d7094219

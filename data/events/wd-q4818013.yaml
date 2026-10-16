@@ -1,0 +1,27 @@
+id: wd-q4818013
+title:
+  zh-TW: 橫須賀空襲
+  en: Attack on Yokosuka
+summary:
+  zh-TW: 戰爭行為
+  en: part of Pacific War, World War II
+start:
+  year: 1945
+  month: 7
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4818013
+locations:
+  - place: wd-q4818013-site
+    role: primary
+  - place: wd-q200578
+    role: secondary
+wikipedia:
+  en: Attack on Yokosuka
+  zh: 横须贺空袭
+importHash: 9aed730e9e9d

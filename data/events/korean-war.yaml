@@ -1,0 +1,30 @@
+id: korean-war
+title:
+  zh-TW: 韓戰
+  en: Korean War
+summary:
+  zh-TW: 北韓南侵引發韓戰，聯合國軍與中國志願軍參戰。美國隨即派第七艦隊巡防臺灣海峽，改變了臺灣的國際處境。
+  en: North Korea's invasion of the South started the Korean War, drawing in UN forces and Chinese troops. The US sent its Seventh Fleet into the Taiwan Strait, changing Taiwan's international position.
+start:
+  year: 1950
+  month: 6
+  day: 25
+end:
+  year: 1953
+  month: 7
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - korea
+  - world
+importance: 4
+locations:
+  - place: seoul
+    role: primary
+  - place: pyongyang
+    role: secondary
+wikipedia:
+  en: Korean War
+  zh: 朝鲜战争

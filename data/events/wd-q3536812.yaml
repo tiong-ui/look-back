@@ -1,0 +1,25 @@
+id: wd-q3536812
+title:
+  zh-TW: 第二次順化條約
+  en: Treaty of Huế
+summary:
+  zh-TW: 1884 treaty establishing French colonial rule in Vietnam
+  en: 1884 treaty establishing French colonial rule in Vietnam
+start:
+  year: 1884
+  month: 6
+  day: 6
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q3536812
+locations:
+  - place: wd-q36167
+    role: primary
+wikipedia:
+  en: Treaty of Huế (1884)
+  zh: 第二次順化條約
+importHash: c4a0dc3e795e

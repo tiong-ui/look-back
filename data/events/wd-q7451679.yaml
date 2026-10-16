@@ -1,0 +1,28 @@
+id: wd-q7451679
+title:
+  zh-TW: 漢城國立大學附屬醫院屠殺事件
+  en: Seoul National University Hospital Massacre
+summary:
+  zh-TW: incident on 28 June 1950 in which the Korean People's Army killed approximately 700–900 people (doctors, nurses, inpatient civilians, wounded soldiers) at the Seoul National University Hospital, Seoul
+  en: incident on 28 June 1950 in which the Korean People's Army killed approximately 700–900 people (doctors, nurses, inpatient civilians, wounded soldiers) at the Seoul National University Hospital, Seoul
+start:
+  year: 1950
+  month: 6
+  day: 28
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q7451679
+locations:
+  - place: wd-q4403855
+    role: primary
+  - place: wd-q8684
+    role: secondary
+wikipedia:
+  en: Seoul National University Hospital massacre
+  zh: 漢城國立大學附屬醫院屠殺事件
+importHash: a06a68b11ff2

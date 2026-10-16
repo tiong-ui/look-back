@@ -1,0 +1,31 @@
+id: wd-q3293566
+title:
+  zh-TW: 格洛斯特角戰役
+  en: Battle of Cape Gloucester
+summary:
+  zh-TW: 1943 WWII battle in the Pacific Theater
+  en: 1943 WWII battle in the Pacific Theater
+start:
+  year: 1943
+  month: 12
+  day: 26
+end:
+  year: 1944
+  month: 4
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 2
+wikidata: Q3293566
+locations:
+  - place: wd-q3293566-site
+    role: primary
+  - place: wd-q1702791
+    role: secondary
+wikipedia:
+  en: Battle of Cape Gloucester
+importHash: 46dd0b67da56

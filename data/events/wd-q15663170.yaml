@@ -1,0 +1,22 @@
+id: wd-q15663170
+title:
+  zh-TW: 忍城之戰
+  en: Siege of Oshi
+summary:
+  zh-TW: 1590 siege
+  en: 1590 siege
+start:
+  year: 1590
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q15663170
+locations:
+  - place: wd-q1074393
+    role: primary
+wikipedia:
+  en: Siege of Oshi
+importHash: c1157ac81b37

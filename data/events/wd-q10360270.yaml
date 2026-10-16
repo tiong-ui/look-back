@@ -1,0 +1,29 @@
+id: wd-q10360270
+title:
+  zh-TW: 布幹維爾內戰
+  en: Bougainville conflict
+summary:
+  zh-TW: armed conflict in the North Solomons
+  en: armed conflict in the North Solomons
+start:
+  year: 1988
+  month: 12
+  day: 1
+end:
+  year: 1998
+  month: 4
+  day: 20
+precision: day
+categories:
+  - war
+regions:
+  - asia
+importance: 2
+wikidata: Q10360270
+locations:
+  - place: wd-q18826
+    role: primary
+wikipedia:
+  en: Bougainville conflict
+  zh: 布干维尔内战
+importHash: 2de539c1266f

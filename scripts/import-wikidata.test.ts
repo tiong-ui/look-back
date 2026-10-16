@@ -1,10 +1,11 @@
-import { cpSync, mkdtempSync, mkdirSync, writeFileSync } from 'node:fs';
+import { cpSync, mkdtempSync, readFileSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { stringify } from 'yaml';
+import { parse, stringify } from 'yaml';
 import { describe, expect, it } from 'vitest';
 import { buildAtlas } from './build-data';
-import { CLASSES, carryForward, detailsQuery, importanceFromSitelinks, parseDate, parsePoint, rowsToEvents, taiwanDiscoveryQuery } from './import-wikidata';
+import { contentHash, writeRecord } from './data-utils';
+import { CLASSES, detailsQuery, existingData, mergeImport, importanceFromSitelinks, parseDate, parsePoint, rowsToEvents, taiwanDiscoveryQuery } from './import-wikidata';
 
 const v = (value: string) => ({ value });
 const WD = 'http://www.wikidata.org/entity/';
@@ -98,34 +99,12 @@ describe('Wikidata import', () => {
   it('produces data the build accepts', () => {
     const dir = mkdtempSync(join(tmpdir(), 'lookback-'));
     cpSync(join(__dirname, '..', 'data'), dir, { recursive: true });
-    mkdirSync(join(dir, 'imported'), { recursive: true });
-    writeFileSync(join(dir, 'imported', 'events.yaml'), stringify(events));
-    writeFileSync(join(dir, 'imported', 'places.yaml'), stringify(places));
+    for (const e of events) writeRecord(join(dir, 'events'), e.id, { ...e, importHash: contentHash(e) });
+    for (const { coords, ...p } of places) writeRecord(join(dir, 'places'), p.id, { ...p, lng: coords[0], lat: coords[1] });
     const { atlas, errors } = buildAtlas(dir);
     expect(errors).toEqual([]);
     const e = atlas.events.find((x) => x.id === 'wd-q100')!;
     expect(e.sources.map((s) => s.url)).toContain('https://www.wikidata.org/wiki/Q100');
-  });
-});
-
-describe('carryForward', () => {
-  const ev = (id: string, place: string, title?: string) => ({
-    id, title: { 'zh-TW': id }, summary: { 'zh-TW': id }, start: { year: 1900 }, precision: 'year',
-    categories: ['war' as const], regions: ['china'], importance: 1, wikidata: 'Q1',
-    locations: [{ place, role: 'primary' as const }], ...(title ? { wikipedia: { en: title } } : {}),
-  });
-  const pl = (id: string) => ({ id, coords: [120, 30] as [number, number], names: [{ 'zh-TW': id }] });
-
-  it('keeps previous events this run missed, with their places, but not curated ones', () => {
-    const fresh = { events: [ev('wd-q1', 'p1')], places: [pl('p1')] };
-    const previous = {
-      events: [ev('wd-q1', 'p1'), ev('wd-q2', 'p2'), ev('wd-q3', 'p3', 'February 28 incident')],
-      places: [pl('p1'), pl('p2'), pl('p3')],
-    };
-    const out = carryForward(fresh, previous, curated);
-    expect(out.events.map((e) => e.id)).toEqual(['wd-q1', 'wd-q2']);
-    expect(out.places.map((p) => p.id)).toEqual(['p1', 'p2']);
-    expect(out.carried).toBe(1);
   });
 });
 
@@ -156,5 +135,50 @@ describe('helpers', () => {
     expect(importanceFromSitelinks(90, false)).toBe(5);
     expect(importanceFromSitelinks(3, false)).toBe(1);
     expect(importanceFromSitelinks(3, true)).toBe(2);
+  });
+});
+
+describe('mergeImport', () => {
+  const setup = () => {
+    const dir = mkdtempSync(join(tmpdir(), 'lookback-'));
+    cpSync(join(__dirname, '..', 'data'), dir, { recursive: true });
+    return dir;
+  };
+  const read = (dir: string, id: string) => parse(readFileSync(join(dir, 'events', `${id}.yaml`), 'utf8'));
+  const fresh = (dir: string, id: string, patch: object) => {
+    const { importHash: _h, ...e } = read(dir, id);
+    return { ...e, ...patch };
+  };
+
+  it('refreshes untouched imports, keeps edited ones, adds new ones', () => {
+    const dir = setup();
+    const id = 'wd-q1064923'; // Battle of Zhuolu, imported
+    // Someone edits a different imported event in the CMS.
+    const editedId = 'wd-q1002716';
+    const edited = read(dir, editedId);
+    writeFileSync(join(dir, 'events', `${editedId}.yaml`), stringify({ ...edited, summary: { 'zh-TW': '編輯改寫的摘要' } }));
+
+    const events = [
+      fresh(dir, id, { summary: { 'zh-TW': '新的維基數據描述' } }),
+      fresh(dir, editedId, { summary: { 'zh-TW': '維基數據的新描述' } }),
+      { ...fresh(dir, id, {}), id: 'wd-q999999999', wikidata: 'Q999999999', locations: [{ place: 'wd-q999999999-site', role: 'primary' }] },
+    ];
+    const places = [{ id: 'wd-q999999999-site', coords: [121, 24] as [number, number], names: [{ 'zh-TW': '新地點' }] }];
+    const count = mergeImport(dir, events as never, places);
+
+    expect(count).toMatchObject({ added: 1, refreshed: 1, keptEdited: 1, newPlaces: 1 });
+    expect(read(dir, id).summary['zh-TW']).toBe('新的維基數據描述');
+    expect(read(dir, editedId).summary['zh-TW']).toBe('編輯改寫的摘要');
+    const { atlas, errors } = buildAtlas(dir);
+    expect(errors).toEqual([]);
+    expect(atlas.events.some((e) => e.id === 'wd-q999999999')).toBe(true);
+  });
+
+  it('treats edited, curated and excluded events as off-limits', () => {
+    const dir = setup();
+    writeFileSync(join(dir, 'excluded.yaml'), 'wikidata:\n  - Q1064923\n');
+    const { curated } = existingData(dir);
+    expect(curated.qids.has('Q1064923')).toBe(true); // excluded
+    expect(curated.wikipediaTitles.has('february 28 incident')).toBe(true); // curated
   });
 });

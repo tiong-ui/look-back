@@ -1,0 +1,24 @@
+id: wd-q2313318
+title:
+  zh-TW: 城濮之戰
+  en: Battle of Chengpu
+summary:
+  zh-TW: battle between Chinese states of Jin and Chu (632 BCE)
+  en: battle between Chinese states of Jin and Chu (632 BCE)
+start:
+  year: -631
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2313318
+locations:
+  - place: wd-q2313318-site
+    role: primary
+wikipedia:
+  en: Battle of Chengpu
+  zh: 城濮之战
+importHash: 864286414ccd

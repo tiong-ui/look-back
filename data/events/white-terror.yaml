@@ -1,0 +1,29 @@
+id: white-terror
+title:
+  zh-TW: 白色恐怖
+  en: White Terror
+summary:
+  zh-TW: 國民黨政府以「肅清匪諜」為名，大規模逮捕、審判與處決政治異議者。據估計約有十四萬人遭政治審判，數千人遭處決，綠島等地設有政治犯監獄。直到1992年修正刑法第100條才告一段落。
+  en: In the name of rooting out communist spies, the KMT government arrested, tried and executed political dissidents on a large scale. An estimated 140,000 people faced political trials and thousands were executed; prisons for political prisoners included Green Island. It largely ended with the 1992 amendment of Criminal Code Article 100.
+start: 1949
+end: 1992
+precision: year
+categories:
+  - democracy
+  - politics
+regions:
+  - taiwan
+importance: 5
+locations:
+  - place: taipei
+    role: primary
+  - place: green-island
+    role: secondary
+relations:
+  - event: martial-law
+    type: part_of
+wikipedia:
+  en: White Terror (Taiwan)
+  zh: 臺灣白色恐怖時期
+sources:
+  - resource: nhrm

@@ -1,0 +1,30 @@
+id: wd-q4871359
+title:
+  zh-TW: 喀布林戰役
+  en: Battle of Kabul
+summary:
+  zh-TW: 1992 series of intermittent battles over Kabul
+  en: 1992 series of intermittent battles over Kabul
+start:
+  year: 1992
+  month: 4
+  day: 30
+end:
+  year: 1996
+  month: 9
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4871359
+locations:
+  - place: wd-q5838
+    role: primary
+wikipedia:
+  en: Battle of Kabul (1992–1996)
+  zh: 喀布爾戰役 (1992–1996)
+importHash: 90b3520e5de5

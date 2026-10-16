@@ -1,0 +1,25 @@
+id: wd-q3238573
+title:
+  zh-TW: 2009年姚安地震
+  en: 2009 Yunnan earthquake
+summary:
+  zh-TW: earthquake in China
+  en: earthquake in China
+start:
+  year: 2009
+  month: 7
+  day: 9
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q3238573
+locations:
+  - place: wd-q3238573-site
+    role: primary
+wikipedia:
+  en: 2009 Yunnan earthquake
+  zh: 2009年姚安地震
+importHash: 7fbeb5f3aa23

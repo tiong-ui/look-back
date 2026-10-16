@@ -1,0 +1,29 @@
+id: wd-q6957844
+title:
+  zh-TW: 納迪爾沙入侵莫臥兒帝國
+  en: Nadir Shah's invasion of India
+summary:
+  zh-TW: Persian invasion of Mughal Empire (1738-1740)
+  en: Persian invasion of Mughal Empire (1738-1740)
+start:
+  year: 1738
+  month: 5
+  day: 10
+end:
+  year: 1740
+  month: 1
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q6957844
+locations:
+  - place: wd-q60140
+    role: primary
+wikipedia:
+  en: Nader Shah's invasion of India
+  zh: 納迪爾沙入侵莫臥兒帝國
+importHash: 976f6d70d990

@@ -1,0 +1,24 @@
+id: wd-q1980637
+title:
+  zh-TW: Siege of Katsurao
+  en: Siege of Katsurao
+summary:
+  zh-TW: 1553 siege
+  en: 1553 siege
+start:
+  year: 1553
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q1980637
+locations:
+  - place: wd-q1980637-site
+    role: primary
+  - place: wd-q11620930
+    role: secondary
+wikipedia:
+  en: Siege of Katsurao
+importHash: 33d460205d84

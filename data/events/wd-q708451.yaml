@@ -1,0 +1,33 @@
+id: wd-q708451
+title:
+  zh-TW: 長城戰役
+  en: defense of the Great Wall
+summary:
+  zh-TW: 長城抗戰
+  en: 1933 campaign between the armies of China and Japan before the Second Sino-Japanese War
+start:
+  year: 1933
+  month: 5
+  day: 31
+end:
+  year: 1933
+  month: 5
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q708451
+locations:
+  - place: wd-q12501
+    role: primary
+relations:
+  - event: wd-q4211700
+    type: part_of
+wikipedia:
+  en: Defense of the Great Wall
+  zh: 長城戰役
+importHash: 4eb858f7eae3

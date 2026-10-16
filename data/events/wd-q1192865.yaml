@@ -1,0 +1,25 @@
+id: wd-q1192865
+title:
+  zh-TW: 玄武門之變
+  en: Xuanwu Gate Incident
+summary:
+  zh-TW: 李世民為奪取儲君之位而發動一的宮廷政變
+  en: 626 coup d'état in China
+start:
+  year: 626
+  month: 7
+  day: 5
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1192865
+locations:
+  - place: wd-q48928816
+    role: primary
+wikipedia:
+  en: Xuanwu Gate Incident
+  zh: 玄武门之变
+importHash: d27b8412df24

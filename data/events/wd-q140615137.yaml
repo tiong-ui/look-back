@@ -1,0 +1,26 @@
+id: wd-q140615137
+title:
+  zh-TW: 2026 Delhi Jantar Mantar protests
+  en: 2026 Delhi Jantar Mantar protests
+summary:
+  zh-TW: protests led by the Cockroach Janta Party in Delhi
+  en: protests led by the Cockroach Janta Party in Delhi
+start:
+  year: 2026
+end:
+  year: 2026
+  month: 7
+  day: 25
+precision: year
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q140615137
+locations:
+  - place: wd-q2045115
+    role: primary
+wikipedia:
+  en: 2026 Delhi Jantar Mantar protests
+importHash: 8a90139bd423

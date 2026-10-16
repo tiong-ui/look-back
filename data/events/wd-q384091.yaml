@@ -1,0 +1,32 @@
+id: wd-q384091
+title:
+  zh-TW: 奉天會戰
+  en: Battle of Mukden
+summary:
+  zh-TW: 1905 battle
+  en: 1905 battle
+start:
+  year: 1905
+  month: 2
+  day: 19
+end:
+  year: 1905
+  month: 3
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q384091
+locations:
+  - place: wd-q384091-site
+    role: primary
+  - place: wd-q11720
+    role: secondary
+wikipedia:
+  en: Battle of Mukden
+  zh: 奉天会战
+importHash: df5beaf48bde

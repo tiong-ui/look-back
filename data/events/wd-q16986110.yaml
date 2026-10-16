@@ -1,0 +1,25 @@
+id: wd-q16986110
+title:
+  zh-TW: 1950年印度和尼泊爾和平友好條約
+  en: 1950 Indo-Nepal Treaty of Peace and Friendship
+summary:
+  zh-TW: 1950 treaty between Nepal and India
+  en: 1950 treaty between Nepal and India
+start:
+  year: 1950
+  month: 7
+  day: 31
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q16986110
+locations:
+  - place: wd-q3037
+    role: primary
+wikipedia:
+  en: India–Nepal Treaty of Peace and Friendship
+  zh: 印度-尼泊爾友好條約
+importHash: d08745482699

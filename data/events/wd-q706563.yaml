@@ -1,0 +1,31 @@
+id: wd-q706563
+title:
+  zh-TW: 青島戰役
+  en: Siege of Tsingtao
+summary:
+  zh-TW: 第一次世界大戰期間發生於遠東的一次戰役
+  en: 1914 siege
+start:
+  year: 1914
+  month: 8
+  day: 27
+end:
+  year: 1914
+  month: 11
+  day: 7
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 3
+wikidata: Q706563
+locations:
+  - place: wd-q706563-site
+    role: primary
+  - place: wd-q170322
+    role: secondary
+wikipedia:
+  en: Siege of Tsingtao
+  zh: 青島戰役
+importHash: 1f34456d6b5b

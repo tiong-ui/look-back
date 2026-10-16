@@ -1,0 +1,25 @@
+id: wd-q1034076
+title:
+  zh-TW: Bangka Island massacre
+  en: Bangka Island massacre
+summary:
+  zh-TW: World World II mass killing
+  en: World World II mass killing
+start:
+  year: 1942
+  month: 2
+  day: 16
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1034076
+locations:
+  - place: wd-q188428
+    role: primary
+wikipedia:
+  en: Bangka Island massacre
+importHash: cfb267c87889

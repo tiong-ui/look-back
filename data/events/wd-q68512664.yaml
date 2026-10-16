@@ -1,0 +1,27 @@
+id: wd-q68512664
+title:
+  zh-TW: 2019年克什米爾地震
+  en: 2019 Kashmir earthquake
+summary:
+  zh-TW: 地震
+  en: earthquake
+start:
+  year: 2019
+  month: 9
+  day: 24
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q68512664
+locations:
+  - place: wd-q68512664-site
+    role: primary
+  - place: wd-q200130
+    role: secondary
+wikipedia:
+  en: 2019 Kashmir earthquake
+  zh: 2019年克什米尔地震
+importHash: 535b666bc396

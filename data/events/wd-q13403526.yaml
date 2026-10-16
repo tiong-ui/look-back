@@ -1,0 +1,29 @@
+id: wd-q13403526
+title:
+  zh-TW: 巴拉望島戰役
+  en: Invasion of Palawan
+summary:
+  zh-TW: 1945 battle between the US and Japan
+  en: 1945 battle between the US and Japan
+start:
+  year: 1945
+  month: 2
+  day: 28
+end:
+  year: 1945
+  month: 4
+  day: 22
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q13403526
+locations:
+  - place: wd-q1061269
+    role: primary
+wikipedia:
+  en: Invasion of Palawan
+  zh: 巴拉望島戰役
+importHash: 8661901c4d2c

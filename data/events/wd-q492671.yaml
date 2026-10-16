@@ -1,0 +1,30 @@
+id: wd-q492671
+title:
+  zh-TW: 上甘嶺戰役
+  en: Battle of Triangle Hill
+summary:
+  zh-TW: 朝鮮戰爭後期僵持階段的一次主要戰役
+  en: battle in 1952
+start:
+  year: 1952
+  month: 10
+  day: 14
+end:
+  year: 1952
+  month: 11
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q492671
+locations:
+  - place: wd-q492671-site
+    role: primary
+wikipedia:
+  en: Battle of Triangle Hill
+  zh: 上甘岭战役
+importHash: 4a27b0193325

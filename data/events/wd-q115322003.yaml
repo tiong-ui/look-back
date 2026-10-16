@@ -1,0 +1,25 @@
+id: wd-q115322003
+title:
+  zh-TW: 2022年西爪哇地震
+  en: 2022 Cianjur earthquake
+summary:
+  zh-TW: 印尼地震
+  en: 2022 earthquake centered in Cianjur, West Java, Indonesia
+start:
+  year: 2022
+  month: 11
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q115322003
+locations:
+  - place: wd-q115322003-site
+    role: primary
+wikipedia:
+  en: 2022 West Java earthquake
+  zh: 2022年西爪哇地震
+importHash: 3effdfd13da4

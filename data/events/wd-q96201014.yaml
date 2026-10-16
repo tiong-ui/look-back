@@ -1,0 +1,28 @@
+id: wd-q96201014
+title:
+  zh-TW: 文革大屠殺 (廣東)
+  en: Guangdong Cultural Revolution Massacre
+summary:
+  zh-TW: 區域性大規模屠殺事件
+  en: series of massacres that took place in Guangdong Province of China during the Cultural Revolution
+start:
+  year: 1968
+end:
+  year: 1968
+  month: 10
+  day: 1
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q96201014
+locations:
+  - place: wd-q15175
+    role: primary
+wikipedia:
+  en: Guangdong Cultural Revolution Massacre
+  zh: 广东文革屠杀
+importHash: 40aebba08004

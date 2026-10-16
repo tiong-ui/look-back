@@ -1,0 +1,28 @@
+id: wd-q592550
+title:
+  zh-TW: 英國侵藏戰爭
+  en: British expedition to Tibet
+summary:
+  zh-TW: 1903-1904年英屬印度入侵西藏的戰爭
+  en: expedition to and invasion of Tibet 1903-1904
+start:
+  year: 1903
+  month: 12
+end:
+  year: 1904
+  month: 9
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q592550
+locations:
+  - place: wd-q592550-site
+    role: primary
+wikipedia:
+  en: British expedition to Tibet
+  zh: 英國侵藏戰爭
+importHash: b034ef6f3454

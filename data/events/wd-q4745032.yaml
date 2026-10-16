@@ -1,0 +1,30 @@
+id: wd-q4745032
+title:
+  zh-TW: 多馬之圍
+  en: Siege of Toma
+summary:
+  zh-TW: 1914 bloodless action during World War I on the island of New Pomerania
+  en: 1914 bloodless action during World War I on the island of New Pomerania
+start:
+  year: 1914
+  month: 9
+  day: 14
+end:
+  year: 1914
+  month: 9
+  day: 17
+precision: day
+categories:
+  - war
+regions:
+  - asia
+importance: 1
+wikidata: Q4745032
+locations:
+  - place: wd-q4745032-site
+    role: primary
+  - place: wd-q7818179
+    role: secondary
+wikipedia:
+  en: Siege of Toma
+importHash: 82efa2336c30

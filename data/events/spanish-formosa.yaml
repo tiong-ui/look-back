@@ -1,0 +1,32 @@
+id: spanish-formosa
+title:
+  zh-TW: 西班牙占領北臺灣
+  en: Spanish Formosa
+summary:
+  zh-TW: 西班牙自馬尼拉出兵，於雞籠（今基隆和平島）建聖薩爾瓦多城，並在淡水建聖多明哥城，與荷蘭競爭東亞貿易；1642年被荷蘭逐出。
+  en: Spain sent forces from Manila and built Fort San Salvador at Kelang (now Heping Island, Keelung) and Fort Santo Domingo at Tamsui, to compete with the Dutch for East Asian trade. The Dutch drove them out in 1642.
+start: 1626
+end: 1642
+precision: year
+categories:
+  - dynasty
+  - war
+regions:
+  - taiwan
+  - southeast-asia
+importance: 3
+locations:
+  - place: keelung
+    role: primary
+  - place: tamsui
+    role: secondary
+  - place: manila
+    role: origin
+  - place: keelung
+    role: destination
+relations:
+  - event: dutch-formosa
+    type: related
+wikipedia:
+  en: Spanish Formosa
+  zh: 西班牙統治時期

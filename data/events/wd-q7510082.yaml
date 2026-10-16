@@ -1,0 +1,30 @@
+id: wd-q7510082
+title:
+  zh-TW: First Herat War
+  en: First Herat War
+summary:
+  zh-TW: 1837 action by Qajar Persia that preceded the Anglo-Persian War
+  en: 1837 action by Qajar Persia that preceded the Anglo-Persian War
+start:
+  year: 1837
+  month: 11
+  day: 13
+end:
+  year: 1838
+  month: 9
+  day: 9
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510082
+locations:
+  - place: wd-q7510082-site
+    role: primary
+  - place: wd-q45313
+    role: secondary
+wikipedia:
+  en: First Herat War
+importHash: cd387a52153a

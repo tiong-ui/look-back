@@ -1,0 +1,25 @@
+id: wd-q944568
+title:
+  zh-TW: Malabar Rebellion
+  en: Malabar Rebellion
+summary:
+  zh-TW: conflict in India in 1921–1922
+  en: conflict in India in 1921–1922
+start:
+  year: 1921
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q944568
+locations:
+  - place: wd-q944568-site
+    role: primary
+  - place: wd-q239462
+    role: secondary
+wikipedia:
+  en: Malabar rebellion
+importHash: 37d581e99814

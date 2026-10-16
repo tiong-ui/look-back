@@ -1,0 +1,27 @@
+id: wd-q4690377
+title:
+  zh-TW: Afshar Operation
+  en: Afshar Operation
+summary:
+  zh-TW: 1993 military operation in the Afshar district of Kabul, Afghanistan
+  en: 1993 military operation in the Afshar district of Kabul, Afghanistan
+start:
+  year: 1993
+end:
+  year: 1993
+  month: 2
+  day: 12
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4690377
+locations:
+  - place: wd-q4690376
+    role: primary
+wikipedia:
+  en: Afshar massacre
+importHash: 447dc7760320

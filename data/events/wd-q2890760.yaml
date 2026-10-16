@@ -1,0 +1,24 @@
+id: wd-q2890760
+title:
+  zh-TW: 白藤江之戰 (938年)
+  en: Battle of Bach Dang River
+summary:
+  zh-TW: naval battle between Tĩnh Hải quân and Southern Han on the Bạch Đằng River
+  en: naval battle between Tĩnh Hải quân and Southern Han on the Bạch Đằng River
+start:
+  year: 938
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2890760
+locations:
+  - place: wd-q2890760-site
+    role: primary
+wikipedia:
+  en: Battle of Bạch Đằng (938)
+  zh: 白藤江之战 (938年)
+importHash: 985e1abaa7ae

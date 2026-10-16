@@ -1,0 +1,27 @@
+id: wd-q2862267
+title:
+  zh-TW: 朝鮮停戰協定
+  en: Korean Armistice Agreement
+summary:
+  zh-TW: 軍事協定
+  en: armistice signed July 27, 1953 ending hostilities in Korean War
+start:
+  year: 1953
+  month: 7
+  day: 27
+precision: day
+categories:
+  - diplomacy
+regions:
+  - korea
+importance: 3
+wikidata: Q2862267
+locations:
+  - place: wd-q2862267-site
+    role: primary
+  - place: wd-q495167
+    role: secondary
+wikipedia:
+  en: Korean Armistice Agreement
+  zh: 朝鲜停战协定
+importHash: e0f5fefcf153

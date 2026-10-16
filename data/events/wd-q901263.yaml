@@ -1,0 +1,31 @@
+id: wd-q901263
+title:
+  zh-TW: 得蘇－新景戰役
+  en: Battle of Dak To
+summary:
+  zh-TW: 1967年越南戰爭戰役
+  en: 1967 battle of the Vietnam War
+start:
+  year: 1967
+  month: 11
+  day: 3
+end:
+  year: 1967
+  month: 11
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q901263
+locations:
+  - place: wd-q901263-site
+    role: primary
+  - place: wd-q36315
+    role: secondary
+wikipedia:
+  en: Battle of Dak To
+importHash: 495117698d88

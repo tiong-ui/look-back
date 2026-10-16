@@ -1,0 +1,23 @@
+id: wd-q125507259
+title:
+  zh-TW: 豐後水道地震
+  en: 2024 Bungo Channel earthquake
+summary:
+  zh-TW: 2024年4月17日發生於日本豐後水道的一場地震
+start:
+  year: 2024
+  month: 4
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q125507259
+locations:
+  - place: wd-q125507259-site
+    role: primary
+wikipedia:
+  zh: 丰后水道地震
+importHash: 572542cb2298

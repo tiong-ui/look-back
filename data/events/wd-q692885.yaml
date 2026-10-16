@@ -1,0 +1,30 @@
+id: wd-q692885
+title:
+  zh-TW: 象牙海岸行動
+  en: Operation Ivory Coast
+summary:
+  zh-TW: 1970 military operation
+  en: 1970 military operation
+start:
+  year: 1970
+  month: 11
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q692885
+locations:
+  - place: wd-q692885-site
+    role: primary
+  - place: wd-q1365138
+    role: secondary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Operation Ivory Coast
+importHash: f60769604a66

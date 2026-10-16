@@ -1,0 +1,28 @@
+id: wd-q192055
+title:
+  zh-TW: 南京大屠殺
+  en: Nanjing Massacre
+summary:
+  zh-TW: 1937年日軍佔領中國南京後的大規模屠殺
+  en: 1937 mass murder by the Japanese army
+start:
+  year: 1937
+end:
+  year: 1938
+  month: 2
+  day: 2
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 4
+wikidata: Q192055
+locations:
+  - place: wd-q192055-site
+    role: primary
+wikipedia:
+  en: Nanjing Massacre
+  zh: 南京大屠殺
+importHash: 09655f43736f

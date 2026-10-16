@@ -1,0 +1,28 @@
+id: wd-q6990159
+title:
+  zh-TW: 阿薩姆大屠殺
+  en: Nellie massacre
+summary:
+  zh-TW: Series of extremely violent massacres and pogroms against Muslims in Assam state
+  en: Series of extremely violent massacres and pogroms against Muslims in Assam state
+start:
+  year: 1983
+  month: 2
+  day: 18
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q6990159
+locations:
+  - place: wd-q6990159-site
+    role: primary
+  - place: wd-q1164
+    role: secondary
+wikipedia:
+  en: Nellie massacre
+  zh: 奈歷大屠殺
+importHash: f3a59fac04e5

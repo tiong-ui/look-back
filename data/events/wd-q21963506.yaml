@@ -1,0 +1,25 @@
+id: wd-q21963506
+title:
+  zh-TW: 2016年1月印度地震
+  en: 2016 Northeast India earthquake
+summary:
+  zh-TW: Earthquake near India-Myanmar border
+  en: Earthquake near India-Myanmar border
+start:
+  year: 2016
+  month: 1
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q21963506
+locations:
+  - place: wd-q21963506-site
+    role: primary
+wikipedia:
+  en: 2016 Imphal earthquake
+  zh: 2016年1月印度地震
+importHash: 9c43045ec3b1

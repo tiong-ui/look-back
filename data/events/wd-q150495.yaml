@@ -1,0 +1,25 @@
+id: wd-q150495
+title:
+  zh-TW: 2011年緬甸地震
+  en: 2011 Tarlay earthquake
+summary:
+  zh-TW: Myanmar earthquake in 2011
+  en: Myanmar earthquake in 2011
+start:
+  year: 2011
+  month: 3
+  day: 24
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q150495
+locations:
+  - place: wd-q150495-site
+    role: primary
+wikipedia:
+  en: 2011 Shan earthquake
+  zh: 2011年缅甸地震
+importHash: 72bb57f60057

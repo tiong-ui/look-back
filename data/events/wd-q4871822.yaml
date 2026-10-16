@@ -1,0 +1,30 @@
+id: wd-q4871822
+title:
+  zh-TW: Battle of Multan
+  en: Battle of Multan
+summary:
+  zh-TW: 1818 battle
+  en: 1818 battle
+start:
+  year: 1818
+  month: 3
+end:
+  year: 1818
+  month: 6
+  day: 2
+precision: month
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871822
+locations:
+  - place: wd-q4871822-site
+    role: primary
+relations:
+  - event: wd-q4689049
+    type: part_of
+wikipedia:
+  en: Siege of Multan (1818)
+importHash: 2f2f1c956f2e

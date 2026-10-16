@@ -1,0 +1,31 @@
+id: wd-q2092338
+title:
+  zh-TW: 蘇瓦里戰役
+  en: Battle of Swally
+summary:
+  zh-TW: part of Portuguese battles in the Indian Ocean (1612)
+  en: part of Portuguese battles in the Indian Ocean (1612)
+start:
+  year: 1612
+  month: 12
+  day: 9
+end:
+  year: 1612
+  month: 12
+  day: 10
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2092338
+locations:
+  - place: wd-q2092338-site
+    role: primary
+  - place: wd-q28153930
+    role: secondary
+wikipedia:
+  en: Battle of Swally
+  zh: 苏瓦里战役
+importHash: 4161bc5b11a1

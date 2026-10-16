@@ -1,0 +1,29 @@
+id: wd-q19840798
+title:
+  zh-TW: 密支那戰役
+  en: Siege of Myitkyina
+summary:
+  zh-TW: 1944 World War 2 Burma campaign
+  en: 1944 World War 2 Burma campaign
+start:
+  year: 1944
+  month: 5
+  day: 17
+end:
+  year: 1944
+  month: 8
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 1
+wikidata: Q19840798
+locations:
+  - place: wd-q1062370
+    role: primary
+wikipedia:
+  en: Siege of Myitkyina
+  zh: 密支那战役
+importHash: b96cb5eb3ff7

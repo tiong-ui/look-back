@@ -1,0 +1,25 @@
+id: wd-q517941
+title:
+  zh-TW: 2008年巴基斯坦地震
+  en: 2008 Pakistan earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2008
+  month: 10
+  day: 29
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q517941
+locations:
+  - place: wd-q517941-site
+    role: primary
+wikipedia:
+  en: 2008 Ziarat earthquakes
+  zh: 2008年巴基斯坦地震
+importHash: 871ad5d08212

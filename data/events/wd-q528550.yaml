@@ -1,0 +1,27 @@
+id: wd-q528550
+title:
+  zh-TW: 馬尼拉海戰
+  en: Battle of Manila Bay
+summary:
+  zh-TW: 1898 naval battle
+  en: 1898 naval battle
+start:
+  year: 1898
+  month: 5
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q528550
+locations:
+  - place: wd-q528550-site
+    role: primary
+  - place: wd-q676154
+    role: secondary
+wikipedia:
+  en: Battle of Manila Bay
+  zh: 馬尼拉灣海戰
+importHash: 4d343aaaa88e

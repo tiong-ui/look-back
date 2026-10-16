@@ -1,0 +1,24 @@
+id: wd-q29680
+title:
+  zh-TW: 薩水之戰
+  en: Battle of Salsu
+summary:
+  zh-TW: enormous battle that occurred in the year AD 612
+  en: enormous battle that occurred in the year AD 612
+start:
+  year: 612
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q29680
+locations:
+  - place: wd-q499266
+    role: primary
+wikipedia:
+  en: Battle of Salsu
+  zh: 薩水之戰
+importHash: "333406122523"

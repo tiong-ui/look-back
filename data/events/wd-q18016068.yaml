@@ -1,0 +1,26 @@
+id: wd-q18016068
+title:
+  zh-TW: 第一次漢城戰役
+  en: First Battle of Seoul
+summary:
+  zh-TW: 1950 North Korean capture of Seoul in the Korean War
+  en: 1950 North Korean capture of Seoul in the Korean War
+start:
+  year: 1950
+  month: 6
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q18016068
+locations:
+  - place: wd-q8684
+    role: primary
+wikipedia:
+  en: First Battle of Seoul
+  zh: 第一次漢城戰役
+importHash: f4f641a132b5

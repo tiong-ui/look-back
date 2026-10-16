@@ -1,0 +1,29 @@
+id: wd-q3354826
+title:
+  zh-TW: 丹尼·迪耶茲
+  en: Operation Red Wings
+summary:
+  zh-TW: 2005 military operation during the War in Afghanistan
+  en: 2005 military operation during the War in Afghanistan
+start:
+  year: 2005
+  month: 6
+  day: 27
+end:
+  year: 2005
+  month: 7
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3354826
+locations:
+  - place: wd-q6431405
+    role: primary
+wikipedia:
+  en: Operation Red Wings
+importHash: aead8a8f401d

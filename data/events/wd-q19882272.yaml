@@ -1,0 +1,22 @@
+id: wd-q19882272
+title:
+  zh-TW: Battle of Purandar
+  en: Battle of Purandar
+summary:
+  zh-TW: The Battle of Purandar was fight twice leaded by Baji Pasalkar and Murarbaji Deshpande.
+  en: The Battle of Purandar was fight twice leaded by Baji Pasalkar and Murarbaji Deshpande.
+start:
+  year: 1665
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q19882272
+locations:
+  - place: wd-q3824072
+    role: primary
+wikipedia:
+  en: Battle of Purandar
+importHash: eee022e982e4

@@ -1,0 +1,25 @@
+id: wd-q7267930
+title:
+  zh-TW: Qissa Khwani massacre
+  en: Qissa Khwani massacre
+summary:
+  zh-TW: one of the defining moments of the independence movement in British India
+  en: one of the defining moments of the independence movement in British India
+start:
+  year: 1930
+  month: 4
+  day: 23
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7267930
+locations:
+  - place: wd-q9065080
+    role: primary
+wikipedia:
+  en: Qissa Khwani massacre
+importHash: d002fc57e157

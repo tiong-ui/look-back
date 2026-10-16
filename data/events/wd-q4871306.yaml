@@ -1,0 +1,29 @@
+id: wd-q4871306
+title:
+  zh-TW: Battle of Jaji
+  en: Battle of Jaji
+summary:
+  zh-TW: The Battle of Jaji took place on April 17, 1987, in Paktia province, during the first stage of the withdrawal of Soviet forces during the Afghanistan war3.
+  en: The Battle of Jaji took place on April 17, 1987, in Paktia province, during the first stage of the withdrawal of Soviet forces during the Afghanistan war3.
+start:
+  year: 1987
+  month: 4
+  day: 17
+end:
+  year: 1987
+  month: 6
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871306
+locations:
+  - place: wd-q182493
+    role: primary
+wikipedia:
+  en: Battle of Jaji
+importHash: 743422cb7897

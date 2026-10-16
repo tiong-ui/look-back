@@ -1,0 +1,30 @@
+id: wd-q4870295
+title:
+  zh-TW: Battle of Amroha
+  en: Battle of Amroha
+summary:
+  zh-TW: 1305 battle in India
+  en: 1305 battle in India
+start:
+  year: 1305
+  month: 12
+  day: 28
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870295
+locations:
+  - place: wd-q4870295-site
+    role: primary
+  - place: wd-q584515
+    role: secondary
+relations:
+  - event: wd-q2079940
+    type: part_of
+wikipedia:
+  en: Battle of Amroha
+importHash: e8ee84f678d3

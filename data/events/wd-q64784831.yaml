@@ -1,0 +1,26 @@
+id: wd-q64784831
+title:
+  zh-TW: 623反紅媒遊行
+  en: 623 Protest
+summary:
+  zh-TW: 2019年6月23日臺北集會遊行
+  en: 23 June 2019 protest in Taipei, Taiwan
+start:
+  year: 2019
+  month: 6
+  day: 23
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 2
+wikidata: Q64784831
+locations:
+  - place: wd-q64784831-site
+    role: primary
+  - place: wd-q697197
+    role: secondary
+wikipedia:
+  zh: 「拒絕紅色媒體、守護臺灣民主」遊行
+importHash: 7f90b0412d33

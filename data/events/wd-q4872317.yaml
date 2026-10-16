@@ -1,0 +1,23 @@
+id: wd-q4872317
+title:
+  zh-TW: Battle of Saraighat
+  en: Battle of Saraighat
+summary:
+  zh-TW: 17th century battle in Assam
+  en: 17th century battle in Assam
+start:
+  year: 1671
+  month: 3
+precision: month
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872317
+locations:
+  - place: wd-q7422957
+    role: primary
+wikipedia:
+  en: Battle of Saraighat
+importHash: 920ab1cc2636

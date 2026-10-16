@@ -1,0 +1,24 @@
+id: wd-q4872383
+title:
+  zh-TW: Battle of Sinhagad
+  en: Battle of Sinhagad
+summary:
+  zh-TW: 1670 battle between Maratha and Mughal forces
+  en: 1670 battle between Maratha and Mughal forces
+start:
+  year: 1670
+  month: 2
+  day: 4
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872383
+locations:
+  - place: wd-q3078248
+    role: primary
+wikipedia:
+  en: Battle of Sinhagad
+importHash: 88d1adb1da4f
