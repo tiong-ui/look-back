@@ -2035,7 +2035,6 @@
   precision: year
   categories:
     - war
-    - politics
   regions:
     - china
   importance: 1
@@ -2370,7 +2369,6 @@
   precision: year
   categories:
     - war
-    - politics
   regions:
     - central-asia
     - south-asia
@@ -3490,7 +3488,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - japan
   importance: 1
@@ -3624,7 +3621,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - japan
   importance: 2
@@ -4023,7 +4019,6 @@
   precision: year
   categories:
     - war
-    - politics
   regions:
     - china
   importance: 2
@@ -5084,7 +5079,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - japan
   importance: 1
@@ -5173,7 +5167,6 @@
   precision: year
   categories:
     - war
-    - politics
   regions:
     - japan
   importance: 1
@@ -6025,7 +6018,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - southeast-asia
   importance: 2
@@ -7182,9 +7174,6 @@
   locations:
     - place: wd-q1964948-site
       role: primary
-  relations:
-    - event: wd-q349422
-      type: part_of
   wikipedia:
     en: Siege of Marune
 - id: wd-q349422
@@ -7381,7 +7370,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - south-asia
   importance: 2
@@ -7542,9 +7530,9 @@
   locations:
     - place: wd-q1073030-site
       role: primary
-    - place: wd-q11652257
-      role: secondary
     - place: wd-q17052289
+      role: secondary
+    - place: wd-q11652257
       role: secondary
   relations:
     - event: wd-q859815
@@ -10727,6 +10715,65 @@
   wikipedia:
     en: Siege of Malacca (1640–1641)
     zh: 馬六甲圍城戰 (1641年)
+- id: wd-q24839239
+  title:
+    zh-TW: 第一次聖薩爾瓦多城戰役
+    en: First Battle of San Salvador
+  summary:
+    zh-TW: 1641 battle of San Salvador
+    en: 1641 battle of San Salvador
+  start:
+    year: 1641
+    month: 8
+  precision: month
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q24839239
+  locations:
+    - place: wd-q24839239-site
+      role: primary
+    - place: wd-q249996
+      role: secondary
+  wikipedia:
+    en: Battle of San Salvador (1641)
+    zh: 第一次聖薩爾瓦多城戰役
+- id: wd-q15904347
+  title:
+    zh-TW: 雞籠之戰
+    en: Final Battle of San Salvador
+  summary:
+    zh-TW: 1642 military assault
+    en: 1642 military assault
+  start:
+    year: 1642
+    month: 8
+    day: 19
+  end:
+    year: 1642
+    month: 8
+    day: 26
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q15904347
+  locations:
+    - place: wd-q15904347-site
+      role: primary
+    - place: wd-q249996
+      role: secondary
+  wikipedia:
+    en: Battle of San Salvador (1642)
+    zh: 雞籠之戰
 - id: wd-q4520158
   title:
     zh-TW: 一片石之戰
@@ -12354,7 +12401,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - south-asia
   importance: 1
@@ -13591,11 +13637,11 @@
   reviewed: false
   wikidata: Q263716
   locations:
-    - place: wd-q43407
-      role: primary
-    - place: wd-q80290
-      role: secondary
     - place: wd-q43684
+      role: primary
+    - place: wd-q43407
+      role: secondary
+    - place: wd-q80290
       role: secondary
   wikipedia:
     en: Eight Trigrams uprising of 1813
@@ -14157,6 +14203,7 @@
     day: 26
   precision: day
   categories:
+    - war
     - politics
   regions:
     - china
@@ -15577,6 +15624,30 @@
   wikipedia:
     en: Treaty of Saigon (1862)
     zh: 第一次西貢條約
+- id: wd-q7675731
+  title:
+    zh-TW: 戴潮春事件
+    en: Tai Chao-chuen incident
+  summary:
+    zh-TW: 臺灣清領時期三大民變之一，自1862年至1864年迄，主事者為彰化鄉紳戴潮春、林日成
+    en: rebellion in Taiwan during 1862 to 1864.
+  start:
+    year: 1862
+  precision: year
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q7675731
+  locations:
+    - place: wd-q22502
+      role: primary
+  wikipedia:
+    en: Tai Chao-chuen incident
+    zh: 戴潮春事件
 - id: wd-q889879
   title:
     zh-TW: 同治回變
@@ -15901,6 +15972,31 @@
   wikipedia:
     en: General Sherman incident
     zh: 舍门将军号事件
+- id: wd-q10843834
+  title:
+    zh-TW: 1867年基隆海嘯
+    en: 1867 Keelung earthquake
+  summary:
+    zh-TW: Earthquake and tsunami affecting Taiwan
+    en: Earthquake and tsunami affecting Taiwan
+  start:
+    year: 1867
+    month: 12
+    day: 18
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10843834
+  locations:
+    - place: wd-q10843834-site
+      role: primary
+  wikipedia:
+    en: 1867 Keelung earthquake
+    zh: 1867年基隆海嘯
 - id: wd-q1193959
   title:
     zh-TW: 鳥羽伏見之戰
@@ -16563,6 +16659,30 @@
       type: part_of
   wikipedia:
     en: Siege of Kumamoto Castle
+- id: wd-q10900875
+  title:
+    zh-TW: 加禮宛事件
+    en: Karewan Incident
+  summary:
+    zh-TW: 臺灣原住民聯合抗清事件
+    en: 1878 massacre of Kavalan and Sakizaya people on Taiwan Island by Qing forces
+  start:
+    year: 1878
+  precision: year
+  categories:
+    - war
+    - democracy
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10900875
+  locations:
+    - place: wd-q22502
+      role: primary
+  wikipedia:
+    zh: 加禮宛戰役
 - id: wd-q2237297
   title:
     zh-TW: Battle of Ali Masjid
@@ -17035,19 +17155,49 @@
   categories:
     - war
   regions:
-    - china
     - taiwan
+    - china
   importance: 4
   reviewed: false
   wikidata: Q706183
   locations:
-    - place: wd-q29520
-      role: primary
     - place: wd-q22502
+      role: primary
+    - place: wd-q29520
       role: secondary
   wikipedia:
     en: Sino-French War
     zh: 中法战争
+- id: wd-q728355
+  title:
+    zh-TW: 淡水之役
+    en: Battle of Tamsui
+  summary:
+    zh-TW: 1884 battle
+    en: 1884 battle
+  start:
+    year: 1884
+    month: 10
+    day: 8
+  precision: day
+  categories:
+    - war
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q728355
+  locations:
+    - place: wd-q728355-site
+      role: primary
+    - place: wd-q570509
+      role: secondary
+  relations:
+    - event: wd-q706183
+      type: part_of
+  wikipedia:
+    en: Battle of Tamsui
+    zh: 淡水之役
 - id: wd-q7382322
   title:
     zh-TW: Russia–Korea Treaty of 1884
@@ -17804,6 +17954,179 @@
       role: primary
   wikipedia:
     zh: 遼南條約
+- id: wd-q4870388
+  title:
+    zh-TW: 八卦山之役
+    en: Battle of Baguashan
+  summary:
+    zh-TW: 1895年乙未戰爭戰役之一
+    en: 1895 battle near Changhua, Taiwan
+  start:
+    year: 1895
+    month: 8
+    day: 27
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4870388
+  locations:
+    - place: wd-q10892015
+      role: primary
+  relations:
+    - event: wd-q717373
+      type: part_of
+  wikipedia:
+    en: Battle of Baguashan
+    zh: 八卦山之役
+- id: wd-q4870709
+  title:
+    zh-TW: 火燒莊戰役
+    en: Battle of Changhsing
+  summary:
+    zh-TW: 1895年乙未戰爭戰役之一
+    en: battle during the Japanese invasion of Taiwan
+  start:
+    year: 1895
+    month: 11
+    day: 26
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4870709
+  locations:
+    - place: wd-q97025569
+      role: primary
+  relations:
+    - event: wd-q717373
+      type: part_of
+  wikipedia:
+    en: Battle of Changhsing
+    zh: 火燒庄戰役
+- id: wd-q4870724
+  title:
+    zh-TW: 步月樓戰役
+    en: Battle of Chiatung
+  summary:
+    zh-TW: 步月樓戰役
+  start:
+    year: 1895
+    month: 10
+    day: 11
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4870724
+  locations:
+    - place: wd-q97025858
+      role: primary
+  relations:
+    - event: wd-q717373
+      type: part_of
+  wikipedia:
+    en: Battle of Chiatung
+    zh: 步月樓戰役
+- id: wd-q4870725
+  title:
+    zh-TW: 嘉義之役
+    en: Battle of Chiayi
+  summary:
+    zh-TW: 嘉義之役
+  start:
+    year: 1895
+    month: 10
+    day: 9
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4870725
+  locations:
+    - place: wd-q249995
+      role: primary
+  relations:
+    - event: wd-q717373
+      type: part_of
+  wikipedia:
+    en: Battle of Chiayi
+    zh: 嘉義之役
+- id: wd-q4871406
+  title:
+    zh-TW: 基隆之戰
+    en: Battle of Keelung
+  summary:
+    zh-TW: 基隆之戰
+  start:
+    year: 1895
+    month: 6
+    day: 3
+  end:
+    year: 1895
+    month: 6
+    day: 3
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4871406
+  locations:
+    - place: wd-q249996
+      role: primary
+  relations:
+    - event: wd-q717373
+      type: part_of
+  wikipedia:
+    en: Battle of Keelung (1895)
+- id: wd-q5035992
+  title:
+    zh-TW: Capitulation of Tainan
+    en: Capitulation of Tainan
+  summary:
+    zh-TW: 1895 last act in the Japanese invasion of Taiwan
+    en: 1895 last act in the Japanese invasion of Taiwan
+  start:
+    year: 1895
+    month: 10
+    day: 21
+  precision: day
+  categories:
+    - war
+    - diplomacy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q5035992
+  locations:
+    - place: wd-q140631
+      role: primary
+  relations:
+    - event: wd-q717373
+      type: part_of
+  wikipedia:
+    en: Capitulation of Tainan
 - id: wd-q717373
   title:
     zh-TW: 乙未戰爭
@@ -18305,9 +18628,9 @@
   locations:
     - place: wd-q4337436-site
       role: primary
-    - place: wd-q2663651
-      role: secondary
     - place: wd-q7334692
+      role: secondary
+    - place: wd-q2663651
       role: secondary
   relations:
     - event: wd-q150229
@@ -18711,6 +19034,29 @@
       role: secondary
   wikipedia:
     en: Battle of Te-li-Ssu
+- id: wd-q4558220
+  title:
+    zh-TW: 1904年斗六地震
+    en: 1904 Douliu earthquake
+  summary:
+    zh-TW: earthquake struck Chiayi County, Taiwan on November 5, 1904 (UTC)
+    en: earthquake struck Chiayi County, Taiwan on November 5, 1904 (UTC)
+  start:
+    year: 1904
+  precision: year
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4558220
+  locations:
+    - place: wd-q4558220-site
+      role: primary
+  wikipedia:
+    en: 1904 Douliu earthquake
+    zh: 1904年斗六地震
 - id: wd-q4871480
   title:
     zh-TW: 宗谷海戰
@@ -19042,6 +19388,31 @@
   wikipedia:
     en: 1906 Meishan earthquake
     zh: 1906年梅山地震
+- id: wd-q10902675
+  title:
+    zh-TW: 北埔事件
+    en: Beipu Uprising
+  summary:
+    zh-TW: 1907年（明治40年）11月，發生於臺灣新竹北埔的抗日事件
+    en: 1907 armed uprising against Japanese rule of Taiwan
+  start:
+    year: 1907
+    month: 11
+  precision: month
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10902675
+  locations:
+    - place: wd-q713556
+      role: primary
+  wikipedia:
+    en: Beipu uprising
+    zh: 北埔事件
 - id: wd-q12601111
   title:
     zh-TW: 南大門戰鬥
@@ -19510,6 +19881,31 @@
   wikipedia:
     en: Basmachi movement
     zh: 巴斯玛奇运动
+- id: wd-q4560300
+  title:
+    zh-TW: 1916年南投地震
+    en: 1916–17 Nantou earthquakes
+  summary:
+    zh-TW: earthquakes in Taiwan
+    en: earthquakes in Taiwan
+  start:
+    year: 1916
+    month: 8
+    day: 28
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4560300
+  locations:
+    - place: wd-q4560300-site
+      role: primary
+  wikipedia:
+    en: 1916–1917 Nantou earthquakes
+    zh: 1916—1917年南投地震系列
 - id: wd-q1041813
   title:
     zh-TW: 張勳復辟
@@ -19726,6 +20122,31 @@
   wikipedia:
     en: Zhili–Anhui War
     zh: 直皖戰爭
+- id: wd-q5920767
+  title:
+    zh-TW: 1920年花蓮地震
+    en: 1920 Hualien earthquake
+  summary:
+    zh-TW: Earthquake affecting Taiwan
+    en: Earthquake affecting Taiwan
+  start:
+    year: 1920
+    month: 6
+    day: 5
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q5920767
+  locations:
+    - place: wd-q5920767-site
+      role: primary
+  wikipedia:
+    en: 1920 Hualien earthquake
+    zh: 1920年花蓮地震
 - id: wd-q700134
   title:
     zh-TW: 廟街事件
@@ -20756,9 +21177,9 @@
   reviewed: false
   wikidata: Q4871396
   locations:
-    - place: wd-q170521
-      role: primary
     - place: wd-q34800
+      role: primary
+    - place: wd-q170521
       role: secondary
   relations:
     - event: wd-q4247016
@@ -21189,9 +21610,6 @@
   locations:
     - place: wd-q192055-site
       role: primary
-  relations:
-    - event: wd-q701180
-      type: part_of
   wikipedia:
     en: Nanjing Massacre
     zh: 南京大屠殺
@@ -22010,6 +22428,31 @@
       role: primary
   wikipedia:
     en: Treaty between Thailand and Japan (1940)
+- id: wd-q10861125
+  title:
+    zh-TW: 1941年中埔地震
+    en: 1941 Chungpu earthquake
+  summary:
+    zh-TW: Earthquake in Taiwan
+    en: Earthquake in Taiwan
+  start:
+    year: 1941
+    month: 12
+    day: 17
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10861125
+  locations:
+    - place: wd-q10861125-site
+      role: primary
+  wikipedia:
+    en: 1941 Chungpu earthquake
+    zh: 1941年中埔地震
 - id: wd-q1280169
   title:
     zh-TW: Battle of Prachuap Khiri Khan
@@ -25554,9 +25997,6 @@
       role: primary
     - place: wd-q1461
       role: secondary
-  relations:
-    - event: wd-q696931
-      type: part_of
   wikipedia:
     en: Manila massacre
     zh: 馬尼拉大屠殺
@@ -25912,6 +26352,31 @@
       type: part_of
   wikipedia:
     en: Battle of Siping
+- id: wd-q4565742
+  title:
+    zh-TW: 1946年新化地震
+    en: 1946 Hsinhua earthquake
+  summary:
+    zh-TW: Earthquake in Taiwan
+    en: Earthquake in Taiwan
+  start:
+    year: 1946
+    month: 12
+    day: 5
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4565742
+  locations:
+    - place: wd-q4565742-site
+      role: primary
+  wikipedia:
+    en: 1946 Hsinhua earthquake
+    zh: 1946年新化地震
 - id: wd-q7045496
   title:
     zh-TW: 諾阿卡利動亂
@@ -28000,6 +28465,7 @@
     day: 15
   precision: year
   categories:
+    - war
     - politics
   regions:
     - china
@@ -28127,6 +28593,30 @@
   wikipedia:
     en: Battle of Kumsong
     zh: 金城戰役
+- id: wd-q10843896
+  title:
+    zh-TW: 1954年中華民國總統選舉
+    en: 1954 Taiwan presidential election
+  summary:
+    zh-TW: 第二任中華民國總統副總統選舉
+  start:
+    year: 1954
+    month: 3
+    day: 22
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10843896
+  locations:
+    - place: wd-q6145247
+      role: primary
+  wikipedia:
+    en: 1954 Taiwanese presidential election
+    zh: 1954年中華民國總統選舉
 - id: wd-q4871659
   title:
     zh-TW: Battle of Mang Yang Pass
@@ -28277,6 +28767,31 @@
   wikipedia:
     en: 1956 Hong Kong riots
     zh: 雙十暴動
+- id: wd-q10881483
+  title:
+    zh-TW: 五二四事件
+    en: May 24 Incident
+  summary:
+    zh-TW: 1957年臺灣的一次抗議示威事件
+    en: 1957 protest in Taiwan
+  start:
+    year: 1957
+    month: 5
+    day: 24
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10881483
+  locations:
+    - place: wd-q1867
+      role: primary
+  wikipedia:
+    en: May 24 incident
+    zh: 五二四事件
 - id: wd-q508258
   title:
     zh-TW: 1959 圖博抗暴
@@ -28307,6 +28822,30 @@
   wikipedia:
     en: 1959 Tibetan uprising
     zh: 1959年藏区骚乱
+- id: wd-q10843919
+  title:
+    zh-TW: 1960年中華民國總統選舉
+    en: 1960 Taiwan presidential election
+  summary:
+    zh-TW: 第三任中華民國總統副總統選舉
+  start:
+    year: 1960
+    month: 3
+    day: 21
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10843919
+  locations:
+    - place: wd-q6145247
+      role: primary
+  wikipedia:
+    en: 1960 Taiwanese presidential election
+    zh: 1960年中華民國總統選舉
 - id: wd-q1935163
   title:
     zh-TW: 1960年南越政變
@@ -28638,6 +29177,31 @@
       role: primary
   wikipedia:
     en: 1963 Kuril Islands earthquake
+- id: wd-q4571231
+  title:
+    zh-TW: 1963年蘇澳地震
+    en: 1963 Su-ao earthquake
+  summary:
+    zh-TW: Earthquake in Taiwan
+    en: Earthquake in Taiwan
+  start:
+    year: 1963
+    month: 2
+    day: 13
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4571231
+  locations:
+    - place: wd-q4571231-site
+      role: primary
+  wikipedia:
+    en: 1963 Su-ao earthquake
+    zh: 1963年蘇澳地震
 - id: wd-q4871119
   title:
     zh-TW: 鵝貢戰役
@@ -29053,9 +29617,9 @@
   locations:
     - place: wd-q37211
       role: primary
-    - place: wd-q43100
-      role: secondary
     - place: wd-q1437
+      role: secondary
+    - place: wd-q43100
       role: secondary
   relations:
     - event: wd-q1413732
@@ -29063,6 +29627,37 @@
   wikipedia:
     en: India–Pakistan war of 1965
     zh: 第二次印巴战争
+- id: wd-q2888438
+  title:
+    zh-TW: 東引海戰
+    en: Battle of Dong-Yin
+  summary:
+    zh-TW: 1965 naval battle in the Taiwan Strait
+    en: 1965 naval battle in the Taiwan Strait
+  start:
+    year: 1965
+    month: 5
+    day: 1
+  precision: day
+  categories:
+    - war
+    - politics
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q2888438
+  locations:
+    - place: wd-q2888438-site
+      role: primary
+    - place: wd-q262171
+      role: secondary
+  relations:
+    - event: wd-q179975
+      type: part_of
+  wikipedia:
+    en: Battle of Dong-Yin
+    zh: 東引海戰
 - id: wd-q4438381
   title:
     zh-TW: Battle of Asal Uttar
@@ -29221,6 +29816,30 @@
   wikipedia:
     en: Battle of Ia Drang
     zh: 德浪河谷戰役
+- id: wd-q10843934
+  title:
+    zh-TW: 1966年中華民國總統選舉
+    en: 1966 Taiwan presidential election
+  summary:
+    zh-TW: 第四任中華民國總統副總統選舉
+  start:
+    year: 1966
+    month: 3
+    day: 21
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10843934
+  locations:
+    - place: wd-q5116271
+      role: primary
+  wikipedia:
+    en: 1966 Taiwanese presidential election
+    zh: 1966年中華民國總統選舉
 - id: wd-q11357636
   title:
     zh-TW: 三里塚鬥爭
@@ -30032,11 +30651,11 @@
   locations:
     - place: wd-q1490
       role: primary
-    - place: wd-q836198
+    - place: wd-q801447
       role: secondary
     - place: wd-q746052
       role: secondary
-    - place: wd-q801447
+    - place: wd-q836198
       role: secondary
   relations:
     - event: wd-q106901219
@@ -30495,11 +31114,11 @@
   locations:
     - place: wd-q38684
       role: primary
-    - place: wd-q2635466
+    - place: wd-q1366583
       role: secondary
     - place: wd-q2399139
       role: secondary
-    - place: wd-q1366583
+    - place: wd-q2635466
       role: secondary
   relations:
     - event: wd-q371394
@@ -30595,6 +31214,30 @@
       role: primary
   wikipedia:
     en: Chuknagar massacre
+- id: wd-q10843946
+  title:
+    zh-TW: 1972年中華民國總統選舉
+    en: 1972 Taiwan presidential election
+  summary:
+    zh-TW: 第五任中華民國總統副總統選舉
+  start:
+    year: 1972
+    month: 3
+    day: 21
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q10843946
+  locations:
+    - place: wd-q5116271
+      role: primary
+  wikipedia:
+    en: 1972 Taiwanese presidential election
+    zh: 1972年中華民國總統選舉
 - id: wd-q1470998
   title:
     zh-TW: 西姆拉協定
@@ -31889,6 +32532,30 @@
   wikipedia:
     en: 1986 Sabah riots
     zh: 1986年沙巴骚乱
+- id: wd-q5942155
+  title:
+    zh-TW: 1986年花蓮地震
+    en: 1986 Hualien earthquake
+  summary:
+    zh-TW: 1986年花蓮地震
+  start:
+    year: 1986
+    month: 11
+    day: 15
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q5942155
+  locations:
+    - place: wd-q5942155-site
+      role: primary
+  wikipedia:
+    en: 1986 Hualien earthquake
+    zh: 1986年花蓮地震
 - id: wd-q883298
   title:
     zh-TW: 傑勒托克桑事件
@@ -32859,9 +33526,6 @@
   locations:
     - place: wd-q4690376
       role: primary
-  relations:
-    - event: wd-q4871359
-      type: part_of
   wikipedia:
     en: Afshar massacre
 - id: wd-q67440288
@@ -35435,6 +36099,33 @@
       role: primary
   wikipedia:
     en: 2009 West Papua earthquakes
+- id: wd-q4640038
+  title:
+    zh-TW: 517嗆馬保台大遊行
+    en: 517 Protest
+  summary:
+    zh-TW: 臺灣大行社會遊行
+    en: 2009 protest in Taiwan
+  start:
+    year: 2009
+    month: 5
+    day: 17
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q4640038
+  locations:
+    - place: wd-q1867
+      role: primary
+    - place: wd-q181557
+      role: secondary
+  wikipedia:
+    en: 517 Protest
+    zh: 517嗆馬保臺大遊行
 - id: wd-q491188
   title:
     zh-TW: 大青島海戰
@@ -35461,6 +36152,31 @@
   wikipedia:
     en: Daecheong incident
     zh: 大青島海戰
+- id: wd-q708250
+  title:
+    zh-TW: 2009年花蓮地震
+    en: 2009 Hualien earthquake
+  summary:
+    zh-TW: earthquake
+    en: earthquake
+  start:
+    year: 2009
+    month: 12
+    day: 19
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q708250
+  locations:
+    - place: wd-q708250-site
+      role: primary
+  wikipedia:
+    en: 2009 Hualien earthquake
+    zh: 2009年花蓮地震
 - id: wd-q745411
   title:
     zh-TW: 2009年西爪哇地震
@@ -36564,6 +37280,31 @@
   wikipedia:
     en: 2013 Okhotsk Sea earthquake
     zh: 2013年鄂霍次克海地震
+- id: wd-q13414773
+  title:
+    zh-TW: 2013年6月南投地震
+    en: June 2013 Nantou earthquake
+  summary:
+    zh-TW: earthquake which struck central Taiwan on Sunday, 2 June 2013
+    en: earthquake which struck central Taiwan on Sunday, 2 June 2013
+  start:
+    year: 2013
+    month: 6
+    day: 2
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q13414773
+  locations:
+    - place: wd-q13414773-site
+      role: primary
+  wikipedia:
+    en: June 2013 Nantou earthquake
+    zh: 2013年6月南投地震
 - id: wd-q13593376
   title:
     zh-TW: 2013年亞齊地震
@@ -36885,6 +37626,31 @@
   wikipedia:
     en: Minamata Convention on Mercury
     zh: 关于汞的水俣公约
+- id: wd-q8659209
+  title:
+    zh-TW: 2013年南投地震
+    en: March 2013 Nantou earthquake
+  summary:
+    zh-TW: which occurred on 27 March 2013, killing one person
+    en: which occurred on 27 March 2013, killing one person
+  start:
+    year: 2013
+    month: 3
+    day: 27
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q8659209
+  locations:
+    - place: wd-q8659209-site
+      role: primary
+  wikipedia:
+    en: March 2013 Nantou earthquake
+    zh: 2013年3月南投地震
 - id: wd-q116180398
   title:
     zh-TW: 2014年莎車縣暴恐襲擊案
@@ -38288,6 +39054,32 @@
   wikipedia:
     en: 2019 Yamagata earthquake
     zh: 2019年山形地震
+- id: wd-q64784831
+  title:
+    zh-TW: 623反紅媒遊行
+    en: 623 Protest
+  summary:
+    zh-TW: 2019年6月23日臺北集會遊行
+    en: 23 June 2019 protest in Taipei, Taiwan
+  start:
+    year: 2019
+    month: 6
+    day: 23
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q64784831
+  locations:
+    - place: wd-q64784831-site
+      role: primary
+    - place: wd-q697197
+      role: secondary
+  wikipedia:
+    zh: 「拒絕紅色媒體、守護臺灣民主」遊行
 - id: wd-q64997674
   title:
     zh-TW: 2019年香港七一衝突
@@ -38367,6 +39159,30 @@
       role: primary
   wikipedia:
     en: 2019 Batanes earthquake
+- id: wd-q66309867
+  title:
+    zh-TW: 2019年宜蘭地震
+    en: 2019 Yilan earthquake
+  summary:
+    zh-TW: 2019年度八月震央位於臺灣宜蘭外海的強烈地震
+    en: Magnitude 6.0 earthquake in Taiwan
+  start:
+    year: 2019
+    month: 8
+    day: 8
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q66309867
+  locations:
+    - place: wd-q66309867-site
+      role: primary
+  wikipedia:
+    zh: 2019年宜蘭地震
 - id: wd-q68512664
   title:
     zh-TW: 2019年克什米爾地震
@@ -38860,7 +39676,6 @@
   precision: day
   categories:
     - war
-    - politics
   regions:
     - south-asia
   importance: 4
@@ -39087,6 +39902,28 @@
   wikipedia:
     en: 2022 Sumatra earthquake
     zh: 2022年苏门答腊地震
+- id: wd-q111342102
+  title:
+    zh-TW: 2022年3月花蓮地震
+  summary:
+    zh-TW: 3月23日凌晨1:41分，發生於臺灣花蓮縣近海芮氏規模6.7之地震
+  start:
+    year: 2022
+    month: 3
+    day: 23
+  precision: day
+  categories:
+    - disaster
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q111342102
+  locations:
+    - place: wd-q111342102-site
+      role: primary
+  wikipedia:
+    zh: 2022年花蓮地震
 - id: wd-q112666390
   title:
     zh-TW: 2022年6月阿富汗地震
@@ -39654,6 +40491,31 @@
   wikipedia:
     en: 2023 Jishishan earthquake
     zh: 2023年积石山县地震
+- id: wd-q135102980
+  title:
+    zh-TW: 守護民主臺灣大遊行 123別印來
+    en: 2023 Taiwanese anti-Indian migrant worker protest
+  summary:
+    zh-TW: protest in Taiwan
+    en: protest in Taiwan
+  start:
+    year: 2023
+    month: 12
+    day: 3
+  precision: day
+  categories:
+    - democracy
+  regions:
+    - taiwan
+  importance: 2
+  reviewed: false
+  wikidata: Q135102980
+  locations:
+    - place: wd-q1867
+      role: primary
+  wikipedia:
+    en: 2023 Taiwanese anti–Indian migrant worker protest
+    zh: 守護民主台灣大遊行 123別印來
 - id: wd-q124060919
   title:
     zh-TW: 2024年能登半島地震
@@ -39805,13 +40667,13 @@
   reviewed: false
   wikidata: Q132473192
   locations:
-    - place: wd-q4803
+    - place: wd-q8156
       role: primary
-    - place: wd-q7568
+    - place: wd-q650908
       role: secondary
-    - place: wd-q5972
+    - place: wd-q8042
       role: secondary
-    - place: wd-q7253
+    - place: wd-q8179
       role: secondary
   wikipedia:
     en: 2025–2026 Indonesian protests
@@ -39922,13 +40784,13 @@
   reviewed: false
   wikidata: Q135989908
   locations:
-    - place: wd-q10389
+    - place: wd-q14168
       role: primary
-    - place: wd-q10393
+    - place: wd-q848672
       role: secondary
-    - place: wd-q10126
+    - place: wd-q7253
       role: secondary
-    - place: wd-q10127
+    - place: wd-q3630
       role: secondary
   relations:
     - event: wd-q132473192
