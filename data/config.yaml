@@ -1,0 +1,33 @@
+# Shared settings for the data build. Safe to edit.
+
+# Viewpoints used in an event's `perspectives` list. For contested events the
+# summary is written from the Taiwan-centred view, and the other viewpoints
+# are listed alongside it. See docs/EDITORIAL.md.
+viewpoints:
+  taiwan: { zh-TW: 臺灣主體觀點, en: Taiwan-centred view }
+  roc: { zh-TW: 中華民國官方觀點, en: ROC official view }
+  prc: { zh-TW: 中華人民共和國官方觀點, en: PRC official view }
+  japan: { zh-TW: 日本觀點, en: Japanese view }
+  indigenous: { zh-TW: 原住民族觀點, en: Indigenous view }
+  scholarly: { zh-TW: 學界觀點, en: Scholarly view }
+
+# Added to the Wikipedia-derived importance of events tagged with these
+# regions, so Taiwan's own history is not drowned out by globally famous events.
+regionBoost:
+  taiwan: 1
+
+eraGroups:
+  taiwan: { zh-TW: 臺灣, en: Taiwan }
+  china: { zh-TW: 中國, en: China }
+  japan: { zh-TW: 日本, en: Japan }
+  korea: { zh-TW: 韓國, en: Korea }
+
+resourceTypes:
+  encyclopedia: { zh-TW: 百科, en: Encyclopedias }
+  archive: { zh-TW: 檔案與文獻, en: Archives & documents }
+  museum: { zh-TW: 博物館與紀念館, en: Museums & memorials }
+  academic: { zh-TW: 學術機構, en: Academic }
+  map: { zh-TW: 歷史地圖與地理資料, en: Historical maps & geodata }
+  book: { zh-TW: 書籍, en: Books }
+  data: { zh-TW: 開放資料, en: Open data }
+  tool: { zh-TW: 工具, en: Tools }

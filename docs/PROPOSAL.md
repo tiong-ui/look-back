@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Status** | Draft v0.1, for review |
+| **Status** | v0.2: decisions recorded (§11); Phase 0 and most of Phase 1 built |
 | **Date** | 2026-10-16 |
-| **Scope** | MVP (Asia, centred on Taiwan, 1 BC to AD 2026) plus a roadmap for later phases |
+| **Scope** | MVP (Asia, centred on Taiwan, 30,000 BC to AD 2026) plus a roadmap for later phases |
 
 ---
 
@@ -15,7 +15,7 @@
 ### Goals
 1. Show the world map with **Taiwan at the centre**, with smooth zoom and pan.
 2. Let users **switch map styles**: streets/light, dark, terrain (hillshade + 3D relief), satellite, and a muted "historical" style.
-3. Provide a **date-range slider** at the bottom of the screen, covering **1 BC to AD 2026**.
+3. Provide a **date-range slider** at the bottom of the screen, covering **30,000 BC to AD 2026** (prehistory included; the default view is 1 BC to AD 2026).
 4. Show the **major historical events** in the selected range in a **sidebar table**.
 5. Link **events ↔ locations** (and **events ↔ events**) both on the map and in the table.
 6. Support **Traditional Chinese (zh-TW)** first, with **English** as the second language.
@@ -84,14 +84,14 @@
   | Streets | Full detail | OpenFreeMap "Liberty" / "Bright" |
   | Dark | Night mode | OpenFreeMap dark / custom |
   | **Terrain** | Hillshade + optional **3D relief** (tilt with right-drag) | AWS Terrain Tiles (Terrarium DEM, open data) |
-  | Satellite | Real imagery | EOX Sentinel-2 Cloudless or Esri World Imagery (with attribution) |
+  | Satellite | Real imagery | EOX Sentinel-2 Cloudless (free for non-commercial use, which this project is) |
   | Historical (muted) | Sepia-toned, **no modern borders or labels**, so modern borders don't make past events misleading | Custom style built on the same vector tiles |
 
 - Separate **layer toggles**, independent of the base style: Terrain relief on/off, Modern borders on/off, Place labels on/off, and later Historical borders (Phase 3).
 
 ### 3.4 Timeline slider
-- **Dual-handle range slider** covering **−1 to 2026** in astronomical years (see §5.3 for how year 0 / 1 BC is handled).
-- **Non-linear scale.** Recorded history is much denser in recent centuries, so the axis is piecewise. For example, 1 BC–1500 takes 40 % of the width, 1500–1900 takes 30 %, and 1900–2026 takes 30 %. A toggle switches back to a linear scale.
+- **Dual-handle range slider** covering **−29999 to 2026** in astronomical years, i.e. 30,000 BC to AD 2026 (see §5.3 for how year 0 / 1 BC is handled). The page opens on 1 BC – 2026.
+- **Non-linear scale.** Recorded history is much denser in recent centuries, so the axis is piecewise: 30,000–4000 BC takes 7 % of the width, 4000–1 BC 10 %, AD 1–1000 19 %, 1000–1600 22 %, 1600–1900 22 %, and 1900–2026 20 %. Taiwan's written history (1600 onwards) gets about 42 %.
 - An **event-density histogram** above the track shows where events are concentrated.
 - **Era presets** set the range in one click. There are two groups:
   - *Taiwan:* Prehistoric/Austronesian, Dutch & Spanish Formosa (1624–1662), Kingdom of Tungning (1661–1683), Qing rule (1683–1895), Japanese rule (1895–1945), Republic of China (1945–).
@@ -104,9 +104,10 @@
 - **Columns:** Year(s) · Title · Category icon · Importance (●●●●○) · Locations.
 - **Sorting** by year (default) or importance. **Filters** by category, by region, and by "only events in current map view".
 - **Showing only *major* events.** A wide range such as 1 BC–2026 could hold thousands of events. The table shows the **top N by importance** (for example 100) and lowers the importance threshold as the range gets narrower:
-  - Range > 500 years → importance ≥ 4
-  - Range 100–500 years → importance ≥ 3
-  - Range < 100 years → all events
+  - Range > 1,000 years → importance ≥ 4
+  - Range 200–1,000 years → importance ≥ 3
+  - Range 50–200 years → importance ≥ 2
+  - Range < 50 years → all events
   - A "Show all" toggle overrides this.
 - **Row expand** shows a summary, the date precision, the locations (each one clickable), related events, an image (optional), and sources such as Wikipedia links.
 - **Virtualised** list, so long lists stay smooth.
@@ -143,7 +144,7 @@
 │  React UI ──── Zustand store (timeRange, selectedEventId, filters,        │
 │   │  │          mapStyle, layers, lang)  ◀──▶  URL query-string sync      │
 │   │  │                                                                    │
-│   │  └─ Sidebar (TanStack Table + virtualiser)                            │
+│   │  └─ Sidebar (event list, filters, details)                            │
 │   ├──── Timeline (custom range slider + histogram, D3 scales)             │
 │   └──── MapView (MapLibre GL JS)                                          │
 │            sources: events.geojson, relations.geojson, DEM, base tiles    │
@@ -167,10 +168,10 @@
 | UI | **React 18** | Large ecosystem, familiar to most contributors |
 | Map | **MapLibre GL JS v5** | Open source, no API key, vector tiles, 3D terrain, globe |
 | State | **Zustand** | Small, works well with URL sync |
-| Table | **TanStack Table** + **TanStack Virtual** | Headless and fast |
-| Timeline | Custom component + **d3-scale** | Needs a non-linear axis and a histogram, which off-the-shelf sliders don't support |
-| i18n | **i18next** | zh-TW / en |
-| Styling | **Tailwind CSS** | Fast to build and responsive |
+| Table | Plain React list | Enough for a few hundred events; TanStack Virtual can be added when the list grows |
+| Timeline | Custom component with its own piecewise scale | Needs a non-linear axis and a histogram, which off-the-shelf sliders don't support |
+| i18n | Small built-in dictionary (`src/i18n`) | Two languages don't need a library yet; i18next later if more are added |
+| Styling | Plain CSS with design tokens | No build-time CSS dependency |
 | Data validation | **Zod** schemas + a CI script | Catches broken data before deploy |
 | Tests | **Vitest** (logic), **Playwright** (E2E smoke) | |
 | Lint/format | ESLint + Prettier | |
@@ -256,7 +257,7 @@ The UI shows the **period-appropriate name**, with the modern name in a tooltip.
 
 ### 5.3 Handling years ("B.C. 0")
 - The historical calendar **has no year 0**: 1 BC is followed directly by AD 1. Internally we use **astronomical year numbering** (1 BC = `0`, 2 BC = `-1`, …), which makes the arithmetic correct.
-- The slider's lower bound is therefore **1 BC** (astronomical `0`). Extending further back later is just a configuration change.
+- The slider's lower bound is **30,000 BC** (astronomical `-29999`), which covers Taiwan's Paleolithic Changbin culture. The page opens on 1 BC (astronomical `0`) to 2026.
 - **Display formats**, chosen by the user:
   - zh-TW: `西元前1年` / `西元1年`; from 1912 onward, optionally with the Minguo year, e.g. `1949年（民國38年）`
   - en: `1 BC` / `AD 1` (or `BCE`/`CE`)
@@ -336,7 +337,7 @@ Quality of content matters more than quantity. A **hand-curated core** is the st
 ### Phase 3: Historical geography
 - **Historical borders layer** that changes with the slider (dynasties, colonial territories)
 - Historical trade routes (Maritime Silk Road, galleon trade)
-- Extend the timeline before 1 BC (Neolithic Taiwan, Dapenkeng culture, …)
+- Deeper prehistory content (the timeline already reaches 30,000 BC)
 
 ### Phase 4: Global & community
 - Full world coverage, contributions via PRs and a data guide, possibly a lightweight CMS
@@ -356,18 +357,32 @@ Quality of content matters more than quantity. A **hand-curated core** is the st
 
 ---
 
-## 11. Open questions for you
+## 11. Decisions (2026-10-16)
 
-1. **App name:** is "Look Back / 回望" good, or is another Chinese name preferred (e.g. 時空臺灣, 回首)?
-2. **Default language:** zh-TW by default with an English toggle?
-3. **Start year:** keep 1 BC as specified, or allow earlier prehistory now (Taiwan's Neolithic cultures go back about 6,000 years)?
-4. **Hosting:** GitHub Pages (free, `tiong-ui.github.io/look-back`) or a custom domain?
-5. **Satellite imagery:** is the project non-commercial? This decides between EOX (free, non-commercial) and Esri/MapTiler.
-6. **Content ownership:** will you or your team review and write event summaries, or should Claude draft them for you to review?
-7. **Importance scale:** should "major" be decided by editors (manual 1–5), or derived from signals such as Wikipedia page views or the number of language editions?
+| # | Question | Decision |
+|---|---|---|
+| 1 | App name | **回望 Look Back** for now; may change later. |
+| 2 | Default language | **Traditional Chinese (zh-TW)**, with an English toggle. |
+| 3 | Start year | **Allow earlier prehistory.** The timeline starts at 30,000 BC (Changbin culture) and opens on 1 BC – 2026. |
+| 4 | Hosting | **GitHub Pages** at `tiong-ui.github.io/look-back`. |
+| 5 | Satellite imagery | **Non-commercial project**, so EOX Sentinel-2 Cloudless is used. |
+| 6 | Content | **Claude drafts most event text**; the owners review. Summaries are written from the **Taiwan-centred view (臺灣主體觀點)**. Contested events list every main viewpoint (ROC official, PRC official, Indigenous, scholarly…) side by side. See [EDITORIAL.md](EDITORIAL.md). |
+| 7 | Importance | **Derived from Wikipedia**: the number of language editions (Wikidata) plus 12 months of English and Chinese page views, with a +1 boost for Taiwan events. Refreshed monthly by a GitHub Action. See [DATA.md](DATA.md#importance重要度). |
+| – | Resource links | A **resource-links list** lives in `data/resources.yaml`. It can be edited at any time and is shown in the app under 參考資源 / Resources. |
 
----
+## 12. Progress & next steps
 
-## 12. Next step
+**Done (Phase 0 and most of Phase 1):**
+- App scaffold, CI, GitHub Pages deploy, monthly importance refresh
+- Data schema with validation; 82 seed events (50 Taiwan, 32 Asia/world context), 75 places, 21 eras, 20 resources
+- Map centred on Taiwan with six styles, 3D terrain, globe view, border and label toggles
+- Timeline with non-linear axis, histogram, era presets, typed year input (incl. 西元前 / 民國), play
+- Event list with importance thresholds, category, place and map-view filters
+- Event ↔ place linking (highlights, fly-to, origin → destination arcs) and event ↔ event relation links
+- Period-appropriate place names, perspectives on contested events, resource links
 
-Once this proposal is approved, Phase 0 starts: scaffolding the app, setting up CI and the GitHub Pages deploy, adding the data schema, and shipping a first working map centred on Taiwan with ~20 seed events and the timeline slider.
+**Next:**
+1. Turn on GitHub Pages and run the importance workflow once (see README).
+2. Review the drafted event text; expand content batches 1–2 toward ~250 events.
+3. Search, Wikidata draft import tool, PWA (Phase 2).
+
