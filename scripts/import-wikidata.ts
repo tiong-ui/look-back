@@ -120,24 +120,25 @@ WHERE {
 }
 
 /**
- * Every event of any class located in Taiwan, however few language editions
- * it has. Starts from coordinates inside the Taiwan box (the event's own, or
- * its location's), which is far cheaper than scanning each class.
+ * Events of one class located in Taiwan, however few language editions they
+ * have. A subquery first narrows the class to items whose own coordinates, or
+ * their location's, fall in the Taiwan box; only those few get the label and
+ * date lookups, which keeps the query well inside the endpoint's time limit.
  */
-export function taiwanQuery(qids: string[]): string {
-  const box = `bd:serviceParam wikibase:cornerSouthWest "Point(${TAIWAN.west} ${TAIWAN.south})"^^geo:wktLiteral ;
-                     wikibase:cornerNorthEast "Point(${TAIWAN.east} ${TAIWAN.north})"^^geo:wktLiteral .`;
+export function taiwanQuery(qid: string): string {
   return `${SELECT}
 WHERE {
   {
-    SERVICE wikibase:box { ?item wdt:P625 ?coord . ${box} }
-  } UNION {
-    SERVICE wikibase:box { ?loc wdt:P625 ?locCoord . ${box} }
-    ?item wdt:P276 ?loc .
+    SELECT DISTINCT ?item WHERE {
+      ?item wdt:P31/wdt:P279? wd:${qid} .
+      { ?item wdt:P625 ?c } UNION { ?item wdt:P276/wdt:P625 ?c }
+      BIND(geof:longitude(?c) AS ?lon)
+      BIND(geof:latitude(?c) AS ?lat)
+      FILTER(?lon >= ${TAIWAN.west} && ?lon <= ${TAIWAN.east} && ?lat >= ${TAIWAN.south} && ?lat <= ${TAIWAN.north})
+    }
   }
-  VALUES ?cls { ${qids.map((q) => `wd:${q}`).join(' ')} }
-  ?item wdt:P31/wdt:P279? ?cls ;
-        wikibase:sitelinks ?sitelinks .
+  BIND(wd:${qid} AS ?cls)
+  ?item wikibase:sitelinks ?sitelinks .
   FILTER(?sitelinks >= ${TAIWAN_MIN_SITELINKS})
   ${DETAILS}
 }`;
@@ -146,7 +147,7 @@ WHERE {
 type Binding = Record<string, { value: string } | undefined>;
 
 async function runQuery(query: string): Promise<Binding[]> {
-  for (let attempt = 0; attempt < 4; attempt++) {
+  for (let attempt = 0; attempt < 3; attempt++) {
     const res = await fetch(ENDPOINT, {
       method: 'POST',
       headers: {
@@ -365,18 +366,25 @@ function curatedTitles(): Curated {
 
 async function main() {
   const rows: { binding: Binding; cls: EventClass }[] = [];
-  const byQid = new Map(Object.values(CLASSES).map((c) => [c.qid, c]));
   for (const [name, cls] of Object.entries(CLASSES)) {
     const bindings = await runQuery(classQuery(cls.qid, cls.minSitelinks));
-    console.log(`${name.padEnd(16)} ${bindings.length} rows`);
+    console.log(`${name.padEnd(24)} ${bindings.length} rows`);
     for (const binding of bindings) rows.push({ binding, cls });
   }
-  const tw = await runQuery(taiwanQuery([...byQid.keys()]));
-  console.log(`${'taiwan (any)'.padEnd(16)} ${tw.length} rows`);
-  for (const binding of tw) {
-    const cls = byQid.get(qidOf(val(binding, 'cls')) ?? '');
-    if (cls) rows.push({ binding, cls });
+  // Taiwan pass: lower notability floor. A timeout here only loses the extra
+  // low-profile Taiwan events of that class, so warn and carry on.
+  const skipped: string[] = [];
+  for (const [name, cls] of Object.entries(CLASSES)) {
+    try {
+      const bindings = await runQuery(taiwanQuery(cls.qid));
+      console.log(`${`${name} (Taiwan)`.padEnd(24)} ${bindings.length} rows`);
+      for (const binding of bindings) rows.push({ binding, cls });
+    } catch {
+      console.warn(`::warning::Taiwan query for ${name} timed out; skipped`);
+      skipped.push(name);
+    }
   }
+  if (skipped.length) console.warn(`Taiwan queries skipped: ${skipped.join(', ')}`);
   const { events, places } = rowsToEvents(rows, curatedTitles());
 
   const outDir = join(ROOT, 'data', 'imported');
