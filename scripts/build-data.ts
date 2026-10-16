@@ -42,6 +42,8 @@ const eventSchema = z
     importance: z.number().int().min(1).max(5).optional(),
     importanceBoost: z.number().int().min(-2).max(2).optional(),
     importanceLocked: z.boolean().optional(),
+    reviewed: z.boolean().default(true), // false for events imported automatically and not yet checked by an editor
+    wikidata: z.string().regex(/^Q\d+$/).optional(),
     locations: z.array(z.object({ place: id, role }).strict()).min(1),
     relations: z.array(z.object({ event: id, type: relationType }).strict()).optional(),
     perspectives: z.array(z.object({ view: z.string(), text: localized }).strict()).optional(),
@@ -125,9 +127,12 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
   const errors: string[] = [];
 
   const config = check(configSchema, load(join(dataDir, 'config.yaml')), 'config.yaml', errors);
-  const places = ((load(join(dataDir, 'places.yaml')) as unknown[]) ?? [])
-    .map((p, i) => check(placeSchema, p, `places.yaml[${i}]`, errors))
-    .filter((p) => p !== undefined);
+  const placeFiles = ['places.yaml', 'imported/places.yaml'].filter((f) => existsSync(join(dataDir, f)));
+  const places = placeFiles.flatMap((f) =>
+    ((load(join(dataDir, f)) as unknown[]) ?? [])
+      .map((p, i) => check(placeSchema, p, `${f}[${i}]`, errors))
+      .filter((p) => p !== undefined),
+  );
   const eras = ((load(join(dataDir, 'eras.yaml')) as unknown[]) ?? [])
     .map((e, i) => check(eraSchema, e, `eras.yaml[${i}]`, errors))
     .filter((e) => e !== undefined);
@@ -135,10 +140,13 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
     .map((r, i) => check(resourceSchema, r, `resources.yaml[${i}]`, errors))
     .filter((r) => r !== undefined);
 
-  const eventFiles = readdirSync(join(dataDir, 'events')).filter((f) => /\.ya?ml$/.test(f)).sort();
+  const eventFiles = [
+    ...readdirSync(join(dataDir, 'events')).filter((f) => /\.ya?ml$/.test(f)).sort().map((f) => `events/${f}`),
+    ...(existsSync(join(dataDir, 'imported', 'events.yaml')) ? ['imported/events.yaml'] : []),
+  ];
   const rawEvents = eventFiles.flatMap((f) =>
-    ((load(join(dataDir, 'events', f)) as unknown[]) ?? [])
-      .map((e, i) => check(eventSchema, e, `events/${f}[${i}${(e as { id?: string })?.id ? ` ${(e as { id: string }).id}` : ''}]`, errors))
+    ((load(join(dataDir, f)) as unknown[]) ?? [])
+      .map((e, i) => check(eventSchema, e, `${f}[${i}${(e as { id?: string })?.id ? ` ${(e as { id: string }).id}` : ''}]`, errors))
       .filter((e) => e !== undefined),
   );
 
@@ -204,6 +212,7 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
     const sources: SourceLink[] = [];
     if (e.wikipedia?.zh) sources.push({ url: wikiUrl('zh', e.wikipedia.zh), title: { 'zh-TW': `維基百科：${e.wikipedia.zh}`, en: `Wikipedia (zh): ${e.wikipedia.zh}` }, resource: 'wikipedia-zh' });
     if (e.wikipedia?.en) sources.push({ url: wikiUrl('en', e.wikipedia.en), title: { 'zh-TW': `英文維基百科：${e.wikipedia.en}`, en: `Wikipedia: ${e.wikipedia.en}` }, resource: 'wikipedia-en' });
+    if (e.wikidata) sources.push({ url: `https://www.wikidata.org/wiki/${e.wikidata}`, title: { 'zh-TW': `維基數據：${e.wikidata}`, en: `Wikidata: ${e.wikidata}` }, resource: 'wikidata' });
     for (const s of e.sources ?? []) {
       const res = s.resource ? resourceById.get(s.resource) : undefined;
       const url = s.url ?? res?.url;
@@ -228,6 +237,7 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
       regions: e.regions,
       importance,
       importanceSource,
+      reviewed: e.reviewed,
       locations: e.locations,
       relations: [...(relations.get(e.id) ?? new Map()).entries()].map(([event, type]) => ({ event, type })),
       perspectives: e.perspectives ?? [],
@@ -260,8 +270,9 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1]) {
   mkdirSync(dirname(out), { recursive: true });
   writeFileSync(out, JSON.stringify(atlas));
   const computed = atlas.events.filter((e) => e.importanceSource === 'computed').length;
+  const imported = atlas.events.filter((e) => !e.reviewed).length;
   console.log(
-    `✔ ${atlas.events.length} events, ${Object.keys(atlas.places).length} places, ${atlas.eras.length} eras, ` +
+    `✔ ${atlas.events.length} events (${imported} imported, unreviewed), ${Object.keys(atlas.places).length} places, ${atlas.eras.length} eras, ` +
       `${atlas.resources.length} resources → public/data/atlas.json (importance: ${computed} computed, ${atlas.events.length - computed} editor)`,
   );
 }

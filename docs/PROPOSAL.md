@@ -384,5 +384,7 @@ Quality of content matters more than quantity. A **hand-curated core** is the st
 **Next:**
 1. Turn on GitHub Pages and run the importance workflow once (see README).
 2. Review the drafted event text; expand content batches 1–2 toward ~250 events.
-3. Search, Wikidata draft import tool, PWA (Phase 2).
+3. Search, PWA (Phase 2).
+
+**Wikidata import (added):** `npm run import` / the *Import events from Wikidata* workflow pulls notable events in Asia (and every event in Taiwan with 2+ language editions) from Wikidata. They are marked unreviewed and shown with a 待審 badge until an editor moves them into `data/events/`.
 

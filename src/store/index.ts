@@ -36,6 +36,7 @@ export interface State {
   placeId: string | null;
   categories: Set<Category>;
   showAll: boolean;
+  includeImported: boolean;
   inViewOnly: boolean;
   sort: SortKey;
 
@@ -75,6 +76,7 @@ function readUrl(): Partial<State> {
   const cats = q.get('cat')?.split(',').filter((c): c is Category => CATEGORY_IDS.includes(c as Category));
   if (cats?.length) out.categories = new Set(cats);
   if (q.get('all') === '1') out.showAll = true;
+  if (q.get('imported') === '0') out.includeImported = false;
   const lng = num('lng');
   const lat = num('lat');
   const z = num('z');
@@ -97,6 +99,7 @@ function writeUrl(s: State) {
   if (s.placeId) q.set('place', s.placeId);
   if (s.categories.size) q.set('cat', [...s.categories].join(','));
   if (s.showAll) q.set('all', '1');
+  if (!s.includeImported) q.set('imported', '0');
   q.set('lng', s.view.center[0].toFixed(3));
   q.set('lat', s.view.center[1].toFixed(3));
   q.set('z', s.view.zoom.toFixed(2));
@@ -125,6 +128,7 @@ export const useStore = create<State>()((set, get) => ({
   placeId: null,
   categories: new Set(),
   showAll: false,
+  includeImported: true,
   inViewOnly: false,
   sort: 'year',
   recenterTick: 0,
