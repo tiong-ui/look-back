@@ -1,0 +1,31 @@
+id: wd-q1195760
+title:
+  zh-TW: 長平之戰
+  en: Battle of Changping
+summary:
+  zh-TW: 262–260 BCE battle
+  en: 262–260 BCE battle
+start:
+  year: -261
+  month: 4
+end:
+  year: -259
+  month: 7
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q1195760
+locations:
+  - place: wd-q1195760-site
+    role: primary
+  - place: wd-q1363661
+    role: secondary
+wikipedia:
+  en: Battle of Changping
+  zh: 长平之战
+importHash: aa7d691086a3

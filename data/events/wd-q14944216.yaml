@@ -1,0 +1,25 @@
+id: wd-q14944216
+title:
+  zh-TW: 2013年巴基斯坦地震
+  en: 2013 Balochistan earthquakes
+summary:
+  zh-TW: earthquake to the north-northeast of Awaran in Balochistan, Pakistan
+  en: earthquake to the north-northeast of Awaran in Balochistan, Pakistan
+start:
+  year: 2013
+  month: 9
+  day: 24
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 3
+wikidata: Q14944216
+locations:
+  - place: wd-q14944216-site
+    role: primary
+wikipedia:
+  en: 2013 Balochistan earthquakes
+  zh: 2013年巴基斯坦地震
+importHash: 6980d28a70f4

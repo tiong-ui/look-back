@@ -1,0 +1,24 @@
+id: wd-q259430
+title:
+  zh-TW: 甘達馬克條約
+  en: Treaty of Gandamak
+summary:
+  zh-TW: Treaty that officially ended the first phase of the Second Anglo-Afghan War
+  en: Treaty that officially ended the first phase of the Second Anglo-Afghan War
+start:
+  year: 1879
+  month: 5
+  day: 26
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 3
+wikidata: Q259430
+locations:
+  - place: wd-q183303
+    role: primary
+wikipedia:
+  en: Treaty of Gandamak
+importHash: 03d795b27a25

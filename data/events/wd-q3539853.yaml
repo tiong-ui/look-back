@@ -1,0 +1,27 @@
+id: wd-q3539853
+title:
+  zh-TW: 清越戰爭
+  en: Battle of Ngọc Hồi–Đống Đa
+summary:
+  zh-TW: battle between Qing-dynasty China and Tây Sơn-dynasty Vietnam (1788-89)
+  en: battle between Qing-dynasty China and Tây Sơn-dynasty Vietnam (1788-89)
+start:
+  year: 1788
+precision: year
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q3539853
+locations:
+  - place: wd-q7189887
+    role: primary
+  - place: wd-q10800616
+    role: secondary
+  - place: wd-q1048634
+    role: secondary
+wikipedia:
+  en: Battle of Ngọc Hồi-Đống Đa
+  zh: 清軍入越戰爭
+importHash: 82a2f6f3af9e

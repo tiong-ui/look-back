@@ -1,0 +1,29 @@
+id: wd-q136160164
+title:
+  zh-TW: 2025年尼泊爾Z世代抗議運動
+  en: 2025 Nepalese Gen Z protests
+summary:
+  zh-TW: 2025年9月尼泊爾的示威抗議
+  en: anti-government protests in Nepal
+start:
+  year: 2025
+  month: 9
+  day: 8
+end:
+  year: 2025
+  month: 9
+  day: 13
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 4
+wikidata: Q136160164
+locations:
+  - place: wd-q3037
+    role: primary
+wikipedia:
+  en: 2025 Nepalese Gen Z protests
+  zh: 2025年尼泊爾Z世代抗議運動
+importHash: e5045dd37799

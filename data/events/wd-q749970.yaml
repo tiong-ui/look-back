@@ -1,0 +1,29 @@
+id: wd-q749970
+title:
+  zh-TW: 印控克什米爾獨立運動
+  en: insurgency in Jammu and Kashmir
+summary:
+  zh-TW: ongoing militant uprising in Jammu and Kashmir
+  en: ongoing militant uprising in Jammu and Kashmir
+start:
+  year: 1989
+  month: 7
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q749970
+locations:
+  - place: wd-q66278313
+    role: primary
+relations:
+  - event: wd-q1413732
+    type: part_of
+wikipedia:
+  en: Insurgency in Jammu and Kashmir
+  zh: 查謨和克什米爾叛亂
+importHash: a88938755c0d

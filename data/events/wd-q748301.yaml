@@ -1,0 +1,25 @@
+id: wd-q748301
+title:
+  zh-TW: 巖手宮城內陸地震
+  en: 2008 Iwate-Miyagi Nairiku earthquake
+summary:
+  zh-TW: 2008年日本巖手縣內陸南部發生的大地震
+  en: earthquake struck mid Tōhoku region, Japan on June 14, 2008
+start:
+  year: 2008
+  month: 6
+  day: 14
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q748301
+locations:
+  - place: wd-q748301-site
+    role: primary
+wikipedia:
+  en: 2008 Iwate–Miyagi Nairiku earthquake
+  zh: 2008年岩手、宮城內陸地震
+importHash: 511e5dc5da81

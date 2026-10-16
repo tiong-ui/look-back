@@ -1,0 +1,26 @@
+id: wd-q4871501
+title:
+  zh-TW: 久米川之戰
+  en: Battle of Kumegawa
+summary:
+  zh-TW: 1333 battle
+  en: 1333 battle
+start:
+  year: 1333
+  month: 7
+  day: 2
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q4871501
+locations:
+  - place: wd-q4871501-site
+    role: primary
+  - place: wd-q11534480
+    role: secondary
+wikipedia:
+  en: Battle of Kumegawa
+importHash: 088f77b31ffb

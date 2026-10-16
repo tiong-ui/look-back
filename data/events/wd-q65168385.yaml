@@ -1,0 +1,22 @@
+id: wd-q65168385
+title:
+  zh-TW: Capture of Samarkand by Nader Shah Afshar
+  en: Capture of Samarkand by Nader Shah Afshar
+summary:
+  zh-TW: 18th century military conflict
+  en: 18th century military conflict
+start:
+  year: 1740
+precision: year
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q65168385
+locations:
+  - place: wd-q5753
+    role: primary
+wikipedia:
+  en: Capture of Samarkand (1740)
+importHash: 2ba98ad5e33b

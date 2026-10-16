@@ -1,0 +1,33 @@
+id: wd-q4087313
+title:
+  zh-TW: 北京戰役
+  en: Battle of Peking
+summary:
+  zh-TW: 八國聯軍之役中的戰役
+  en: 1900 battle of the Boxer Rebellion
+start:
+  year: 1900
+end:
+  year: 1900
+  month: 8
+  day: 15
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q4087313
+locations:
+  - place: wd-q4087313-site
+    role: primary
+  - place: wd-q7334692
+    role: secondary
+relations:
+  - event: wd-q150229
+    type: part_of
+wikipedia:
+  en: Battle of Peking (1900)
+  zh: 北京之战 (1900年)
+importHash: 8360b663a96e

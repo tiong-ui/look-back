@@ -1,0 +1,27 @@
+id: wd-q838065
+title:
+  zh-TW: 七·二〇事件
+  en: Wuhan incident
+summary:
+  zh-TW: 文化大革命時期武漢1967年衝突
+  en: 1967 armed conflict amid Cultural Revolution
+start:
+  year: 1967
+  month: 7
+  day: 20
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q838065
+locations:
+  - place: wd-q838065-site
+    role: primary
+  - place: wd-q11746
+    role: secondary
+wikipedia:
+  en: Wuhan incident
+  zh: 七·二〇事件
+importHash: e588656d1080

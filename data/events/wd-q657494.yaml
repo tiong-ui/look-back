@@ -1,0 +1,25 @@
+id: wd-q657494
+title:
+  zh-TW: 巴布裡清真寺非法拆除事件
+  en: Demolition of the Babri Masjid
+summary:
+  zh-TW: religious riot in India
+  en: religious riot in India
+start:
+  year: 1992
+  month: 12
+  day: 6
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q657494
+locations:
+  - place: wd-q186040
+    role: primary
+wikipedia:
+  en: Demolition of the Babri Masjid
+  zh: 巴布里清真寺拆除事件
+importHash: 3f7a33cf9796

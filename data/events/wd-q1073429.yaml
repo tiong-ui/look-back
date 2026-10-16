@@ -1,0 +1,23 @@
+id: wd-q1073429
+title:
+  zh-TW: 白藤江之戰
+  en: Battle of Bạch Đằng
+summary:
+  zh-TW: 越宋戰爭
+  en: Vietnamese–Chinese battle
+start:
+  year: 981
+precision: year
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1073429
+locations:
+  - place: wd-q1073429-site
+    role: primary
+wikipedia:
+  en: Song–Đại Cồ Việt war
+  zh: 白藤江之战 (981年)
+importHash: ac46927c4cf7

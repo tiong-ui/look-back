@@ -1,0 +1,28 @@
+id: wd-q11172490
+title:
+  zh-TW: 魚津城之戰
+  en: Siege of Uozu
+summary:
+  zh-TW: 1582 siege
+  en: 1582 siege
+start:
+  year: 1582
+  month: 5
+end:
+  year: 1582
+  month: 6
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q11172490
+locations:
+  - place: wd-q7510486
+    role: primary
+wikipedia:
+  en: Siege of Uozu
+  zh: 魚津城之戰
+importHash: 142d2e2f6d36

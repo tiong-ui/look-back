@@ -1,0 +1,27 @@
+id: wd-q118153783
+title:
+  zh-TW: 2023年奥能登地震
+  en: 2023 Noto earthquake
+summary:
+  zh-TW: 日本石川縣能登半島的地震
+  en: earthquake occurred on May 5, 2023
+start:
+  year: 2023
+  month: 5
+  day: 5
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q118153783
+locations:
+  - place: wd-q118153783-site
+    role: primary
+  - place: wd-q27092
+    role: secondary
+wikipedia:
+  en: 2023 Noto earthquake
+  zh: 2023年奧能登地震
+importHash: 481d19e58270

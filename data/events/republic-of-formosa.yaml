@@ -1,0 +1,42 @@
+id: republic-of-formosa
+title:
+  zh-TW: 臺灣民主國
+  en: Republic of Formosa
+summary:
+  zh-TW: 為抵抗割讓，臺灣士紳成立「臺灣民主國」，以黃虎旗為國旗，是亞洲最早以「共和國」為名的政權之一。日軍登陸後迅速瓦解，抗日戰事延續至同年10月臺南失守。
+  en: To resist cession, Taiwanese gentry declared the Republic of Formosa, with a yellow-tiger flag; it was among the first states in Asia to call itself a republic. It collapsed quickly after Japanese landings, though fighting continued until Tainan fell that October.
+start:
+  year: 1895
+  month: 5
+  day: 25
+end:
+  year: 1895
+  month: 10
+  day: 21
+precision: day
+categories:
+  - politics
+  - war
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: taipei
+    role: primary
+  - place: tainan
+    role: secondary
+relations:
+  - event: japanese-rule-taiwan
+    type: precedes
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 被視為臺灣人首次嘗試以獨立國家形式自主決定命運。
+      en: Seen as the first attempt by Taiwanese to decide their own fate as an independent state.
+  - view: scholarly
+    text:
+      zh-TW: 也有學者指出，其主要領導者仍效忠清朝，建國更多是爭取外國干預、避免割讓的權宜之計。
+      en: Some scholars note its leaders remained loyal to the Qing, and that the republic was mainly a device to win foreign intervention against cession.
+wikipedia:
+  en: Republic of Formosa
+  zh: 臺灣民主國

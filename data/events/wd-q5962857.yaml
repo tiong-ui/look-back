@@ -1,0 +1,31 @@
+id: wd-q5962857
+title:
+  zh-TW: 稻葉山城之戰
+  en: Siege of Inabayama Castle
+summary:
+  zh-TW: 1567 Part of Oda Nobunaga's campaign to defeat the Saitō clan
+  en: 1567 Part of Oda Nobunaga's campaign to defeat the Saitō clan
+start:
+  year: 1567
+  month: 10
+  day: 7
+end:
+  year: 1567
+  month: 9
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q5962857
+locations:
+  - place: wd-q5962857-site
+    role: primary
+  - place: wd-q1367052
+    role: secondary
+wikipedia:
+  en: Siege of Inabayama Castle
+  zh: 稻葉山城之戰
+importHash: a66e6b343df9

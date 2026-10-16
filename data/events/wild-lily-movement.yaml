@@ -1,0 +1,27 @@
+id: wild-lily-movement
+title:
+  zh-TW: 野百合學運
+  en: Wild Lily student movement
+summary:
+  zh-TW: 數千名大學生在中正紀念堂廣場靜坐，要求解散「萬年國會」、廢除臨時條款。李登輝總統隨後召開國是會議，國會於1991年全面改選。
+  en: Thousands of students held a sit-in at the Chiang Kai-shek Memorial Hall plaza demanding an end to the never-re-elected "ten-thousand-year legislature" and the Temporary Provisions. President Lee Teng-hui convened a National Affairs Conference, and the legislature was fully re-elected in 1991.
+start:
+  year: 1990
+  month: 3
+  day: 16
+end:
+  year: 1990
+  month: 3
+  day: 22
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: liberty-square
+    role: primary
+wikipedia:
+  en: Wild Lily student movement
+  zh: 野百合學運

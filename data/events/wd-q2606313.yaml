@@ -1,0 +1,26 @@
+id: wd-q2606313
+title:
+  zh-TW: Battle of Negapatam
+  en: Battle of Negapatam
+summary:
+  zh-TW: 1758 battle of the Seven Years' War
+  en: 1758 battle of the Seven Years' War
+start:
+  year: 1758
+  month: 8
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2606313
+locations:
+  - place: wd-q2606313-site
+    role: primary
+  - place: wd-q38684
+    role: secondary
+wikipedia:
+  en: Battle of Negapatam (1758)
+importHash: 56d63864a8ed

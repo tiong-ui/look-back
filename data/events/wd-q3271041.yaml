@@ -1,0 +1,25 @@
+id: wd-q3271041
+title:
+  zh-TW: 參合陂之戰
+  en: Battle of Canhe Slope
+summary:
+  zh-TW: 395 battle in China
+  en: 395 battle in China
+start:
+  year: 395
+  month: 12
+  day: 9
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q3271041
+locations:
+  - place: wd-q922785
+    role: primary
+wikipedia:
+  en: Battle of Canhe Slope
+  zh: 參合陂之戰
+importHash: e534c1a46471

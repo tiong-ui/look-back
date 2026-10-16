@@ -1,0 +1,30 @@
+id: wd-q404517
+title:
+  zh-TW: 卡吉爾戰爭
+  en: operation sindor
+summary:
+  zh-TW: 1999年印度巴基斯坦衝突
+  en: 1999 conflict between India and Pakistan
+start:
+  year: 1999
+end:
+  year: 1999
+  month: 7
+  day: 26
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q404517
+locations:
+  - place: wd-q1650798
+    role: primary
+relations:
+  - event: wd-q1413732
+    type: part_of
+wikipedia:
+  en: Kargil War
+  zh: 卡吉尔战争
+importHash: 2fc24d95a0ba

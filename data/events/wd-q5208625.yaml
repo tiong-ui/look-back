@@ -1,0 +1,30 @@
+id: wd-q5208625
+title:
+  zh-TW: 達俄輝起義
+  en: Dagohoy rebellion
+summary:
+  zh-TW: 1829 rebellion on Bohol, Philippines
+  en: 1829 rebellion on Bohol, Philippines
+start:
+  year: 1744
+  month: 1
+  day: 24
+end:
+  year: 1829
+  month: 8
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q5208625
+locations:
+  - place: wd-q13752
+    role: primary
+wikipedia:
+  en: Dagohoy rebellion
+  zh: 达俄辉起义
+importHash: 852296e91b09

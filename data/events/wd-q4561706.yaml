@@ -1,0 +1,25 @@
+id: wd-q4561706
+title:
+  zh-TW: 1925年大理地震
+  en: 1925 Dali earthquake
+summary:
+  zh-TW: earthquake struck Yunnan Province, China on March 16, 1925
+  en: earthquake struck Yunnan Province, China on March 16, 1925
+start:
+  year: 1925
+  month: 3
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q4561706
+locations:
+  - place: wd-q4561706-site
+    role: primary
+wikipedia:
+  en: 1925 Dali earthquake
+  zh: 1925年大理地震
+importHash: 57f51c33bbd6

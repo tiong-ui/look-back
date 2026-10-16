@@ -1,0 +1,31 @@
+id: wd-q2619692
+title:
+  zh-TW: 得利寺之戰
+  en: Battle of Te-li-Ssu
+summary:
+  zh-TW: 1904 battle of Russo-Japanese war
+  en: 1904 battle of Russo-Japanese war
+start:
+  year: 1904
+  month: 6
+  day: 14
+end:
+  year: 1904
+  month: 6
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2619692
+locations:
+  - place: wd-q2619692-site
+    role: primary
+  - place: wd-q326917
+    role: secondary
+wikipedia:
+  en: Battle of Te-li-Ssu
+importHash: 792de319f09e

@@ -1,0 +1,27 @@
+id: wd-q1046407
+title:
+  zh-TW: 高平陵之變
+  en: Incident at Gaoping Tombs
+summary:
+  zh-TW: Coup d'état in the state of Cao Wei (249)
+  en: Coup d'état in the state of Cao Wei (249)
+start:
+  year: 249
+  month: 2
+  day: 5
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1046407
+locations:
+  - place: wd-q187136
+    role: primary
+  - place: wd-q10566760
+    role: secondary
+wikipedia:
+  en: Incident at the Gaoping Tombs
+  zh: 高平陵之变
+importHash: 9168cfa85556

@@ -1,0 +1,27 @@
+id: wd-q6132231
+title:
+  zh-TW: 信貴山城之戰
+  en: Siege of Shigisan
+summary:
+  zh-TW: siege of Shigisan castle in 1577
+  en: siege of Shigisan castle in 1577
+start:
+  year: 1577
+end:
+  year: 1577
+  month: 11
+  day: 29
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q6132231
+locations:
+  - place: wd-q7496432
+    role: primary
+wikipedia:
+  en: Siege of Shigisan
+  zh: 信貴山城之戰
+importHash: ab2729540f19

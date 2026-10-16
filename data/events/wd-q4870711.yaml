@@ -1,0 +1,27 @@
+id: wd-q4870711
+title:
+  zh-TW: 乍浦之戰
+  en: Battle of Chapoo
+summary:
+  zh-TW: fought between British and Chinese forces in Chapu (Zhapu), China, in 1842 during the First Opium War
+  en: fought between British and Chinese forces in Chapu (Zhapu), China, in 1842 during the First Opium War
+start:
+  year: 1842
+  month: 5
+  day: 18
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870711
+locations:
+  - place: wd-q4870711-site
+    role: primary
+  - place: wd-q1021805
+    role: secondary
+wikipedia:
+  en: Battle of Chapu
+  zh: 乍浦之战
+importHash: 5cf7e764caab

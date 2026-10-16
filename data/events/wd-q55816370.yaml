@@ -1,0 +1,28 @@
+id: wd-q55816370
+title:
+  zh-TW: 津山事件
+  en: Tsuyama massacre
+summary:
+  zh-TW: 1938年日本岡山縣惡性殺人事件
+  en: 1938 spree killing in Japan
+start:
+  year: 1938
+  month: 5
+  day: 21
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - japan
+importance: 2
+wikidata: Q55816370
+locations:
+  - place: wd-q55816370-site
+    role: primary
+  - place: wd-q11398868
+    role: secondary
+wikipedia:
+  en: Tsuyama massacre
+  zh: 津山事件
+importHash: cf566124a600

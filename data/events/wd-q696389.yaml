@@ -1,0 +1,29 @@
+id: wd-q696389
+title:
+  zh-TW: 日蘇國界戰爭
+  en: Soviet–Japanese border conflicts
+summary:
+  zh-TW: 1938年至1945年蘇聯與日本之間的一系列邊界衝突
+  en: armed conflict in the 1930s between the Soviets, Mongolians, and Japanese
+start:
+  year: 1932
+  month: 3
+  day: 1
+end:
+  year: 1939
+  month: 9
+  day: 16
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 3
+wikidata: Q696389
+locations:
+  - place: wd-q696389-site
+    role: primary
+wikipedia:
+  en: Soviet–Japanese border conflicts
+  zh: 蘇日邊界衝突
+importHash: ebb9ba93f7ba

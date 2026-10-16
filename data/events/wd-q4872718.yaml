@@ -1,0 +1,23 @@
+id: wd-q4872718
+title:
+  zh-TW: 濰水之戰
+  en: Battle of Wei River
+summary:
+  zh-TW: 204 BCE battle between the Han and a combined force of Qi and Western Chu
+  en: 204 BCE battle between the Han and a combined force of Qi and Western Chu
+start:
+  year: -203
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4872718
+locations:
+  - place: wd-q217698
+    role: primary
+wikipedia:
+  en: Battle of Wei River
+  zh: 潍水之战
+importHash: 3ab5c3f57286

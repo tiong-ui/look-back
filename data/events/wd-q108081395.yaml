@@ -1,0 +1,30 @@
+id: wd-q108081395
+title:
+  zh-TW: 坎大哈戰役 (2021年)
+  en: Battle of Kandahar
+summary:
+  zh-TW: 2021 conflict in Kandahar
+  en: 2021 conflict in Kandahar
+start:
+  year: 2021
+  month: 7
+  day: 9
+end:
+  year: 2021
+  month: 8
+  day: 16
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q108081395
+locations:
+  - place: wd-q108081395-site
+    role: primary
+wikipedia:
+  en: Battle of Kandahar (2021)
+  zh: 坎大哈战役 (2021年)
+importHash: ea4a2b2b41c7

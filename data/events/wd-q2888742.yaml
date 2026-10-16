@@ -1,0 +1,31 @@
+id: wd-q2888742
+title:
+  zh-TW: 慶州戰鬥
+  en: Battle of Kyongju
+summary:
+  zh-TW: 1950 engagement between United Nations Command (UN) and North Korean forces early in the Korean War
+  en: 1950 engagement between United Nations Command (UN) and North Korean forces early in the Korean War
+start:
+  year: 1950
+  month: 8
+  day: 27
+end:
+  year: 1950
+  month: 9
+  day: 12
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q2888742
+locations:
+  - place: wd-q2888742-site
+    role: primary
+  - place: wd-q42097
+    role: secondary
+wikipedia:
+  en: Battle of Kyongju
+  zh: 慶州戰役
+importHash: e099a28c93e2

@@ -1,0 +1,28 @@
+id: wd-q690464
+title:
+  zh-TW: 三方原之戰
+  en: Battle of Mikatagahara
+summary:
+  zh-TW: 1573年日本戰役
+  en: 1573 battle in Japan
+start:
+  year: 1573
+  month: 2
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q690464
+locations:
+  - place: wd-q690464-site
+    role: primary
+  - place: wd-q11355485
+    role: secondary
+wikipedia:
+  en: Battle of Mikatagahara
+  zh: 三方原之戰
+importHash: b5659f1bddf0

@@ -1,0 +1,25 @@
+id: wd-q5679037
+title:
+  zh-TW: Hashimpura massacre
+  en: Hashimpura massacre
+summary:
+  zh-TW: 1987 mass killing of Muslim youths by police in Meerut, Uttar Pradesh, India
+  en: 1987 mass killing of Muslim youths by police in Meerut, Uttar Pradesh, India
+start:
+  year: 1987
+  month: 5
+  day: 22
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q5679037
+locations:
+  - place: wd-q200237
+    role: primary
+wikipedia:
+  en: Hashimpura massacre
+importHash: 665c14bf8dc4

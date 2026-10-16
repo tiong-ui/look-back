@@ -1,0 +1,28 @@
+id: wd-q494043
+title:
+  zh-TW: 303高地屠殺
+  en: Hill 303 massacre
+summary:
+  zh-TW: incident in the Korean War on 17 Aug. 1950, in which 41 US prisoners of war were executed by North Korean troops in Waegwan-eup, Chigok-gun, Gyeongsangbuk-do, South Korea
+  en: incident in the Korean War on 17 Aug. 1950, in which 41 US prisoners of war were executed by North Korean troops in Waegwan-eup, Chigok-gun, Gyeongsangbuk-do, South Korea
+start:
+  year: 1950
+  month: 8
+  day: 17
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 2
+wikidata: Q494043
+locations:
+  - place: wd-q494043-site
+    role: primary
+  - place: wd-q485201
+    role: secondary
+wikipedia:
+  en: Hill 303 massacre
+  zh: 303高地屠杀
+importHash: 6c3e5c8deb7e

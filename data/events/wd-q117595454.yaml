@@ -1,0 +1,27 @@
+id: wd-q117595454
+title:
+  zh-TW: Pazigyi massacre
+  en: Pazigyi massacre
+summary:
+  zh-TW: 2023 mass killing in Myanmar
+  en: 2023 mass killing in Myanmar
+start:
+  year: 2023
+  month: 4
+  day: 11
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q117595454
+locations:
+  - place: wd-q117595454-site
+    role: primary
+  - place: wd-q117541861
+    role: secondary
+wikipedia:
+  en: Pazigyi massacre
+importHash: 0c8549efc680

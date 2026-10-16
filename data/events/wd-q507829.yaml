@@ -1,0 +1,27 @@
+id: wd-q507829
+title:
+  zh-TW: 蘇艾教堂大屠殺
+  en: Suai Church massacre
+summary:
+  zh-TW: 1999 massacre in East Timor
+  en: 1999 massacre in East Timor
+start:
+  year: 1999
+  month: 9
+  day: 6
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q507829
+locations:
+  - place: wd-q507829-site
+    role: primary
+  - place: wd-q582712
+    role: secondary
+wikipedia:
+  en: Suai Church massacre
+importHash: 0e163711f5e3

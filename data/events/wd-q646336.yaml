@@ -1,0 +1,30 @@
+id: wd-q646336
+title:
+  zh-TW: 第二次漢城戰役
+  en: Second Battle of Seoul
+summary:
+  zh-TW: September 1950 battle of the Korean War in which UN forces retook Seoul
+  en: September 1950 battle of the Korean War in which UN forces retook Seoul
+start:
+  year: 1950
+  month: 9
+  day: 22
+end:
+  year: 1950
+  month: 9
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q646336
+locations:
+  - place: wd-q8684
+    role: primary
+wikipedia:
+  en: Second Battle of Seoul
+  zh: 第二次漢城戰役
+importHash: b4df39eee309

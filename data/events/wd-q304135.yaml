@@ -1,0 +1,25 @@
+id: wd-q304135
+title:
+  zh-TW: 桑原城之戰
+  en: Siege of Kuwabara
+summary:
+  zh-TW: 1542 siege
+  en: 1542 siege
+start:
+  year: 1542
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q304135
+locations:
+  - place: wd-q304135-site
+    role: primary
+  - place: wd-q2969506
+    role: secondary
+wikipedia:
+  en: Siege of Kuwabara
+  zh: 桑原城之戰
+importHash: 5dff7b778213

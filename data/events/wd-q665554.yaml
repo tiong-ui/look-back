@@ -1,0 +1,30 @@
+id: wd-q665554
+title:
+  zh-TW: 降伏文書
+  en: Japanese Instrument of Surrender
+summary:
+  zh-TW: 第二次世界大戰末期日本向同盟國投降所互相簽署的檔案
+  en: 1945 agreement ending hostilities in WWII
+start:
+  year: 1945
+  month: 9
+  day: 2
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 3
+wikidata: Q665554
+locations:
+  - place: wd-q665554-site
+    role: primary
+  - place: wd-q141017
+    role: secondary
+relations:
+  - event: wd-q6540361
+    type: part_of
+wikipedia:
+  en: Japanese Instrument of Surrender
+  zh: 降伏文書
+importHash: 09e266eab7db

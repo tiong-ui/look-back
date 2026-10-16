@@ -1,0 +1,29 @@
+id: wd-q31307
+title:
+  zh-TW: 緬甸暹羅戰爭
+  en: Burmese–Siamese War of 1765–1767
+summary:
+  zh-TW: conflict between the Burmese Empire and the Thai kingdom of Ayutthaya
+  en: conflict between the Burmese Empire and the Thai kingdom of Ayutthaya
+start:
+  year: 1765
+  month: 8
+  day: 23
+end:
+  year: 1767
+  month: 4
+  day: 7
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q31307
+locations:
+  - place: wd-q843954
+    role: primary
+wikipedia:
+  en: Burmese–Siamese War (1765–1767)
+  zh: 暹緬戰爭 (1765年–1767年)
+importHash: 7bed5a19ace8

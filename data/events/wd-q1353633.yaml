@@ -1,0 +1,28 @@
+id: wd-q1353633
+title:
+  zh-TW: 小牧、長久手之戰
+  en: Battle of Komaki and Nagakute
+summary:
+  zh-TW: 1584 battle
+  en: 1584 battle
+start:
+  year: 1584
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1353633
+locations:
+  - place: wd-q1353633-site
+    role: primary
+  - place: wd-q16627739
+    role: secondary
+  - place: wd-q930396
+    role: secondary
+wikipedia:
+  en: Battle of Komaki and Nagakute
+  zh: 小牧、长久手之战
+importHash: 6c7ff52f2180

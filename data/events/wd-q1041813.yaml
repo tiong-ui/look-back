@@ -1,0 +1,29 @@
+id: wd-q1041813
+title:
+  zh-TW: 張勳復辟
+  en: Manchu Restoration
+summary:
+  zh-TW: 歷史事件
+  en: attempt to restore the monarchy in China by Zhang Xun
+start:
+  year: 1917
+  month: 7
+  day: 12
+end:
+  year: 1917
+  month: 7
+  day: 12
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1041813
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Manchu Restoration
+  zh: 張勳復辟
+importHash: 842fe5e2dbfc

@@ -1,0 +1,24 @@
+id: wd-q7359741
+title:
+  zh-TW: 羅興亞人在緬甸西部的衝突
+  en: Rohingya conflict
+summary:
+  zh-TW: sectarian conflict in Rakhine State, Myanmar
+  en: sectarian conflict in Rakhine State, Myanmar
+start:
+  year: 1942
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q7359741
+locations:
+  - place: wd-q233838
+    role: primary
+wikipedia:
+  en: Rohingya conflict
+  zh: 羅興亞人衝突
+importHash: d4068b186285

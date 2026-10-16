@@ -1,0 +1,25 @@
+id: wd-q4588561
+title:
+  zh-TW: 北海道西南近海地震
+  en: 1993 Okushiri earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 1993
+  month: 7
+  day: 12
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q4588561
+locations:
+  - place: wd-q4588561-site
+    role: primary
+wikipedia:
+  en: 1993 Okushiri earthquake
+  zh: 北海道西南近海地震
+importHash: 7256ca6a39f7

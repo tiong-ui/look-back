@@ -1,0 +1,29 @@
+id: wd-q213394
+title:
+  zh-TW: 斯里蘭卡內戰
+  en: Sri Lankan civil war
+summary:
+  zh-TW: 1983年至2009年間的一場戰爭
+  en: armed conflict in Sri Lanka (1983–2009) between the government and the separatist organization Liberation Tigers of Tamil Eelam
+start:
+  year: 1983
+  month: 7
+  day: 23
+end:
+  year: 2009
+  month: 5
+  day: 18
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q213394
+locations:
+  - place: wd-q213394-site
+    role: primary
+wikipedia:
+  en: Sri Lankan civil war
+  zh: 斯里兰卡内战
+importHash: 112bf9c122a7

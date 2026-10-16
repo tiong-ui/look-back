@@ -1,0 +1,26 @@
+id: wd-q712645
+title:
+  zh-TW: 哈爾濱保衛戰
+  en: Defense of Harbin
+summary:
+  zh-TW: 1932 battle of the Second Sino-Japanese War
+  en: 1932 battle of the Second Sino-Japanese War
+start:
+  year: 1932
+  month: 2
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q712645
+locations:
+  - place: wd-q42956
+    role: primary
+wikipedia:
+  en: Defense of Harbin
+  zh: 哈爾濱保衛戰
+importHash: 9d276cec1cdb

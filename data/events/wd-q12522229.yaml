@@ -1,0 +1,25 @@
+id: wd-q12522229
+title:
+  zh-TW: Mergosono massacre
+  en: Mergosono massacre
+summary:
+  zh-TW: 1947 anti-Chinese massacre in Malang, East Java, Indonesia
+  en: 1947 anti-Chinese massacre in Malang, East Java, Indonesia
+start:
+  year: 1947
+  month: 7
+  day: 31
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q12522229
+locations:
+  - place: wd-q11445
+    role: primary
+wikipedia:
+  en: Mergosono massacre
+importHash: d7141d176df9

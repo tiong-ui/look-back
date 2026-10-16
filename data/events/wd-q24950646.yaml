@@ -1,0 +1,25 @@
+id: wd-q24950646
+title:
+  zh-TW: 孟加拉國發生騷亂
+  en: 1990 Bangladesh mass uprising
+summary:
+  zh-TW: 1990 uprising
+  en: 1990 uprising
+start:
+  year: 1990
+  month: 10
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q24950646
+locations:
+  - place: wd-q1354
+    role: primary
+wikipedia:
+  en: 1990 Bangladesh mass uprising
+importHash: 0d9966c8c900

@@ -1,0 +1,25 @@
+id: wd-q1010245
+title:
+  zh-TW: Battle of Ghazni
+  en: Battle of Ghazni
+summary:
+  zh-TW: 1839 battle
+  en: 1839 battle
+start:
+  year: 1839
+  month: 7
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1010245
+locations:
+  - place: wd-q173731
+    role: primary
+wikipedia:
+  en: Battle of Ghazni
+importHash: 6ae236886df4

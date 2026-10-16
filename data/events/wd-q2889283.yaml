@@ -1,0 +1,26 @@
+id: wd-q2889283
+title:
+  zh-TW: 馬良山戰役
+  en: First Battle of Maryang-san
+summary:
+  zh-TW: 1951 battle of the Korean War
+  en: 1951 battle of the Korean War
+start:
+  year: 1951
+  month: 10
+  day: 8
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q2889283
+locations:
+  - place: wd-q2889283-site
+    role: primary
+  - place: wd-q495534
+    role: secondary
+wikipedia:
+  en: First Battle of Maryang-san
+importHash: 7238002eb3f1

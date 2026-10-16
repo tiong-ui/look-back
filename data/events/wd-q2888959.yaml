@@ -1,0 +1,25 @@
+id: wd-q2888959
+title:
+  zh-TW: 衣川之戰
+  en: Battle of Koromo River
+summary:
+  zh-TW: 1189.6.15 battle in Japan
+  en: 1189.6.15 battle in Japan
+start:
+  year: 1189
+  month: 6
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2888959
+locations:
+  - place: wd-q11626375
+    role: primary
+wikipedia:
+  en: Battle of Koromo River
+importHash: 568f15479d1c

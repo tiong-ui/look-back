@@ -1,0 +1,22 @@
+id: wd-q11679996
+title:
+  zh-TW: Siege of Hikida Castle
+  en: Siege of Hikida Castle
+summary:
+  zh-TW: 1573 siege
+  en: 1573 siege
+start:
+  year: 1573
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q11679996
+locations:
+  - place: wd-q28683481
+    role: primary
+wikipedia:
+  en: Siege of Hikida Castle
+importHash: f25e77b8ed51

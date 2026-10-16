@@ -1,0 +1,24 @@
+id: wd-q2026247
+title:
+  zh-TW: Operation Oqab
+  en: Operation Oqab
+summary:
+  zh-TW: July 2009 military operation
+  en: July 2009 military operation
+start:
+  year: 2009
+  month: 7
+  day: 18
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2026247
+locations:
+  - place: wd-q186418
+    role: primary
+wikipedia:
+  en: Operation Oqab
+importHash: 3b40458017ff

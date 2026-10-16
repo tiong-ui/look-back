@@ -1,0 +1,33 @@
+id: wd-q488547
+title:
+  zh-TW: 薩爾滸之戰
+  en: Battle of Sarhu
+summary:
+  zh-TW: 1619年明朝與女真族的後金政權在薩爾滸（今遼寧省撫順市東部渾河中上游）的一場大戰
+  en: battle between Ming and Later Jin (predecessor of the Qing dynasty) in 1619
+start:
+  year: 1619
+  month: 4
+  day: 14
+end:
+  year: 1619
+  month: 4
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q488547
+locations:
+  - place: wd-q75026
+    role: primary
+relations:
+  - event: wd-q3427966
+    type: part_of
+wikipedia:
+  en: Battle of Sarhū
+  zh: 薩爾滸之戰
+importHash: 59aa74b5a3ea

@@ -1,0 +1,29 @@
+id: first-opium-war
+title:
+  zh-TW: 第一次鴉片戰爭
+  en: First Opium War
+summary:
+  zh-TW: 清廷查禁鴉片引發英國出兵，清朝戰敗後簽訂《南京條約》，割讓香港並開放五口通商，東亞進入不平等條約時代。
+  en: China's ban on opium led Britain to go to war. Defeated, the Qing signed the Treaty of Nanking, ceding Hong Kong and opening five ports, beginning the era of unequal treaties in East Asia.
+start: 1839
+end:
+  year: 1842
+  month: 8
+  day: 29
+precision: year
+categories:
+  - war
+  - trade
+regions:
+  - china
+importance: 4
+locations:
+  - place: guangzhou
+    role: primary
+  - place: hong-kong
+    role: secondary
+  - place: nanjing
+    role: secondary
+wikipedia:
+  en: First Opium War
+  zh: 第一次鸦片战争

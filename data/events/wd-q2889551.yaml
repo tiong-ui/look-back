@@ -1,0 +1,32 @@
+id: wd-q2889551
+title:
+  zh-TW: 努伊波普戰役
+  en: Battle of Nui Bop
+summary:
+  zh-TW: 1885 battle of the Sino-French War
+  en: 1885 battle of the Sino-French War
+start:
+  year: 1885
+  month: 1
+  day: 3
+end:
+  year: 1885
+  month: 1
+  day: 4
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q2889551
+locations:
+  - place: wd-q2889551-site
+    role: primary
+relations:
+  - event: wd-q706183
+    type: part_of
+wikipedia:
+  en: Battle of Núi Bop
+  zh: 豐谷之戰
+importHash: 42370d9b6149

@@ -1,0 +1,23 @@
+id: wd-q2444436
+title:
+  zh-TW: 清水之盟
+  en: Sino-Tibetan Peace Treaty of 783
+summary:
+  zh-TW: peace treaty between China and Tibet about the Silk Road, signed on 783
+  en: peace treaty between China and Tibet about the Silk Road, signed on 783
+start:
+  year: 783
+precision: year
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q2444436
+locations:
+  - place: wd-q1201210
+    role: primary
+wikipedia:
+  en: Peace treaty between China and Tibet (783)
+  zh: 清水之盟
+importHash: 2c590f4dce7c

@@ -1,0 +1,40 @@
+id: qing-rule-taiwan
+title:
+  zh-TW: 清治時期
+  en: Qing rule of Taiwan
+summary:
+  zh-TW: 清帝國將臺灣設為福建省下的臺灣府，初期限制移民渡臺。大量閩粵移民仍持續湧入開墾，與原住民族發生土地衝突，民變頻仍，有「三年一小反，五年一大亂」之說。
+  en: The Qing made Taiwan a prefecture of Fujian and at first restricted migration. Settlers from Fujian and Guangdong kept arriving anyway, clashing with Indigenous peoples over land, and revolts were so frequent that a saying ran "a small uprising every three years, a big one every five".
+start: 1683
+end: 1895
+precision: year
+categories:
+  - dynasty
+regions:
+  - taiwan
+  - china
+importance: 4
+locations:
+  - place: tainan
+    role: primary
+  - place: beijing
+    role: secondary
+relations:
+  - event: treaty-of-shimonoseki
+    type: precedes
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 清帝國將臺灣視為邊陲，統治以防範為主，是由外來政權統治臺灣的一段時期。
+      en: The Qing treated Taiwan as a frontier to be kept in check; it was a period of rule by an outside regime.
+  - view: roc
+    text:
+      zh-TW: 中華民國史觀視此為臺灣正式納入中國版圖的開始。
+      en: The ROC view sees this as the start of Taiwan's formal incorporation into China.
+  - view: prc
+    text:
+      zh-TW: 中國官方以清朝的治理作為臺灣屬於中國的主要歷史依據之一。
+      en: Chinese official accounts cite Qing rule as a main historical basis for Taiwan belonging to China.
+wikipedia:
+  en: Taiwan under Qing rule
+  zh: 臺灣清治時期

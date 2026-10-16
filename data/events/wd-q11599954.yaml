@@ -1,0 +1,32 @@
+id: wd-q11599954
+title:
+  zh-TW: 笠置山之戰
+  en: Siege of Kasagi
+summary:
+  zh-TW: 1331 siege
+  en: 1331 siege
+start:
+  year: 1331
+end:
+  year: 1331
+  month: 11
+  day: 7
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q11599954
+locations:
+  - place: wd-q11599954-site
+    role: primary
+  - place: wd-q11599951
+    role: secondary
+relations:
+  - event: wd-q1432624
+    type: part_of
+wikipedia:
+  en: Siege of Kasagi
+  zh: 笠置山之戰
+importHash: fe1a08f3e921

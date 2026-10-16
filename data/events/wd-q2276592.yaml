@@ -1,0 +1,27 @@
+id: wd-q2276592
+title:
+  zh-TW: 中壢事件
+  en: Zhongli incident
+summary:
+  zh-TW: 1977年臺灣抗爭事件
+  en: 1977 protest in Taiwan
+start:
+  year: 1977
+  month: 11
+  day: 19
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 2
+wikidata: Q2276592
+locations:
+  - place: wd-q2276592-site
+    role: primary
+  - place: wd-q172146
+    role: secondary
+wikipedia:
+  en: Zhongli incident
+  zh: 中壢事件
+importHash: a3207b010055

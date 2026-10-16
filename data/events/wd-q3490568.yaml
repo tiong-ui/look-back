@@ -1,0 +1,25 @@
+id: wd-q3490568
+title:
+  zh-TW: Battle of Tirad Pass
+  en: Battle of Tirad Pass
+summary:
+  zh-TW: 1899 battle of the Philippine–American War
+  en: 1899 battle of the Philippine–American War
+start:
+  year: 1899
+  month: 12
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q3490568
+locations:
+  - place: wd-q3490568-site
+    role: primary
+wikipedia:
+  en: Battle of Tirad Pass
+importHash: b3a67b0798cd

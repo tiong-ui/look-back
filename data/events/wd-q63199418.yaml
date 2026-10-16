@@ -1,0 +1,25 @@
+id: wd-q63199418
+title:
+  zh-TW: 2019年花蓮地震
+  en: 2019 Hualien earthquake
+summary:
+  zh-TW: 2019年度四月震央位於臺灣花蓮地區的強烈地震
+  en: Magnitude 6.1 earthquake in Taiwan
+start:
+  year: 2019
+  month: 4
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q63199418
+locations:
+  - place: wd-q63199418-site
+    role: primary
+wikipedia:
+  en: 2019 Hualien earthquake
+  zh: 2019年花蓮地震
+importHash: 48c7756e85ce

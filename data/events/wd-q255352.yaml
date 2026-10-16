@@ -1,0 +1,31 @@
+id: wd-q255352
+title:
+  zh-TW: 巴斯瑪奇運動
+  en: Basmachi movement
+summary:
+  zh-TW: decentralized decolonial movement which undertook a uprising against Russian Imperial and Soviet rule by the Muslim peoples of Central Asia (1916–1934)
+  en: decentralized decolonial movement which undertook a uprising against Russian Imperial and Soviet rule by the Muslim peoples of Central Asia (1916–1934)
+start:
+  year: 1916
+end:
+  year: 1934
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 4
+wikidata: Q255352
+locations:
+  - place: wd-q1501849
+    role: primary
+relations:
+  - event: wd-q79911
+    type: part_of
+wikipedia:
+  en: Basmachi movement
+  zh: 巴斯玛奇运动
+importHash: 7cafd50fe08d

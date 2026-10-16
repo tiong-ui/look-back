@@ -1,0 +1,26 @@
+id: wd-q702266
+title:
+  zh-TW: 蒙古入侵高麗
+  en: Mongol invasions of Korea
+summary:
+  zh-TW: 蒙古帝國歷史事件
+  en: Mongol Yuán Conquests of the Korean peninsula
+start:
+  year: 1231
+precision: year
+categories:
+  - war
+regions:
+  - korea
+importance: 3
+wikidata: Q702266
+locations:
+  - place: wd-q483134
+    role: primary
+relations:
+  - event: wd-q2092093
+    type: part_of
+wikipedia:
+  en: Mongol invasions of Korea
+  zh: 蒙古入侵高丽
+importHash: c2ffa1ac3bad

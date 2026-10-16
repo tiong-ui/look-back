@@ -1,0 +1,25 @@
+id: wd-q1658558
+title:
+  zh-TW: 中俄伊犁塔爾巴哈臺通商章程
+  en: Treaty of Kulja
+summary:
+  zh-TW: treaty between Russian Empire and Imperial China in august 1851
+  en: treaty between Russian Empire and Imperial China in august 1851
+start:
+  year: 1851
+  month: 8
+  day: 6
+precision: day
+categories:
+  - diplomacy
+regions:
+  - central-asia
+importance: 2
+wikidata: Q1658558
+locations:
+  - place: wd-q866021
+    role: primary
+wikipedia:
+  en: Treaty of Kulja
+  zh: 中俄伊犁塔爾巴哈臺通商章程
+importHash: e3a4e214860c

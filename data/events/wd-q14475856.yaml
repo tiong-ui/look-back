@@ -1,0 +1,31 @@
+id: wd-q14475856
+title:
+  zh-TW: 平壤之圍 (1593年)
+  en: Siege of Pyongyang
+summary:
+  zh-TW: fought during the Japanese invasions of Korea in 1593
+  en: fought during the Japanese invasions of Korea in 1593
+start:
+  year: 1593
+  month: 2
+  day: 6
+end:
+  year: 1593
+  month: 2
+  day: 8
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q14475856
+locations:
+  - place: wd-q14475856-site
+    role: primary
+  - place: wd-q3078431
+    role: secondary
+wikipedia:
+  en: Siege of Pyongyang (1593)
+  zh: 平壤之战 (1593年)
+importHash: dd07ff19f90e

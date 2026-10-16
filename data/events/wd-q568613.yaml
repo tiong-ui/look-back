@@ -1,0 +1,24 @@
+id: wd-q568613
+title:
+  zh-TW: 波利魯爾戰役
+  en: Battle of Pollilur
+summary:
+  zh-TW: 1780 battle
+  en: 1780 battle
+start:
+  year: 1780
+  month: 9
+  day: 10
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q568613
+locations:
+  - place: wd-q7259405
+    role: primary
+wikipedia:
+  en: Battle of Pollilur (1780)
+importHash: 28cbece00d17

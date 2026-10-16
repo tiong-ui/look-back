@@ -1,0 +1,27 @@
+id: wd-q700569
+title:
+  zh-TW: 馬來亞海戰
+  en: Sinking of Prince of Wales and Repulse
+summary:
+  zh-TW: naval engagement in World War II, part of the war in the Pacific
+  en: naval engagement in World War II, part of the war in the Pacific
+start:
+  year: 1941
+  month: 12
+  day: 10
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q700569
+locations:
+  - place: wd-q700569-site
+    role: primary
+  - place: wd-q37660
+    role: secondary
+wikipedia:
+  en: Sinking of Prince of Wales and Repulse
+  zh: 馬來亞海戰
+importHash: 7d6ed6b48a96

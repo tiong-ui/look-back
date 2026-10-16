@@ -1,0 +1,25 @@
+id: wd-q73140
+title:
+  zh-TW: 鹿谷陰謀
+  en: Shishigatani Incident
+summary:
+  zh-TW: 鹿谷陰謀
+start:
+  year: 1177
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q73140
+locations:
+  - place: wd-q73140-site
+    role: primary
+  - place: wd-q10942951
+    role: secondary
+wikipedia:
+  en: Shishigatani incident
+  zh: 鹿谷陰謀
+importHash: 747895dd1bc7

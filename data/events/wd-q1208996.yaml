@@ -1,0 +1,28 @@
+id: wd-q1208996
+title:
+  zh-TW: 旅順口之戰
+  en: Battle of Lushunkou
+summary:
+  zh-TW: 日本和大清之間戰役
+  en: 1894 battle of the First Sino-Japanese War
+start:
+  year: 1894
+  month: 11
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1208996
+locations:
+  - place: wd-q1208996-site
+    role: primary
+  - place: wd-q623329
+    role: secondary
+wikipedia:
+  en: Battle of Lüshunkou
+  zh: 旅顺口之战
+importHash: 7011378aacc1

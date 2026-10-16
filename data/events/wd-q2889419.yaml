@@ -1,0 +1,29 @@
+id: wd-q2889419
+title:
+  zh-TW: 麻坡戰役
+  en: Battle of Muar
+summary:
+  zh-TW: 1942 battle of the Malayan Campaign in World War II
+  en: 1942 battle of the Malayan Campaign in World War II
+start:
+  year: 1942
+  month: 1
+  day: 14
+end:
+  year: 1942
+  month: 1
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2889419
+locations:
+  - place: wd-q1941846
+    role: primary
+wikipedia:
+  en: Battle of Muar
+importHash: 75e8c0684093

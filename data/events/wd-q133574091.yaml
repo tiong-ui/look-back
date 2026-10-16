@@ -1,0 +1,28 @@
+id: wd-q133574091
+title:
+  zh-TW: 2025年緬甸地震
+  en: 2025 Myanmar earthquake
+summary:
+  zh-TW: 2025年3月28日在緬甸中部發生的大地震
+  en: Earthquake impacting Myanmar and Thailand
+start:
+  year: 2025
+  month: 3
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+  - southeast-asia
+importance: 4
+wikidata: Q133574091
+locations:
+  - place: wd-q133574091-site
+    role: primary
+  - place: wd-q847289
+    role: secondary
+wikipedia:
+  en: 2025 Myanmar earthquake
+  zh: 2025年缅甸地震
+importHash: 37fc1b4d577c

@@ -1,0 +1,25 @@
+id: wd-q4556361
+title:
+  zh-TW: 1889年熊本地震
+  en: 1889 Kumamoto earthquake
+summary:
+  zh-TW: 地震
+  en: Earthquake in Japam
+start:
+  year: 1889
+  month: 7
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q4556361
+locations:
+  - place: wd-q4556361-site
+    role: primary
+wikipedia:
+  en: 1889 Kumamoto earthquake
+  zh: 1889年熊本地震
+importHash: 53729ba2d2c9

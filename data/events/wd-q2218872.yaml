@@ -1,0 +1,29 @@
+id: wd-q2218872
+title:
+  zh-TW: 戶石崩
+  en: Sieges of Toishi
+summary:
+  zh-TW: 1550 siege
+  en: 1550 siege
+start:
+  year: 1550
+end:
+  year: 1551
+  month: 7
+  day: 9
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2218872
+locations:
+  - place: wd-q2218872-site
+    role: primary
+  - place: wd-q11496588
+    role: secondary
+wikipedia:
+  en: Sieges of Toishi
+  zh: 戶石崩
+importHash: 65686b9adba4

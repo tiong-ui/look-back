@@ -1,0 +1,25 @@
+id: wd-q6540361
+title:
+  zh-TW: 日本投降
+  en: surrender of Japan
+summary:
+  zh-TW: 二次大戰中日本向同盟國投降
+  en: end of World War II, 2 September 1945
+start:
+  year: 1945
+  month: 9
+  day: 2
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 4
+wikidata: Q6540361
+locations:
+  - place: wd-q6540361-site
+    role: primary
+wikipedia:
+  en: Surrender of Japan
+  zh: 日本投降
+importHash: a8b40fd94a8d

@@ -1,0 +1,25 @@
+id: wd-q10861125
+title:
+  zh-TW: 1941年中埔地震
+  en: 1941 Chungpu earthquake
+summary:
+  zh-TW: Earthquake in Taiwan
+  en: Earthquake in Taiwan
+start:
+  year: 1941
+  month: 12
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q10861125
+locations:
+  - place: wd-q10861125-site
+    role: primary
+wikipedia:
+  en: 1941 Chungpu earthquake
+  zh: 1941年中埔地震
+importHash: b360d709cbb9

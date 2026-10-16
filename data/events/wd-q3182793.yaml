@@ -1,0 +1,31 @@
+id: wd-q3182793
+title:
+  zh-TW: 一二·三事件
+  en: 12-3 incident
+summary:
+  zh-TW: 1966年澳門的一系列暴力衝突
+  en: 1966 Macau riot
+start:
+  year: 1966
+  month: 12
+  day: 3
+end:
+  year: 1967
+  month: 1
+  day: 28
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q3182793
+locations:
+  - place: wd-q3182793-site
+    role: primary
+  - place: wd-q3916279
+    role: secondary
+wikipedia:
+  en: 12-3 incident
+  zh: 一二·三事件
+importHash: 6ae6837f381e

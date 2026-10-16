@@ -1,0 +1,24 @@
+id: wd-q20987498
+title:
+  zh-TW: Tamil Massacre in 2009
+  en: Tamil Massacre in 2009
+summary:
+  zh-TW: 2009 massacre in the Sri Lankan Civil War
+  en: 2009 massacre in the Sri Lankan Civil War
+start:
+  year: 2009
+  month: 5
+precision: month
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q20987498
+locations:
+  - place: wd-q20987498-site
+    role: primary
+wikipedia:
+  en: Mullivaikkal massacre
+importHash: 28c972aba48e

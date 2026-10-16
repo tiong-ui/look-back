@@ -23,6 +23,7 @@ export interface SourceLink {
   url: string;
   title: Localized;
   resource?: string;
+  page?: string; // e.g. "p.215" for a book
 }
 
 export interface Perspective {

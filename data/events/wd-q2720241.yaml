@@ -1,0 +1,24 @@
+id: wd-q2720241
+title:
+  zh-TW: April 2009 Afghanistan earthquake
+  en: April 2009 Afghanistan earthquake
+summary:
+  zh-TW: 5.2 Mw magnitude earthquake in eastern Afghanistan in 2009
+  en: 5.2 Mw magnitude earthquake in eastern Afghanistan in 2009
+start:
+  year: 2009
+  month: 4
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2720241
+locations:
+  - place: wd-q2720241-site
+    role: primary
+wikipedia:
+  en: April 2009 Afghanistan earthquake
+importHash: 3c2fa9fd2738

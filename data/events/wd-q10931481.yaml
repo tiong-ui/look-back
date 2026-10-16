@@ -1,0 +1,24 @@
+id: wd-q10931481
+title:
+  zh-TW: 2013年淡路島地震
+  en: 2013 Awaji Island earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2013
+  month: 4
+  day: 13
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q10931481
+locations:
+  - place: wd-q10931481-site
+    role: primary
+wikipedia:
+  zh: 2013年淡路島地震
+importHash: a3f5d512f7fe

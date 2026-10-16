@@ -1,0 +1,25 @@
+id: wd-q4600516
+title:
+  zh-TW: 2002年蘇門答臘地震
+  en: 2002 Sumatra earthquake
+summary:
+  zh-TW: 2002 earthquake in Indonesia
+  en: 2002 earthquake in Indonesia
+start:
+  year: 2002
+  month: 11
+  day: 2
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4600516
+locations:
+  - place: wd-q4600516-site
+    role: primary
+wikipedia:
+  en: 2002 Sumatra earthquake
+  zh: 2002年苏门答腊地震
+importHash: e90c89202637

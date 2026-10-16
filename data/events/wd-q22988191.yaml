@@ -1,0 +1,25 @@
+id: wd-q22988191
+title:
+  zh-TW: 2016年蘇門答臘地震
+  en: 2016 Sumatra earthquake
+summary:
+  zh-TW: earthquake off the coast of Sumatra, Indonesia
+  en: earthquake off the coast of Sumatra, Indonesia
+start:
+  year: 2016
+  month: 3
+  day: 2
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q22988191
+locations:
+  - place: wd-q22988191-site
+    role: primary
+wikipedia:
+  en: 2016 Sumatra earthquake
+  zh: 2016年蘇門答臘地震
+importHash: 09046037ec55

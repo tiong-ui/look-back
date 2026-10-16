@@ -1,0 +1,25 @@
+id: wd-q4872019
+title:
+  zh-TW: Battle of Peshawar
+  en: Battle of Peshawar
+summary:
+  zh-TW: 1001 Ghaznavid–Hindu Shahi battle
+  en: 1001 Ghaznavid–Hindu Shahi battle
+start:
+  year: 1001
+  month: 12
+  day: 3
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4872019
+locations:
+  - place: wd-q1113311
+    role: primary
+wikipedia:
+  en: Battle of Peshawar (1001)
+importHash: d4eef522ca98

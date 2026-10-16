@@ -1,0 +1,25 @@
+id: wd-q11418893
+title:
+  zh-TW: 1847年善光寺地震
+  en: 1847 Zenkōji earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 1847
+  month: 5
+  day: 8
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11418893
+locations:
+  - place: wd-q11418893-site
+    role: primary
+wikipedia:
+  en: 1847 Zenkoji earthquake
+  zh: 善光寺地震
+importHash: 7161b0cc5fce

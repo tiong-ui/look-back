@@ -1,0 +1,26 @@
+id: wd-q4870862
+title:
+  zh-TW: Battle of Delhi
+  en: Battle of Delhi
+summary:
+  zh-TW: 1803 battle of the Second Anglo-Maratha War
+  en: 1803 battle of the Second Anglo-Maratha War
+start:
+  year: 1803
+  month: 9
+  day: 11
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870862
+locations:
+  - place: wd-q4870862-site
+    role: primary
+  - place: wd-q1353
+    role: secondary
+wikipedia:
+  en: Battle of Delhi (1803)
+importHash: 84db13377d03

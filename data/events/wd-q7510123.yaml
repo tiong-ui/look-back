@@ -1,0 +1,22 @@
+id: wd-q7510123
+title:
+  zh-TW: Siege of Kabul
+  en: Siege of Kabul
+summary:
+  zh-TW: 1504 part of campaigns of Babur
+  en: 1504 part of campaigns of Babur
+start:
+  year: 1504
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510123
+locations:
+  - place: wd-q5838
+    role: primary
+wikipedia:
+  en: Siege of Kabul (1504)
+importHash: e0a6eed638e6

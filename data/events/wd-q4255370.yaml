@@ -1,0 +1,24 @@
+id: wd-q4255370
+title:
+  zh-TW: 1953年拉合爾暴動
+  en: 1953 Lahore riots
+summary:
+  zh-TW: series of riots against the Qadiyanis
+  en: series of riots against the Qadiyanis
+start:
+  year: 1953
+  month: 2
+  day: 1
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4255370
+locations:
+  - place: wd-q11739
+    role: primary
+wikipedia:
+  en: 1953 Lahore riots
+importHash: e5e0460212e1

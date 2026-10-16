@@ -1,0 +1,28 @@
+id: wd-q4870902
+title:
+  zh-TW: 東興之戰
+  en: Battle of Dongxing
+summary:
+  zh-TW: battle between the states of Cao Wei and Eastern Wu (253)
+  en: battle between the states of Cao Wei and Eastern Wu (253)
+start:
+  year: 253
+  month: 1
+end:
+  year: 253
+  month: 2
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870902
+locations:
+  - place: wd-q855220
+    role: primary
+wikipedia:
+  en: Battle of Dongxing
+  zh: 東興之戰
+importHash: 5b072719fa7d

@@ -1,0 +1,24 @@
+id: wd-q928079
+title:
+  zh-TW: 比斯凱克協定
+  en: Bishkek Protocol
+summary:
+  zh-TW: cease-fire deal which marks the end of the first Nagorno-Karabakh war
+  en: cease-fire deal which marks the end of the first Nagorno-Karabakh war
+start:
+  year: 1994
+  month: 5
+  day: 5
+precision: day
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q928079
+locations:
+  - place: wd-q9361
+    role: primary
+wikipedia:
+  en: Bishkek Protocol
+importHash: 841b8901fc00

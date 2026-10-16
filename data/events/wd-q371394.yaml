@@ -1,0 +1,29 @@
+id: wd-q371394
+title:
+  zh-TW: 孟加拉國解放戰爭
+  en: Bangladesh Liberation War
+summary:
+  zh-TW: 1971年軍事衝突
+  en: conflict that led to the independence of the majority-Bengali country
+start:
+  year: 1971
+  month: 3
+  day: 26
+end:
+  year: 1971
+  month: 12
+  day: 16
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q371394
+locations:
+  - place: wd-q842931
+    role: primary
+wikipedia:
+  en: Bangladesh Liberation War
+  zh: 孟加拉国解放战争
+importHash: 9e8356447af3

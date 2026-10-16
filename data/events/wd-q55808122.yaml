@@ -1,0 +1,27 @@
+id: wd-q55808122
+title:
+  zh-TW: 2018年7月龍目島地震
+  en: July 2018 Lombok earthquake
+summary:
+  zh-TW: ｀＠，胖＊05車5
+  en: earthquake that occurred in July 2018 in Indonesia
+start:
+  year: 2018
+  month: 7
+  day: 29
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q55808122
+locations:
+  - place: wd-q55808122-site
+    role: primary
+  - place: wd-q7564
+    role: secondary
+wikipedia:
+  en: July 2018 Lombok earthquake
+  zh: 2018年7月龙目岛地震
+importHash: a2c918253c6c

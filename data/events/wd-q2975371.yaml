@@ -1,0 +1,24 @@
+id: wd-q2975371
+title:
+  zh-TW: 神風連之亂
+  en: Shinpūren Rebellion
+summary:
+  zh-TW: 1876 Japanese uprising
+  en: 1876 Japanese uprising
+start:
+  year: 1876
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2975371
+locations:
+  - place: wd-q199889
+    role: primary
+wikipedia:
+  en: Shinpūren rebellion
+  zh: 神風連之亂
+importHash: 4312cbd2f0d1

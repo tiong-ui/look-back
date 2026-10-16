@@ -1,0 +1,24 @@
+id: wd-q4870232
+title:
+  zh-TW: Battle of Ahmed Khel
+  en: Battle of Ahmed Khel
+summary:
+  zh-TW: 1880 battle of the Second Anglo-Afghan War
+  en: 1880 battle of the Second Anglo-Afghan War
+start:
+  year: 1880
+  month: 4
+  day: 19
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870232
+locations:
+  - place: wd-q4695888
+    role: primary
+wikipedia:
+  en: Battle of Ahmed Khel
+importHash: 7440f24351e8

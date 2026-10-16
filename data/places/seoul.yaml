@@ -1,0 +1,14 @@
+id: seoul
+lng: 126.98
+lat: 37.57
+names:
+  - zh-TW: 漢陽
+    en: Hanyang
+    to: 1909
+  - zh-TW: 京城
+    en: Keijō
+    from: 1910
+    to: 1945
+  - zh-TW: 首爾
+    en: Seoul
+    from: 1946

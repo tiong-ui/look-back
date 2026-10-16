@@ -1,0 +1,30 @@
+id: wd-q705072
+title:
+  zh-TW: 成歡之戰
+  en: Battle of Seonghwan
+summary:
+  zh-TW: 第一次中日戰爭的第一場主要陸戰
+  en: 1894 battle
+start:
+  year: 1894
+  month: 7
+  day: 28
+end:
+  year: 1894
+  month: 7
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q705072
+locations:
+  - place: wd-q705072-site
+    role: primary
+wikipedia:
+  en: Battle of Seonghwan
+  zh: 成歡之戰
+importHash: b8cd83591d43

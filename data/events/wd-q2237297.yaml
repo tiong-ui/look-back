@@ -1,0 +1,24 @@
+id: wd-q2237297
+title:
+  zh-TW: Battle of Ali Masjid
+  en: Battle of Ali Masjid
+summary:
+  zh-TW: 1878 battle of Ali Masjid
+  en: 1878 battle of Ali Masjid
+start:
+  year: 1878
+  month: 11
+  day: 21
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2237297
+locations:
+  - place: wd-q2237297-site
+    role: primary
+wikipedia:
+  en: Battle of Ali Masjid
+importHash: 1899e943ab96

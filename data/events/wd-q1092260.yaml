@@ -1,0 +1,25 @@
+id: wd-q1092260
+title:
+  zh-TW: 2011年淨選盟2.0人民集會
+  en: Bersih 2.0 rally
+summary:
+  zh-TW: 馬來西亞集會
+  en: protest
+start:
+  year: 2011
+  month: 7
+  day: 9
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1092260
+locations:
+  - place: wd-q1865
+    role: primary
+wikipedia:
+  en: Bersih 2.0 rally
+  zh: 2011年净选盟2.0集会
+importHash: bd72706774fd

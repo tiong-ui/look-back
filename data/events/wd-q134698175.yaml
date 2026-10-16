@@ -1,0 +1,29 @@
+id: wd-q134698175
+title:
+  zh-TW: 2025年蒙古抗議
+  en: 2025 Mongolian protests
+summary:
+  zh-TW: 蒙古國示威抗議
+  en: 2025 anti-government protests in Mongolia
+start:
+  year: 2025
+  month: 5
+  day: 14
+end:
+  year: 2025
+  month: 6
+  day: 3
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q134698175
+locations:
+  - place: wd-q23430
+    role: primary
+wikipedia:
+  en: 2025 Mongolian protests
+  zh: 2025年蒙古抗議
+importHash: c56b21b13f47

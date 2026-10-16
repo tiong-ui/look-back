@@ -1,0 +1,28 @@
+id: wd-q4871480
+title:
+  zh-TW: 宗谷海戰
+  en: Battle of Korsakov
+summary:
+  zh-TW: 1904 naval battle of the Russo-Japanese War
+  en: 1904 naval battle of the Russo-Japanese War
+start:
+  year: 1904
+  month: 8
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 2
+wikidata: Q4871480
+locations:
+  - place: wd-q4871480-site
+    role: primary
+  - place: wd-q155331
+    role: secondary
+wikipedia:
+  en: Battle of Korsakov
+  zh: 科尔萨科夫海战
+importHash: 527671066cab

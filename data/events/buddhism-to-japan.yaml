@@ -1,0 +1,25 @@
+id: buddhism-to-japan
+title:
+  zh-TW: 佛教傳入日本
+  en: Buddhism reaches Japan
+summary:
+  zh-TW: 朝鮮半島的百濟遣使向日本朝廷進獻佛像與經論，佛教隨後在飛鳥時代成為日本國家與文化的重要基礎。
+  en: Envoys from the Korean kingdom of Baekje presented Buddhist images and scriptures to the Japanese court; in the Asuka period Buddhism became a pillar of Japanese state and culture.
+start: 538
+precision: year
+approximate: true
+categories:
+  - religion
+  - culture
+regions:
+  - japan
+  - korea
+importance: 3
+locations:
+  - place: buyeo
+    role: origin
+  - place: asuka
+    role: destination
+wikipedia:
+  en: Buddhism in Japan
+  zh: 日本佛教

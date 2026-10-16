@@ -1,0 +1,25 @@
+id: wd-q738854
+title:
+  zh-TW: 1950年阿薩姆－西藏地震
+  en: 1950 Assam–Tibet earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 1950
+  month: 8
+  day: 15
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q738854
+locations:
+  - place: wd-q738854-site
+    role: primary
+wikipedia:
+  en: 1950 Assam–Tibet earthquake
+  zh: 1950年阿薩姆—西藏地震
+importHash: 33f54756f231

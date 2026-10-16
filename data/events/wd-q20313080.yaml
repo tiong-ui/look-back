@@ -1,0 +1,29 @@
+id: wd-q20313080
+title:
+  zh-TW: 英國-曼尼普爾戰爭
+  en: Anglo-Manipur War
+summary:
+  zh-TW: Armed battle between the Kingdom of Manipur and the British Empire
+  en: Armed battle between the Kingdom of Manipur and the British Empire
+start:
+  year: 1891
+  month: 3
+  day: 31
+end:
+  year: 1891
+  month: 4
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 1
+wikidata: Q20313080
+locations:
+  - place: wd-q889030
+    role: primary
+wikipedia:
+  en: Anglo-Manipur War
+  zh: 英曼战争
+importHash: 4ebb20b023ca

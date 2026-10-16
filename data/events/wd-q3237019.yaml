@@ -1,0 +1,28 @@
+id: wd-q3237019
+title:
+  zh-TW: 清緬戰爭
+  en: Sino-Burmese War
+summary:
+  zh-TW: 1765 Qing-Konbaung conflict
+  en: 1765 Qing-Konbaung conflict
+start:
+  year: 1765
+  month: 12
+end:
+  year: 1769
+  month: 12
+  day: 22
+precision: month
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q3237019
+locations:
+  - place: wd-q2199759
+    role: primary
+wikipedia:
+  en: Sino-Burmese War
+  zh: 清缅战争
+importHash: cde8c9fd25d7

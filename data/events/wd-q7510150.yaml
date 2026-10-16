@@ -1,0 +1,26 @@
+id: wd-q7510150
+title:
+  zh-TW: 蟹江城合戰
+  en: Siege of Kanie
+summary:
+  zh-TW: 1584 siege
+  en: 1584 siege
+start:
+  year: 1584
+end:
+  year: 1584
+  month: 8
+  day: 8
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510150
+locations:
+  - place: wd-q10854970
+    role: primary
+wikipedia:
+  en: Siege of Kanie
+importHash: b55272db47b1

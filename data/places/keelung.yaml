@@ -1,0 +1,13 @@
+id: keelung
+lng: 121.765
+lat: 25.157
+names:
+  - zh-TW: 雞籠
+    en: Kelang
+    to: 1874
+  - zh-TW: 基隆
+    en: Keelung
+    from: 1875
+modern:
+  zh-TW: 基隆市和平島
+  en: Heping Island, Keelung

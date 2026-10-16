@@ -1,0 +1,25 @@
+id: wd-q113297332
+title:
+  zh-TW: 2022年呂宋地震
+  en: 2022 Luzon earthquake
+summary:
+  zh-TW: earthquake in the Philippines
+  en: earthquake in the Philippines
+start:
+  year: 2022
+  month: 7
+  day: 27
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q113297332
+locations:
+  - place: wd-q113297332-site
+    role: primary
+wikipedia:
+  en: 2022 Luzon earthquake
+  zh: 2022年吕宋地震
+importHash: b62e96c8de65

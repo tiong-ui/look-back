@@ -1,0 +1,24 @@
+id: wd-q106076743
+title:
+  zh-TW: 2021年3月宮城地震
+  en: March 2021 Miyagi earthquake
+summary:
+  zh-TW: earthquakes in Japan
+  en: earthquakes in Japan
+start:
+  year: 2021
+  month: 3
+  day: 20
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q106076743
+locations:
+  - place: wd-q106076743-site
+    role: primary
+wikipedia:
+  en: March 2021 Miyagi earthquake
+importHash: 89ffac4d59c3

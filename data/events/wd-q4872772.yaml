@@ -1,0 +1,27 @@
+id: wd-q4872772
+title:
+  zh-TW: 葉爾羌戰役
+  en: Battle of Yarkand
+summary:
+  zh-TW: April 1934
+  en: April 1934
+start:
+  year: 1934
+  month: 4
+precision: month
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4872772
+locations:
+  - place: wd-q857618
+    role: primary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Battle of Yarkand
+  zh: 叶尔羌战役
+importHash: e3c8a478e7e1

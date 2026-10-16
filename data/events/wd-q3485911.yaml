@@ -1,0 +1,30 @@
+id: wd-q3485911
+title:
+  zh-TW: Siege of Kunduz
+  en: Siege of Kunduz
+summary:
+  zh-TW: 2001 military operation
+  en: 2001 military operation
+start:
+  year: 2001
+  month: 11
+  day: 20
+end:
+  year: 2001
+  month: 11
+  day: 23
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3485911
+locations:
+  - place: wd-q3485911-site
+    role: primary
+  - place: wd-q108155
+    role: secondary
+wikipedia:
+  en: Siege of Kunduz
+importHash: d88ac300d602

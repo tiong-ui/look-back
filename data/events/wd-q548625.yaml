@@ -1,0 +1,27 @@
+id: wd-q548625
+title:
+  zh-TW: Battle of Maiwand
+  en: Battle of Maiwand
+summary:
+  zh-TW: 1880 battle of the Second Anglo-Afghan War
+  en: 1880 battle of the Second Anglo-Afghan War
+start:
+  year: 1880
+  month: 7
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q548625
+locations:
+  - place: wd-q548625-site
+    role: primary
+  - place: wd-q826769
+    role: secondary
+wikipedia:
+  en: Battle of Maiwand
+importHash: 634f61a27aed

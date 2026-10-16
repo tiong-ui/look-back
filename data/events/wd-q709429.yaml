@@ -1,0 +1,27 @@
+id: wd-q709429
+title:
+  zh-TW: 平津作戰
+  en: Battle of Beiping–Tianjin
+summary:
+  zh-TW: 1937 battle of the Second Sino-Japanese War
+  en: 1937 battle of the Second Sino-Japanese War
+start:
+  year: 1937
+  month: 8
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q709429
+locations:
+  - place: wd-q17579219
+    role: primary
+  - place: wd-q46451010
+    role: secondary
+wikipedia:
+  en: Battle of Beiping–Tianjin
+  zh: 平津作战
+importHash: 6797348f5638

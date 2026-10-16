@@ -1,0 +1,25 @@
+id: wd-q18356964
+title:
+  zh-TW: 廊坊阻擊戰
+  en: Battle of Langfang
+summary:
+  zh-TW: Seymour Expedition 1900
+  en: Seymour Expedition 1900
+start:
+  year: 1900
+  month: 6
+  day: 18
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q18356964
+locations:
+  - place: wd-q58710
+    role: primary
+wikipedia:
+  en: Battle of Langfang
+  zh: 廊坊阻击战
+importHash: 572830c653a0

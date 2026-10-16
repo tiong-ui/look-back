@@ -1,0 +1,25 @@
+id: wd-q2744133
+title:
+  zh-TW: 蒲甘之戰
+  en: Battle of Pagan
+summary:
+  zh-TW: 1287 battle in Southeast Asia
+  en: 1287 battle in Southeast Asia
+start:
+  year: 1287
+precision: year
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2744133
+locations:
+  - place: wd-q29317
+    role: primary
+relations:
+  - event: wd-q531916
+    type: part_of
+wikipedia:
+  en: Battle of Pagan
+importHash: f9d427f1b1de

@@ -1,0 +1,27 @@
+id: wd-q4870360
+title:
+  zh-TW: Battle of Attock
+  en: Battle of Attock
+summary:
+  zh-TW: 1813 battle of the Afghan-Sikh Wars
+  en: 1813 battle of the Afghan-Sikh Wars
+start:
+  year: 1813
+  month: 7
+  day: 13
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870360
+locations:
+  - place: wd-q4870360-site
+    role: primary
+relations:
+  - event: wd-q4689049
+    type: part_of
+wikipedia:
+  en: Battle of Attock (1813)
+importHash: 0c3e9133f947

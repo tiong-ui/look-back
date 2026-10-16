@@ -1,0 +1,25 @@
+id: wd-q136466492
+title:
+  zh-TW: 2025年達沃區地震
+  en: 2025 Davao Oriental earthquakes
+summary:
+  zh-TW: doublet earthquake in the Mindanao, Philippines
+  en: doublet earthquake in the Mindanao, Philippines
+start:
+  year: 2025
+  month: 10
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q136466492
+locations:
+  - place: wd-q136466492-site
+    role: primary
+wikipedia:
+  en: 2025 Davao Oriental earthquakes
+  zh: 2025年達沃區地震
+importHash: fdefb84fd350

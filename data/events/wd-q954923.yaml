@@ -1,0 +1,32 @@
+id: wd-q954923
+title:
+  zh-TW: 中都之戰
+  en: Siege of Zhongdu
+summary:
+  zh-TW: siege in 1215 between the Mongols and the Jurchen Jin Dynasty
+  en: siege in 1215 between the Mongols and the Jurchen Jin Dynasty
+start:
+  year: 1215
+end:
+  year: 1215
+  month: 6
+  day: 8
+precision: year
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q954923
+locations:
+  - place: wd-q954923-site
+    role: primary
+  - place: wd-q956
+    role: secondary
+relations:
+  - event: wd-q1014253
+    type: part_of
+wikipedia:
+  en: Sieges of Zhongdu
+  zh: 中都之战
+importHash: 86e89c84a47b

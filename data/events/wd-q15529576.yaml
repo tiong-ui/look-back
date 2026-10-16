@@ -1,0 +1,25 @@
+id: wd-q15529576
+title:
+  zh-TW: 柬埔寨示威
+  en: 2013–2014 Cambodian protests
+summary:
+  zh-TW: Cambodian anti-government protests in 2013 and 2014
+  en: Cambodian anti-government protests in 2013 and 2014
+start:
+  year: 2013
+  month: 7
+  day: 28
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q15529576
+locations:
+  - place: wd-q1850
+    role: primary
+wikipedia:
+  en: 2013–2014 Cambodian protests
+  zh: 2013年—2014年柬埔寨示威
+importHash: f067bfae0137

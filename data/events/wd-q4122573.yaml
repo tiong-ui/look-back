@@ -1,0 +1,27 @@
+id: wd-q4122573
+title:
+  zh-TW: Child's War
+  en: Child's War
+summary:
+  zh-TW: first Anglo-Indian war on the Indian subcontinent
+  en: first Anglo-Indian war on the Indian subcontinent
+start:
+  year: 1686
+  month: 1
+end:
+  year: 1690
+  month: 4
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4122573
+locations:
+  - place: wd-q60140
+    role: primary
+wikipedia:
+  en: Anglo-Mughal war (1686–1690)
+importHash: 3be81336e18f

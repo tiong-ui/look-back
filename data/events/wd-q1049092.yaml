@@ -1,0 +1,27 @@
+id: wd-q1049092
+title:
+  zh-TW: 2010年10月蘇門答臘地震
+  en: October 2010 Sumatra earthquake and tsunami
+summary:
+  zh-TW: magnitude 7.7 earthquake
+  en: magnitude 7.7 earthquake
+start:
+  year: 2010
+  month: 10
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q1049092
+locations:
+  - place: wd-q1049092-site
+    role: primary
+  - place: wd-q6038
+    role: secondary
+wikipedia:
+  en: 2010 Mentawai earthquake and tsunami
+  zh: 2010年10月苏门答腊地震
+importHash: 6e6aa50e0768

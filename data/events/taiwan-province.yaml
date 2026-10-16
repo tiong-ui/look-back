@@ -1,0 +1,24 @@
+id: taiwan-province
+title:
+  zh-TW: 臺灣建省
+  en: Taiwan becomes a province
+summary:
+  zh-TW: 清法戰爭後，清廷將臺灣自福建分出設省，首任巡撫劉銘傳推動鐵路、電報、清丈土地等建設，省會後來定於臺北。
+  en: After the Sino-French War the Qing split Taiwan from Fujian as its own province. The first governor, Liu Mingchuan, built railways and telegraphs and resurveyed land; the capital was later fixed at Taipei.
+start: 1885
+end: 1887
+precision: year
+categories:
+  - politics
+regions:
+  - taiwan
+importance: 3
+locations:
+  - place: taipei
+    role: primary
+relations:
+  - event: qing-rule-taiwan
+    type: part_of
+wikipedia:
+  en: Fujian-Taiwan Province
+  zh: 福建臺灣省

@@ -1,0 +1,25 @@
+id: wd-q179275
+title:
+  zh-TW: 巴基斯坦西北部戰爭
+  en: insurgency in Khyber Pakhtunkhwa
+summary:
+  zh-TW: 軍事衝突
+  en: armed conflict involving Pakistan and armed militant groups
+start:
+  year: 2004
+  month: 3
+  day: 16
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q179275
+locations:
+  - place: wd-q208270
+    role: primary
+wikipedia:
+  en: Insurgency in Khyber Pakhtunkhwa
+  zh: 巴基斯坦西北部战争
+importHash: ad065c86c06b

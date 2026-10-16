@@ -1,0 +1,25 @@
+id: wd-q11463399
+title:
+  zh-TW: 2015年小笠原群島地震
+  en: Bonin Islands 2015 earthquake
+summary:
+  zh-TW: Japanese seismic event
+  en: Japanese seismic event
+start:
+  year: 2015
+  month: 5
+  day: 30
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11463399
+locations:
+  - place: wd-q11463399-site
+    role: primary
+wikipedia:
+  en: 2015 Ogasawara earthquake
+  zh: 2015年小笠原群岛地震
+importHash: 936d9edd37ab

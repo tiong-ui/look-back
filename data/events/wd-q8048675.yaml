@@ -1,0 +1,24 @@
+id: wd-q8048675
+title:
+  zh-TW: 揚州十日
+  en: Yangzhou massacre
+summary:
+  zh-TW: 明末清初發生在中國揚州的大規模屠殺事件
+  en: 1645 mass killing of Chinese civilians by Manchu forces
+start:
+  year: 1645
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q8048675
+locations:
+  - place: wd-q57906
+    role: primary
+wikipedia:
+  en: Yangzhou massacre
+  zh: 扬州十日
+importHash: 0601934609ca

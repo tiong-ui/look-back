@@ -1,0 +1,32 @@
+id: wd-q471955
+title:
+  zh-TW: 第四次長沙會戰
+  en: Battle of Changsha
+summary:
+  zh-TW: 中日戰爭期間的一次大型戰役
+  en: Japanese invasion of Hunan, China during the Second Sino-Japanese War
+start:
+  year: 1944
+  month: 5
+  day: 27
+end:
+  year: 1944
+  month: 8
+  day: 8
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q471955
+locations:
+  - place: wd-q471955-site
+    role: primary
+  - place: wd-q45761
+    role: secondary
+wikipedia:
+  en: Battle of Changsha (1944)
+  zh: 第四次长沙会战
+importHash: 579de665f995

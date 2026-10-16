@@ -1,0 +1,25 @@
+id: wd-q4872906
+title:
+  zh-TW: 隘路戰役
+  en: Battle of the Defile
+summary:
+  zh-TW: 731 CE battle in present-day Uzbekistan
+  en: 731 CE battle in present-day Uzbekistan
+start:
+  year: 731
+  month: 7
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q4872906
+locations:
+  - place: wd-q4872906-site
+    role: primary
+wikipedia:
+  en: Battle of the Defile
+  zh: 塔赫塔卡拉查山口之战
+importHash: 344e7c89599f

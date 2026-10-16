@@ -1,0 +1,32 @@
+id: wd-q2888213
+title:
+  zh-TW: 分倍河原之戰
+  en: Battle of Bubaigawara
+summary:
+  zh-TW: 1333 battle in Japan
+  en: 1333 battle in Japan
+start:
+  year: 1333
+end:
+  year: 1333
+  month: 7
+  day: 6
+precision: year
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2888213
+locations:
+  - place: wd-q2888213-site
+    role: primary
+  - place: wd-q208818
+    role: secondary
+relations:
+  - event: wd-q1432624
+    type: part_of
+wikipedia:
+  en: Battle of Bubaigawara
+  zh: 分倍河原之戰 (鎌倉時代)
+importHash: 155f02f70819

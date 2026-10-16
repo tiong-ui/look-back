@@ -1,0 +1,27 @@
+id: wd-q4502462
+title:
+  zh-TW: 薩爾溫江戰役
+  en: Battle of the Salween River
+summary:
+  zh-TW: 1718 battle
+  en: 1718 battle
+start:
+  year: 1718
+  month: 9
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4502462
+locations:
+  - place: wd-q1012460
+    role: primary
+relations:
+  - event: wd-q6808293
+    type: part_of
+wikipedia:
+  en: Battle of the Salween River
+  zh: 喀喇乌苏之战
+importHash: 5d630b6e3bed

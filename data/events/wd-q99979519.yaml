@@ -1,0 +1,29 @@
+id: wd-q99979519
+title:
+  zh-TW: 2020年吉爾吉斯斯坦示威
+  en: 2020 Kyrgyz Revolution
+summary:
+  zh-TW: protests in response to the 2020 Kyrygz Parliamentary Election
+  en: protests in response to the 2020 Kyrygz Parliamentary Election
+start:
+  year: 2020
+  month: 10
+  day: 5
+end:
+  year: 2020
+  month: 10
+  day: 15
+precision: day
+categories:
+  - democracy
+regions:
+  - central-asia
+importance: 3
+wikidata: Q99979519
+locations:
+  - place: wd-q9361
+    role: primary
+wikipedia:
+  en: 2020 Kyrgyz Revolution
+  zh: 2020年吉尔吉斯斯坦示威
+importHash: d0d334807034

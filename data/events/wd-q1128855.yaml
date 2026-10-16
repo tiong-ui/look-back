@@ -1,0 +1,24 @@
+id: wd-q1128855
+title:
+  zh-TW: Operation Cobra's Anger
+  en: Operation Cobra's Anger
+summary:
+  zh-TW: 2009 military operation
+  en: 2009 military operation
+start:
+  year: 2009
+  month: 12
+  day: 12
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1128855
+locations:
+  - place: wd-q2456330
+    role: primary
+wikipedia:
+  en: Operation Cobra's Anger
+importHash: 7069679b03eb

@@ -1,0 +1,26 @@
+id: wd-q764177
+title:
+  zh-TW: 瓦院戰鬥
+  en: Battle of Wawon
+summary:
+  zh-TW: 1950 battle
+  en: 1950 battle
+start:
+  year: 1950
+end:
+  year: 1950
+  month: 11
+  day: 29
+precision: year
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q764177
+locations:
+  - place: wd-q764177-site
+    role: primary
+wikipedia:
+  en: Battle of Wawon
+importHash: c8ce047ab041

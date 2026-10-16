@@ -1,0 +1,25 @@
+id: wd-q28128756
+title:
+  zh-TW: 2017年印度特里普拉邦地震
+  en: 2017 Tripura earthquake
+summary:
+  zh-TW: January 2017 earthquake in India and Bangladesh
+  en: January 2017 earthquake in India and Bangladesh
+start:
+  year: 2017
+  month: 1
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q28128756
+locations:
+  - place: wd-q28128756-site
+    role: primary
+wikipedia:
+  en: 2017 Tripura earthquake
+  zh: 2017年印度特里普拉邦地震
+importHash: 8794f72e8132

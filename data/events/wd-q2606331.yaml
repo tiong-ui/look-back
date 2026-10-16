@@ -1,0 +1,26 @@
+id: wd-q2606331
+title:
+  zh-TW: Battle of Cuddalore
+  en: Battle of Cuddalore
+summary:
+  zh-TW: 1758 naval battle during the Seven Years' War
+  en: 1758 naval battle during the Seven Years' War
+start:
+  year: 1758
+  month: 4
+  day: 29
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2606331
+locations:
+  - place: wd-q2606331-site
+    role: primary
+  - place: wd-q639421
+    role: secondary
+wikipedia:
+  en: Battle of Cuddalore (1758)
+importHash: 47c91281c271

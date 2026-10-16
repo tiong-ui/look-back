@@ -1,0 +1,27 @@
+id: wd-q152033
+title:
+  zh-TW: 汶川大地震
+  en: 2008 Sichuan earthquake
+summary:
+  zh-TW: 發生於中國四川省的地震
+  en: earthquake in China
+start:
+  year: 2008
+  month: 5
+  day: 12
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 4
+wikidata: Q152033
+locations:
+  - place: wd-q152033-site
+    role: primary
+  - place: wd-q19770
+    role: secondary
+wikipedia:
+  en: 2008 Sichuan earthquake
+  zh: 汶川大地震
+importHash: d220103f47bd

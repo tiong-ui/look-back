@@ -1,0 +1,35 @@
+id: wd-q487076
+title:
+  zh-TW: 春祿戰役
+  en: Battle of Xuan Loc
+summary:
+  zh-TW: The last major battle of the Vietnam War before the Fall of Saigon in 1975
+  en: The last major battle of the Vietnam War before the Fall of Saigon in 1975
+start:
+  year: 1975
+  month: 4
+  day: 9
+end:
+  year: 1975
+  month: 4
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q487076
+locations:
+  - place: wd-q487076-site
+    role: primary
+  - place: wd-q5258599
+    role: secondary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of Xuân Lộc
+  zh: 春祿戰役
+importHash: 08ce4e355aa7

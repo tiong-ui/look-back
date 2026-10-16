@@ -1,0 +1,29 @@
+id: wd-q1326831
+title:
+  zh-TW: 靖康之變
+  en: Jingkang Incident
+summary:
+  zh-TW: 金朝攻陷開封致使北宋滅亡的一場戰爭
+  en: 1125 battle
+start:
+  year: 1125
+  month: 9
+end:
+  year: 1127
+  month: 3
+  day: 8
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1326831
+locations:
+  - place: wd-q208471
+    role: primary
+wikipedia:
+  en: Jingkang incident
+  zh: 靖康之变
+importHash: 479f0e54c122

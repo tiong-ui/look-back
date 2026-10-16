@@ -1,0 +1,26 @@
+id: wd-q5783195
+title:
+  zh-TW: 巴拉希薩爾起義
+  en: Bala Hissar uprising
+summary:
+  zh-TW: 1979 insurrection attempt in Kabul, Afghanistan
+  en: 1979 insurrection attempt in Kabul, Afghanistan
+start:
+  year: 1979
+  month: 8
+  day: 5
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q5783195
+locations:
+  - place: wd-q5838
+    role: primary
+wikipedia:
+  en: Bala Hissar uprising
+  zh: 巴拉希萨尔起义
+importHash: 1a9c8107b14d

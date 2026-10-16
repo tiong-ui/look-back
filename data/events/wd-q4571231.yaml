@@ -1,0 +1,25 @@
+id: wd-q4571231
+title:
+  zh-TW: 1963年蘇澳地震
+  en: 1963 Su-ao earthquake
+summary:
+  zh-TW: Earthquake in Taiwan
+  en: Earthquake in Taiwan
+start:
+  year: 1963
+  month: 2
+  day: 13
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q4571231
+locations:
+  - place: wd-q4571231-site
+    role: primary
+wikipedia:
+  en: 1963 Su-ao earthquake
+  zh: 1963年蘇澳地震
+importHash: 6097a7d10d7b

@@ -1,0 +1,25 @@
+id: wd-q4871164
+title:
+  zh-TW: Battle of Gujrat
+  en: Battle of Gujrat
+summary:
+  zh-TW: 1849 battle of the Anglo-Sikh War
+  en: 1849 battle of the Anglo-Sikh War
+start:
+  year: 1849
+  month: 2
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4871164
+locations:
+  - place: wd-q929062
+    role: primary
+wikipedia:
+  en: Battle of Gujrat
+importHash: b7b607f4695a

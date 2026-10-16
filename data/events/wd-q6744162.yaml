@@ -1,0 +1,27 @@
+id: wd-q6744162
+title:
+  zh-TW: 馬連戰役
+  en: Mallian Campaign
+summary:
+  zh-TW: military campaign conducted by Alexander the Great from November 326 to February 325 BCE against the Malli of the eastern Punjab
+  en: military campaign conducted by Alexander the Great from November 326 to February 325 BCE against the Malli of the eastern Punjab
+start:
+  year: -325
+  month: 11
+end:
+  year: -324
+  month: 2
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q6744162
+locations:
+  - place: wd-q6744162-site
+    role: primary
+wikipedia:
+  en: Mallian campaign
+importHash: 161c75e3dfd8

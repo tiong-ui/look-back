@@ -1,0 +1,24 @@
+id: wd-q5942155
+title:
+  zh-TW: 1986年花蓮地震
+  en: 1986 Hualien earthquake
+summary:
+  zh-TW: 1986年花蓮地震
+start:
+  year: 1986
+  month: 11
+  day: 15
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q5942155
+locations:
+  - place: wd-q5942155-site
+    role: primary
+wikipedia:
+  en: 1986 Hualien earthquake
+  zh: 1986年花蓮地震
+importHash: c3ed0ea71e43

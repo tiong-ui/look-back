@@ -1,0 +1,23 @@
+id: wd-q15991247
+title:
+  zh-TW: 北京公約
+  en: Beijing Convention
+summary:
+  zh-TW: 2010年航空公約
+  en: 2010 multilateral aviation treaty
+start:
+  year: 2010
+precision: year
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q15991247
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Beijing Convention
+  zh: 北京公约
+importHash: e64373b860fb

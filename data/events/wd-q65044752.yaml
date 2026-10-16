@@ -1,0 +1,25 @@
+id: wd-q65044752
+title:
+  zh-TW: Therhi Massacre
+  en: Therhi Massacre
+summary:
+  zh-TW: 1963 massacre of Shias in Pakistan
+  en: 1963 massacre of Shias in Pakistan
+start:
+  year: 1963
+  month: 6
+  day: 3
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q65044752
+locations:
+  - place: wd-q7782982
+    role: primary
+wikipedia:
+  en: Therhi massacre
+importHash: 83495bbfd917

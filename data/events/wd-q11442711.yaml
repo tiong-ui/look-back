@@ -1,0 +1,25 @@
+id: wd-q11442711
+title:
+  zh-TW: 天正地震
+  en: 1586 Tenshō earthquake
+summary:
+  zh-TW: Earthquake in Japan
+  en: Earthquake in Japan
+start:
+  year: 1586
+  month: 1
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11442711
+locations:
+  - place: wd-q11442711-site
+    role: primary
+wikipedia:
+  en: 1586 Tenshō earthquake
+  zh: 天正地震
+importHash: b4cbd357fe9c

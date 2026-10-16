@@ -1,0 +1,23 @@
+id: wd-q3274982
+title:
+  zh-TW: 金崎之戰
+  en: Siege of Kanegasaki
+summary:
+  zh-TW: 1570 siege
+  en: 1570 siege
+start:
+  year: 1570
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q3274982
+locations:
+  - place: wd-q11646283
+    role: primary
+wikipedia:
+  en: Siege of Kanegasaki (1570)
+  zh: 金崎之戰
+importHash: 4e46fa66eccc

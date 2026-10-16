@@ -1,0 +1,24 @@
+id: wd-q7888196
+title:
+  zh-TW: 朝英通商條約
+  en: United Kingdom–Korea Treaty of 1883
+summary:
+  zh-TW: 1883 treaty between the United Kingdom and Korea
+  en: 1883 treaty between the United Kingdom and Korea
+start:
+  year: 1883
+  month: 11
+  day: 26
+precision: day
+categories:
+  - diplomacy
+regions:
+  - korea
+importance: 1
+wikidata: Q7888196
+locations:
+  - place: wd-q8684
+    role: primary
+wikipedia:
+  en: Korea–United Kingdom Treaty of 1883
+importHash: e92f829fde48

@@ -1,0 +1,24 @@
+id: wd-q2978493
+title:
+  zh-TW: 基安地條約
+  en: Treaty of Giyanti
+summary:
+  zh-TW: treaties that ended the third javanese succession war
+  en: treaties that ended the third javanese succession war
+start:
+  year: 1755
+  month: 2
+  day: 13
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2978493
+locations:
+  - place: wd-q4269340
+    role: primary
+wikipedia:
+  en: Treaty of Giyanti
+importHash: e7dc0cb8f419

@@ -1,0 +1,23 @@
+id: wd-q15436846
+title:
+  zh-TW: 天正伊賀之亂
+  en: Tenshō Iga War
+summary:
+  zh-TW: invasions of Iga province by forces under Oda Nobunaga
+  en: invasions of Iga province by forces under Oda Nobunaga
+start:
+  year: 1579
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q15436846
+locations:
+  - place: wd-q1047128
+    role: primary
+wikipedia:
+  en: Tenshō Iga War
+  zh: 天正伊贺之乱
+importHash: da0bb836d288

@@ -1,0 +1,23 @@
+id: wd-q86347874
+title:
+  zh-TW: 2020年德里騷亂
+  en: 2020 Delhi riots
+summary:
+  zh-TW: series of riots and violent incidents in North East Delhi, India
+  en: series of riots and violent incidents in North East Delhi, India
+start:
+  year: 2020
+precision: year
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q86347874
+locations:
+  - place: wd-q86347874-site
+    role: primary
+wikipedia:
+  en: 2020 Delhi riots
+  zh: 2020年德里騷亂
+importHash: f7da2b03aca6

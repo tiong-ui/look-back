@@ -1,0 +1,28 @@
+id: wd-q2887875
+title:
+  zh-TW: Siege of Arcot
+  en: Siege of Arcot
+summary:
+  zh-TW: 1751 siege
+  en: 1751 siege
+start:
+  year: 1751
+  month: 9
+  day: 23
+end:
+  year: 1751
+  month: 11
+  day: 14
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2887875
+locations:
+  - place: wd-q589185
+    role: primary
+wikipedia:
+  en: Siege of Arcot
+importHash: d88219d7da57

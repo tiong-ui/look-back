@@ -1,0 +1,23 @@
+id: wd-q738843
+title:
+  zh-TW: 1897年阿薩姆地震
+  en: 1897 Assam earthquake
+summary:
+  zh-TW: Earthquake in India
+  en: Earthquake in India
+start:
+  year: 1897
+precision: year
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q738843
+locations:
+  - place: wd-q738843-site
+    role: primary
+wikipedia:
+  en: 1897 Assam earthquake
+  zh: 1897年阿薩姆地震
+importHash: a1be678b62d9

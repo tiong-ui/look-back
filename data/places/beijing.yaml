@@ -1,0 +1,14 @@
+id: beijing
+lng: 116.4
+lat: 39.9
+names:
+  - zh-TW: 幽州
+    en: Youzhou
+    to: 1152
+  - zh-TW: 大都
+    en: Khanbaliq (Dadu)
+    from: 1267
+    to: 1367
+  - zh-TW: 北京
+    en: Beijing
+    from: 1403

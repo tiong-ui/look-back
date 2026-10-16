@@ -1,0 +1,35 @@
+id: wd-q233583
+title:
+  zh-TW: 第二次印巴戰爭
+  en: Indo-Pakistani War of 1965
+summary:
+  zh-TW: 1965年戰爭
+  en: 1965 war over Kashmir
+start:
+  year: 1965
+  month: 8
+end:
+  year: 1965
+  month: 9
+  day: 23
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q233583
+locations:
+  - place: wd-q37211
+    role: primary
+  - place: wd-q1437
+    role: secondary
+  - place: wd-q43100
+    role: secondary
+relations:
+  - event: wd-q1413732
+    type: part_of
+wikipedia:
+  en: India–Pakistan war of 1965
+  zh: 第二次印巴战争
+importHash: a47f7982530b

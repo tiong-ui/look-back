@@ -1,0 +1,25 @@
+id: wd-q696094
+title:
+  zh-TW: 尼布楚條約
+  en: Treaty of Nerchinsk
+summary:
+  zh-TW: 邊界條約
+  en: border treaty between the Tsardom of Russia and the Qing Empire (1689)
+start:
+  year: 1689
+  month: 9
+  day: 6
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 4
+wikidata: Q696094
+locations:
+  - place: wd-q146043
+    role: primary
+wikipedia:
+  en: Treaty of Nerchinsk
+  zh: 尼布楚條約
+importHash: 885f1615ed98

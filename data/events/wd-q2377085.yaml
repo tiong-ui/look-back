@@ -1,0 +1,24 @@
+id: wd-q2377085
+title:
+  zh-TW: 日英修好通商條約
+  en: Anglo-Japanese Treaty of Amity and Commerce
+summary:
+  zh-TW: 1858 treaty between the United Kingdom and Japan
+  en: 1858 treaty between the United Kingdom and Japan
+start:
+  year: 1858
+  month: 8
+  day: 26
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 1
+wikidata: Q2377085
+locations:
+  - place: wd-q215646
+    role: primary
+wikipedia:
+  en: Anglo-Japanese Treaty of Amity and Commerce
+importHash: 7fb7f6c9ad21

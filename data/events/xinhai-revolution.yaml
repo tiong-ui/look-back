@@ -1,0 +1,30 @@
+id: xinhai-revolution
+title:
+  zh-TW: 辛亥革命與中華民國成立
+  en: Xinhai Revolution and founding of the ROC
+summary:
+  zh-TW: 武昌起義引發各省響應，推翻清朝，1912年1月1日中華民國於南京成立。當時臺灣正處於日本統治下。
+  en: The Wuchang Uprising spread to other provinces and overthrew the Qing; the Republic of China was founded in Nanjing on 1 January 1912. Taiwan was under Japanese rule at the time.
+start:
+  year: 1911
+  month: 10
+  day: 10
+end:
+  year: 1912
+  month: 1
+  day: 1
+precision: day
+categories:
+  - politics
+  - war
+regions:
+  - china
+importance: 5
+locations:
+  - place: wuchang
+    role: primary
+  - place: nanjing
+    role: secondary
+wikipedia:
+  en: 1911 Revolution
+  zh: 辛亥革命

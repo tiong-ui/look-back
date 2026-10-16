@@ -1,0 +1,27 @@
+id: wd-q4871255
+title:
+  zh-TW: 霍邑之戰
+  en: Battle of Huoyi
+summary:
+  zh-TW: battle fought in China in 617
+  en: battle fought in China in 617
+start:
+  year: 617
+  month: 9
+  day: 11
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4871255
+locations:
+  - place: wd-q4871255-site
+    role: primary
+  - place: wd-q73156
+    role: secondary
+wikipedia:
+  en: Battle of Huoyi
+  zh: 霍邑之战
+importHash: a9a96a7cc84a

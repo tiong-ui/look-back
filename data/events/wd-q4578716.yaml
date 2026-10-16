@@ -1,0 +1,30 @@
+id: wd-q4578716
+title:
+  zh-TW: 1979年赫拉特叛亂
+  en: 1979 Herat uprising
+summary:
+  zh-TW: rebellion in Afghanistan
+  en: rebellion in Afghanistan
+start:
+  year: 1979
+  month: 3
+  day: 20
+end:
+  year: 1979
+  month: 3
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4578716
+locations:
+  - place: wd-q182844
+    role: primary
+wikipedia:
+  en: 1979 Herat uprising
+  zh: 1979年赫拉特起义
+importHash: 3f4e7b04d6b9

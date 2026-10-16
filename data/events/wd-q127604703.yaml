@@ -1,0 +1,26 @@
+id: wd-q127604703
+title:
+  zh-TW: Mughal–Safavid War
+  en: Mughal–Safavid War
+summary:
+  zh-TW: 1637–1638 war
+  en: 1637–1638 war
+start:
+  year: 1637
+end:
+  year: 1638
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q127604703
+locations:
+  - place: wd-q45604
+    role: primary
+wikipedia:
+  en: Mughal–Safavid War (1637–1638)
+importHash: 3ade18c1d9ea

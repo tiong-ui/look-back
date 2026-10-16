@@ -1,0 +1,30 @@
+id: wd-q4871945
+title:
+  zh-TW: 溫井戰鬥
+  en: Battle of Onjong
+summary:
+  zh-TW: 中國人民志願軍參加的第一場戰鬥
+  en: 1950 battle between Chinese and United Nations forces
+start:
+  year: 1950
+  month: 10
+  day: 25
+end:
+  year: 1950
+  month: 10
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4871945
+locations:
+  - place: wd-q4871945-site
+    role: primary
+wikipedia:
+  en: Battle of Onjong
+  zh: 温井战斗
+importHash: a0ec4fe429a5

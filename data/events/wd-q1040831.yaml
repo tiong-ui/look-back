@@ -1,0 +1,29 @@
+id: wd-q1040831
+title:
+  zh-TW: 天狗黨之亂
+  en: Mito Rebellion
+summary:
+  zh-TW: rebellion against the Shogunate 1864-65
+  en: rebellion against the Shogunate 1864-65
+start:
+  year: 1865
+  month: 1
+end:
+  year: 1865
+  month: 1
+  day: 14
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1040831
+locations:
+  - place: wd-q1754619
+    role: primary
+wikipedia:
+  en: Mito Rebellion
+  zh: 天狗黨之亂
+importHash: 156629eba23c

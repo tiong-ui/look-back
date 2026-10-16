@@ -1,0 +1,29 @@
+id: wd-q1207697
+title:
+  zh-TW: 靖難之役
+  en: Jingnan Campaign
+summary:
+  zh-TW: 建文帝與燕王朱棣為爭奪帝位而爆發的內戰
+  en: civil war early in the Ming dynasty (1399-1402)
+start:
+  year: 1399
+  month: 8
+  day: 16
+end:
+  year: 1402
+  month: 7
+  day: 22
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q1207697
+locations:
+  - place: wd-q147304
+    role: primary
+wikipedia:
+  en: Jingnan campaign
+  zh: 靖难之役
+importHash: a3bde0b9e82b

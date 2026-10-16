@@ -1,0 +1,31 @@
+id: wd-q4872294
+title:
+  zh-TW: Battle of Shangshak
+  en: Battle of Shangshak
+summary:
+  zh-TW: battle of the 1944 Burma campaign during World War II
+  en: battle of the 1944 Burma campaign during World War II
+start:
+  year: 1944
+  month: 3
+  day: 26
+end:
+  year: 1944
+  month: 3
+  day: 26
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4872294
+locations:
+  - place: wd-q4872294-site
+    role: primary
+relations:
+  - event: wd-q707238
+    type: part_of
+wikipedia:
+  en: Battle of Shangshak
+importHash: 90c0a0ed5ae2

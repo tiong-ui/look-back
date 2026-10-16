@@ -1,0 +1,30 @@
+id: wd-q696448
+title:
+  zh-TW: 豫湘桂會戰
+  en: Operation Ichi-Go
+summary:
+  zh-TW: 1944 military campaign
+  en: 1944 military campaign
+start:
+  year: 1944
+  month: 4
+  day: 19
+end:
+  year: 1944
+  month: 12
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q696448
+locations:
+  - place: wd-q1038564
+    role: primary
+wikipedia:
+  en: Operation Ichi-Go
+  zh: 豫湘桂会战
+importHash: 2f1680802dd3

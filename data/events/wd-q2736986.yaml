@@ -1,0 +1,30 @@
+id: wd-q2736986
+title:
+  zh-TW: Battle of Karnal
+  en: Battle of Karnal
+summary:
+  zh-TW: 1739 part of the Persian Invasion of India
+  en: 1739 part of the Persian Invasion of India
+start:
+  year: 1739
+  month: 2
+  day: 24
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q2736986
+locations:
+  - place: wd-q2736986-site
+    role: primary
+  - place: wd-q256194
+    role: secondary
+relations:
+  - event: wd-q6957844
+    type: part_of
+wikipedia:
+  en: Battle of Karnal
+importHash: 000c12153768

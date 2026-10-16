@@ -1,0 +1,24 @@
+id: wd-q2446765
+title:
+  zh-TW: 佐賀亂起
+  en: Saga Rebellion
+summary:
+  zh-TW: 日本明治時期的叛亂
+  en: 1874 anti-Meiji uprising in Japan
+start:
+  year: 1874
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q2446765
+locations:
+  - place: wd-q160420
+    role: primary
+wikipedia:
+  en: Saga Rebellion
+  zh: 佐賀之亂
+importHash: 52c3da99be8b

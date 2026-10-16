@@ -1,0 +1,32 @@
+id: wd-q1047602
+title:
+  zh-TW: 寧遠之戰
+  en: Battle of Ningyuan
+summary:
+  zh-TW: 1626 battle
+  en: 1626 battle
+start:
+  year: 1626
+  month: 2
+  day: 2
+end:
+  year: 1626
+  month: 2
+  day: 10
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q1047602
+locations:
+  - place: wd-q1375638
+    role: primary
+relations:
+  - event: wd-q3427966
+    type: part_of
+wikipedia:
+  en: Battle of Ningyuan
+  zh: 宁远之战
+importHash: 064f31372d74

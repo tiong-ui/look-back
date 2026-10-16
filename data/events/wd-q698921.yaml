@@ -1,0 +1,25 @@
+id: wd-q698921
+title:
+  zh-TW: 2006年恆春地震
+  en: 2006 Hengchun earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2006
+  month: 12
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q698921
+locations:
+  - place: wd-q698921-site
+    role: primary
+wikipedia:
+  en: 2006 Hengchun earthquakes
+  zh: 2006年恆春地震
+importHash: b47eb08b121b

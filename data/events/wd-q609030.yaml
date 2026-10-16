@@ -1,0 +1,32 @@
+id: wd-q609030
+title:
+  zh-TW: 貝里琉戰役
+  en: Battle of Peleliu
+summary:
+  zh-TW: 二戰戰役
+  en: 1944 battle between the United States and the Empire of Japan in the Pacific Theater of World War II
+start:
+  year: 1944
+  month: 11
+  day: 27
+end:
+  year: 1944
+  month: 11
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q609030
+locations:
+  - place: wd-q609030-site
+    role: primary
+  - place: wd-q497981
+    role: secondary
+wikipedia:
+  en: Battle of Peleliu
+  zh: 貝里琉戰役
+importHash: 5afc87466028

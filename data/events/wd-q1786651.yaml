@@ -1,0 +1,28 @@
+id: wd-q1786651
+title:
+  zh-TW: Kraras Massacre
+  en: Kraras Massacre
+summary:
+  zh-TW: 1983 massacre in East Timor
+  en: 1983 massacre in East Timor
+start:
+  year: 1983
+  month: 8
+end:
+  year: 1983
+  month: 9
+  day: 1
+precision: month
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1786651
+locations:
+  - place: wd-q15057167
+    role: primary
+wikipedia:
+  en: Kraras massacre
+importHash: 6b1d0db25f21

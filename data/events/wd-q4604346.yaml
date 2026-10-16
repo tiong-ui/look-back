@@ -1,0 +1,25 @@
+id: wd-q4604346
+title:
+  zh-TW: 福岡縣西方海域地震
+  en: 2005 Fukuoka earthquake
+summary:
+  zh-TW: 福岡縣西方沖地震
+  en: earthquake in Japan
+start:
+  year: 2005
+  month: 3
+  day: 20
+precision: day
+categories:
+  - disaster
+regions:
+  - korea
+importance: 2
+wikidata: Q4604346
+locations:
+  - place: wd-q4604346-site
+    role: primary
+wikipedia:
+  en: 2005 Fukuoka earthquake
+  zh: 2005年福冈地震
+importHash: 62903f0e6955

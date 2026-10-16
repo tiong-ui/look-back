@@ -1,0 +1,33 @@
+id: wd-q7510143
+title:
+  zh-TW: 鎌倉之戰 (元弘之亂)
+  en: Siege of Kamakura
+summary:
+  zh-TW: 1333 siege
+  en: 1333 siege
+start:
+  year: 1333
+  month: 7
+  day: 13
+end:
+  year: 1333
+  month: 7
+  day: 5
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510143
+locations:
+  - place: wd-q7510143-site
+    role: primary
+  - place: wd-q200267
+    role: secondary
+relations:
+  - event: wd-q1432624
+    type: part_of
+wikipedia:
+  en: Siege of Kamakura (1333)
+importHash: 51bd75d1c57e

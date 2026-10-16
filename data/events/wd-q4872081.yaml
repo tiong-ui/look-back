@@ -1,0 +1,30 @@
+id: wd-q4872081
+title:
+  zh-TW: 石峴洞北山戰鬥
+  en: Battle of Pork Chop Hill
+summary:
+  zh-TW: 1953 pair of Korean War battles
+  en: 1953 pair of Korean War battles
+start:
+  year: 1953
+  month: 7
+  day: 11
+end:
+  year: 1953
+  month: 7
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4872081
+locations:
+  - place: wd-q4872081-site
+    role: primary
+wikipedia:
+  en: Battle of Pork Chop Hill
+  zh: 石峴洞北山戰鬥
+importHash: 57d4e449d442

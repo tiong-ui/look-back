@@ -1,0 +1,27 @@
+id: wd-q3477170
+title:
+  zh-TW: 斯瓦特縣第二次戰爭
+  en: Second Battle of Swat
+summary:
+  zh-TW: 2009 conflict between Pakistan and Taliban insurgents
+  en: 2009 conflict between Pakistan and Taliban insurgents
+start:
+  year: 2009
+  month: 7
+  day: 15
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3477170
+locations:
+  - place: wd-q389161
+    role: primary
+relations:
+  - event: wd-q179275
+    type: part_of
+wikipedia:
+  en: Second Battle of Swat
+importHash: 5077598bdbd2

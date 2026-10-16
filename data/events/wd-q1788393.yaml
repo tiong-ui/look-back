@@ -1,0 +1,31 @@
+id: wd-q1788393
+title:
+  zh-TW: 城山戰役
+  en: Battle of Shiroyama
+summary:
+  zh-TW: 1877 last stand of the Samurai
+  en: 1877 last stand of the Samurai
+start:
+  year: 1877
+  month: 9
+  day: 24
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q1788393
+locations:
+  - place: wd-q1788393-site
+    role: primary
+  - place: wd-q3862015
+    role: secondary
+relations:
+  - event: wd-q714820
+    type: part_of
+wikipedia:
+  en: Battle of Shiroyama
+  zh: 城山之战
+importHash: 94d38c8bae8c

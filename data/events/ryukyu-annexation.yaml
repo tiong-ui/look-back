@@ -1,0 +1,20 @@
+id: ryukyu-annexation
+title:
+  zh-TW: 琉球處分
+  en: Annexation of Ryukyu
+summary:
+  zh-TW: 日本廢除琉球王國，改設沖繩縣，結束琉球四百多年的王國歷史。
+  en: Japan abolished the Ryukyu Kingdom and made it Okinawa Prefecture, ending more than four centuries of the kingdom.
+start: 1879
+precision: year
+categories:
+  - politics
+regions:
+  - japan
+importance: 3
+locations:
+  - place: shuri
+    role: primary
+wikipedia:
+  en: Ryukyu Disposition
+  zh: 琉球处分

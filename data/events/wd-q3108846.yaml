@@ -1,0 +1,25 @@
+id: wd-q3108846
+title:
+  zh-TW: 甕安騷亂
+  en: 2008 Weng'an riot
+summary:
+  zh-TW: 2008年貴州甕安縣群體性事件
+  en: riot in China
+start:
+  year: 2008
+  month: 6
+  day: 28
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q3108846
+locations:
+  - place: wd-q1346556
+    role: primary
+wikipedia:
+  en: 2008 Weng'an riot
+  zh: 2008年瓮安骚乱
+importHash: 53160a690961

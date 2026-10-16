@@ -1,0 +1,27 @@
+id: wd-q1113509
+title:
+  zh-TW: 天目山之戰
+  en: Battle of Tenmokuzan
+summary:
+  zh-TW: 1582 battle of Tenmokuzan (天目山の戦い, Tenmokuzan no Tatakai) in Japan, also known as the Battle of Toriibata, is regarded as the last stand of the Takeda clan.
+  en: 1582 battle of Tenmokuzan (天目山の戦い, Tenmokuzan no Tatakai) in Japan, also known as the Battle of Toriibata, is regarded as the last stand of the Takeda clan.
+start:
+  year: 1582
+  month: 4
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1113509
+locations:
+  - place: wd-q1113509-site
+    role: primary
+  - place: wd-q24891669
+    role: secondary
+wikipedia:
+  en: Battle of Tenmokuzan
+importHash: 6c3e5ad0c113

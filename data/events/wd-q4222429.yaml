@@ -1,0 +1,27 @@
+id: wd-q4222429
+title:
+  zh-TW: 康藏邊界糾紛
+  en: Sino–Tibetan War
+summary:
+  zh-TW: war between China and Tibet in early 1930s
+  en: war between China and Tibet in early 1930s
+start:
+  year: 1930
+end:
+  year: 1932
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q4222429
+locations:
+  - place: wd-q45833
+    role: primary
+wikipedia:
+  en: Sino-Tibetan War of 1930–1932
+  zh: 康藏纠纷
+importHash: 8a9f8897cb97

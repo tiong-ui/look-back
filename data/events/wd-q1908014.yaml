@@ -1,0 +1,27 @@
+id: wd-q1908014
+title:
+  zh-TW: Mat Salleh Rebellion
+  en: Mat Salleh Rebellion
+summary:
+  zh-TW: 1894–1905 rebellion against British colonial rule in North Borneo
+  en: 1894–1905 rebellion against British colonial rule in North Borneo
+start:
+  year: 1894
+end:
+  year: 1905
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1908014
+locations:
+  - place: wd-q179029
+    role: primary
+wikipedia:
+  en: Mat Salleh Rebellion
+importHash: 838cc5846b3f

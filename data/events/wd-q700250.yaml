@@ -1,0 +1,30 @@
+id: wd-q700250
+title:
+  zh-TW: 崑崙關戰役
+  en: Battle of Kunlun Pass
+summary:
+  zh-TW: 1939 battle
+  en: 1939 battle
+start:
+  year: 1939
+  month: 12
+  day: 18
+end:
+  year: 1940
+  month: 1
+  day: 11
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q700250
+locations:
+  - place: wd-q179608
+    role: primary
+wikipedia:
+  en: Battle of Kunlun Pass
+  zh: 昆仑关战役
+importHash: 75d785443f96

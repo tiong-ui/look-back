@@ -1,0 +1,22 @@
+id: wd-q2017254
+title:
+  zh-TW: 1560年小田原城之戰
+  en: Siege of Odawara
+summary:
+  zh-TW: "1561"
+  en: "1561"
+start:
+  year: 1561
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q2017254
+locations:
+  - place: wd-q1013437
+    role: primary
+wikipedia:
+  en: Siege of Odawara (1561)
+importHash: aa01c78cfb30

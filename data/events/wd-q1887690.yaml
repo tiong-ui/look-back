@@ -1,0 +1,22 @@
+id: wd-q1887690
+title:
+  zh-TW: 粟特巖山戰役
+  en: Siege of the Sogdian Rock
+summary:
+  zh-TW: 位於索格達安娜州細菌群落以北的堡壘（在撒馬爾罕附近），在公元前327年早春被亞歷山大大帝的部隊攻佔，這是他征服阿契美尼德帝國的一部分
+  en: fortress located north of Bactria in Sogdiana (near Samarkand), was captured by the forces of Alexander the Great in the early spring of 327 BC as part of his conquest of the Achaemenid Empire
+start:
+  year: -326
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q1887690
+locations:
+  - place: wd-q1887690-site
+    role: primary
+wikipedia:
+  en: Siege of the Sogdian Rock
+importHash: 6d544e519748

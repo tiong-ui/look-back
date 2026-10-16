@@ -1,0 +1,25 @@
+id: wd-q867691
+title:
+  zh-TW: 2006年5月爪哇地震
+  en: May 2006 Java earthquake
+summary:
+  zh-TW: earthquake in Java, Indonesia
+  en: earthquake in Java, Indonesia
+start:
+  year: 2006
+  month: 5
+  day: 27
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q867691
+locations:
+  - place: wd-q867691-site
+    role: primary
+wikipedia:
+  en: 2006 Yogyakarta earthquake
+  zh: 2006年日惹地震
+importHash: 888c360e9e29

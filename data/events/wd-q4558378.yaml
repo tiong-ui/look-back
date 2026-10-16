@@ -1,0 +1,25 @@
+id: wd-q4558378
+title:
+  zh-TW: 1905年坎格拉地震
+  en: 1905 Kangra earthquake
+summary:
+  zh-TW: 1905年印度地震
+  en: earthquake struck Himachal Pradesh, India on April 4, 1905
+start:
+  year: 1905
+  month: 4
+  day: 4
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4558378
+locations:
+  - place: wd-q4558378-site
+    role: primary
+wikipedia:
+  en: 1905 Kangra earthquake
+  zh: 1905年坎格拉地震
+importHash: ed954c90fcda

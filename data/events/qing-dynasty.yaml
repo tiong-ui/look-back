@@ -1,0 +1,24 @@
+id: qing-dynasty
+title:
+  zh-TW: 清朝
+  en: Qing dynasty
+summary:
+  zh-TW: 滿洲人建立的王朝，1644年入關取代明朝，統治範圍擴及蒙古、新疆、西藏與臺灣，19世紀起在列強侵略與內亂中衰落，1912年滅亡。
+  en: A Manchu dynasty that replaced the Ming in 1644 and expanded into Mongolia, Xinjiang, Tibet and Taiwan. It declined in the 19th century under foreign pressure and internal revolt and fell in 1912.
+start: 1644
+end: 1912
+precision: year
+categories:
+  - dynasty
+regions:
+  - china
+importance: 5
+locations:
+  - place: beijing
+    role: primary
+relations:
+  - event: qing-rule-taiwan
+    type: has_part
+wikipedia:
+  en: Qing dynasty
+  zh: 清朝

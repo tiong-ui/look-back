@@ -1,0 +1,32 @@
+id: wd-q2663230
+title:
+  zh-TW: 2009年不丹地震
+  en: 2009 Bhutan earthquake
+summary:
+  zh-TW: 地震
+  en: magnitude 6.1 earthquake in Bhutan
+start:
+  year: 2009
+  month: 9
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+  - china
+importance: 1
+wikidata: Q2663230
+locations:
+  - place: wd-q2663230-site
+    role: primary
+  - place: wd-q1164
+    role: secondary
+  - place: wd-q5869
+    role: secondary
+  - place: wd-q199605
+    role: secondary
+wikipedia:
+  en: 2009 Bhutan earthquake
+  zh: 2009年不丹地震
+importHash: de85e9ba842a

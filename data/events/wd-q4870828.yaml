@@ -1,0 +1,25 @@
+id: wd-q4870828
+title:
+  zh-TW: 紙橋之役
+  en: Battle of Cầu Giấy
+summary:
+  zh-TW: 1883 battle
+  en: 1883 battle
+start:
+  year: 1883
+  month: 5
+  day: 19
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4870828
+locations:
+  - place: wd-q267015
+    role: primary
+wikipedia:
+  en: Battle of Cầu Giấy (1883)
+  zh: 紙橋郡戰役
+importHash: 7b7dd6c9c8ee

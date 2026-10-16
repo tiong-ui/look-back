@@ -1,0 +1,29 @@
+id: wd-q106647377
+title:
+  zh-TW: 2021年吉爾吉斯－塔吉克邊境衝突
+  en: 2021 Kyrgyzstan–Tajikistan clashes
+summary:
+  zh-TW: 2021 conflict between Kyrgyzstan and Tajikistan
+  en: 2021 conflict between Kyrgyzstan and Tajikistan
+start:
+  year: 2021
+  month: 4
+  day: 28
+end:
+  year: 2021
+  month: 5
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - central-asia
+importance: 3
+wikidata: Q106647377
+locations:
+  - place: wd-q3089109
+    role: primary
+wikipedia:
+  en: 2021 Kyrgyzstan–Tajikistan clashes
+  zh: 2021年吉爾吉斯—塔吉克邊境衝突
+importHash: 473971283d7a

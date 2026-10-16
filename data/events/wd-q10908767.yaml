@@ -1,0 +1,28 @@
+id: wd-q10908767
+title:
+  zh-TW: 南皮之戰
+  en: Battle of Nanpi
+summary:
+  zh-TW: battle between warlords Cao Cao and Yuan Tan (205)
+  en: battle between warlords Cao Cao and Yuan Tan (205)
+start:
+  year: 205
+  month: 1
+end:
+  year: 205
+  month: 2
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q10908767
+locations:
+  - place: wd-q175721
+    role: primary
+wikipedia:
+  en: Battle of Nanpi
+  zh: 南皮之战
+importHash: 7162594e9e72

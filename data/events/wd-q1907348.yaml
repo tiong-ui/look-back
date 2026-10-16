@@ -1,0 +1,28 @@
+id: wd-q1907348
+title:
+  zh-TW: 泰國法政大學屠殺事件
+  en: Thammasat University massacre
+summary:
+  zh-TW: 1976年10月5日至6日發生於泰國的屠殺事件
+  en: 1976 massacre in Thailand
+start:
+  year: 1976
+  month: 10
+  day: 6
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1907348
+locations:
+  - place: wd-q1907348-site
+    role: primary
+  - place: wd-q1209733
+    role: secondary
+wikipedia:
+  en: 6 October 1976 massacre
+  zh: 法政大學大屠殺
+importHash: 1f94588e8919

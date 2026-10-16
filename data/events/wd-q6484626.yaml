@@ -1,0 +1,25 @@
+id: wd-q6484626
+title:
+  zh-TW: 納扎布登陸戰
+  en: Landing at Nadzab
+summary:
+  zh-TW: WWII airborne landing of 1943
+  en: WWII airborne landing of 1943
+start:
+  year: 1943
+  month: 9
+  day: 5
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 1
+wikidata: Q6484626
+locations:
+  - place: wd-q3334996
+    role: primary
+wikipedia:
+  en: Landing at Nadzab
+importHash: a47b897b1beb

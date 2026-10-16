@@ -1,0 +1,28 @@
+id: wd-q4871272
+title:
+  zh-TW: 臨津江之戰 (1592年)
+  en: Battle of Imjin River
+summary:
+  zh-TW: battle of the 1592 Japanese invasion of Korea
+  en: battle of the 1592 Japanese invasion of Korea
+start:
+  year: 1592
+  month: 7
+  day: 7
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q4871272
+locations:
+  - place: wd-q4871272-site
+    role: primary
+  - place: wd-q495534
+    role: secondary
+wikipedia:
+  en: Battle of Imjin River (1592)
+  zh: 臨津江之戰 (1592年)
+importHash: b2c7ce096cfd

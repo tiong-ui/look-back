@@ -1,0 +1,29 @@
+id: wd-q7510145
+title:
+  zh-TW: Siege of Kandahar
+  en: Siege of Kandahar
+summary:
+  zh-TW: 1737–1738 siege
+  en: 1737–1738 siege
+start:
+  year: 1737
+  month: 4
+end:
+  year: 1738
+  month: 3
+  day: 24
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q7510145
+locations:
+  - place: wd-q7510145-site
+    role: primary
+  - place: wd-q7084310
+    role: secondary
+wikipedia:
+  en: Siege of Kandahar
+importHash: a1fe752b5cd6

@@ -1,0 +1,24 @@
+id: wd-q4614591
+title:
+  zh-TW: 2009年巴布亞地震
+  en: 2009 Papua earthquake
+summary:
+  zh-TW: very large doublet in West Papua
+  en: very large doublet in West Papua
+start:
+  year: 2009
+  month: 1
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4614591
+locations:
+  - place: wd-q4614591-site
+    role: primary
+wikipedia:
+  en: 2009 West Papua earthquakes
+importHash: 327a6e657dbc

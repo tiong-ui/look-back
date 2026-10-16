@@ -1,0 +1,27 @@
+id: wd-q370307
+title:
+  zh-TW: Battle of Kandahar
+  en: Battle of Kandahar
+summary:
+  zh-TW: 1880 battle
+  en: 1880 battle
+start:
+  year: 1880
+  month: 9
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q370307
+locations:
+  - place: wd-q370307-site
+    role: primary
+  - place: wd-q45604
+    role: secondary
+wikipedia:
+  en: Battle of Kandahar (1880)
+importHash: 728c69f87f50

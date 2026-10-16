@@ -1,0 +1,34 @@
+id: wd-q1018947
+title:
+  zh-TW: 野狐嶺戰役
+  en: Battle of Yehuling
+summary:
+  zh-TW: 1211 A battle of the Mongol conquest of the Jin dynasty
+  en: 1211 A battle of the Mongol conquest of the Jin dynasty
+start:
+  year: 1211
+  month: 8
+end:
+  year: 1211
+  month: 10
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1018947
+locations:
+  - place: wd-q1018947-site
+    role: primary
+  - place: wd-q58650
+    role: secondary
+relations:
+  - event: wd-q1014253
+    type: part_of
+wikipedia:
+  en: Yehuling Campaign
+  zh: 野狐嶺戰役
+importHash: a3d91f4947c2

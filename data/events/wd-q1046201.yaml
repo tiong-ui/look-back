@@ -1,0 +1,23 @@
+id: wd-q1046201
+title:
+  zh-TW: 備中高松城之戰
+  en: Siege of Takamatsu
+summary:
+  zh-TW: 1582 siege of a castle in Japan
+  en: 1582 siege of a castle in Japan
+start:
+  year: 1582
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q1046201
+locations:
+  - place: wd-q1071073
+    role: primary
+wikipedia:
+  en: Siege of Takamatsu
+  zh: 備中高松城之戰
+importHash: abd731e5f47a

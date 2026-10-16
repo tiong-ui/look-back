@@ -1,0 +1,23 @@
+id: wd-q4601739
+title:
+  zh-TW: 2003年金邊騷亂
+  en: 2003 Phnom Penh riots
+summary:
+  zh-TW: 2003 anti-Thai riots in Phnom Penh, Cambodia
+  en: 2003 anti-Thai riots in Phnom Penh, Cambodia
+start:
+  year: 2003
+precision: year
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q4601739
+locations:
+  - place: wd-q1054163
+    role: primary
+wikipedia:
+  en: 2003 Phnom Penh riots
+  zh: 2003年金边反泰骚乱
+importHash: 844aad584322

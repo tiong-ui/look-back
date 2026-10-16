@@ -1,0 +1,28 @@
+id: wd-q2627940
+title:
+  zh-TW: 1962年南越獨立宮轟炸
+  en: 1962 South Vietnamese Independence Palace bombing
+summary:
+  zh-TW: 發生於1962年越南共和國首都西貢市總統官邸獨立宮的轟炸事件
+  en: 1962 aerial attack in Saigon
+start:
+  year: 1962
+  month: 2
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2627940
+locations:
+  - place: wd-q2627940-site
+    role: primary
+  - place: wd-q933384
+    role: secondary
+wikipedia:
+  en: 1962 South Vietnamese Independence Palace bombing
+  zh: 1962年南越独立宫轰炸
+importHash: ea0c87bed539

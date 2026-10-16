@@ -1,0 +1,29 @@
+id: wd-q701121
+title:
+  zh-TW: 應永外寇
+  en: Ōei Invasion
+summary:
+  zh-TW: 1419 Joseon invasion of Tsushima
+  en: 1419 Joseon invasion of Tsushima
+start:
+  year: 1419
+  month: 7
+  day: 12
+end:
+  year: 1419
+  month: 7
+  day: 12
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q701121
+locations:
+  - place: wd-q52051
+    role: primary
+wikipedia:
+  en: Ōei Invasion
+  zh: 应永外寇
+importHash: 79df029322b7

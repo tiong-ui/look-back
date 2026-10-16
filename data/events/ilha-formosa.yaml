@@ -1,0 +1,21 @@
+id: ilha-formosa
+title:
+  zh-TW: 「福爾摩沙」之名出現
+  en: The name "Ilha Formosa"
+summary:
+  zh-TW: 十六世紀中葉，航經臺灣的葡萄牙水手稱其為「Ilha Formosa（美麗之島）」，此名隨後出現在歐洲地圖上，成為臺灣在西方世界的名稱。確切年份已無從考證。
+  en: In the mid-16th century, Portuguese sailors passing Taiwan called it "Ilha Formosa" (beautiful island). The name spread through European maps and became Taiwan's name in the West. The exact year is unknown.
+start: 1540
+precision: decade
+approximate: true
+categories:
+  - migration
+regions:
+  - taiwan
+importance: 2
+locations:
+  - place: taiwan
+    role: primary
+wikipedia:
+  en: Names of Taiwan
+  zh: 台灣名稱

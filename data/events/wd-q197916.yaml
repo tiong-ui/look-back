@@ -1,0 +1,25 @@
+id: wd-q197916
+title:
+  zh-TW: 帝汶缺口條約
+  en: Timor Gap Treaty
+summary:
+  zh-TW: 旨在於瓜分帝汶海油氣資源的不平等條約
+  en: treaty between Australia and Indonesia
+start:
+  year: 1989
+  month: 12
+  day: 11
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q197916
+locations:
+  - place: wd-q1423108
+    role: primary
+wikipedia:
+  en: Timor Gap Treaty
+  zh: 帝汶缺口條約
+importHash: f4ba153c1e4d

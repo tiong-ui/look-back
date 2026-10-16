@@ -1,0 +1,27 @@
+id: wd-q1573825
+title:
+  zh-TW: Battle of Sobraon
+  en: Battle of Sobraon
+summary:
+  zh-TW: 1846 battle
+  en: 1846 battle
+start:
+  year: 1846
+  month: 2
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1573825
+locations:
+  - place: wd-q1573825-site
+    role: primary
+  - place: wd-q3822428
+    role: secondary
+wikipedia:
+  en: Battle of Sobraon
+importHash: 846ffe5de060

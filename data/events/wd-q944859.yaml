@@ -1,0 +1,30 @@
+id: wd-q944859
+title:
+  zh-TW: 平治之亂
+  en: Heiji rebellion
+summary:
+  zh-TW: short civil war between rival subjects of the cloistered Emperor Go-Shirakawa of Japan in 1159
+  en: short civil war between rival subjects of the cloistered Emperor Go-Shirakawa of Japan in 1159
+start:
+  year: 1160
+  month: 2
+  day: 12
+end:
+  year: 1160
+  month: 4
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q944859
+locations:
+  - place: wd-q740246
+    role: primary
+wikipedia:
+  en: Heiji rebellion
+  zh: 平治之乱
+importHash: ee7fd13921ca

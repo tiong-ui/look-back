@@ -1,0 +1,28 @@
+id: wd-q2117322
+title:
+  zh-TW: 屋島之戰
+  en: Battle of Yashima
+summary:
+  zh-TW: part of the Genpei War (March 22, 1185)
+  en: part of the Genpei War (March 22, 1185)
+start:
+  year: 1185
+  month: 3
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2117322
+locations:
+  - place: wd-q2117322-site
+    role: primary
+  - place: wd-q11465681
+    role: secondary
+wikipedia:
+  en: Battle of Yashima
+  zh: 屋島之戰
+importHash: 57a13a0dfdc0

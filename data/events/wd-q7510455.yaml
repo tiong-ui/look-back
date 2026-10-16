@@ -1,0 +1,28 @@
+id: wd-q7510455
+title:
+  zh-TW: 鳥取城之戰
+  en: Siege of Tottori
+summary:
+  zh-TW: 1581 siege
+  en: 1581 siege
+start:
+  year: 1581
+  month: 5
+end:
+  year: 1581
+  month: 1
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510455
+locations:
+  - place: wd-q1073699
+    role: primary
+wikipedia:
+  en: Siege of Tottori
+  zh: 鳥取城之戰
+importHash: d957fb3185e7

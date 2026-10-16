@@ -1,0 +1,27 @@
+id: wd-q124337072
+title:
+  zh-TW: 2024年新疆阿克蘇地區烏什縣地震
+  en: 2024 Uqturpan earthquake
+summary:
+  zh-TW: 發生於中國新疆阿克蘇的地震
+  en: earthquake located in the Xinjiang-Kyrgyzstan border region
+start:
+  year: 2024
+  month: 1
+  day: 23
+precision: day
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 2
+wikidata: Q124337072
+locations:
+  - place: wd-q124337072-site
+    role: primary
+  - place: wd-q1207622
+    role: secondary
+wikipedia:
+  en: 2024 Uqturpan earthquake
+  zh: 2024年乌什县地震
+importHash: b118233602eb

@@ -1,0 +1,27 @@
+id: wd-q6747720
+title:
+  zh-TW: Mandai massacre
+  en: Mandai massacre
+summary:
+  zh-TW: 1980 killing of Bengalis in Tripura, India
+  en: 1980 killing of Bengalis in Tripura, India
+start:
+  year: 1980
+  month: 6
+  day: 8
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q6747720
+locations:
+  - place: wd-q6747720-site
+    role: primary
+  - place: wd-q6748270
+    role: secondary
+wikipedia:
+  en: Mandai massacre
+importHash: cdd07fc26eba

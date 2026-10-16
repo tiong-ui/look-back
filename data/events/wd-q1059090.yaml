@@ -1,0 +1,25 @@
+id: wd-q1059090
+title:
+  zh-TW: 2010年泰國反政府示威
+  en: 2010 Thai political protests
+summary:
+  zh-TW: protest
+  en: protest
+start:
+  year: 2010
+  month: 5
+  day: 19
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q1059090
+locations:
+  - place: wd-q1059090-site
+    role: primary
+wikipedia:
+  en: 2010 Thai political protests
+  zh: 2010年泰国反政府示威
+importHash: cdc7ae8d15ce

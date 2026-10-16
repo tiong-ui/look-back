@@ -1,0 +1,27 @@
+id: wd-q3026024
+title:
+  zh-TW: 1992-93年孟買暴亂
+  en: Bombay riots
+summary:
+  zh-TW: riots in Mumbai in December 1992 and January 1993
+  en: riots in Mumbai in December 1992 and January 1993
+start:
+  year: 1992
+  month: 12
+end:
+  year: 1993
+  month: 1
+  day: 1
+precision: month
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3026024
+locations:
+  - place: wd-q1156
+    role: primary
+wikipedia:
+  en: Bombay riots
+importHash: 236e09b31570

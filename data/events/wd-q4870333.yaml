@@ -1,0 +1,28 @@
+id: wd-q4870333
+title:
+  zh-TW: Battle of Arghandab
+  en: Battle of Arghandab
+summary:
+  zh-TW: 1987 battle
+  en: 1987 battle
+start:
+  year: 1987
+  month: 5
+  day: 22
+end:
+  year: 1987
+  month: 6
+  day: 1
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870333
+locations:
+  - place: wd-q1920624
+    role: primary
+wikipedia:
+  en: Battle of Arghandab (1987)
+importHash: 53cb36e7be01

@@ -1,0 +1,22 @@
+id: wd-q2188124
+title:
+  zh-TW: Siege of Kakegawa
+  en: Siege of Kakegawa
+summary:
+  zh-TW: 1569 siege
+  en: 1569 siege
+start:
+  year: 1569
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2188124
+locations:
+  - place: wd-q2969457
+    role: primary
+wikipedia:
+  en: Siege of Kakegawa
+importHash: d094cec48aef

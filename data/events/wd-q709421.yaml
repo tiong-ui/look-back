@@ -1,0 +1,32 @@
+id: wd-q709421
+title:
+  zh-TW: 徐州會戰
+  en: Battle of Xuzhou
+summary:
+  zh-TW: 1938 battle
+  en: 1938 battle
+start:
+  year: 1938
+  month: 3
+  day: 24
+end:
+  year: 1938
+  month: 5
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q709421
+locations:
+  - place: wd-q709421-site
+    role: primary
+  - place: wd-q57719
+    role: secondary
+wikipedia:
+  en: Battle of Xuzhou
+  zh: 徐州会战
+importHash: 01407da9e66e

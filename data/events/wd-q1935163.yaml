@@ -1,0 +1,26 @@
+id: wd-q1935163
+title:
+  zh-TW: 1960年南越政變
+  en: 1960 South Vietnamese coup attempt
+summary:
+  zh-TW: failed coup against President Ngô Đình Diệm
+  en: failed coup against President Ngô Đình Diệm
+start:
+  year: 1960
+  month: 11
+  day: 11
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1935163
+locations:
+  - place: wd-q1854
+    role: primary
+wikipedia:
+  en: 1960 South Vietnamese coup attempt
+  zh: 1960年南越政變
+importHash: 4a27735fbbda

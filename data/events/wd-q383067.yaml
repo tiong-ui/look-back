@@ -1,0 +1,28 @@
+id: wd-q383067
+title:
+  zh-TW: 薩拉加希之戰
+  en: Battle of Saragarhi
+summary:
+  zh-TW: 1897 battle in British India
+  en: 1897 battle in British India
+start:
+  year: 1897
+  month: 9
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q383067
+locations:
+  - place: wd-q383067-site
+    role: primary
+  - place: wd-q130638651
+    role: secondary
+wikipedia:
+  en: Battle of Saragarhi
+  zh: 萨拉加希之战
+importHash: 8d8fd238f0a6

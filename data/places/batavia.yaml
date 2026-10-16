@@ -1,0 +1,10 @@
+id: batavia
+lng: 106.81
+lat: -6.13
+names:
+  - zh-TW: 巴達維亞
+    en: Batavia
+    to: 1941
+  - zh-TW: 雅加達
+    en: Jakarta
+    from: 1942

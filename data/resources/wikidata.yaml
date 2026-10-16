@@ -1,0 +1,12 @@
+id: wikidata
+name:
+  zh-TW: 維基數據
+  en: Wikidata
+url: https://www.wikidata.org/
+type: data
+lang:
+  - en
+  - zh
+description:
+  zh-TW: 條目語言版本數（重要度指標）。
+  en: Number of language editions (importance signal).

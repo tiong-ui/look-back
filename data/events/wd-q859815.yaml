@@ -1,0 +1,28 @@
+id: wd-q859815
+title:
+  zh-TW: 石山合戰
+  en: Ishiyama Hongan-ji War
+summary:
+  zh-TW: 1570 war
+  en: 1570 war
+start:
+  year: 1570
+  month: 8
+end:
+  year: 1580
+  month: 8
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q859815
+locations:
+  - place: wd-q1098123
+    role: primary
+wikipedia:
+  en: Ishiyama Hongan-ji War
+  zh: 石山合戰
+importHash: 03c3b90b1696

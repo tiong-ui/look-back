@@ -1,0 +1,30 @@
+id: wd-q4871308
+title:
+  zh-TW: Battle of Jamrud
+  en: Battle of Jamrud
+summary:
+  zh-TW: 1837 battle of the Afghan–Sikh Wars
+  en: 1837 battle of the Afghan–Sikh Wars
+start:
+  year: 1837
+  month: 4
+  day: 30
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4871308
+locations:
+  - place: wd-q4871308-site
+    role: primary
+  - place: wd-q142571
+    role: secondary
+relations:
+  - event: wd-q4689049
+    type: part_of
+wikipedia:
+  en: Battle of Jamrud
+importHash: 262280431d2d

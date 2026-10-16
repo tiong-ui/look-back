@@ -1,0 +1,31 @@
+id: wd-q1945485
+title:
+  zh-TW: Battle of Bajaur
+  en: Battle of Bajaur
+summary:
+  zh-TW: 2008 military offensive in the Bajaur region of Pakistan
+  en: 2008 military offensive in the Bajaur region of Pakistan
+start:
+  year: 2008
+  month: 8
+  day: 7
+end:
+  year: 2009
+  month: 2
+  day: 28
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1945485
+locations:
+  - place: wd-q804133
+    role: primary
+relations:
+  - event: wd-q179275
+    type: part_of
+wikipedia:
+  en: Battle of Bajaur
+importHash: c942b4ecc792

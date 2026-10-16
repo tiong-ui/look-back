@@ -1,0 +1,25 @@
+id: wd-q716159
+title:
+  zh-TW: 中蘇互不侵犯條約
+  en: Sino-Soviet Non-Aggression Pact
+summary:
+  zh-TW: 1937年的一個條約
+  en: treaty between the ROC and USSR
+start:
+  year: 1937
+  month: 8
+  day: 21
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 2
+wikidata: Q716159
+locations:
+  - place: wd-q16666
+    role: primary
+wikipedia:
+  en: Sino-Soviet Non-Aggression Pact
+  zh: 中苏互不侵犯条约
+importHash: 22480a206eb8

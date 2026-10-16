@@ -1,0 +1,27 @@
+id: wd-q1014528
+title:
+  zh-TW: 二俁城之戰
+  en: Siege of Futamata
+summary:
+  zh-TW: 1572 siege
+  en: 1572 siege
+start:
+  year: 1572
+end:
+  year: 1573
+  month: 2
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q1014528
+locations:
+  - place: wd-q11371339
+    role: primary
+wikipedia:
+  en: Siege of Futamata
+  zh: 二俁城之戰
+importHash: 7d96e0c84da6

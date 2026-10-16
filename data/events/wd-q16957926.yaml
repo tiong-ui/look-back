@@ -1,0 +1,22 @@
+id: wd-q16957926
+title:
+  zh-TW: Chola invasion of Srivijaya
+  en: Chola invasion of Srivijaya
+summary:
+  zh-TW: medieval naval raids
+  en: medieval naval raids
+start:
+  year: 1025
+precision: year
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q16957926
+locations:
+  - place: wd-q8131
+    role: primary
+wikipedia:
+  en: Chola invasion of Srivijaya
+importHash: 68d2b38c616b

@@ -1,0 +1,25 @@
+id: wd-q30600900
+title:
+  zh-TW: Battle of Sirhind
+  en: Battle of Sirhind
+summary:
+  zh-TW: 1555 battle between the Mughal and Suri empires
+  en: 1555 battle between the Mughal and Suri empires
+start:
+  year: 1555
+  month: 7
+  day: 2
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q30600900
+locations:
+  - place: wd-q2672955
+    role: primary
+wikipedia:
+  en: Battle of Sirhind (1555)
+importHash: 706a31185634

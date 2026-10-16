@@ -1,0 +1,28 @@
+id: wd-q4870894
+title:
+  zh-TW: 同登戰役 (1885年)
+  en: Battle of Dong Dang
+summary:
+  zh-TW: 1885 battle of the Sino-French War in northern Vietnam
+  en: 1885 battle of the Sino-French War in northern Vietnam
+start:
+  year: 1885
+  month: 2
+  day: 23
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870894
+locations:
+  - place: wd-q1285379
+    role: primary
+relations:
+  - event: wd-q706183
+    type: part_of
+wikipedia:
+  en: Battle of Đồng Đăng (1885)
+  zh: 同登之戰 (1885年)
+importHash: eb0b539118a3

@@ -1,0 +1,25 @@
+id: wd-q15935778
+title:
+  zh-TW: 郯城大地震
+  en: 1668 Shandong earthquake
+summary:
+  zh-TW: 1668 magnitude 8.5 earthquake during the rule of the Qing dynasty in Shandong Province, China
+  en: 1668 magnitude 8.5 earthquake during the rule of the Qing dynasty in Shandong Province, China
+start:
+  year: 1668
+  month: 7
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q15935778
+locations:
+  - place: wd-q15935778-site
+    role: primary
+wikipedia:
+  en: 1668 Shandong earthquake
+  zh: 郯城大地震
+importHash: 80f320ff8784

@@ -1,0 +1,28 @@
+id: wd-q1193959
+title:
+  zh-TW: 鳥羽伏見之戰
+  en: Battle of Toba-Fushimi
+summary:
+  zh-TW: 1868 battle
+  en: 1868 battle
+start:
+  year: 1868
+  month: 1
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q1193959
+locations:
+  - place: wd-q1193959-site
+    role: primary
+  - place: wd-q1197771
+    role: secondary
+wikipedia:
+  en: Battle of Toba–Fushimi
+  zh: 鸟羽伏见之战
+importHash: 81efb572b1eb

@@ -1,0 +1,24 @@
+id: wd-q701607
+title:
+  zh-TW: 長崎事件
+  en: Nagasaki incident
+summary:
+  zh-TW: 1886年因清軍違法亂紀而引發的一起暴動
+  en: 1883 riot of Chinese sailors in Japan
+start:
+  year: 1886
+  month: 8
+precision: month
+categories:
+  - democracy
+regions:
+  - japan
+importance: 2
+wikidata: Q701607
+locations:
+  - place: wd-q38234
+    role: primary
+wikipedia:
+  en: Nagasaki incident
+  zh: 长崎事件
+importHash: 0c54fee2e1ea

@@ -1,0 +1,31 @@
+id: wd-q623621
+title:
+  zh-TW: 順天城之戰
+  en: Siege of Suncheon
+summary:
+  zh-TW: On January 30 ( February 11 ), 1829 a crowd of Tehranis, led by people of Allahar Khan, attacked the Russian embassy.
+  en: On January 30 ( February 11 ), 1829 a crowd of Tehranis, led by people of Allahar Khan, attacked the Russian embassy.
+start:
+  year: 1598
+  month: 10
+  day: 19
+end:
+  year: 1598
+  month: 11
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q623621
+locations:
+  - place: wd-q623621-site
+    role: primary
+  - place: wd-q624263
+    role: secondary
+wikipedia:
+  en: Siege of Suncheon
+  zh: 順天城之戰
+importHash: 6a835f532463

@@ -1,0 +1,29 @@
+id: wd-q4871419
+title:
+  zh-TW: Battle of Khadki
+  en: Battle of Khadki
+summary:
+  zh-TW: 1817 Indian colonial conflict
+  en: 1817 Indian colonial conflict
+start:
+  year: 1817
+  month: 11
+  day: 5
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871419
+locations:
+  - place: wd-q4871419-site
+    role: primary
+  - place: wd-q2234392
+    role: secondary
+relations:
+  - event: wd-q617210
+    type: part_of
+wikipedia:
+  en: Battle of Khadki
+importHash: 47b10f3efd81

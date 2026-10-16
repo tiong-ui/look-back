@@ -1,0 +1,28 @@
+id: wd-q663277
+title:
+  zh-TW: Invasion of Sumatra
+  en: Invasion of Sumatra
+summary:
+  zh-TW: part of the Pacific War in South-East Asia during World War II
+  en: part of the Pacific War in South-East Asia during World War II
+start:
+  year: 1942
+  month: 3
+  day: 28
+end:
+  year: 1942
+  month: 3
+  day: 28
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q663277
+locations:
+  - place: wd-q3492
+    role: primary
+wikipedia:
+  en: Invasion of Sumatra
+importHash: 6ebd2fa80fba

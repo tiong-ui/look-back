@@ -1,0 +1,26 @@
+id: battle-of-talas
+title:
+  zh-TW: 怛羅斯之戰
+  en: Battle of Talas
+summary:
+  zh-TW: 唐朝與阿拔斯王朝在中亞怛羅斯河畔交戰，唐軍戰敗。傳說被俘的唐朝工匠將造紙術傳入伊斯蘭世界。
+  en: Tang and Abbasid forces clashed by the Talas River in Central Asia, and the Tang lost. Tradition holds that captured Tang craftsmen brought papermaking to the Islamic world.
+start:
+  year: 751
+  month: 7
+precision: month
+categories:
+  - war
+regions:
+  - china
+  - central-asia
+importance: 3
+locations:
+  - place: talas
+    role: primary
+relations:
+  - event: tang-dynasty
+    type: part_of
+wikipedia:
+  en: Battle of Talas
+  zh: 怛羅斯之戰

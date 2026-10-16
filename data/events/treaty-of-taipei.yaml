@@ -1,0 +1,24 @@
+id: treaty-of-taipei
+title:
+  zh-TW: 中日和約
+  en: Treaty of Taipei
+summary:
+  zh-TW: 中華民國與日本簽訂和約，再次確認日本放棄臺灣、澎湖的權利，但同樣未明文規定由誰取得。1972年日本與中華人民共和國建交後，日方視此約失效。
+  en: The ROC and Japan signed a peace treaty that again confirmed Japan's renunciation of Taiwan and Penghu, but again did not state who received them. Japan treated it as void after recognising the PRC in 1972.
+start:
+  year: 1952
+  month: 4
+  day: 28
+precision: day
+categories:
+  - diplomacy
+regions:
+  - taiwan
+  - japan
+importance: 3
+locations:
+  - place: taipei
+    role: primary
+wikipedia:
+  en: Treaty of Taipei
+  zh: 中日和約

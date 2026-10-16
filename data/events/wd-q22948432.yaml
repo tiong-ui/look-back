@@ -1,0 +1,26 @@
+id: wd-q22948432
+title:
+  zh-TW: Nader's Sindh Expedition
+  en: Nader's Sindh Expedition
+summary:
+  zh-TW: 1740 battle
+  en: 1740 battle
+start:
+  year: 1740
+  month: 2
+precision: month
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q22948432
+locations:
+  - place: wd-q5472
+    role: primary
+relations:
+  - event: wd-q6957844
+    type: part_of
+wikipedia:
+  en: Nader Shah's Sindh expedition
+importHash: 789ab2a13cb3

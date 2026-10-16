@@ -1,0 +1,28 @@
+id: wd-q778699
+title:
+  zh-TW: Siege of Baler
+  en: Siege of Baler
+summary:
+  zh-TW: battle of the Philippine Revolution from July 1, 1898 to June 2, 1899
+  en: battle of the Philippine Revolution from July 1, 1898 to June 2, 1899
+start:
+  year: 1898
+  month: 7
+  day: 1
+end:
+  year: 1899
+  month: 6
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q778699
+locations:
+  - place: wd-q55278802
+    role: primary
+wikipedia:
+  en: Siege of Baler
+importHash: 1ea462271268

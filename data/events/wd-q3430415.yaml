@@ -1,0 +1,24 @@
+id: wd-q3430415
+title:
+  zh-TW: 2010年父島地震
+  en: 2010 Bonin Islands earthquake
+summary:
+  zh-TW: earthquake struck off of the Bonin Islands, Japan on 21 December 2010
+  en: earthquake struck off of the Bonin Islands, Japan on 21 December 2010
+start:
+  year: 2010
+  month: 12
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q3430415
+locations:
+  - place: wd-q3430415-site
+    role: primary
+wikipedia:
+  zh: 2010年父岛地震
+importHash: 06bf72865b4b

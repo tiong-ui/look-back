@@ -1,0 +1,26 @@
+id: wd-q3138004
+title:
+  zh-TW: 磐井之亂
+  en: Iwai Rebellion
+summary:
+  zh-TW: rebellion against the Yamato court that took place in Tsukushi Province, Japan
+  en: rebellion against the Yamato court that took place in Tsukushi Province, Japan
+start:
+  year: 528
+  month: 11
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q3138004
+locations:
+  - place: wd-q3138004-site
+    role: primary
+wikipedia:
+  en: Iwai Rebellion
+  zh: 磐井之乱
+importHash: d73e320be9d2

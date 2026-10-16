@@ -1,0 +1,36 @@
+id: un-resolution-2758
+title:
+  zh-TW: 聯合國大會第2758號決議
+  en: UN General Assembly Resolution 2758
+summary:
+  zh-TW: 聯合國大會決議由中華人民共和國取代中華民國在聯合國的「中國」代表權。決議文並未提及臺灣，中華民國隨即退出聯合國。
+  en: The UN General Assembly gave China's seat to the People's Republic of China in place of the Republic of China. The resolution does not mention Taiwan; the ROC withdrew from the UN.
+start:
+  year: 1971
+  month: 10
+  day: 25
+precision: day
+categories:
+  - diplomacy
+regions:
+  - taiwan
+  - china
+  - world
+importance: 4
+locations:
+  - place: new-york
+    role: primary
+  - place: taipei
+    role: secondary
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 決議只處理「中國代表權」，未決定臺灣地位，也未授權中華人民共和國代表臺灣人民。
+      en: The resolution dealt only with who represents China. It did not decide Taiwan's status or authorise the PRC to represent Taiwan's people.
+  - view: prc
+    text:
+      zh-TW: 中國主張此決議已確認臺灣是中國的一部分，並以此反對臺灣參與國際組織。
+      en: China claims the resolution confirmed Taiwan is part of China and uses it to oppose Taiwan's participation in international bodies.
+wikipedia:
+  en: United Nations General Assembly Resolution 2758
+  zh: 联合国大会第2758号决议

@@ -1,0 +1,27 @@
+id: wd-q123614250
+title:
+  zh-TW: 2023年12月棉蘭老島地震
+  en: December 2023 Mindanao earthquake
+summary:
+  zh-TW: 2023年12月菲律賓地震
+  en: earthquake in the Philippines
+start:
+  year: 2023
+  month: 12
+  day: 2
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q123614250
+locations:
+  - place: wd-q123614250-site
+    role: primary
+  - place: wd-q159183
+    role: secondary
+wikipedia:
+  en: December 2023 Mindanao earthquake
+  zh: 2023年12月棉兰老岛地震
+importHash: 40b1d13fdf1e

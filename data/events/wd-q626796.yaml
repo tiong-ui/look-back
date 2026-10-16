@@ -1,0 +1,32 @@
+id: wd-q626796
+title:
+  zh-TW: 台兒莊戰鬥
+  en: Battle of Taierzhuang
+summary:
+  zh-TW: 戰役
+  en: 1938 battle between China and Japan
+start:
+  year: 1938
+  month: 3
+  day: 24
+end:
+  year: 1938
+  month: 4
+  day: 7
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q626796
+locations:
+  - place: wd-q626796-site
+    role: primary
+  - place: wd-q1198168
+    role: secondary
+wikipedia:
+  en: Battle of Taierzhuang
+  zh: 台兒莊戰役
+importHash: 73a8bba9b673

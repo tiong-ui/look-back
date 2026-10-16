@@ -1,0 +1,25 @@
+id: wd-q113900838
+title:
+  zh-TW: 2022年巴布亞紐幾內亞地震
+  en: 2022 Papua New Guinea earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2022
+  month: 9
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - asia
+importance: 3
+wikidata: Q113900838
+locations:
+  - place: wd-q113900838-site
+    role: primary
+wikipedia:
+  en: 2022 Papua New Guinea earthquake
+  zh: 2022年巴布亚新几内亚地震
+importHash: 2234b9a66461

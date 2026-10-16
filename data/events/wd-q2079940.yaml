@@ -1,0 +1,32 @@
+id: wd-q2079940
+title:
+  zh-TW: 蒙古入侵印度
+  en: Mongol invasions of India
+summary:
+  zh-TW: history of Mongols with India
+  en: history of Mongols with India
+start:
+  year: 1221
+  month: 12
+  day: 1
+end:
+  year: 1327
+  month: 1
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2079940
+locations:
+  - place: wd-q60140
+    role: primary
+relations:
+  - event: wd-q2092093
+    type: part_of
+wikipedia:
+  en: Mongol invasions of India
+  zh: 蒙古入侵印度
+importHash: 0d01dfbc2347

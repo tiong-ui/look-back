@@ -1,0 +1,23 @@
+id: wd-q2890415
+title:
+  zh-TW: Battle of Yahagi-gawa
+  en: Battle of Yahagi-gawa
+summary:
+  zh-TW: battle in 1181 in Japan
+  en: battle in 1181 in Japan
+start:
+  year: 1181
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2890415
+locations:
+  - place: wd-q1132256
+    role: primary
+wikipedia:
+  en: Battle of Yahagi-gawa
+importHash: fb878be28820

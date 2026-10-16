@@ -1,0 +1,26 @@
+id: wd-q835565
+title:
+  zh-TW: 三·一八慘案
+  en: March 18 Massacre
+summary:
+  zh-TW: 1926年北洋政府武力鎮壓國共兩黨發動的群眾運動的事件
+  en: massacre by the Peiyang Government in 1926
+start:
+  year: 1926
+  month: 3
+  day: 18
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q835565
+locations:
+  - place: wd-q835565-site
+    role: primary
+wikipedia:
+  en: March 18 Massacre
+  zh: 三一八惨案
+importHash: 4e033bfd86b6

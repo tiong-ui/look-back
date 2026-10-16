@@ -1,0 +1,33 @@
+id: wd-q632926
+title:
+  zh-TW: 克蘭芝戰役
+  en: Battle of Kranji
+summary:
+  zh-TW: 1942 battle
+  en: 1942 battle
+start:
+  year: 1942
+  month: 2
+  day: 9
+end:
+  year: 1942
+  month: 2
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q632926
+locations:
+  - place: wd-q4200818
+    role: primary
+relations:
+  - event: wd-q296754
+    type: part_of
+wikipedia:
+  en: Battle of Kranji
+  zh: 克蘭芝戰役
+importHash: 16e30ee84322

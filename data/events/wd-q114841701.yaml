@@ -1,0 +1,27 @@
+id: wd-q114841701
+title:
+  zh-TW: Hpakant massacre
+  en: Hpakant massacre
+summary:
+  zh-TW: massacre in Myanmar
+  en: massacre in Myanmar
+start:
+  year: 2022
+  month: 10
+  day: 23
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q114841701
+locations:
+  - place: wd-q114841701-site
+    role: primary
+  - place: wd-q140646
+    role: secondary
+wikipedia:
+  en: Hpakant massacre
+importHash: 220c87400566

@@ -195,6 +195,7 @@ function EventRow({ event: e, atlas, lang, selected }: { event: AtlasEvent; atla
                     ) : (
                       <span>📖 {loc(src.title, lang)}</span>
                     )}
+                    {src.page && <span className="muted">，{src.page}</span>}
                   </li>
                 ))}
               </ul>

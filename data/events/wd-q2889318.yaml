@@ -1,0 +1,29 @@
+id: wd-q2889318
+title:
+  zh-TW: 馬扎裡沙里夫之戰
+  en: Fall of Mazari Sharif
+summary:
+  zh-TW: 2001 battle
+  en: 2001 battle
+start:
+  year: 2001
+  month: 11
+  day: 9
+end:
+  year: 2001
+  month: 11
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2889318
+locations:
+  - place: wd-q130469
+    role: primary
+wikipedia:
+  en: Fall of Mazar-i-Sharif
+importHash: 932c8da91b74

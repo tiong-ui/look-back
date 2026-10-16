@@ -1,0 +1,26 @@
+id: wd-q3350705
+title:
+  zh-TW: Siege of Calcutta
+  en: Siege of Calcutta
+summary:
+  zh-TW: 1756 battle between the armies Britain and the Nawab of Bengal in the 18th century
+  en: 1756 battle between the armies Britain and the Nawab of Bengal in the 18th century
+start:
+  year: 1756
+  month: 6
+  day: 20
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3350705
+locations:
+  - place: wd-q3350705-site
+    role: primary
+  - place: wd-q1348
+    role: secondary
+wikipedia:
+  en: Siege of Calcutta
+importHash: 88a61ce52c24

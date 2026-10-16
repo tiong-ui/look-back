@@ -1,0 +1,25 @@
+id: wd-q626291
+title:
+  zh-TW: 唐浦海戰
+  en: Battle of Dangpo
+summary:
+  zh-TW: 1592 naval battle
+  en: 1592 naval battle
+start:
+  year: 1592
+  month: 7
+  day: 9
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q626291
+locations:
+  - place: wd-q42152
+    role: primary
+wikipedia:
+  en: Battle of Dangpo (1592)
+  zh: 唐浦海戰
+importHash: 8d793e551588

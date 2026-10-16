@@ -1,0 +1,29 @@
+id: wd-q3180637
+title:
+  zh-TW: Battle of Qala-i-Jangi
+  en: Battle of Qala-i-Jangi
+summary:
+  zh-TW: 2001 prisoner uprising in Afghanistan
+  en: 2001 prisoner uprising in Afghanistan
+start:
+  year: 2001
+  month: 11
+  day: 25
+end:
+  year: 2001
+  month: 12
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3180637
+locations:
+  - place: wd-q7265904
+    role: primary
+wikipedia:
+  en: Battle of Qala-i-Jangi
+importHash: 0af8822d64eb

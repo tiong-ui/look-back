@@ -1,0 +1,25 @@
+id: wd-q24932
+title:
+  zh-TW: 2012年緬甸地震
+  en: 2012 Shwebo earthquake
+summary:
+  zh-TW: earthquake in Myanmar
+  en: earthquake in Myanmar
+start:
+  year: 2012
+  month: 11
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q24932
+locations:
+  - place: wd-q24932-site
+    role: primary
+wikipedia:
+  en: 2012 Shwebo earthquake
+  zh: 2012年缅甸地震
+importHash: 7ae333aff818

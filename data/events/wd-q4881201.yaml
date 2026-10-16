@@ -1,0 +1,24 @@
+id: wd-q4881201
+title:
+  zh-TW: 視聽表演北京條約
+  en: Beijing Treaty on Audiovisual Performances
+summary:
+  zh-TW: multilateral treaty on copyright for audiovisual performances
+  en: multilateral treaty on copyright for audiovisual performances
+start:
+  year: 2012
+  month: 6
+  day: 26
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q4881201
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: Beijing Treaty on Audiovisual Performances
+importHash: 85eaca2405b0

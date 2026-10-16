@@ -1,0 +1,28 @@
+id: wd-q2274112
+title:
+  zh-TW: 今福之戰
+  en: Battle of Imafuku
+summary:
+  zh-TW: 1600 battle
+  en: 1600 battle
+start:
+  year: 1600
+  month: 12
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2274112
+locations:
+  - place: wd-q2274112-site
+    role: primary
+  - place: wd-q9001527
+    role: secondary
+wikipedia:
+  en: Battle of Imafuku
+  zh: 今福之戰
+importHash: b03c38b067cd

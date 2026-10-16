@@ -1,0 +1,28 @@
+id: wd-q4871804
+title:
+  zh-TW: 祁山之戰
+  en: Battle of Mount Qi
+summary:
+  zh-TW: military conflict between Cao Wei and Shu Han (231)
+  en: military conflict between Cao Wei and Shu Han (231)
+start:
+  year: 231
+  month: 3
+end:
+  year: 231
+  month: 8
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4871804
+locations:
+  - place: wd-q4871804-site
+    role: primary
+wikipedia:
+  en: Battle of Mount Qi
+  zh: 祁山之战
+importHash: 094ed467b9d4

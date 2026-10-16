@@ -1,0 +1,30 @@
+id: wd-q5528422
+title:
+  zh-TW: 1990 Gawkadal massacre
+  en: 1990 Gawkadal massacre
+summary:
+  zh-TW: massacre in Srinagar, Kashmir
+  en: massacre in Srinagar, Kashmir
+start:
+  year: 1990
+  month: 1
+  day: 21
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q5528422
+locations:
+  - place: wd-q5528422-site
+    role: primary
+  - place: wd-q170115
+    role: secondary
+relations:
+  - event: wd-q749970
+    type: part_of
+wikipedia:
+  en: 1990 Gawkadal massacre
+importHash: 3a95ee187017

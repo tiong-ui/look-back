@@ -1,0 +1,25 @@
+id: wd-q381766
+title:
+  zh-TW: 2010年玉樹地震
+  en: 2010 Yushu earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2010
+  month: 4
+  day: 13
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 3
+wikidata: Q381766
+locations:
+  - place: wd-q381766-site
+    role: primary
+wikipedia:
+  en: 2010 Yushu earthquake
+  zh: 2010年玉樹地震
+importHash: 9236af2635ab

@@ -1,0 +1,24 @@
+id: wd-q11960488
+title:
+  zh-TW: Siege of Kaganoi
+  en: Siege of Kaganoi
+summary:
+  zh-TW: 1584 siege
+  en: 1584 siege
+start:
+  year: 1584
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q11960488
+locations:
+  - place: wd-q11960488-site
+    role: primary
+  - place: wd-q779607
+    role: secondary
+wikipedia:
+  en: Siege of Kaganoi
+importHash: 66425f479358

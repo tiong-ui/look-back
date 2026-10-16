@@ -1,0 +1,32 @@
+id: wd-q1230358
+title:
+  zh-TW: Battle of Hill 881
+  en: Battle of Hill 881
+summary:
+  zh-TW: 1967 battle during the Vietnam War
+  en: 1967 battle during the Vietnam War
+start:
+  year: 1967
+  month: 4
+  day: 24
+end:
+  year: 1967
+  month: 5
+  day: 11
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1230358
+locations:
+  - place: wd-q36579
+    role: primary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: The Hill Fights
+importHash: 3776e85eb1f5

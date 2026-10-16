@@ -1,0 +1,24 @@
+id: partition-of-india
+title:
+  zh-TW: 印巴分治
+  en: Partition of India
+summary:
+  zh-TW: 英屬印度結束殖民統治，分為印度與巴基斯坦兩國，引發大規模人口遷徙與宗教衝突，數十萬至上百萬人喪生。
+  en: British India ended and was divided into India and Pakistan, causing mass migration and religious violence in which hundreds of thousands to over a million people died.
+start:
+  year: 1947
+  month: 8
+  day: 15
+precision: day
+categories:
+  - politics
+  - migration
+regions:
+  - south-asia
+importance: 4
+locations:
+  - place: delhi
+    role: primary
+wikipedia:
+  en: Partition of India
+  zh: 印巴分治

@@ -1,0 +1,31 @@
+id: wd-q373857
+title:
+  zh-TW: Battle of Mullaitivu
+  en: Battle of Mullaitivu
+summary:
+  zh-TW: occurred in January 2009 as part of the 2008 – 2009 SLA Northern offensive
+  en: occurred in January 2009 as part of the 2008 – 2009 SLA Northern offensive
+start:
+  year: 2009
+  month: 1
+  day: 2
+end:
+  year: 2009
+  month: 1
+  day: 25
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q373857
+locations:
+  - place: wd-q507144
+    role: primary
+relations:
+  - event: wd-q213394
+    type: part_of
+wikipedia:
+  en: Battle of Mullaitivu (2009)
+importHash: 64d453a87e16

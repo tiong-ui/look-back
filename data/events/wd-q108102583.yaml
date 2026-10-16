@@ -1,0 +1,27 @@
+id: wd-q108102583
+title:
+  zh-TW: 攻佔喀布林
+  en: Fall of Kabul
+summary:
+  zh-TW: 塔利班再度奪權
+  en: Taliban capture of the capital of Afghanistan in 2021
+start:
+  year: 2021
+  month: 8
+  day: 15
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 4
+wikidata: Q108102583
+locations:
+  - place: wd-q108102583-site
+    role: primary
+  - place: wd-q5838
+    role: secondary
+wikipedia:
+  en: Fall of Kabul (2021)
+  zh: 喀布爾戰役 (2021年)
+importHash: 38421814c47a

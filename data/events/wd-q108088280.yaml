@@ -1,0 +1,28 @@
+id: wd-q108088280
+title:
+  zh-TW: Battle of Lashkargah
+  en: Battle of Lashkargah
+summary:
+  zh-TW: 2021 conflict at Lashkargah
+  en: 2021 conflict at Lashkargah
+start:
+  year: 2021
+  month: 7
+  day: 29
+end:
+  year: 2021
+  month: 8
+  day: 13
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q108088280
+locations:
+  - place: wd-q108088280-site
+    role: primary
+wikipedia:
+  en: Battle of Lashkargah
+importHash: 003613e23bef

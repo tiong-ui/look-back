@@ -1,0 +1,31 @@
+id: wd-q4520158
+title:
+  zh-TW: 一片石之戰
+  en: Battle of Shanhai Pass
+summary:
+  zh-TW: 1644 battle in China
+  en: 1644 battle in China
+start:
+  year: 1644
+  month: 5
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q4520158
+locations:
+  - place: wd-q4520158-site
+    role: primary
+  - place: wd-q1152171
+    role: secondary
+relations:
+  - event: wd-q3427966
+    type: part_of
+wikipedia:
+  en: Battle of Shanhai Pass
+  zh: 一片石之战
+importHash: a89d90e834ff

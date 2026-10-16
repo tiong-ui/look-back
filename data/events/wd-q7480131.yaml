@@ -1,0 +1,25 @@
+id: wd-q7480131
+title:
+  zh-TW: 大凌河之役
+  en: Battle of Dalinghe
+summary:
+  zh-TW: 大凌河之役
+start:
+  year: 1631
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q7480131
+locations:
+  - place: wd-q5366081
+    role: primary
+relations:
+  - event: wd-q3427966
+    type: part_of
+wikipedia:
+  en: Battle of Dalinghe
+  zh: 大凌河之役
+importHash: e0ca956929e8

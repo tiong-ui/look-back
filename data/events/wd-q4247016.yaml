@@ -1,0 +1,30 @@
+id: wd-q4247016
+title:
+  zh-TW: 哈密暴動
+  en: Kumul Rebellion
+summary:
+  zh-TW: conflict in Xinjiang (1931–1934)
+  en: conflict in Xinjiang (1931–1934)
+start:
+  year: 1931
+  month: 4
+  day: 4
+end:
+  year: 1934
+  month: 1
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - central-asia
+importance: 2
+wikidata: Q4247016
+locations:
+  - place: wd-q34800
+    role: primary
+wikipedia:
+  en: Kumul Rebellion
+  zh: 哈密暴動
+importHash: "242472e84380"

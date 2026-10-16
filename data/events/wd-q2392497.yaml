@@ -1,0 +1,29 @@
+id: wd-q2392497
+title:
+  zh-TW: 吉田郡山城之戰
+  en: Siege of Koriyama
+summary:
+  zh-TW: 1540 siege of Kōriyama Castle in Japan
+  en: 1540 siege of Kōriyama Castle in Japan
+start:
+  year: 1540
+end:
+  year: 1541
+  month: 2
+  day: 18
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2392497
+locations:
+  - place: wd-q2392497-site
+    role: primary
+  - place: wd-q1036410
+    role: secondary
+wikipedia:
+  en: Siege of Yoshida-Kōriyama Castle
+  zh: 吉田郡山城之戰
+importHash: "189772e31250"

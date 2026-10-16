@@ -1,0 +1,28 @@
+id: wd-q4870632
+title:
+  zh-TW: 第一次廣州之戰
+  en: Battle of Canton
+summary:
+  zh-TW: March 1841 fought in the First Opium War
+  en: March 1841 fought in the First Opium War
+start:
+  year: 1841
+  month: 3
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870632
+locations:
+  - place: wd-q4870632-site
+    role: primary
+  - place: wd-q16572
+    role: secondary
+wikipedia:
+  en: Battle of Canton (March 1841)
+  zh: 第一次广州之战
+importHash: 01292caf2316

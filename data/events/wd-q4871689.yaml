@@ -1,0 +1,30 @@
+id: wd-q4871689
+title:
+  zh-TW: 馬山戰役
+  en: Battle of Masan
+summary:
+  zh-TW: 1950 engagement between United Nations Command (UN) and North Korean forces
+  en: 1950 engagement between United Nations Command (UN) and North Korean forces
+start:
+  year: 1950
+  month: 8
+  day: 5
+end:
+  year: 1950
+  month: 9
+  day: 19
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q4871689
+locations:
+  - place: wd-q4871689-site
+    role: primary
+  - place: wd-q495387
+    role: secondary
+wikipedia:
+  en: Battle of Masan
+importHash: 35f3837d5d2b

@@ -1,0 +1,25 @@
+id: wd-q1074957
+title:
+  zh-TW: 吉大港起義
+  en: Chittagong armoury raid
+summary:
+  zh-TW: 1930 uprising in British India
+  en: 1930 uprising in British India
+start:
+  year: 1930
+  month: 4
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1074957
+locations:
+  - place: wd-q376749
+    role: primary
+wikipedia:
+  en: Chittagong armoury raid
+importHash: ad6c4cf6c2d2

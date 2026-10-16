@@ -1,0 +1,25 @@
+id: wd-q64704656
+title:
+  zh-TW: 2019年山形地震
+  en: 2019 Yamagata earthquake
+summary:
+  zh-TW: earthquake 18 June 2019 off the coast of Tsuruoka Japan
+  en: earthquake 18 June 2019 off the coast of Tsuruoka Japan
+start:
+  year: 2019
+  month: 6
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q64704656
+locations:
+  - place: wd-q64704656-site
+    role: primary
+wikipedia:
+  en: 2019 Yamagata earthquake
+  zh: 2019年山形地震
+importHash: 5df296f877ea

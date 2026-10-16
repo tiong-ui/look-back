@@ -1,0 +1,29 @@
+id: wd-q7510220
+title:
+  zh-TW: Siege of Madras
+  en: Siege of Madras
+summary:
+  zh-TW: 1758 part of Seven Years' War
+  en: 1758 part of Seven Years' War
+start:
+  year: 1758
+  month: 12
+end:
+  year: 1759
+  month: 2
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510220
+locations:
+  - place: wd-q7510220-site
+    role: primary
+  - place: wd-q1352
+    role: secondary
+wikipedia:
+  en: Siege of Madras
+importHash: 1802e1bf5204

@@ -1,0 +1,27 @@
+id: wd-q496032
+title:
+  zh-TW: 江陵潛艇滲透事件
+  en: 1996 Gangneung submarine infiltration incident
+summary:
+  zh-TW: naval incident between North Korea and South Korea
+  en: naval incident between North Korea and South Korea
+start:
+  year: 1996
+  month: 9
+  day: 17
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q496032
+locations:
+  - place: wd-q496032-site
+    role: primary
+  - place: wd-q42056
+    role: secondary
+wikipedia:
+  en: 1996 Gangneung submarine infiltration incident
+  zh: 江陵潜艇渗透事件
+importHash: e9054ab77186

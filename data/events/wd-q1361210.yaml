@@ -1,0 +1,32 @@
+id: wd-q1361210
+title:
+  zh-TW: 聖誕島戰役
+  en: Battle of Christmas Island
+summary:
+  zh-TW: 1942 battle
+  en: 1942 battle
+start:
+  year: 1942
+  month: 3
+  day: 31
+end:
+  year: 1942
+  month: 4
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q1361210
+locations:
+  - place: wd-q1361210-site
+    role: primary
+  - place: wd-q31063
+    role: secondary
+wikipedia:
+  en: Battle of Christmas Island
+  zh: 聖誕島戰役
+importHash: b8fca64adf38

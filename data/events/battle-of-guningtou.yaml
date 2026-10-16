@@ -1,0 +1,32 @@
+id: battle-of-guningtou
+title:
+  zh-TW: 古寧頭戰役
+  en: Battle of Guningtou
+summary:
+  zh-TW: 中國人民解放軍渡海進攻金門，在古寧頭一帶被國軍擊敗，此役阻止了解放軍進一步攻取金門與臺灣。
+  en: The People's Liberation Army crossed to attack Kinmen and was defeated around Guningtou, halting its advance on Kinmen and Taiwan.
+start:
+  year: 1949
+  month: 10
+  day: 25
+end:
+  year: 1949
+  month: 10
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - taiwan
+  - china
+importance: 3
+locations:
+  - place: kinmen
+    role: primary
+  - place: xiamen
+    role: origin
+  - place: kinmen
+    role: destination
+wikipedia:
+  en: Battle of Guningtou
+  zh: 古寧頭戰役

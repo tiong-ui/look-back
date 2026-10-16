@@ -1,0 +1,24 @@
+id: wd-q116152870
+title:
+  zh-TW: 2023 Maluku earthquake
+  en: 2023 Maluku earthquake
+summary:
+  zh-TW: earthquake in Indonesia
+  en: earthquake in Indonesia
+start:
+  year: 2023
+  month: 1
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q116152870
+locations:
+  - place: wd-q116152870-site
+    role: primary
+wikipedia:
+  en: 2023 Maluku earthquake
+importHash: 99449d35d35f

@@ -1,0 +1,25 @@
+id: wd-q3090571
+title:
+  zh-TW: 法住寺合戰
+  en: Siege of Hōjūjidono
+summary:
+  zh-TW: siege in 1184 in Japan
+  en: siege in 1184 in Japan
+start:
+  year: 1184
+  month: 1
+  day: 10
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q3090571
+locations:
+  - place: wd-q1072965
+    role: primary
+wikipedia:
+  en: Siege of Hōjūjidono
+  zh: 法住寺合戰
+importHash: d703c0ae2ead

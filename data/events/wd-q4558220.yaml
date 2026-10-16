@@ -1,0 +1,23 @@
+id: wd-q4558220
+title:
+  zh-TW: 1904年斗六地震
+  en: 1904 Douliu earthquake
+summary:
+  zh-TW: earthquake struck Chiayi County, Taiwan on November 5, 1904 (UTC)
+  en: earthquake struck Chiayi County, Taiwan on November 5, 1904 (UTC)
+start:
+  year: 1904
+precision: year
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q4558220
+locations:
+  - place: wd-q4558220-site
+    role: primary
+wikipedia:
+  en: 1904 Douliu earthquake
+  zh: 1904年斗六地震
+importHash: 35b5de3e8cf4

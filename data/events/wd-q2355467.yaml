@@ -1,0 +1,28 @@
+id: wd-q2355467
+title:
+  zh-TW: 布克薩爾戰役
+  en: Battle of Buxar
+summary:
+  zh-TW: _War between Alliance (Mir Qasim, Shuja-ud-Daulah and Shah Alam || ) and British
+  en: _War between Alliance (Mir Qasim, Shuja-ud-Daulah and Shah Alam || ) and British
+start:
+  year: 1764
+  month: 11
+  day: 6
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q2355467
+locations:
+  - place: wd-q2355467-site
+    role: primary
+  - place: wd-q861160
+    role: secondary
+wikipedia:
+  en: Battle of Buxar
+  zh: 布克萨尔战役
+importHash: 3d0eac9424fd

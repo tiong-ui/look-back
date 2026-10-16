@@ -1,0 +1,30 @@
+id: wd-q4872384
+title:
+  zh-TW: Battle of Sio
+  en: Battle of Sio
+summary:
+  zh-TW: 1943 Breakout phase of the New Guinea Campaign
+  en: 1943 Breakout phase of the New Guinea Campaign
+start:
+  year: 1943
+  month: 12
+  day: 5
+end:
+  year: 1944
+  month: 3
+  day: 1
+precision: day
+categories:
+  - politics
+regions:
+  - asia
+importance: 1
+wikidata: Q4872384
+locations:
+  - place: wd-q4872384-site
+    role: primary
+  - place: wd-q7525278
+    role: secondary
+wikipedia:
+  en: Battle of Sio
+importHash: ed3b8aa124b5

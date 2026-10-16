@@ -1,0 +1,23 @@
+id: wd-q4568929
+title:
+  zh-TW: 中瑞挪廣州和約貿易章程
+  en: Treaty of Canton
+summary:
+  zh-TW: 1847 treaty between China and Sweden-Norway
+  en: 1847 treaty between China and Sweden-Norway
+start:
+  year: 1847
+precision: year
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 1
+wikidata: Q4568929
+locations:
+  - place: wd-q16572
+    role: primary
+wikipedia:
+  en: Treaty of Canton
+  zh: 中瑞挪廣州和約貿易章程
+importHash: 3cd491fd88b7

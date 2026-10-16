@@ -1,0 +1,29 @@
+id: pla-exercises-2022
+title:
+  zh-TW: 2022年中國對臺軍演
+  en: 2022 PLA exercises around Taiwan
+summary:
+  zh-TW: 美國眾議院議長裴洛西訪臺後，中國在臺灣周邊多個海域實施大規模軍演並試射飛彈，部分飛彈越過臺灣上空，落入日本專屬經濟區。
+  en: After US House Speaker Nancy Pelosi visited Taiwan, China held large-scale exercises in several zones around Taiwan and test-fired missiles, some flying over Taiwan and landing in Japan's exclusive economic zone.
+start:
+  year: 2022
+  month: 8
+  day: 4
+end:
+  year: 2022
+  month: 8
+  day: 10
+precision: day
+categories:
+  - war
+  - diplomacy
+regions:
+  - taiwan
+  - china
+importance: 3
+locations:
+  - place: taiwan
+    role: primary
+wikipedia:
+  en: 2022 Chinese military exercises around Taiwan
+  zh: 2022年中國人民解放軍環臺軍事演習

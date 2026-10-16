@@ -1,0 +1,23 @@
+id: first-direct-presidential-election
+title:
+  zh-TW: 首次總統直選
+  en: First direct presidential election
+summary:
+  zh-TW: 臺灣首次由人民直接選舉總統，李登輝當選。此後總統與國會皆由臺灣人民選出，被視為臺灣完成民主化的里程碑。
+  en: Taiwan's people directly elected their president for the first time, choosing Lee Teng-hui. Since then both the president and the legislature have been chosen by Taiwan's voters, a milestone of democratisation.
+start:
+  year: 1996
+  month: 3
+  day: 23
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 5
+locations:
+  - place: taipei
+    role: primary
+wikipedia:
+  en: 1996 Taiwanese presidential election
+  zh: 1996年中華民國總統選舉

@@ -1,0 +1,22 @@
+id: wd-q7509958
+title:
+  zh-TW: Siege of Cyropolis
+  en: Siege of Cyropolis
+summary:
+  zh-TW: 329 BCE siege
+  en: 329 BCE siege
+start:
+  year: -328
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7509958
+locations:
+  - place: wd-q1794368
+    role: primary
+wikipedia:
+  en: Siege of Cyropolis
+importHash: 312fe3c5c355

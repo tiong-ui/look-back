@@ -1,0 +1,25 @@
+id: wd-q501106
+title:
+  zh-TW: 2011年費爾幹納盆地地震
+  en: 2011 Fergana Valley earthquake
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2011
+  month: 7
+  day: 20
+precision: day
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 2
+wikidata: Q501106
+locations:
+  - place: wd-q501106-site
+    role: primary
+wikipedia:
+  en: 2011 Fergana Valley earthquake
+  zh: 2011年費爾干納盆地地震
+importHash: f4ae5e335b32

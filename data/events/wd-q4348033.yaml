@@ -1,0 +1,29 @@
+id: wd-q4348033
+title:
+  zh-TW: 薩馬島海戰
+  en: Battle off Samar
+summary:
+  zh-TW: 雷伊泰灣海戰的一部分
+  en: 1944 part of the battle of Leyte Gulf
+start:
+  year: 1944
+  month: 10
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q4348033
+locations:
+  - place: wd-q4348033-site
+    role: primary
+relations:
+  - event: wd-q308999
+    type: part_of
+wikipedia:
+  en: Battle off Samar
+  zh: 薩馬島海戰
+importHash: 40f3b130c674

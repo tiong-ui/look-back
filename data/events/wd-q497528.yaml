@@ -1,0 +1,28 @@
+id: wd-q497528
+title:
+  zh-TW: 平和屠殺
+  en: Binh Hoa massacre
+summary:
+  zh-TW: conducted by the South Korean forces in Bình Hòa, Bình Sơn, Quảng Ngãi during the Vietnam war
+  en: conducted by the South Korean forces in Bình Hòa, Bình Sơn, Quảng Ngãi during the Vietnam war
+start:
+  year: 1966
+  month: 12
+end:
+  year: 1966
+  month: 12
+  day: 6
+precision: month
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q497528
+locations:
+  - place: wd-q10742396
+    role: primary
+wikipedia:
+  en: Bình Hòa massacre
+importHash: fbcbad3431ff

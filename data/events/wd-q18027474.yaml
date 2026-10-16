@@ -1,0 +1,28 @@
+id: wd-q18027474
+title:
+  zh-TW: 星川皇子之亂
+  en: Prince Hoshikawa Rebellion
+summary:
+  zh-TW: 5h-century power struggle for the Japanese throne
+  en: 5h-century power struggle for the Japanese throne
+start:
+  year: 479
+end:
+  year: 480
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q18027474
+locations:
+  - place: wd-q127026
+    role: primary
+wikipedia:
+  en: Prince Hoshikawa Rebellion
+  zh: 星川皇子之亂
+importHash: eab989ede8bd

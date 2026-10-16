@@ -1,0 +1,31 @@
+id: wd-q308999
+title:
+  zh-TW: 雷伊泰灣海戰
+  en: Battle of Leyte Gulf
+summary:
+  zh-TW: 歷史上最大的海戰
+  en: 1944 the largest naval battle of World War II
+start:
+  year: 1944
+  month: 10
+  day: 23
+end:
+  year: 1944
+  month: 10
+  day: 26
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 4
+wikidata: Q308999
+locations:
+  - place: wd-q308999-site
+    role: primary
+  - place: wd-q240753
+    role: secondary
+wikipedia:
+  en: Battle of Leyte Gulf
+  zh: 雷伊泰灣海戰
+importHash: 174f7fa7579e

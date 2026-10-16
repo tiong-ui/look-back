@@ -1,0 +1,29 @@
+id: wd-q7510546
+title:
+  zh-TW: 御館之亂
+  en: Siege of Otate
+summary:
+  zh-TW: 1578 siege
+  en: 1578 siege
+start:
+  year: 1578
+  month: 3
+  day: 27
+end:
+  year: 1578
+  month: 5
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510546
+locations:
+  - place: wd-q11359257
+    role: primary
+wikipedia:
+  en: Siege of Otate
+  zh: 御館之亂
+importHash: 33c82cd0c873

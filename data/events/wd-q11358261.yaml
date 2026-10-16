@@ -1,0 +1,25 @@
+id: wd-q11358261
+title:
+  zh-TW: 2011年3月9日三陸近海地震
+  en: March 2011 Sanriku earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2011
+  month: 3
+  day: 9
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11358261
+locations:
+  - place: wd-q11358261-site
+    role: primary
+wikipedia:
+  en: March 2011 Sanriku earthquake
+  zh: 2011年3月9日三陆近海地震
+importHash: 610e502810f1

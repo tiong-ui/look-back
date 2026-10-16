@@ -1,0 +1,27 @@
+id: wd-q64697933
+title:
+  zh-TW: 2019年長寧地震
+  en: 2019 Yibin earthquake
+summary:
+  zh-TW: 5.8 Mw earthquake in Sichuan, China
+  en: 5.8 Mw earthquake in Sichuan, China
+start:
+  year: 2019
+  month: 6
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q64697933
+locations:
+  - place: wd-q64697933-site
+    role: primary
+  - place: wd-q427265
+    role: secondary
+wikipedia:
+  en: 2019 Sichuan earthquake
+  zh: 2019年长宁地震
+importHash: 8b5bc6d6b9af

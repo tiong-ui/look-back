@@ -1,0 +1,22 @@
+id: wd-q5055597
+title:
+  zh-TW: Siege of Yoshida Castle
+  en: Siege of Yoshida Castle
+summary:
+  zh-TW: 1575 siege
+  en: 1575 siege
+start:
+  year: 1575
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q5055597
+locations:
+  - place: wd-q849190
+    role: primary
+wikipedia:
+  en: Siege of Yoshida Castle
+importHash: a27083f22234

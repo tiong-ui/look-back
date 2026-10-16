@@ -1,0 +1,30 @@
+id: wd-q3630511
+title:
+  zh-TW: Battle of Koregaon
+  en: Battle of Koregaon
+summary:
+  zh-TW: 1818 battle fought between British East India Company (mostly Mahar soldiers) and the Peshwa faction of the Maratha Confederacy
+  en: 1818 battle fought between British East India Company (mostly Mahar soldiers) and the Peshwa faction of the Maratha Confederacy
+start:
+  year: 1818
+  month: 1
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3630511
+locations:
+  - place: wd-q3630511-site
+    role: primary
+  - place: wd-q2729341
+    role: secondary
+relations:
+  - event: wd-q617210
+    type: part_of
+wikipedia:
+  en: Battle of Koregaon
+importHash: 1b65ee1e6a67

@@ -1,0 +1,25 @@
+id: wd-q1224313
+title:
+  zh-TW: 疊溪大地震
+  en: 1933 Diexi earthquake
+summary:
+  zh-TW: 1933年發生在四川疊溪的7.5級地震
+  en: earthquake
+start:
+  year: 1933
+  month: 8
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q1224313
+locations:
+  - place: wd-q1224313-site
+    role: primary
+wikipedia:
+  en: 1933 Diexi earthquake
+  zh: 疊溪大地震
+importHash: b4c1650f1888

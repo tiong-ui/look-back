@@ -1,0 +1,25 @@
+id: wd-q3297309
+title:
+  zh-TW: Battle of Tukaroi
+  en: Battle of Tukaroi
+summary:
+  zh-TW: 1575 battle in eastern India
+  en: 1575 battle in eastern India
+start:
+  year: 1575
+  month: 3
+  day: 13
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3297309
+locations:
+  - place: wd-q3297309-site
+    role: primary
+wikipedia:
+  en: Battle of Tukaroi
+importHash: cabb530bdfd5

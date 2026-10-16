@@ -1,0 +1,29 @@
+id: wd-q2984898
+title:
+  zh-TW: 石浦沉船事件
+  en: Battle of Shipu
+summary:
+  zh-TW: 1885 battle
+  en: 1885 battle
+start:
+  year: 1885
+  month: 2
+  day: 14
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q2984898
+locations:
+  - place: wd-q2984898-site
+    role: primary
+relations:
+  - event: wd-q706183
+    type: part_of
+wikipedia:
+  en: Battle of Shipu
+  zh: 石浦海戰
+importHash: bdab027b490e

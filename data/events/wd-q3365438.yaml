@@ -1,0 +1,29 @@
+id: wd-q3365438
+title:
+  zh-TW: 越南戰爭 (1945年至1946年)
+  en: War in southern Vietnam
+summary:
+  zh-TW: 1945–1946 armed conflict involving largely British-Indian and French task force versus the Stalinist Viet Minh, Trotskyists, and Vietnamese nationalists
+  en: 1945–1946 armed conflict involving largely British-Indian and French task force versus the Stalinist Viet Minh, Trotskyists, and Vietnamese nationalists
+start:
+  year: 1945
+  month: 9
+  day: 13
+end:
+  year: 1946
+  month: 3
+  day: 30
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q3365438
+locations:
+  - place: wd-q2289221
+    role: primary
+wikipedia:
+  en: War in southern Vietnam (1945–1946)
+  zh: 越南戰爭 (1945年—1946年)
+importHash: 9fa2fa038747

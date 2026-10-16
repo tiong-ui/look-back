@@ -1,0 +1,27 @@
+id: wd-q2889349
+title:
+  zh-TW: 水島之戰
+  en: Battle of Mizushima
+summary:
+  zh-TW: 1183 naval battle of the Genpei War
+  en: 1183 naval battle of the Genpei War
+start:
+  year: 1183
+  month: 11
+  day: 24
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 2
+wikidata: Q2889349
+locations:
+  - place: wd-q2889349-site
+    role: primary
+  - place: wd-q11548502
+    role: secondary
+wikipedia:
+  en: Battle of Mizushima
+  zh: 水島之戰
+importHash: eda9abf29965

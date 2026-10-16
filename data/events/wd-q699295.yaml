@@ -1,0 +1,25 @@
+id: wd-q699295
+title:
+  zh-TW: 南京事件 (1927年)
+  en: Nanking incident of 1927
+summary:
+  zh-TW: 1927年暴力排外事件
+  en: 1927 anti-foreigner riots in Nanking
+start:
+  year: 1927
+  month: 3
+  day: 24
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q699295
+locations:
+  - place: wd-q10906766
+    role: primary
+wikipedia:
+  en: Nanking incident of 1927
+  zh: 南京事件 (1927年)
+importHash: c925d9f8bca5

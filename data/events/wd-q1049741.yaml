@@ -1,0 +1,28 @@
+id: wd-q1049741
+title:
+  zh-TW: 北京政變
+  en: Beijing Coup
+summary:
+  zh-TW: 1924 coup d'état in China by Feng Yuxiang against Cao Kun
+  en: 1924 coup d'état in China by Feng Yuxiang against Cao Kun
+start:
+  year: 1924
+  month: 10
+  day: 23
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1049741
+locations:
+  - place: wd-q956
+    role: primary
+relations:
+  - event: wd-q864847
+    type: part_of
+wikipedia:
+  en: 1924 Beijing Coup
+  zh: 北京政变 (1924年)
+importHash: f60d191d66a1

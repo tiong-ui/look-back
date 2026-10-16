@@ -1,0 +1,26 @@
+id: wd-q5260602
+title:
+  zh-TW: Depayin massacre
+  en: Depayin massacre
+summary:
+  zh-TW: Depayin massacre
+start:
+  year: 2003
+  month: 5
+  day: 30
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q5260602
+locations:
+  - place: wd-q5260602-site
+    role: primary
+  - place: wd-q3011581
+    role: secondary
+wikipedia:
+  en: Depayin massacre
+importHash: 4034b470874a

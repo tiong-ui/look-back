@@ -1,0 +1,31 @@
+id: wd-q483458
+title:
+  zh-TW: 濟州四·三事件
+  en: Jeju Uprising
+summary:
+  zh-TW: 濟州島上的一次歷史性反政府起義
+  en: 1948–49 uprising in Jeju Island, South Korea
+start:
+  year: 1948
+  month: 4
+  day: 3
+end:
+  year: 1949
+  month: 8
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+  - democracy
+regions:
+  - korea
+importance: 3
+wikidata: Q483458
+locations:
+  - place: wd-q483458-site
+    role: primary
+wikipedia:
+  en: Jeju uprising
+  zh: 濟州四·三事件
+importHash: 2da84065444d

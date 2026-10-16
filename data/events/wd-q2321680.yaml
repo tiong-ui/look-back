@@ -1,0 +1,25 @@
+id: wd-q2321680
+title:
+  zh-TW: 塔什幹宣言
+  en: Tashkent Declaration
+summary:
+  zh-TW: 印度-巴基斯坦條約
+  en: peace agreement between India and Pakistan advocated by USSR
+start:
+  year: 1966
+  month: 1
+  day: 10
+precision: day
+categories:
+  - diplomacy
+regions:
+  - central-asia
+importance: 3
+wikidata: Q2321680
+locations:
+  - place: wd-q269
+    role: primary
+wikipedia:
+  en: Tashkent Declaration
+  zh: 塔什干宣言
+importHash: 3aef8acbd1f9

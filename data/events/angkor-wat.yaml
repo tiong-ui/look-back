@@ -1,0 +1,23 @@
+id: angkor-wat
+title:
+  zh-TW: 吳哥窟興建
+  en: Construction of Angkor Wat
+summary:
+  zh-TW: 高棉帝國國王蘇利耶跋摩二世興建吳哥窟，是世界最大的宗教建築群之一，象徵高棉帝國的鼎盛時期。
+  en: Khmer king Suryavarman II built Angkor Wat, one of the largest religious monuments in the world and a symbol of the Khmer Empire at its height.
+start: 1113
+end: 1150
+precision: decade
+approximate: true
+categories:
+  - religion
+  - culture
+regions:
+  - southeast-asia
+importance: 3
+locations:
+  - place: angkor
+    role: primary
+wikipedia:
+  en: Angkor Wat
+  zh: 吴哥窟

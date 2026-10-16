@@ -1,0 +1,29 @@
+id: wd-q4951385
+title:
+  zh-TW: 波沃拉德叛亂
+  en: Boworadet Rebellion
+summary:
+  zh-TW: Attempted coup in Siam (1933)
+  en: Attempted coup in Siam (1933)
+start:
+  year: 1933
+  month: 10
+  day: 25
+end:
+  year: 1933
+  month: 10
+  day: 25
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4951385
+locations:
+  - place: wd-q190829
+    role: primary
+wikipedia:
+  en: Boworadet Rebellion
+importHash: 88ad14c0dc42

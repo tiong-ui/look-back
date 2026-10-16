@@ -1,0 +1,28 @@
+id: mongol-empire
+title:
+  zh-TW: 蒙古帝國建立
+  en: Founding of the Mongol Empire
+summary:
+  zh-TW: 鐵木真統一蒙古各部，被尊為成吉思汗。蒙古帝國其後成為史上陸地面積最大的連續帝國，忽必烈於1271年建立元朝。
+  en: Temüjin united the Mongol tribes and was proclaimed Genghis Khan. The Mongol Empire became the largest contiguous land empire in history; Kublai Khan founded the Yuan dynasty in 1271.
+start: 1206
+end: 1368
+precision: year
+categories:
+  - dynasty
+  - war
+regions:
+  - central-asia
+  - china
+importance: 5
+locations:
+  - place: karakorum
+    role: primary
+  - place: beijing
+    role: secondary
+relations:
+  - event: mongol-invasions-of-japan
+    type: has_part
+wikipedia:
+  en: Mongol Empire
+  zh: 蒙古帝国

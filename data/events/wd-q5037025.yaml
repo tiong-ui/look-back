@@ -1,0 +1,25 @@
+id: wd-q5037025
+title:
+  zh-TW: 攻佔興化
+  en: Capture of Hung Hoa
+summary:
+  zh-TW: 1884 battle in the Tonkin Campaign
+  en: 1884 battle in the Tonkin Campaign
+start:
+  year: 1884
+  month: 4
+  day: 12
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q5037025
+locations:
+  - place: wd-q36610
+    role: primary
+wikipedia:
+  en: Capture of Hưng Hóa
+  zh: 攻佔興化
+importHash: 39022af7e9b2

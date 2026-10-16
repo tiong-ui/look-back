@@ -1,0 +1,32 @@
+id: wd-q717963
+title:
+  zh-TW: 棗宜會戰
+  en: Battle of Zaoyang–Yichang
+summary:
+  zh-TW: 1940 battle of the Second Sino-Japanese War
+  en: 1940 battle of the Second Sino-Japanese War
+start:
+  year: 1940
+  month: 5
+  day: 1
+end:
+  year: 1940
+  month: 6
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q717963
+locations:
+  - place: wd-q717963-site
+    role: primary
+  - place: wd-q147171
+    role: secondary
+wikipedia:
+  en: Battle of Zaoyang–Yichang
+  zh: 枣宜会战
+importHash: 3dafa7be3062

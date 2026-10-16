@@ -1,0 +1,30 @@
+id: wd-q4871853
+title:
+  zh-TW: Battle of Nalapani
+  en: Battle of Nalapani
+summary:
+  zh-TW: 1814 first battle of the Anglo-Nepalese War
+  en: 1814 first battle of the Anglo-Nepalese War
+start:
+  year: 1814
+  month: 10
+  day: 31
+end:
+  year: 1814
+  month: 11
+  day: 30
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871853
+locations:
+  - place: wd-q4871853-site
+    role: primary
+  - place: wd-q1815740
+    role: secondary
+wikipedia:
+  en: Battle of Nalapani
+importHash: e4a62c36f421

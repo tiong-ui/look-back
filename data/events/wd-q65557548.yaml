@@ -1,0 +1,24 @@
+id: wd-q65557548
+title:
+  zh-TW: 2019 Halmahera earthquake
+  en: 2019 Halmahera earthquake
+summary:
+  zh-TW: Earthquake on 14 July 2019 in South Halmahera, Indonesia
+  en: Earthquake on 14 July 2019 in South Halmahera, Indonesia
+start:
+  year: 2019
+  month: 7
+  day: 14
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q65557548
+locations:
+  - place: wd-q65557548-site
+    role: primary
+wikipedia:
+  en: 2019 North Maluku earthquake
+importHash: 49fafb7e05a5

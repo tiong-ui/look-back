@@ -1,0 +1,25 @@
+id: wd-q10902675
+title:
+  zh-TW: 北埔事件
+  en: Beipu Uprising
+summary:
+  zh-TW: 1907年（明治40年）11月，發生於臺灣新竹北埔的抗日事件
+  en: 1907 armed uprising against Japanese rule of Taiwan
+start:
+  year: 1907
+  month: 11
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - taiwan
+importance: 2
+wikidata: Q10902675
+locations:
+  - place: wd-q713556
+    role: primary
+wikipedia:
+  en: Beipu uprising
+  zh: 北埔事件
+importHash: 2e0b979700ef

@@ -1,0 +1,28 @@
+id: wd-q4871577
+title:
+  zh-TW: 黎陽之戰
+  en: Battle of Liyang
+summary:
+  zh-TW: onflict between warlord Cao Cao and sons of Yuan Shao (202-203)
+  en: onflict between warlord Cao Cao and sons of Yuan Shao (202-203)
+start:
+  year: 202
+  month: 10
+end:
+  year: 203
+  month: 6
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4871577
+locations:
+  - place: wd-q43684
+    role: primary
+wikipedia:
+  en: Battle of Liyang
+  zh: 黎阳之战
+importHash: 42742ac99cb4

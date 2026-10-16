@@ -1,0 +1,22 @@
+id: wd-q2680935
+title:
+  zh-TW: 2010年沖繩地震
+summary:
+  zh-TW: 2010年沖繩地震
+start:
+  year: 2010
+  month: 2
+  day: 26
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q2680935
+locations:
+  - place: wd-q2680935-site
+    role: primary
+wikipedia:
+  zh: 2010年沖繩地震
+importHash: 2d1ffc1702b0

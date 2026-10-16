@@ -1,0 +1,25 @@
+id: wd-q5943658
+title:
+  zh-TW: 瀾滄-耿馬地震
+  en: 1988 Lancang-Gengma earthquakes
+summary:
+  zh-TW: magnitude 7.7 and 7.2 earthquake near the Myanmar−China border region
+  en: magnitude 7.7 and 7.2 earthquake near the Myanmar−China border region
+start:
+  year: 1988
+  month: 11
+  day: 6
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q5943658
+locations:
+  - place: wd-q5943658-site
+    role: primary
+wikipedia:
+  en: 1988 Lancang–Gengma earthquakes
+  zh: 澜沧-耿马地震
+importHash: 2e06a82c0e01

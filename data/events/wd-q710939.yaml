@@ -1,0 +1,30 @@
+id: wd-q710939
+title:
+  zh-TW: 米沙鄢群島戰役
+  en: Battle of the Visayas
+summary:
+  zh-TW: 1945 battle fought during World War II
+  en: 1945 battle fought during World War II
+start:
+  year: 1945
+  month: 3
+  day: 18
+end:
+  year: 1945
+  month: 7
+  day: 30
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q710939
+locations:
+  - place: wd-q211436
+    role: primary
+wikipedia:
+  en: Battle of Visayas
+  zh: 米沙鄢群島戰役
+importHash: 24439c9b874e

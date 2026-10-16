@@ -1,0 +1,27 @@
+id: wd-q4570436
+title:
+  zh-TW: 2006 Trincomalee massacre of NGO workers
+  en: 2006 Trincomalee massacre of NGO workers
+summary:
+  zh-TW: shooting in Muttur, Sri Lanka
+  en: shooting in Muttur, Sri Lanka
+start:
+  year: 2006
+  month: 8
+  day: 4
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4570436
+locations:
+  - place: wd-q4570436-site
+    role: primary
+  - place: wd-q6944133
+    role: secondary
+wikipedia:
+  en: 2006 Trincomalee massacre of NGO workers
+importHash: 6ca6e97375dd

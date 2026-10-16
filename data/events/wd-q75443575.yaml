@@ -1,0 +1,31 @@
+id: wd-q75443575
+title:
+  zh-TW: 香港理工大學衝突
+  en: 2019 Hong Kong Polytechnic University conflict
+summary:
+  zh-TW: 2019年香港示威期間在理工大學一帶爆發的警民衝突及圍困事件
+  en: 2019 conflict between Hong Kong police and protesters at Hong Kong Polytechnic University
+start:
+  year: 2019
+  month: 11
+  day: 13
+end:
+  year: 2019
+  month: 11
+  day: 29
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 1
+wikidata: Q75443575
+locations:
+  - place: wd-q75443575-site
+    role: primary
+  - place: wd-q1187271
+    role: secondary
+wikipedia:
+  en: 2019 Hong Kong Polytechnic University campus conflict
+  zh: 香港理工大學衝突
+importHash: 1f526bf13c87

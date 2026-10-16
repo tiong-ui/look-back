@@ -1,0 +1,31 @@
+id: wd-q128996486
+title:
+  zh-TW: Sack of Delhi
+  en: Sack of Delhi
+summary:
+  zh-TW: Afghan sacking of Delhi in 1757
+  en: Afghan sacking of Delhi in 1757
+start:
+  year: 1757
+  month: 1
+  day: 17
+end:
+  year: 1757
+  month: 2
+  day: 22
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q128996486
+locations:
+  - place: wd-q128996486-site
+    role: primary
+  - place: wd-q1353
+    role: secondary
+wikipedia:
+  en: Sack of Delhi (1757)
+importHash: 83b8124ade77

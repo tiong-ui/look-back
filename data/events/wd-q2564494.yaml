@@ -1,0 +1,24 @@
+id: wd-q2564494
+title:
+  zh-TW: 五喇嘛之戰
+  en: Battle of Five Lamas
+summary:
+  zh-TW: military confrontation between Bhutan and Tibet
+  en: military confrontation between Bhutan and Tibet
+start:
+  year: 1634
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2564494
+locations:
+  - place: wd-q2080429
+    role: primary
+wikipedia:
+  en: Second Battle of Simtokha Dzong
+  zh: 五喇嘛之战
+importHash: 48d1590ff61a

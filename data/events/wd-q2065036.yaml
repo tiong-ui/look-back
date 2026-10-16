@@ -1,0 +1,24 @@
+id: wd-q2065036
+title:
+  zh-TW: 桂陵之戰
+  en: Battle of Guiling
+summary:
+  zh-TW: Chinese battle
+  en: Chinese battle
+start:
+  year: -353
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2065036
+locations:
+  - place: wd-q58570
+    role: primary
+wikipedia:
+  en: Battle of Guiling
+  zh: 桂陵之战
+importHash: e31d52584310

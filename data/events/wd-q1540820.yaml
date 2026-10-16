@@ -1,0 +1,27 @@
+id: wd-q1540820
+title:
+  zh-TW: Battle of Aliwal
+  en: Battle of Aliwal
+summary:
+  zh-TW: 1846 battle
+  en: 1846 battle
+start:
+  year: 1846
+  month: 1
+  day: 28
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1540820
+locations:
+  - place: wd-q1540820-site
+    role: primary
+  - place: wd-q4727495
+    role: secondary
+wikipedia:
+  en: Battle of Aliwal
+importHash: 0cd4ea15e49b

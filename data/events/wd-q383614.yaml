@@ -1,0 +1,29 @@
+id: wd-q383614
+title:
+  zh-TW: 科西瑪戰役
+  en: Battle of Kohima
+summary:
+  zh-TW: 1944 battle around Kohima, Nagaland, India
+  en: 1944 battle around Kohima, Nagaland, India
+start:
+  year: 1944
+end:
+  year: 1944
+  month: 6
+  day: 22
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q383614
+locations:
+  - place: wd-q383614-site
+    role: primary
+  - place: wd-q234056
+    role: secondary
+wikipedia:
+  en: Battle of Kohima
+importHash: 929c6433be24

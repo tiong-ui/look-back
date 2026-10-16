@@ -1,0 +1,28 @@
+id: wd-q620621
+title:
+  zh-TW: 黃巢之亂
+  en: Huang Chao Rebellion
+summary:
+  zh-TW: 民變
+  en: 874–884 uprising against Tang rule in China
+start:
+  year: 875
+end:
+  year: 884
+  month: 6
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q620621
+locations:
+  - place: wd-q6501000
+    role: primary
+wikipedia:
+  en: Huang Chao Rebellion
+  zh: 黃巢之亂
+importHash: 56fef2ca435d

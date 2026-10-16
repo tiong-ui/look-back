@@ -1,0 +1,42 @@
+id: kingdom-of-tungning
+title:
+  zh-TW: 東寧王國
+  en: Kingdom of Tungning
+altNames:
+  - zh-TW: 明鄭時期
+    en: Ming-Zheng era
+summary:
+  zh-TW: 鄭成功及其子孫在臺灣建立的政權，奉南明正朔但實際獨立運作，設承天府、推動屯田與貿易，是臺灣第一個以漢人為主的政權。
+  en: The regime set up in Taiwan by Koxinga and his heirs. It nominally served the Southern Ming but in practice ran independently, setting up Chengtian prefecture and promoting military farming and trade. It was the first Han-led regime in Taiwan.
+start: 1661
+end: 1683
+precision: year
+categories:
+  - dynasty
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: tainan
+    role: primary
+  - place: xiamen
+    role: secondary
+relations:
+  - event: battle-of-penghu
+    type: precedes
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 「東寧王國」一名強調它是在臺灣獨立運作的政權，而非中國王朝的延伸。
+      en: The name "Kingdom of Tungning" stresses that it was a regime operating independently in Taiwan, not an extension of a Chinese dynasty.
+  - view: roc
+    text:
+      zh-TW: 中華民國教科書傳統上稱「明鄭時期」，強調其延續明朝、「反清復明」的性質。
+      en: ROC textbooks traditionally say "Ming-Zheng era", stressing its continuation of the Ming and its anti-Qing cause.
+  - view: prc
+    text:
+      zh-TW: 中國官方強調鄭成功「收復臺灣」、驅逐荷蘭殖民者的民族英雄形象。
+      en: Chinese official accounts present Koxinga as a national hero who "recovered Taiwan" from Dutch colonisers.
+wikipedia:
+  en: Kingdom of Tungning
+  zh: 明鄭時期

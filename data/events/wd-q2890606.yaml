@@ -1,0 +1,31 @@
+id: wd-q2890606
+title:
+  zh-TW: 宮古灣海戰
+  en: Battle of Miyako Bay
+summary:
+  zh-TW: naval action on 6 May 1869, part of the overall Battle of Hakodate at the end of the Boshin War
+  en: naval action on 6 May 1869, part of the overall Battle of Hakodate at the end of the Boshin War
+start:
+  year: 1869
+  month: 5
+  day: 6
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2890606
+locations:
+  - place: wd-q2890606-site
+    role: primary
+  - place: wd-q11453480
+    role: secondary
+relations:
+  - event: wd-q716562
+    type: part_of
+wikipedia:
+  en: Battle of Miyako Bay
+  zh: 宮古灣海戰
+importHash: 5211c6d021eb

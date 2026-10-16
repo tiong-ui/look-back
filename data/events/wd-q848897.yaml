@@ -1,0 +1,23 @@
+id: wd-q848897
+title:
+  zh-TW: 第二次上田城之戰
+  en: Siege of Ueda
+summary:
+  zh-TW: 1600 siege
+  en: 1600 siege
+start:
+  year: 1600
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q848897
+locations:
+  - place: wd-q2968344
+    role: primary
+wikipedia:
+  en: Siege of Ueda
+  zh: 上田合戰
+importHash: 463102d227b1

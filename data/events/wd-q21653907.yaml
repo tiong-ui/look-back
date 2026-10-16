@@ -1,0 +1,25 @@
+id: wd-q21653907
+title:
+  zh-TW: 2011年長野縣北部地震
+  en: 2011 northern Nagano earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2011
+  month: 3
+  day: 12
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q21653907
+locations:
+  - place: wd-q21653907-site
+    role: primary
+wikipedia:
+  en: 2011 Nagano earthquake
+  zh: 榮村地震
+importHash: d795750f4278

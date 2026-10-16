@@ -1,0 +1,27 @@
+id: wd-q1806377
+title:
+  zh-TW: 瀨澤之戰
+  en: Battle of Sezawa
+summary:
+  zh-TW: 1542 battle
+  en: 1542 battle
+start:
+  year: 1542
+  month: 4
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1806377
+locations:
+  - place: wd-q1806377-site
+    role: primary
+  - place: wd-q1131473
+    role: secondary
+wikipedia:
+  en: Battle of Sezawa
+importHash: d84eb45fd32a

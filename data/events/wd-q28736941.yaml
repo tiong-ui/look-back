@@ -1,0 +1,24 @@
+id: wd-q28736941
+title:
+  zh-TW: 2017年北阿坎德邦地震
+  en: 2017 Uttarakhand earthquake
+summary:
+  zh-TW: 2017年北阿坎德邦地震
+start:
+  year: 2017
+  month: 2
+  day: 6
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q28736941
+locations:
+  - place: wd-q28736941-site
+    role: primary
+wikipedia:
+  en: 2017 Uttarakhand earthquake
+  zh: 2017年北阿坎德邦地震
+importHash: a6d862e8e673

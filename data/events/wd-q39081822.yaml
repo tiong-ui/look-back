@@ -1,0 +1,23 @@
+id: wd-q39081822
+title:
+  zh-TW: Siege of Merv
+  en: Siege of Merv
+summary:
+  zh-TW: 1221 Mongol invasion of Khwarezmia and Eastern Iran
+  en: 1221 Mongol invasion of Khwarezmia and Eastern Iran
+start:
+  year: 1221
+  month: 4
+precision: month
+categories:
+  - war
+regions:
+  - central-asia
+importance: 1
+wikidata: Q39081822
+locations:
+  - place: wd-q193325
+    role: primary
+wikipedia:
+  en: Siege of Merv (1221)
+importHash: c0535b70b564

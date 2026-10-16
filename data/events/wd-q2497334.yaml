@@ -1,0 +1,34 @@
+id: wd-q2497334
+title:
+  zh-TW: Battle of Wana
+  en: Battle of Wana
+summary:
+  zh-TW: 2004 military engagement between the Pakistan Army and foreign fighters of al-Qaeda led by Osama Bin Laden
+  en: 2004 military engagement between the Pakistan Army and foreign fighters of al-Qaeda led by Osama Bin Laden
+start:
+  year: 2004
+  month: 3
+  day: 16
+end:
+  year: 2004
+  month: 3
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2497334
+locations:
+  - place: wd-q2497334-site
+    role: primary
+  - place: wd-q1026635
+    role: secondary
+relations:
+  - event: wd-q179275
+    type: part_of
+wikipedia:
+  en: Battle of Wana
+importHash: 328cd00ef269

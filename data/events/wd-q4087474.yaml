@@ -1,0 +1,28 @@
+id: wd-q4087474
+title:
+  zh-TW: 吳淞戰役
+  en: Battle of Woosung
+summary:
+  zh-TW: First Opium War battle near Shanghai (1842)
+  en: First Opium War battle near Shanghai (1842)
+start:
+  year: 1842
+  month: 6
+  day: 16
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4087474
+locations:
+  - place: wd-q4087474-site
+    role: primary
+  - place: wd-q99785
+    role: secondary
+wikipedia:
+  en: Battle of Woosung
+  zh: 吴淞战役
+importHash: a8d3dfba506e

@@ -1,0 +1,32 @@
+id: wd-q707238
+title:
+  zh-TW: 英帕爾戰役
+  en: Battle of Imphal
+summary:
+  zh-TW: 1944年日本和英國的軍事衝突
+  en: battle fought in 1944
+start:
+  year: 1944
+  month: 3
+  day: 8
+end:
+  year: 1944
+  month: 7
+  day: 3
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q707238
+locations:
+  - place: wd-q707238-site
+    role: primary
+  - place: wd-q208097
+    role: secondary
+wikipedia:
+  en: Battle of Imphal
+  zh: 英帕尔战役
+importHash: e57c3994d1ec

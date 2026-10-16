@@ -1,0 +1,27 @@
+id: wd-q214866
+title:
+  zh-TW: 阪神大地震
+  en: Great Hanshin Earthquake
+summary:
+  zh-TW: 1995 earthquake in Kobe, Japan
+  en: 1995 earthquake in Kobe, Japan
+start:
+  year: 1995
+  month: 1
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 4
+wikidata: Q214866
+locations:
+  - place: wd-q214866-site
+    role: primary
+  - place: wd-q48320
+    role: secondary
+wikipedia:
+  en: Kobe earthquake
+  zh: 阪神大地震
+importHash: a23baa24ff39

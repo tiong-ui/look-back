@@ -1,0 +1,32 @@
+id: wd-q624853
+title:
+  zh-TW: 麗水-順天事件
+  en: Yeosu–Suncheon Rebellion
+summary:
+  zh-TW: anti-US socialist rebellion in South Korea
+  en: anti-US socialist rebellion in South Korea
+start:
+  year: 1948
+  month: 10
+  day: 19
+end:
+  year: 1948
+  month: 10
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q624853
+locations:
+  - place: wd-q42112
+    role: primary
+  - place: wd-q42125
+    role: secondary
+wikipedia:
+  en: Yeosu–Suncheon rebellion
+  zh: 麗水—順天事件
+importHash: 5973e6a1b4f9

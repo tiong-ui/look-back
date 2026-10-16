@@ -1,0 +1,26 @@
+id: prc-founded
+title:
+  zh-TW: 中華人民共和國成立
+  en: People's Republic of China founded
+summary:
+  zh-TW: 中國共產黨在國共內戰中取勝，毛澤東於北京宣布成立中華人民共和國。中華人民共和國從未統治過臺灣。
+  en: Having won the Chinese Civil War, the Chinese Communist Party proclaimed the People's Republic of China in Beijing under Mao Zedong. The PRC has never governed Taiwan.
+start:
+  year: 1949
+  month: 10
+  day: 1
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 5
+locations:
+  - place: beijing
+    role: primary
+relations:
+  - event: roc-government-retreat
+    type: related
+wikipedia:
+  en: Proclamation of the People's Republic of China
+  zh: 中华人民共和国开国大典

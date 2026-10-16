@@ -1,0 +1,24 @@
+id: wd-q4065335
+title:
+  zh-TW: 1902 Andijan earthquake
+  en: 1902 Andijan earthquake
+summary:
+  zh-TW: earthquake struck Andijan Province, Uzbekistan on December 16, 1902
+  en: earthquake struck Andijan Province, Uzbekistan on December 16, 1902
+start:
+  year: 1902
+  month: 12
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4065335
+locations:
+  - place: wd-q4065335-site
+    role: primary
+wikipedia:
+  en: 1902 Andijan earthquake
+importHash: 2532eb2cf46a

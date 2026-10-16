@@ -1,4 +1,5 @@
-# Imports events in Asia from Wikidata into data/imported/ and opens a pull
+# Imports events in Asia from Wikidata into data/events/ and data/places/
+# (merging: events edited by people are never overwritten) and opens a pull
 # request with the result, so the import can be looked over before it goes live.
 # Runs on demand (Actions → Import events from Wikidata → Run workflow) and monthly.
 name: Import events from Wikidata
@@ -40,16 +41,16 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if git diff --quiet -- data/imported && [ -z "$(git ls-files --others --exclude-standard data/imported)" ]; then
+          if git diff --quiet -- data/events data/places && [ -z "$(git ls-files --others --exclude-standard data/events data/places)" ]; then
             echo "Nothing new from Wikidata"; exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -B "$BRANCH"
-          git add data/imported
+          git add data/events data/places
           git commit -m "Import events from Wikidata ($(date -u +%Y-%m-%d))"
           git push --force origin "$BRANCH"
-          summary=$(tail -n 2 import.log)
+          summary=$(tail -n 3 import.log)
           if gh pr view "$BRANCH" --json state -q .state 2>/dev/null | grep -q OPEN; then
             echo "Updated the open pull request for $BRANCH"
           else

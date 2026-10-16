@@ -1,0 +1,25 @@
+id: wd-q135654302
+title:
+  zh-TW: 江油未成年人欺凌事件
+  en: 2025 school harassment incident in Jiangyou
+summary:
+  zh-TW: 四川江油發生的未成年人欺凌及群體抗議事件（六棍打碎江油魂，長官我是綿陽人）
+  en: 2025 protests in China
+start:
+  year: 2025
+  month: 7
+  day: 22
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q135654302
+locations:
+  - place: wd-q1359300
+    role: primary
+wikipedia:
+  en: Jiangyou bullying incident and protests
+  zh: 江油未成年人欺凌事件
+importHash: 453ba0f9a380

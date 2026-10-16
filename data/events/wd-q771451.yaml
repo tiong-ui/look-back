@@ -1,0 +1,25 @@
+id: wd-q771451
+title:
+  zh-TW: 神奈川條約
+  en: Convention of Kanagawa
+summary:
+  zh-TW: 江戶幕府與美國締結之不平等條約
+  en: treaty
+start:
+  year: 1864
+  month: 3
+  day: 31
+precision: day
+categories:
+  - diplomacy
+regions:
+  - japan
+importance: 4
+wikidata: Q771451
+locations:
+  - place: wd-q38283
+    role: primary
+wikipedia:
+  en: Convention of Kanagawa
+  zh: 神奈川條約
+importHash: b9534a0336b2

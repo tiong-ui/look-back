@@ -1,0 +1,25 @@
+id: wd-q11158136
+title:
+  zh-TW: 2013年錫斯坦－俾路支斯坦省地震
+  en: 2013 Sistan and Baluchestan earthquake
+summary:
+  zh-TW: 2013年發生的伊朗與巴基斯坦交界地區之地震
+  en: earthquake in Saravan City, Iran
+start:
+  year: 2013
+  month: 4
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 3
+wikidata: Q11158136
+locations:
+  - place: wd-q11158136-site
+    role: primary
+wikipedia:
+  en: 2013 Saravan earthquake
+  zh: 2013年錫斯坦和俾路支斯坦省地震
+importHash: d65d504d7cac

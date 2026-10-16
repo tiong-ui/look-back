@@ -1,0 +1,30 @@
+id: wd-q19848817
+title:
+  zh-TW: 泥沼之戰
+  en: Battle of the Mire
+summary:
+  zh-TW: 1365 battle between Ilyas Khoja and alliance of Tamerlane and Hussein
+  en: 1365 battle between Ilyas Khoja and alliance of Tamerlane and Hussein
+start:
+  year: 1365
+  month: 5
+  day: 30
+precision: day
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q19848817
+locations:
+  - place: wd-q269
+    role: primary
+  - place: wd-q1961081
+    role: secondary
+relations:
+  - event: wd-q65121240
+    type: part_of
+wikipedia:
+  en: Battle of Tashkent (1365)
+  zh: 泥沼之戰
+importHash: bdde6a63fa07

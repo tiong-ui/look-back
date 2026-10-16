@@ -1,0 +1,26 @@
+id: song-dynasty
+title:
+  zh-TW: 宋朝
+  en: Song dynasty
+summary:
+  zh-TW: 經濟、科技與海上貿易高度發達的王朝，泉州成為世界級港口；北宋都汴京，南宋遷都臨安。
+  en: A dynasty of advanced economy, technology and maritime trade, when Quanzhou became a world-class port. The Northern Song ruled from Bianjing; the Southern Song moved to Lin'an.
+start: 960
+end: 1279
+precision: year
+categories:
+  - dynasty
+  - trade
+regions:
+  - china
+importance: 5
+locations:
+  - place: kaifeng
+    role: primary
+  - place: hangzhou
+    role: secondary
+  - place: quanzhou
+    role: secondary
+wikipedia:
+  en: Song dynasty
+  zh: 宋朝

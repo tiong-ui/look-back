@@ -1,0 +1,25 @@
+id: wd-q2888964
+title:
+  zh-TW: 藤戶之戰
+  en: Battle of Kojima
+summary:
+  zh-TW: 1184 Japanese battle in the Genpei Wars
+  en: 1184 Japanese battle in the Genpei Wars
+start:
+  year: 1185
+  month: 1
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2888964
+locations:
+  - place: wd-q2888964-site
+    role: primary
+wikipedia:
+  en: Battle of Kojima
+importHash: 58c8d40e3866

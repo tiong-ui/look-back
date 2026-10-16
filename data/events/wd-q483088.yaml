@@ -1,0 +1,27 @@
+id: wd-q483088
+title:
+  zh-TW: 漆川梁海戰
+  en: Battle of Chilcheollyang
+summary:
+  zh-TW: sea battle (1597)
+  en: sea battle (1597)
+start:
+  year: 1597
+  month: 8
+  day: 27
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q483088
+locations:
+  - place: wd-q483088-site
+    role: primary
+  - place: wd-q42057
+    role: secondary
+wikipedia:
+  en: Battle of Chilcheollyang
+  zh: 漆川梁海戰
+importHash: 7942057c3bf2

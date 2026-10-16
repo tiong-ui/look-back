@@ -1,0 +1,25 @@
+id: wd-q4562073
+title:
+  zh-TW: 古浪大地震
+  en: 1927 Gulang earthquake
+summary:
+  zh-TW: earthquake struck Gansu Province, China on May 22
+  en: earthquake struck Gansu Province, China on May 22
+start:
+  year: 1927
+  month: 5
+  day: 22
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q4562073
+locations:
+  - place: wd-q4562073-site
+    role: primary
+wikipedia:
+  en: 1927 Gulang earthquake
+  zh: 古浪大地震
+importHash: 8a017f88135e

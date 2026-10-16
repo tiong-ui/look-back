@@ -1,0 +1,28 @@
+id: wd-q1849379
+title:
+  zh-TW: Travancore–Dutch War
+  en: Travancore–Dutch War
+summary:
+  zh-TW: 1739–1753 war
+  en: 1739–1753 war
+start:
+  year: 1739
+  month: 11
+  day: 12
+end:
+  year: 1753
+  month: 8
+  day: 15
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1849379
+locations:
+  - place: wd-q1186
+    role: primary
+wikipedia:
+  en: Travancore–Dutch War
+importHash: 76e525b5597e

@@ -1,0 +1,25 @@
+id: wd-q701091
+title:
+  zh-TW: 中日修好條規
+  en: Sino-Japanese Friendship and Trade Treaty
+summary:
+  zh-TW: treaty between Japan and Qing China signed on 13 September 1871 in Tianjin by Date Munenari and Li Hongzhang
+  en: treaty between Japan and Qing China signed on 13 September 1871 in Tianjin by Date Munenari and Li Hongzhang
+start:
+  year: 1871
+  month: 7
+  day: 29
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 2
+wikidata: Q701091
+locations:
+  - place: wd-q11736
+    role: primary
+wikipedia:
+  en: Sino-Japanese Friendship and Trade Treaty
+  zh: 中日修好條規
+importHash: 236e938c5834

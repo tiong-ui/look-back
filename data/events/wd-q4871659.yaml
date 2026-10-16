@@ -1,0 +1,29 @@
+id: wd-q4871659
+title:
+  zh-TW: Battle of Mang Yang Pass
+  en: Battle of Mang Yang Pass
+summary:
+  zh-TW: 1954 last battle of the First Indochina War
+  en: 1954 last battle of the First Indochina War
+start:
+  year: 1954
+end:
+  year: 1954
+  month: 7
+  day: 17
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4871659
+locations:
+  - place: wd-q4871659-site
+    role: primary
+  - place: wd-q6748577
+    role: secondary
+wikipedia:
+  en: Battle of Mang Yang Pass
+importHash: abb181d94802

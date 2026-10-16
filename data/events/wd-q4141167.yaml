@@ -1,0 +1,26 @@
+id: wd-q4141167
+title:
+  zh-TW: 沙基慘案
+  en: Shakee Massacre
+summary:
+  zh-TW: 1925年6月23日發生在廣州的一起政治事件
+  en: 1925 massacre in Guangzhou, China
+start:
+  year: 1925
+  month: 6
+  day: 23
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q4141167
+locations:
+  - place: wd-q10893054
+    role: primary
+wikipedia:
+  en: Shameen Incident
+  zh: 沙基慘案
+importHash: be3e2e8d5d19

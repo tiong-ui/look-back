@@ -1,0 +1,30 @@
+id: wd-q4871221
+title:
+  zh-TW: Battle of Hill 170
+  en: Battle of Hill 170
+summary:
+  zh-TW: 1945 battle of World War II
+  en: 1945 battle of World War II
+start:
+  year: 1945
+  month: 1
+  day: 22
+end:
+  year: 1945
+  month: 1
+  day: 31
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4871221
+locations:
+  - place: wd-q4871221-site
+    role: primary
+  - place: wd-q233838
+    role: secondary
+wikipedia:
+  en: Battle of Hill 170
+importHash: 358cf1ef7655

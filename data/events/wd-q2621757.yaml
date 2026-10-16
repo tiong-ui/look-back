@@ -1,0 +1,33 @@
+id: wd-q2621757
+title:
+  zh-TW: 紅色清真寺圍攻
+  en: Lal Masjid Siege
+summary:
+  zh-TW: 2007 Pakistani military standoff against the Taliban
+  en: 2007 Pakistani military standoff against the Taliban
+start:
+  year: 2007
+  month: 7
+  day: 3
+end:
+  year: 2007
+  month: 7
+  day: 11
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2621757
+locations:
+  - place: wd-q2621757-site
+    role: primary
+  - place: wd-q915851
+    role: secondary
+relations:
+  - event: wd-q179275
+    type: part_of
+wikipedia:
+  en: Siege of Lal Masjid
+importHash: cf98bfa91e89

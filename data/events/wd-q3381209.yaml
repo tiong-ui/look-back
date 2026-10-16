@@ -1,0 +1,32 @@
+id: wd-q3381209
+title:
+  zh-TW: Battle of Kham Duc
+  en: Battle of Kham Duc
+summary:
+  zh-TW: 1968 major battle of the Vietnam War.
+  en: 1968 major battle of the Vietnam War.
+start:
+  year: 1968
+  month: 5
+  day: 10
+end:
+  year: 1968
+  month: 5
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q3381209
+locations:
+  - place: wd-q3381209-site
+    role: primary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of Kham Duc
+importHash: cb81626520c0

@@ -1,0 +1,27 @@
+id: wd-q462195
+title:
+  zh-TW: 唐山大地震
+  en: 1976 Tangshan earthquake
+summary:
+  zh-TW: 在1976年發生的強烈地震
+  en: earthquake that occurred in 1976 Tangshan, Hebei, China
+start:
+  year: 1976
+  month: 7
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 4
+wikidata: Q462195
+locations:
+  - place: wd-q462195-site
+    role: primary
+  - place: wd-q58422
+    role: secondary
+wikipedia:
+  en: 1976 Tangshan earthquake
+  zh: 唐山大地震
+importHash: 821d5d320f23

@@ -1,0 +1,26 @@
+id: wd-q116944530
+title:
+  zh-TW: 勃固大屠殺
+  en: Bago massacre
+summary:
+  zh-TW: 2021 massacre in Bago, Myanmar
+  en: 2021 massacre in Bago, Myanmar
+start:
+  year: 2021
+  month: 4
+  day: 9
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q116944530
+locations:
+  - place: wd-q116944530-site
+    role: primary
+wikipedia:
+  en: Bago massacre
+  zh: 勃固大屠杀
+importHash: 9894d88e803f

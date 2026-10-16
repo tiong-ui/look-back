@@ -1,0 +1,24 @@
+id: korea-annexation
+title:
+  zh-TW: 日韓合併
+  en: Japan annexes Korea
+summary:
+  zh-TW: 日本依《日韓合併條約》併吞大韓帝國，朝鮮半島進入日本殖民統治，至1945年結束。
+  en: Japan annexed the Korean Empire under the Japan–Korea Treaty, beginning colonial rule that lasted until 1945.
+start:
+  year: 1910
+  month: 8
+  day: 29
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+  - japan
+importance: 4
+locations:
+  - place: seoul
+    role: primary
+wikipedia:
+  en: Japan–Korea Treaty of 1910
+  zh: 日韩合并条约

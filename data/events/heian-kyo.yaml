@@ -1,0 +1,21 @@
+id: heian-kyo
+title:
+  zh-TW: 遷都平安京
+  en: Capital moves to Heian-kyō
+summary:
+  zh-TW: 桓武天皇遷都平安京（今京都），開啟長達近四百年的平安時代，宮廷文化與假名文學蓬勃發展。
+  en: Emperor Kanmu moved the capital to Heian-kyō (now Kyoto), opening the nearly four-century Heian period, when court culture and kana literature flourished.
+start: 794
+precision: year
+categories:
+  - politics
+  - culture
+regions:
+  - japan
+importance: 3
+locations:
+  - place: kyoto
+    role: primary
+wikipedia:
+  en: Heian period
+  zh: 平安时代

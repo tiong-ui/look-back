@@ -1,0 +1,25 @@
+id: wd-q4087440
+title:
+  zh-TW: Battle of Laswari
+  en: Battle of Laswari
+summary:
+  zh-TW: 1803 battle
+  en: 1803 battle
+start:
+  year: 1803
+  month: 11
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4087440
+locations:
+  - place: wd-q4087440-site
+    role: primary
+wikipedia:
+  en: Battle of Laswari
+importHash: 85b9c55d18b0

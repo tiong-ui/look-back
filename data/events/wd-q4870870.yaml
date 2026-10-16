@@ -1,0 +1,28 @@
+id: wd-q4870870
+title:
+  zh-TW: 狄道之戰
+  en: Battle of Didao
+summary:
+  zh-TW: battle between states of Shu Han and Cao Wei (255)
+  en: battle between states of Shu Han and Cao Wei (255)
+start:
+  year: 255
+  month: 9
+end:
+  year: 255
+  month: 11
+  day: 11
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4870870
+locations:
+  - place: wd-q42392
+    role: primary
+wikipedia:
+  en: Battle of Didao
+  zh: 狄道之战
+importHash: f49595301371

@@ -1,0 +1,29 @@
+id: wd-q847590
+title:
+  zh-TW: 宛城之戰
+  en: Battle of Wancheng
+summary:
+  zh-TW: Conflicts between warlords Cao Cao and Zhang Xiu (197-199)
+  en: Conflicts between warlords Cao Cao and Zhang Xiu (197-199)
+start:
+  year: 197
+  month: 2
+end:
+  year: 199
+  month: 12
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q847590
+locations:
+  - place: wd-q847590-site
+    role: primary
+wikipedia:
+  en: War between Cao Cao and Zhang Xiu
+  zh: 曹操与张绣的战争
+importHash: 8e6b72326018

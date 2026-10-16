@@ -1,0 +1,30 @@
+id: wd-q2622890
+title:
+  zh-TW: 小田原之戰
+  en: Siege of Odawara
+summary:
+  zh-TW: "1590"
+  en: "1590"
+start:
+  year: 1590
+  month: 5
+end:
+  year: 1590
+  month: 8
+  day: 4
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 3
+wikidata: Q2622890
+locations:
+  - place: wd-q2622890-site
+    role: primary
+  - place: wd-q1013437
+    role: secondary
+wikipedia:
+  en: Siege of Odawara (1590)
+  zh: 小田原之戰
+importHash: 1278340bcd31

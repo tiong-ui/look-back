@@ -1,0 +1,30 @@
+id: wd-q259526
+title:
+  zh-TW: 隆新戰役
+  en: Battle of Long Tan
+summary:
+  zh-TW: 1966年越戰期間發生於南越福綏省隆新的戰役
+  en: 1966 battle of the Vietnam War
+start:
+  year: 1966
+  month: 8
+  day: 18
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q259526
+locations:
+  - place: wd-q259526-site
+    role: primary
+  - place: wd-q3138964
+    role: secondary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of Long Tan
+importHash: 7c9c644151e2

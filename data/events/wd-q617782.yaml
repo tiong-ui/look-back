@@ -1,0 +1,31 @@
+id: wd-q617782
+title:
+  zh-TW: 第四次英國-邁索爾戰爭
+  en: Fourth Anglo-Mysore War
+summary:
+  zh-TW: war
+  en: war
+start:
+  year: 1799
+  month: 5
+  day: 4
+end:
+  year: 1799
+  month: 1
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q617782
+locations:
+  - place: wd-q60140
+    role: primary
+relations:
+  - event: wd-q617321
+    type: part_of
+wikipedia:
+  en: Fourth Anglo-Mysore War
+importHash: 638c39542203

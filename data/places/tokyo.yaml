@@ -1,0 +1,10 @@
+id: tokyo
+lng: 139.69
+lat: 35.69
+names:
+  - zh-TW: 江戶
+    en: Edo
+    to: 1867
+  - zh-TW: 東京
+    en: Tokyo
+    from: 1868

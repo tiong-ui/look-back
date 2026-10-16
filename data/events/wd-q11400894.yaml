@@ -1,0 +1,25 @@
+id: wd-q11400894
+title:
+  zh-TW: 北丹後地震
+  en: 1927 North Tango earthquake
+summary:
+  zh-TW: earthquake struck off the west coast of Honshu, Japan on March 7
+  en: earthquake struck off the west coast of Honshu, Japan on March 7
+start:
+  year: 1927
+  month: 3
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11400894
+locations:
+  - place: wd-q11400894-site
+    role: primary
+wikipedia:
+  en: 1927 North Tango earthquake
+  zh: 北丹後地震
+importHash: 68cd4f92c4d8

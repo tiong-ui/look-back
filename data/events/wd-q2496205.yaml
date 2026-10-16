@@ -1,0 +1,26 @@
+id: wd-q2496205
+title:
+  zh-TW: 甲米地起義
+  en: 1872 Cavite mutiny
+summary:
+  zh-TW: Filipino uprising against Spanish rule
+  en: Filipino uprising against Spanish rule
+start:
+  year: 1872
+  month: 1
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q2496205
+locations:
+  - place: wd-q15218149
+    role: primary
+wikipedia:
+  en: 1872 Cavite mutiny
+  zh: 甲米地起义
+importHash: d6876fe0f3bc

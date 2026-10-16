@@ -1,0 +1,25 @@
+id: wd-q3133143
+title:
+  zh-TW: 1998年巴布亞新幾內亞地震
+  en: 1998 Papua New Guinea earthquake
+summary:
+  zh-TW: severe earthquake and tsunami near Papua New Guinea
+  en: severe earthquake and tsunami near Papua New Guinea
+start:
+  year: 1998
+  month: 7
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - asia
+importance: 2
+wikidata: Q3133143
+locations:
+  - place: wd-q3133143-site
+    role: primary
+wikipedia:
+  en: 1998 Papua New Guinea earthquake
+  zh: 1998年巴布亞新幾內亞地震
+importHash: df437ba57bf2

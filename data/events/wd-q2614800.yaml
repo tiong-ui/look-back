@@ -1,0 +1,25 @@
+id: wd-q2614800
+title:
+  zh-TW: 直皖戰爭
+  en: Zhili–Anhui War
+summary:
+  zh-TW: 中華民國初年地方軍閥混戰
+  en: part of the Warlord era
+start:
+  year: 1920
+  month: 7
+  day: 14
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q2614800
+locations:
+  - place: wd-q21208
+    role: primary
+wikipedia:
+  en: Zhili–Anhui War
+  zh: 直皖戰爭
+importHash: a66bd89aab7f

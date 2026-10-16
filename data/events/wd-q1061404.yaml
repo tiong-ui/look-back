@@ -1,0 +1,30 @@
+id: wd-q1061404
+title:
+  zh-TW: 第二次大沽口之戰
+  en: Battle of Taku Forts
+summary:
+  zh-TW: 1859 battle
+  en: 1859 battle
+start:
+  year: 1859
+  month: 6
+  day: 24
+end:
+  year: 1859
+  month: 6
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q1061404
+locations:
+  - place: wd-q548289
+    role: primary
+wikipedia:
+  en: Battle of Taku Forts (1859)
+  zh: 第二次大沽口之战
+importHash: 28a653476261

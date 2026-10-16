@@ -1,0 +1,25 @@
+id: wd-q48178474
+title:
+  zh-TW: 2018年西爪哇地震
+  en: 2018 Java earthquake
+summary:
+  zh-TW: earthquake in Indonesia
+  en: earthquake in Indonesia
+start:
+  year: 2018
+  month: 1
+  day: 23
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q48178474
+locations:
+  - place: wd-q48178474-site
+    role: primary
+wikipedia:
+  en: 2018 West Java earthquake
+  zh: 2018年西爪哇地震
+importHash: 81381c0475c6

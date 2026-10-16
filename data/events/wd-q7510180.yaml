@@ -1,0 +1,29 @@
+id: wd-q7510180
+title:
+  zh-TW: 上月城之戰
+  en: Siege of Kōzuki Castle
+summary:
+  zh-TW: 1578 siege of Kozuki Castle in Japan
+  en: 1578 siege of Kozuki Castle in Japan
+start:
+  year: 1578
+end:
+  year: 1578
+  month: 8
+  day: 16
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510180
+locations:
+  - place: wd-q7510180-site
+    role: primary
+  - place: wd-q8012417
+    role: secondary
+wikipedia:
+  en: Siege of Kōzuki Castle
+  zh: 上月城之戰
+importHash: 54561636aa7d

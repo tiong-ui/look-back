@@ -1,0 +1,31 @@
+id: wd-q706183
+title:
+  zh-TW: 中法戰爭
+  en: Sino-French War
+summary:
+  zh-TW: 19世紀末期中國與法國爆發的戰爭
+  en: limited conflict (1881–1885) between France and China
+start:
+  year: 1884
+  month: 8
+end:
+  year: 1885
+  month: 4
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+  - china
+importance: 4
+wikidata: Q706183
+locations:
+  - place: wd-q22502
+    role: primary
+  - place: wd-q29520
+    role: secondary
+wikipedia:
+  en: Sino-French War
+  zh: 中法战争
+importHash: 53dcf4b60b06

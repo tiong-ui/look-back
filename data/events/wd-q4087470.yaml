@@ -1,0 +1,30 @@
+id: wd-q4087470
+title:
+  zh-TW: 烏蘭布通之戰
+  en: Battle of Ulan Butung
+summary:
+  zh-TW: part of the Dzungar–Qing War in 1690
+  en: part of the Dzungar–Qing War in 1690
+start:
+  year: 1690
+  month: 9
+  day: 3
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4087470
+locations:
+  - place: wd-q4087470-site
+    role: primary
+  - place: wd-q1342685
+    role: secondary
+relations:
+  - event: wd-q6808293
+    type: part_of
+wikipedia:
+  en: Battle of Ulan Butung
+  zh: 烏蘭布通之戰
+importHash: d7154b92ad20

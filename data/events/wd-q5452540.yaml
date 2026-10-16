@@ -1,0 +1,25 @@
+id: wd-q5452540
+title:
+  zh-TW: 屯門海戰
+  en: First Battle of Tamao
+summary:
+  zh-TW: 1521年戰役
+  en: 1521 battle of Tunmen
+start:
+  year: 1521
+precision: year
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q5452540
+locations:
+  - place: wd-q5452540-site
+    role: primary
+  - place: wd-q1758751
+    role: secondary
+wikipedia:
+  en: Battle of Tunmen
+  zh: 屯門海戰
+importHash: 53ec036f933e

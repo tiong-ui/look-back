@@ -1,0 +1,25 @@
+id: wd-q5116036
+title:
+  zh-TW: Chuknagar massacre
+  en: Chuknagar massacre
+summary:
+  zh-TW: 1971 massacre during the Bangladesh War of Independence
+  en: 1971 massacre during the Bangladesh War of Independence
+start:
+  year: 1971
+  month: 5
+  day: 20
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q5116036
+locations:
+  - place: wd-q5116036-site
+    role: primary
+wikipedia:
+  en: Chuknagar massacre
+importHash: eeb60e98733f

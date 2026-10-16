@@ -1,0 +1,26 @@
+id: wd-q493252
+title:
+  zh-TW: 天安戰役
+  en: Battle of Chonan
+summary:
+  zh-TW: 1950 battle
+  en: 1950 battle
+start:
+  year: 1950
+end:
+  year: 1950
+  month: 7
+  day: 8
+precision: year
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q493252
+locations:
+  - place: wd-q42146
+    role: primary
+wikipedia:
+  en: Battle of Chonan
+importHash: 249eb5220e7f

@@ -1,0 +1,23 @@
+id: shisanhang-culture
+title:
+  zh-TW: 十三行文化
+  en: Shisanhang culture
+summary:
+  zh-TW: 臺灣北部的鐵器時代文化，十三行遺址出土煉鐵遺跡，以及來自中國與東南亞的錢幣、玻璃珠等貿易品，與凱達格蘭族的祖先有關。
+  en: An Iron Age culture of northern Taiwan. The Shisanhang site has iron-smelting remains and traded goods such as coins and glass beads from China and Southeast Asia; it is linked to the ancestors of the Ketagalan people.
+start: 200
+end: 1500
+precision: century
+approximate: true
+categories:
+  - prehistory
+  - trade
+regions:
+  - taiwan
+importance: 2
+locations:
+  - place: shisanhang
+    role: primary
+wikipedia:
+  en: Shisanhang Museum of Archaeology
+  zh: 十三行文化

@@ -1,0 +1,29 @@
+id: wd-q1345258
+title:
+  zh-TW: 護國戰爭
+  en: National Protection War
+summary:
+  zh-TW: 因反對袁世凱稱帝而發動的討袁戰爭
+  en: civil war in China (1915-16), caused by Yuan Shikai’s proclamation of himself as emperor
+start:
+  year: 1915
+  month: 12
+  day: 25
+end:
+  year: 1919
+  month: 7
+  day: 14
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q1345258
+locations:
+  - place: wd-q15175
+    role: primary
+wikipedia:
+  en: National Protection War
+  zh: 護國戰爭
+importHash: 090aae97f5fb

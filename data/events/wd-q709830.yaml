@@ -1,0 +1,32 @@
+id: wd-q709830
+title:
+  zh-TW: 上高會戰
+  en: Battle of Shanggao
+summary:
+  zh-TW: 1941 battle of the Second Sino-Japanese War
+  en: 1941 battle of the Second Sino-Japanese War
+start:
+  year: 1941
+  month: 3
+  day: 14
+end:
+  year: 1941
+  month: 4
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q709830
+locations:
+  - place: wd-q709830-site
+    role: primary
+  - place: wd-q1356399
+    role: secondary
+wikipedia:
+  en: Battle of Shanggao
+  zh: 上高会战
+importHash: f57318a15650

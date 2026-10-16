@@ -1,0 +1,25 @@
+id: wd-q4572485
+title:
+  zh-TW: 邢臺大地震
+  en: 1966 Xingtai earthquake
+summary:
+  zh-TW: 在1966年3月發生的多次地震的合稱
+  en: series of earthquakes affecting Hebei, China
+start:
+  year: 1966
+  month: 3
+  day: 8
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q4572485
+locations:
+  - place: wd-q4572485-site
+    role: primary
+wikipedia:
+  en: 1966 Xingtai earthquakes
+  zh: 邢台大地震
+importHash: ce52b3ad89cc

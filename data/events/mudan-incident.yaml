@@ -1,0 +1,41 @@
+id: mudan-incident
+title:
+  zh-TW: 牡丹社事件
+  en: Mudan incident
+summary:
+  zh-TW: 1871年琉球船員漂流至臺灣南部遭排灣族殺害，日本以此為由於1874年出兵恆春半島，與牡丹社等部落交戰。事件促使清廷加強治臺，也成為日本併吞琉球的藉口之一。
+  en: In 1871 shipwrecked Ryukyuan sailors were killed by Paiwan people in southern Taiwan. Japan used this to send troops to the Hengchun Peninsula in 1874, fighting Mudan and other villages. It pushed the Qing to tighten control of Taiwan and gave Japan a pretext for annexing Ryukyu.
+start:
+  year: 1874
+  month: 5
+end:
+  year: 1874
+  month: 12
+precision: month
+categories:
+  - war
+  - diplomacy
+regions:
+  - taiwan
+  - japan
+importance: 3
+locations:
+  - place: mudan
+    role: primary
+  - place: nagasaki
+    role: origin
+  - place: mudan
+    role: destination
+  - place: shuri
+    role: secondary
+relations:
+  - event: ryukyu-annexation
+    type: causes
+perspectives:
+  - view: indigenous
+    text:
+      zh-TW: 對排灣族而言，這是捍衛傳統領域、抵抗外來軍隊入侵的戰爭。
+      en: For the Paiwan, this was a war to defend their traditional territory against an invading army.
+wikipedia:
+  en: Japanese invasion of Taiwan (1874)
+  zh: 牡丹社事件

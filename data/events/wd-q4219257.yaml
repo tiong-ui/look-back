@@ -1,0 +1,24 @@
+id: wd-q4219257
+title:
+  zh-TW: 1911年凱賓地震
+  en: 1911 Kebin earthquake
+summary:
+  zh-TW: earthquake struck Almaty Province, Kazakhstan on January 3, 1911
+  en: earthquake struck Almaty Province, Kazakhstan on January 3, 1911
+start:
+  year: 1911
+  month: 1
+  day: 3
+precision: day
+categories:
+  - disaster
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4219257
+locations:
+  - place: wd-q4219257-site
+    role: primary
+wikipedia:
+  en: 1911 Kebin earthquake
+importHash: 651a913a66e1

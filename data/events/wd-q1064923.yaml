@@ -1,0 +1,25 @@
+id: wd-q1064923
+title:
+  zh-TW: 涿鹿之戰
+  en: Battle of Zhuolu
+summary:
+  zh-TW: battle
+  en: battle
+start:
+  year: -3000
+precision: millennium
+approximate: true
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1064923
+locations:
+  - place: wd-q198235
+    role: primary
+wikipedia:
+  en: Battle of Zhuolu
+  zh: 涿鹿之戰
+importHash: 5bc794e716f1

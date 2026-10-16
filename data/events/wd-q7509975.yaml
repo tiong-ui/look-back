@@ -1,0 +1,23 @@
+id: wd-q7509975
+title:
+  zh-TW: 圍攻迪烏
+  en: Siege of Diu
+summary:
+  zh-TW: 1531 siege
+  en: 1531 siege
+start:
+  year: 1531
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q7509975
+locations:
+  - place: wd-q631849
+    role: primary
+wikipedia:
+  en: Siege of Diu (1531)
+  zh: 第乌围攻战 (1531年)
+importHash: f59b86df955d

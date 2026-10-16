@@ -1,0 +1,31 @@
+id: wd-q4438404
+title:
+  zh-TW: 迪化之戰
+  en: Battle of Urumqi
+summary:
+  zh-TW: conflict in the winter of 1933–1934 at Ürümqi
+  en: conflict in the winter of 1933–1934 at Ürümqi
+start:
+  year: 1933
+  month: 12
+end:
+  year: 1934
+  month: 1
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4438404
+locations:
+  - place: wd-q16959
+    role: primary
+relations:
+  - event: wd-q4247016
+    type: part_of
+wikipedia:
+  en: Battle of Ürümqi (1933–1934)
+  zh: 迪化之战 (1933-1934年)
+importHash: a3b8dfd7c4eb

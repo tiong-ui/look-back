@@ -1,0 +1,23 @@
+id: wd-q4126346
+title:
+  zh-TW: 張格爾之亂
+  en: Holy War of Jahangir Khoja
+summary:
+  zh-TW: 中國古代的一場叛亂
+  en: revolt led by Jahangir Khoja
+start:
+  year: 1759
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q4126346
+locations:
+  - place: wd-q170521
+    role: primary
+wikipedia:
+  en: Afaqi Khoja revolts
+  zh: 張格爾之亂
+importHash: 4dfa6d0c1dce

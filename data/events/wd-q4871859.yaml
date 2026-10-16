@@ -1,0 +1,28 @@
+id: wd-q4871859
+title:
+  zh-TW: 江寧之戰
+  en: Battle of Nanjing
+summary:
+  zh-TW: battle of nankin 1853
+  en: battle of nankin 1853
+start:
+  year: 1853
+  month: 3
+end:
+  year: 1853
+  month: 3
+  day: 19
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4871859
+locations:
+  - place: wd-q16666
+    role: primary
+wikipedia:
+  en: Battle of Nanjing (1853)
+  zh: 江宁之战
+importHash: 0aa0bfca4f72

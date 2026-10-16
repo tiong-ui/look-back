@@ -1,0 +1,28 @@
+id: wd-q964983
+title:
+  zh-TW: 姊川之戰
+  en: Battle of Anegawa
+summary:
+  zh-TW: 1570 battle
+  en: 1570 battle
+start:
+  year: 1570
+  month: 8
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q964983
+locations:
+  - place: wd-q964983-site
+    role: primary
+  - place: wd-q1062496
+    role: secondary
+wikipedia:
+  en: Battle of Anegawa
+  zh: 姊川之戰
+importHash: b5503140d6b3

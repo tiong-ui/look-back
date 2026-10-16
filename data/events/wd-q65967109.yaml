@@ -1,0 +1,24 @@
+id: wd-q65967109
+title:
+  zh-TW: 2019 Batanes earthquake
+  en: 2019 Batanes earthquake
+summary:
+  zh-TW: natural disaster
+  en: natural disaster
+start:
+  year: 2019
+  month: 7
+  day: 27
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q65967109
+locations:
+  - place: wd-q65967109-site
+    role: primary
+wikipedia:
+  en: 2019 Batanes earthquake
+importHash: 3e34a23e3d4c

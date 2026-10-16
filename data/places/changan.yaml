@@ -1,0 +1,10 @@
+id: changan
+lng: 108.94
+lat: 34.34
+names:
+  - zh-TW: 長安
+    en: Chang'an
+    to: 1368
+  - zh-TW: 西安
+    en: Xi'an
+    from: 1369

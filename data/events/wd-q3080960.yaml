@@ -1,0 +1,27 @@
+id: wd-q3080960
+title:
+  zh-TW: 霍斯特圍城戰
+  en: Siege of Khost
+summary:
+  zh-TW: 1980–1991 siege
+  en: 1980–1991 siege
+start:
+  year: 1980
+  month: 1
+end:
+  year: 1991
+  month: 4
+  day: 11
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q3080960
+locations:
+  - place: wd-q386682
+    role: primary
+wikipedia:
+  en: Siege of Khost
+importHash: 13c0ec1852be

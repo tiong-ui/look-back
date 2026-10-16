@@ -1,0 +1,25 @@
+id: wd-q140119396
+title:
+  zh-TW: 2026年棉蘭老島地震
+  en: 2026 Mindanao earthquake
+summary:
+  zh-TW: 2026年6月8日發生於菲律賓棉蘭老島沿海，以其為震源的地震
+  en: magnitude 7.8 earthquake in the Philippines
+start:
+  year: 2026
+  month: 6
+  day: 8
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q140119396
+locations:
+  - place: wd-q140119396-site
+    role: primary
+wikipedia:
+  en: 2026 Mindanao earthquake
+  zh: 2026年棉兰老岛地震
+importHash: 8582063c97db

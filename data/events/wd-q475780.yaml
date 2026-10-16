@@ -1,0 +1,29 @@
+id: wd-q475780
+title:
+  zh-TW: 大坂之役
+  en: Siege of Osaka
+summary:
+  zh-TW: 在大阪發生的戰役
+  en: 1614-1615 series of battles undertaken by the Tokugawa shogunate against the Toyotomi clan
+start:
+  year: 1614
+  month: 11
+  day: 8
+end:
+  year: 1615
+  month: 6
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 3
+wikidata: Q475780
+locations:
+  - place: wd-q321242
+    role: primary
+wikipedia:
+  en: Siege of Osaka
+  zh: 大坂之役
+importHash: 85e9ef4cd17d

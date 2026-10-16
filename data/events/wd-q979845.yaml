@@ -1,0 +1,25 @@
+id: wd-q979845
+title:
+  zh-TW: 納薩爾派-印度共產黨叛亂
+  en: Naxalite–Maoist insurgency
+summary:
+  zh-TW: armed conflict in India between the state and Maoists
+  en: armed conflict in India between the state and Maoists
+start:
+  year: 1967
+  month: 5
+  day: 18
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 3
+wikidata: Q979845
+locations:
+  - place: wd-q979845-site
+    role: primary
+wikipedia:
+  en: Naxalite–Maoist insurgency
+  zh: 納薩爾毛派叛亂
+importHash: e0654ea2a3b7

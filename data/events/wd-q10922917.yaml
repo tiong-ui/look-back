@@ -1,0 +1,27 @@
+id: wd-q10922917
+title:
+  zh-TW: 唐滅百濟之戰
+  en: Baekje–Tang War
+summary:
+  zh-TW: fought between Baekje and the allied forces of Tang and Silla between 660 and 663
+  en: fought between Baekje and the allied forces of Tang and Silla between 660 and 663
+start:
+  year: 660
+end:
+  year: 663
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - korea
+importance: 1
+wikidata: Q10922917
+locations:
+  - place: wd-q483134
+    role: primary
+wikipedia:
+  en: Paekche–Tang War
+  zh: 唐灭百济之战
+importHash: 765e9fc1e990

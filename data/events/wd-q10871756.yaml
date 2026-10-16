@@ -1,0 +1,22 @@
+id: wd-q10871756
+title:
+  zh-TW: 中先代之亂
+  en: Nakasendai Rebellion
+summary:
+  zh-TW: 中先代之亂
+start:
+  year: 1335
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q10871756
+locations:
+  - place: wd-q132480
+    role: primary
+wikipedia:
+  zh: 中先代之亂
+importHash: c936a76a19d6

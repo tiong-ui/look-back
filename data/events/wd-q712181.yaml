@@ -1,0 +1,32 @@
+id: wd-q712181
+title:
+  zh-TW: 比亞克島戰役
+  en: Battle of Biak
+summary:
+  zh-TW: 1944 battle in the New Guinea campaign of World War II
+  en: 1944 battle in the New Guinea campaign of World War II
+start:
+  year: 1944
+  month: 5
+  day: 27
+end:
+  year: 1944
+  month: 8
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q712181
+locations:
+  - place: wd-q712181-site
+    role: primary
+  - place: wd-q855314
+    role: secondary
+wikipedia:
+  en: Battle of Biak
+  zh: 比亞克島戰役
+importHash: 6a2f45987c5e

@@ -1,0 +1,31 @@
+id: battle-of-penghu
+title:
+  zh-TW: 澎湖海戰與東寧降清
+  en: Battle of Penghu and Tungning's surrender
+summary:
+  zh-TW: 清朝水師提督施琅於澎湖擊潰東寧主力艦隊，同年鄭克塽投降，東寧王國滅亡，臺灣被納入清帝國版圖。
+  en: Qing admiral Shi Lang destroyed Tungning's main fleet off Penghu. Zheng Keshuang surrendered the same year, ending the Kingdom of Tungning, and Taiwan was absorbed into the Qing empire.
+start:
+  year: 1683
+  month: 7
+end:
+  year: 1683
+  month: 10
+precision: month
+categories:
+  - war
+regions:
+  - taiwan
+  - china
+importance: 4
+locations:
+  - place: penghu
+    role: primary
+  - place: tainan
+    role: secondary
+relations:
+  - event: qing-rule-taiwan
+    type: causes
+wikipedia:
+  en: Battle of Penghu
+  zh: 澎湖海戰

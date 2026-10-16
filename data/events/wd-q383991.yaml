@@ -1,0 +1,25 @@
+id: wd-q383991
+title:
+  zh-TW: 2012年4月蘇門答臘近海地震
+  en: 2012 Indian Ocean earthquakes
+summary:
+  zh-TW: earthquake
+  en: earthquake
+start:
+  year: 2012
+  month: 4
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q383991
+locations:
+  - place: wd-q383991-site
+    role: primary
+wikipedia:
+  en: 2012 Indian Ocean earthquakes
+  zh: 2012年4月蘇門答臘近海地震
+importHash: 54172cbaaa70

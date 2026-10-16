@@ -1,0 +1,23 @@
+id: wd-q1155993
+title:
+  zh-TW: 中國茉莉花革命
+  en: 2011 Chinese pro-democracy protests
+summary:
+  zh-TW: 2011在中國發生的民主抗議運動
+  en: protest
+start:
+  year: 2011
+precision: year
+categories:
+  - democracy
+regions:
+  - china
+importance: 3
+wikidata: Q1155993
+locations:
+  - place: wd-q956
+    role: primary
+wikipedia:
+  en: 2011 Chinese pro-democracy protests
+  zh: 中国茉莉花活动
+importHash: 5b2cfe98749d

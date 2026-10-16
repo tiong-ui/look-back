@@ -1,0 +1,25 @@
+id: wd-q4576303
+title:
+  zh-TW: 1974年昭通地震
+  en: 1974 Zhaotong earthquake
+summary:
+  zh-TW: Earthquake in China
+  en: Earthquake in China
+start:
+  year: 1974
+  month: 5
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q4576303
+locations:
+  - place: wd-q4576303-site
+    role: primary
+wikipedia:
+  en: 1974 Zhaotong earthquake
+  zh: 1974年永善—大关地震
+importHash: c71a0be201e9

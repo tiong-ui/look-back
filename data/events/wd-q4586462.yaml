@@ -1,0 +1,25 @@
+id: wd-q4586462
+title:
+  zh-TW: 1990 massacre of Sri Lankan Police officers
+  en: 1990 massacre of Sri Lankan Police officers
+summary:
+  zh-TW: mass murder by Tamil militants in Eastern Province, Sri Lanka
+  en: mass murder by Tamil militants in Eastern Province, Sri Lanka
+start:
+  year: 1990
+  month: 6
+  day: 11
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4586462
+locations:
+  - place: wd-q1046126
+    role: primary
+wikipedia:
+  en: 1990 massacre of Sri Lankan Police officers
+importHash: 737afa03dfdb

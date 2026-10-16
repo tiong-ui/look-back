@@ -1,0 +1,35 @@
+id: wd-q697579
+title:
+  zh-TW: 張鼓峰事件
+  en: Battle of Lake Khasan
+summary:
+  zh-TW: 1938 Soviet–Japanese border conflict
+  en: 1938 Soviet–Japanese border conflict
+start:
+  year: 1938
+end:
+  year: 1938
+  month: 8
+  day: 11
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 3
+wikidata: Q697579
+locations:
+  - place: wd-q697579-site
+    role: primary
+  - place: wd-q2956016
+    role: secondary
+  - place: wd-q718192
+    role: secondary
+relations:
+  - event: wd-q696389
+    type: part_of
+wikipedia:
+  en: Battle of Lake Khasan
+  zh: 张鼓峰事件
+importHash: f2d6dce9ca36

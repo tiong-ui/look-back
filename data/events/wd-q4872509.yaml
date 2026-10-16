@@ -1,0 +1,26 @@
+id: wd-q4872509
+title:
+  zh-TW: 塔林庫特之戰
+  en: Battle of Tarin Kowt
+summary:
+  zh-TW: 2001 battle of the War in Afghanistan
+  en: 2001 battle of the War in Afghanistan
+start:
+  year: 2001
+end:
+  year: 2001
+  month: 11
+  day: 14
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872509
+locations:
+  - place: wd-q989293
+    role: primary
+wikipedia:
+  en: Battle of Tarinkot
+importHash: c859df1e2e2b

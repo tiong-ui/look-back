@@ -1,0 +1,25 @@
+id: wd-q131692964
+title:
+  zh-TW: 2025年定日地震
+  en: 2025 Tibet earthquake
+summary:
+  zh-TW: 2025年1月7日發生於中國西藏定日縣的地震
+  en: earthquake in Xizang, China and Nepal
+start:
+  year: 2025
+  month: 1
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 4
+wikidata: Q131692964
+locations:
+  - place: wd-q131692964-site
+    role: primary
+wikipedia:
+  en: 2025 Tibet earthquake
+  zh: 2025年西藏地震
+importHash: 247834b5ca21

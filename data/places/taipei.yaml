@@ -1,0 +1,17 @@
+id: taipei
+lng: 121.5104
+lat: 25.0436
+names:
+  - zh-TW: 臺北
+    en: Taipei
+    to: 1894
+  - zh-TW: 臺北（台北州）
+    en: Taihoku
+    from: 1895
+    to: 1944
+  - zh-TW: 臺北
+    en: Taipei
+    from: 1945
+modern:
+  zh-TW: 臺北市
+  en: Taipei

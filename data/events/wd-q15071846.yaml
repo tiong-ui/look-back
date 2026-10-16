@@ -1,0 +1,25 @@
+id: wd-q15071846
+title:
+  zh-TW: 2013年保和地震
+  en: 2013 Philippines earthquake
+summary:
+  zh-TW: 15 October 2013 earthquake in Bohol
+  en: 15 October 2013 earthquake in Bohol
+start:
+  year: 2013
+  month: 10
+  day: 15
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q15071846
+locations:
+  - place: wd-q15071846-site
+    role: primary
+wikipedia:
+  en: 2013 Bohol earthquake
+  zh: 2013年保和地震
+importHash: 07adc73ccb9f

@@ -1,0 +1,28 @@
+id: wd-q263716
+title:
+  zh-TW: 癸酉之變
+  en: Eight Trigrams Uprising of 1813
+summary:
+  zh-TW: political uprising in China
+  en: political uprising in China
+start:
+  year: 1813
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q263716
+locations:
+  - place: wd-q43684
+    role: primary
+  - place: wd-q43407
+    role: secondary
+  - place: wd-q80290
+    role: secondary
+wikipedia:
+  en: Eight Trigrams uprising of 1813
+  zh: 癸酉之变
+importHash: 2545e99498c0

@@ -1,0 +1,27 @@
+id: wd-q122971939
+title:
+  zh-TW: 2023年赫拉特省地震
+  en: 2023 Herat earthquakes
+summary:
+  zh-TW: 2023年10月阿富汗西部地震
+  en: 7 October 2023 earthquakes in western Afghanistan
+start:
+  year: 2023
+  month: 10
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 3
+wikidata: Q122971939
+locations:
+  - place: wd-q122971939-site
+    role: primary
+  - place: wd-q182844
+    role: secondary
+wikipedia:
+  en: 2023 Herat earthquakes
+  zh: 2023年赫拉特地震
+importHash: a6a87e9764ca

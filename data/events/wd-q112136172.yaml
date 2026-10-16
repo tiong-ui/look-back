@@ -1,0 +1,27 @@
+id: wd-q112136172
+title:
+  zh-TW: Chuar Rebellion
+  en: Chuar Rebellion
+summary:
+  zh-TW: 1766-1834 peasant rebellion
+  en: 1766-1834 peasant rebellion
+start:
+  year: 1766
+end:
+  year: 1834
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q112136172
+locations:
+  - place: wd-q112136172-site
+    role: primary
+wikipedia:
+  en: Chuar Rebellion
+importHash: 442735fcd650

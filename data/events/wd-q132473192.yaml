@@ -1,0 +1,35 @@
+id: wd-q132473192
+title:
+  zh-TW: 2025年印尼抗議運動
+  en: 2025 Indonesian protests
+summary:
+  zh-TW: 抗議運動
+  en: a series of ongoing student-led anti-government demonstrations in Indonesia
+start:
+  year: 2025
+  month: 2
+  day: 17
+end:
+  year: 2025
+  month: 12
+  day: 31
+precision: day
+categories:
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q132473192
+locations:
+  - place: wd-q8156
+    role: primary
+  - place: wd-q650908
+    role: secondary
+  - place: wd-q8042
+    role: secondary
+  - place: wd-q8179
+    role: secondary
+wikipedia:
+  en: 2025–2026 Indonesian protests
+  zh: 2025年印尼抗議運動
+importHash: 0c3ab4f5983c

@@ -1,0 +1,29 @@
+id: wd-q2500644
+title:
+  zh-TW: Siege of Shimoda
+  en: Siege of Shimoda
+summary:
+  zh-TW: in Shimoda, Shizuoka
+  en: in Shimoda, Shizuoka
+start:
+  year: 1590
+  month: 5
+end:
+  year: 1590
+  month: 8
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2500644
+locations:
+  - place: wd-q2500644-site
+    role: primary
+  - place: wd-q653402
+    role: secondary
+wikipedia:
+  en: Siege of Shimoda
+importHash: b67ba7214e8f

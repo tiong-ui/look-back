@@ -1,0 +1,29 @@
+id: wd-q104714470
+title:
+  zh-TW: Hyderabad Massacre
+  en: Hyderabad Massacre
+summary:
+  zh-TW: mass murder of thousands of Hyderabadi Muslims by the Indian military
+  en: mass murder of thousands of Hyderabadi Muslims by the Indian military
+start:
+  year: 1948
+  month: 9
+  day: 13
+end:
+  year: 1948
+  month: 10
+  day: 1
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q104714470
+locations:
+  - place: wd-q104714470-site
+    role: primary
+wikipedia:
+  en: Hyderabad massacres
+importHash: 4c96e158eea5

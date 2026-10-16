@@ -1,0 +1,29 @@
+id: wd-q111943842
+title:
+  zh-TW: Otrar Catastrophe
+  en: Otrar Catastrophe
+summary:
+  zh-TW: 1219 siege and capture of Otrar by Mongol Empire
+  en: 1219 siege and capture of Otrar by Mongol Empire
+start:
+  year: 1219
+  month: 12
+end:
+  year: 1220
+  month: 2
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - central-asia
+importance: 2
+wikidata: Q111943842
+locations:
+  - place: wd-q111943842-site
+    role: primary
+  - place: wd-q956911
+    role: secondary
+wikipedia:
+  en: Otrar Catastrophe
+importHash: 1cffe67a689a

@@ -1,0 +1,25 @@
+id: wd-q3231610
+title:
+  zh-TW: 2009年靜岡地震
+  en: 2009 Shizuoka earthquake
+summary:
+  zh-TW: earthquake in Japan
+  en: earthquake in Japan
+start:
+  year: 2009
+  month: 8
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q3231610
+locations:
+  - place: wd-q3231610-site
+    role: primary
+wikipedia:
+  en: 2009 Shizuoka earthquake
+  zh: 2009年靜岡地震
+importHash: 802cf3aba2cf

@@ -1,0 +1,24 @@
+id: wd-q1094363
+title:
+  zh-TW: 襄陽之戰
+  en: Battle of Xiangyang
+summary:
+  zh-TW: battle between warlords Sun Jian and Liu Biao (191)
+  en: battle between warlords Sun Jian and Liu Biao (191)
+start:
+  year: 191
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1094363
+locations:
+  - place: wd-q1094363-site
+    role: primary
+wikipedia:
+  en: Battle of Xiangyang (191)
+  zh: 襄阳之战
+importHash: 538d243e7a8c

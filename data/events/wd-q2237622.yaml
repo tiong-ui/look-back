@@ -1,0 +1,26 @@
+id: wd-q2237622
+title:
+  zh-TW: 第二次元日戰爭
+  en: Battle of Kōan
+summary:
+  zh-TW: also known as the Second Battle of Hakata Bay, during the second Mongol invasion of Japan
+  en: also known as the Second Battle of Hakata Bay, during the second Mongol invasion of Japan
+start:
+  year: 1281
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q2237622
+locations:
+  - place: wd-q2237622-site
+    role: primary
+  - place: wd-q397703
+    role: secondary
+wikipedia:
+  en: Battle of Kōan
+  zh: 弘安之役
+importHash: 0c0994544f5c

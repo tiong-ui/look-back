@@ -1,0 +1,32 @@
+id: wd-q1185335
+title:
+  zh-TW: 威海衛之戰
+  en: Battle of Weihaiwei
+summary:
+  zh-TW: 1895 battle
+  en: 1895 battle
+start:
+  year: 1895
+  month: 1
+  day: 20
+end:
+  year: 1895
+  month: 2
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1185335
+locations:
+  - place: wd-q1185335-site
+    role: primary
+  - place: wd-q373023
+    role: secondary
+wikipedia:
+  en: Battle of Weihaiwei
+  zh: 威海衛之戰
+importHash: e8d51f81cb38

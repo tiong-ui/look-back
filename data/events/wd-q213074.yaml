@@ -1,0 +1,27 @@
+id: wd-q213074
+title:
+  zh-TW: 希達斯皮斯河戰役
+  en: Battle of the Hydaspes
+summary:
+  zh-TW: battle fought by Alexander the Great in 326 BCE against King Porus of the Paurava kingdom on the banks of the Hydaspes River (Jhelum River) in the Punjab near Bhera
+  en: battle fought by Alexander the Great in 326 BCE against King Porus of the Paurava kingdom on the banks of the Hydaspes River (Jhelum River) in the Punjab near Bhera
+start:
+  year: -325
+  month: 5
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 4
+wikidata: Q213074
+locations:
+  - place: wd-q213074-site
+    role: primary
+  - place: wd-q214874
+    role: secondary
+wikipedia:
+  en: Battle of the Hydaspes
+  zh: 希達斯皮斯河戰役
+importHash: 6c4c98ef3744

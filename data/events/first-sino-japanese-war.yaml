@@ -1,0 +1,32 @@
+id: first-sino-japanese-war
+title:
+  zh-TW: 甲午戰爭
+  en: First Sino-Japanese War
+summary:
+  zh-TW: 清朝與日本為爭奪朝鮮半島控制權開戰，北洋艦隊於威海衛覆沒，清朝戰敗並割讓臺灣、澎湖。
+  en: China and Japan went to war over control of Korea. The Beiyang Fleet was destroyed at Weihaiwei, and the defeated Qing ceded Taiwan and Penghu.
+start:
+  year: 1894
+  month: 7
+end:
+  year: 1895
+  month: 4
+precision: month
+categories:
+  - war
+regions:
+  - china
+  - japan
+  - korea
+importance: 4
+locations:
+  - place: pyongyang
+    role: primary
+  - place: weihaiwei
+    role: primary
+relations:
+  - event: treaty-of-shimonoseki
+    type: causes
+wikipedia:
+  en: First Sino-Japanese War
+  zh: 甲午战争

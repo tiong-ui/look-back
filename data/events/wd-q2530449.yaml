@@ -1,0 +1,30 @@
+id: wd-q2530449
+title:
+  zh-TW: 天王寺岡山之戰
+  en: Battle of Tennōji
+summary:
+  zh-TW: 1615 battle
+  en: 1615 battle
+start:
+  year: 1615
+  month: 6
+  day: 3
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2530449
+locations:
+  - place: wd-q2530449-site
+    role: primary
+  - place: wd-q11488829
+    role: secondary
+  - place: wd-q10940450
+    role: secondary
+wikipedia:
+  en: Battle of Tennōji
+  zh: 天王寺岡山之戰
+importHash: 481e4201dc0e

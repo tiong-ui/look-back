@@ -1,0 +1,26 @@
+id: wd-q36302993
+title:
+  zh-TW: 2017年戈勒克布林醫院死亡事件
+  en: Gorakhpur hospital deaths
+summary:
+  zh-TW: tragic events in India
+  en: tragic events in India
+start:
+  year: 2017
+  month: 8
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 2
+wikidata: Q36302993
+locations:
+  - place: wd-q36302993-site
+    role: primary
+  - place: wd-q15664953
+    role: secondary
+wikipedia:
+  en: 2017 Gorakhpur hospital deaths
+importHash: 4e9e40c3e91f

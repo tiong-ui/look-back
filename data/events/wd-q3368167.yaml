@@ -1,0 +1,25 @@
+id: wd-q3368167
+title:
+  zh-TW: 1976年松潘平武地震
+  en: 1976 Songpan-Pingwu earthquake
+summary:
+  zh-TW: August 1976 earthquake in the PR China
+  en: August 1976 earthquake in the PR China
+start:
+  year: 1976
+  month: 8
+  day: 16
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q3368167
+locations:
+  - place: wd-q3368167-site
+    role: primary
+wikipedia:
+  en: 1976 Songpan–Pingwu earthquake
+  zh: 1976年松潘平武地震
+importHash: 69a9a65603a9

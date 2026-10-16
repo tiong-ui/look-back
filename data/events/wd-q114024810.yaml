@@ -1,0 +1,25 @@
+id: wd-q114024810
+title:
+  zh-TW: 2022年臺東地震
+  en: September 2022 Taitung earthquakes
+summary:
+  zh-TW: 2022年9月18日臺灣臺東縣地震，中央氣象局編號111號
+  en: earthquakes in Taiwan
+start:
+  year: 2022
+  month: 9
+  day: 18
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 3
+wikidata: Q114024810
+locations:
+  - place: wd-q114024810-site
+    role: primary
+wikipedia:
+  en: 2022 Taitung earthquakes
+  zh: 2022年台東地震
+importHash: 64ef9d1b1800

@@ -1,0 +1,31 @@
+id: wd-q18920234
+title:
+  zh-TW: 雙簧管6號行動
+  en: Battle of Labuan
+summary:
+  zh-TW: 1945 engagement in Borneo
+  en: 1945 engagement in Borneo
+start:
+  year: 1945
+  month: 6
+  day: 10
+end:
+  year: 1945
+  month: 6
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q18920234
+locations:
+  - place: wd-q18920234-site
+    role: primary
+  - place: wd-q214504
+    role: secondary
+wikipedia:
+  en: Battle of Labuan
+importHash: 9bf0d307f6a5

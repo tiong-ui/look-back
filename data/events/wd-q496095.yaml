@@ -1,0 +1,26 @@
+id: wd-q496095
+title:
+  zh-TW: 江華島屠殺事件
+  en: Ganghwa massacre
+summary:
+  zh-TW: Korean massacre (1951)
+  en: Korean massacre (1951)
+start:
+  year: 1951
+  month: 1
+  day: 6
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q496095
+locations:
+  - place: wd-q50205
+    role: primary
+wikipedia:
+  en: Ganghwa massacre
+  zh: 江華島屠殺事件
+importHash: 762dbe038d74

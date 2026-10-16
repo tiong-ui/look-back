@@ -1,0 +1,27 @@
+id: wd-q482970
+title:
+  zh-TW: 泗川海戰
+  en: Battle of Sacheon
+summary:
+  zh-TW: naval battle (1592)
+  en: naval battle (1592)
+start:
+  year: 1592
+  month: 7
+  day: 8
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q482970
+locations:
+  - place: wd-q482970-site
+    role: primary
+  - place: wd-q42100
+    role: secondary
+wikipedia:
+  en: Battle of Sacheon (1592)
+  zh: 泗川海戰
+importHash: fe0d5d6aa502

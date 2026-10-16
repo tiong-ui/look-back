@@ -1,0 +1,27 @@
+id: wd-q496905
+title:
+  zh-TW: 江華島事件
+  en: Ganghwa Island incident
+summary:
+  zh-TW: 1875 battle between Japan and Korea due to the Japanese illicit entry to the Ganghwa Island of Korea to stipulate a commercial treaty under the pretext of land surveying
+  en: 1875 battle between Japan and Korea due to the Japanese illicit entry to the Ganghwa Island of Korea to stipulate a commercial treaty under the pretext of land surveying
+start:
+  year: 1875
+  month: 9
+  day: 20
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q496905
+locations:
+  - place: wd-q496905-site
+    role: primary
+  - place: wd-q494786
+    role: secondary
+wikipedia:
+  en: Ganghwa Island incident
+  zh: 江華島事件
+importHash: a4a1044b97c5

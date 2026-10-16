@@ -1,0 +1,25 @@
+id: wd-q2670487
+title:
+  zh-TW: 美宅屠殺
+  en: My Trach Massacre
+summary:
+  zh-TW: 美宅屠殺
+start:
+  year: 1947
+  month: 11
+  day: 29
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2670487
+locations:
+  - place: wd-q2670487-site
+    role: primary
+wikipedia:
+  en: Mỹ Trạch massacre
+  zh: 美宅屠殺
+importHash: ed1ba533ef26

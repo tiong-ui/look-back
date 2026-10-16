@@ -1,0 +1,25 @@
+id: wd-q2887871
+title:
+  zh-TW: Battle of Argaon
+  en: Battle of Argaon
+summary:
+  zh-TW: 1803 battle
+  en: 1803 battle
+start:
+  year: 1803
+  month: 11
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2887871
+locations:
+  - place: wd-q4682444
+    role: primary
+wikipedia:
+  en: Battle of Argaon
+importHash: 791c979d32c6

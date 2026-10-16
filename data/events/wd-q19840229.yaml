@@ -1,0 +1,23 @@
+id: wd-q19840229
+title:
+  zh-TW: Battle of Kili
+  en: Battle of Kili
+summary:
+  zh-TW: 1299 battle, fought during Mongol invasions of India
+  en: 1299 battle, fought during Mongol invasions of India
+start:
+  year: 1299
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q19840229
+locations:
+  - place: wd-q19840229-site
+    role: primary
+wikipedia:
+  en: Battle of Kili
+importHash: 82e596e84506

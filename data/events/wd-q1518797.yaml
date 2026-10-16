@@ -1,0 +1,23 @@
+id: wd-q1518797
+title:
+  zh-TW: Operation Karez行動
+  en: Operation Karez
+summary:
+  zh-TW: 2008 military operation
+  en: 2008 military operation
+start:
+  year: 2008
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1518797
+locations:
+  - place: wd-q172052
+    role: primary
+wikipedia:
+  en: Operation Karez
+importHash: 279bfb80492a

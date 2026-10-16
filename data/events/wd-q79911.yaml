@@ -1,0 +1,29 @@
+id: wd-q79911
+title:
+  zh-TW: 俄國內戰
+  en: Russian Civil War
+summary:
+  zh-TW: 武裝衝突
+  en: multi-sided civil war in the former Russian Empire, November 1917-October 1922
+start:
+  year: 1917
+  month: 11
+  day: 7
+end:
+  year: 1922
+  month: 10
+  day: 25
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 5
+wikidata: Q79911
+locations:
+  - place: wd-q960
+    role: primary
+wikipedia:
+  en: Russian Civil War
+  zh: 俄国内战
+importHash: 316eef922eaf

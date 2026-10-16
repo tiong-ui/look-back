@@ -1,0 +1,25 @@
+id: wd-q36204
+title:
+  zh-TW: 2011年日本東北地方太平洋近海地震
+  en: 2011 Tōhoku earthquake and tsunami
+summary:
+  zh-TW: 2011年3月11日日本海岸的海底巨型地震
+  en: megathrust earthquake off the east coast of Japan
+start:
+  year: 2011
+  month: 3
+  day: 11
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 5
+wikidata: Q36204
+locations:
+  - place: wd-q36204-site
+    role: primary
+wikipedia:
+  en: 2011 Tōhoku earthquake and tsunami
+  zh: 2011年日本東北地方太平洋近海地震
+importHash: 75d06f7bd020

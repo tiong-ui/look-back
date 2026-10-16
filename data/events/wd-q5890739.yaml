@@ -1,0 +1,25 @@
+id: wd-q5890739
+title:
+  zh-TW: Homfreyganj massacre
+  en: Homfreyganj massacre
+summary:
+  zh-TW: massacre during World War II in the Andaman islands
+  en: massacre during World War II in the Andaman islands
+start:
+  year: 1944
+  month: 1
+  day: 30
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q5890739
+locations:
+  - place: wd-q186233
+    role: primary
+wikipedia:
+  en: Homfreyganj massacre
+importHash: 99aa5b0cc9ef

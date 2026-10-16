@@ -1,0 +1,29 @@
+id: wd-q2890408
+title:
+  zh-TW: 孟達之亂
+  en: Xincheng Rebellion
+summary:
+  zh-TW: revolt against state of Cao Wei (227-228)
+  en: revolt against state of Cao Wei (227-228)
+start:
+  year: 227
+  month: 12
+end:
+  year: 228
+  month: 3
+  day: 1
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q2890408
+locations:
+  - place: wd-q2890408-site
+    role: primary
+wikipedia:
+  en: Xincheng Rebellion
+  zh: 新城之乱
+importHash: 1f66d40d67fd

@@ -1,0 +1,30 @@
+id: wd-q709333
+title:
+  zh-TW: 第一次長沙戰役
+  en: Battle of Changsha
+summary:
+  zh-TW: 1939 first of four attempts by Japan to take the city of Changsha during the second Sino-Japanese War
+  en: 1939 first of four attempts by Japan to take the city of Changsha during the second Sino-Japanese War
+start:
+  year: 1939
+end:
+  year: 1939
+  month: 10
+  day: 6
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q709333
+locations:
+  - place: wd-q709333-site
+    role: primary
+  - place: wd-q174091
+    role: secondary
+wikipedia:
+  en: Battle of Changsha (1939)
+  zh: 第一次长沙战役
+importHash: cdb920e1772b

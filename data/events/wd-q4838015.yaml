@@ -1,0 +1,25 @@
+id: wd-q4838015
+title:
+  zh-TW: Babrra massacre
+  en: Babrra massacre
+summary:
+  zh-TW: 1948 mass shooting by police in present-day Khyber Pakhtunkhwa, Pakistan
+  en: 1948 mass shooting by police in present-day Khyber Pakhtunkhwa, Pakistan
+start:
+  year: 1948
+  month: 8
+  day: 12
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4838015
+locations:
+  - place: wd-q4838015-site
+    role: primary
+wikipedia:
+  en: Babrra massacre
+importHash: 23d7211f9372

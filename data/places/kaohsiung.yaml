@@ -1,0 +1,13 @@
+id: kaohsiung
+lng: 120.3
+lat: 22.625
+names:
+  - zh-TW: 打狗
+    en: Takao
+    to: 1919
+  - zh-TW: 高雄
+    en: Kaohsiung
+    from: 1920
+modern:
+  zh-TW: 高雄市
+  en: Kaohsiung

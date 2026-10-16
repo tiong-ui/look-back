@@ -1,0 +1,24 @@
+id: wd-q10843896
+title:
+  zh-TW: 1954年中華民國總統選舉
+  en: 1954 Taiwan presidential election
+summary:
+  zh-TW: 第二任中華民國總統副總統選舉
+start:
+  year: 1954
+  month: 3
+  day: 22
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 2
+wikidata: Q10843896
+locations:
+  - place: wd-q6145247
+    role: primary
+wikipedia:
+  en: 1954 Taiwanese presidential election
+  zh: 1954年中華民國總統選舉
+importHash: d11a197010eb

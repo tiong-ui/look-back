@@ -1,0 +1,25 @@
+id: wd-q7837109
+title:
+  zh-TW: 中俄蒙協約
+  en: Treaty of Kyakhta
+summary:
+  zh-TW: 條約和宣告
+  en: 1915 treaty between Russia, Mongolia, and China
+start:
+  year: 1915
+  month: 6
+  day: 7
+precision: day
+categories:
+  - diplomacy
+regions:
+  - china
+importance: 2
+wikidata: Q7837109
+locations:
+  - place: wd-q156337
+    role: primary
+wikipedia:
+  en: Treaty of Kyakhta (1915)
+  zh: 中俄蒙协约
+importHash: 99169bd042fd

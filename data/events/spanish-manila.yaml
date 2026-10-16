@@ -1,0 +1,27 @@
+id: spanish-manila
+title:
+  zh-TW: 西班牙建立馬尼拉
+  en: Spain founds Manila
+summary:
+  zh-TW: 黎牙實比在馬尼拉建立西班牙殖民據點，開啟連接亞洲與美洲的大帆船貿易，大量美洲白銀流入中國。馬尼拉也是後來西班牙出兵北臺灣的基地。
+  en: Miguel López de Legazpi made Manila a Spanish colonial base, starting the galleon trade between Asia and the Americas that sent huge amounts of American silver into China. Manila was later Spain's base for occupying northern Taiwan.
+start:
+  year: 1571
+  month: 6
+  day: 24
+precision: day
+categories:
+  - trade
+  - dynasty
+regions:
+  - southeast-asia
+importance: 3
+locations:
+  - place: manila
+    role: primary
+relations:
+  - event: spanish-formosa
+    type: precedes
+wikipedia:
+  en: Manila galleon
+  zh: 马尼拉大帆船

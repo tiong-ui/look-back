@@ -1,0 +1,25 @@
+id: wd-q11072441
+title:
+  zh-TW: 粉碎四人幫
+  en: Huairentang incident
+summary:
+  zh-TW: 1976年的中華人民共和國政治事件
+  en: coup d'etat against Gang of Four in October 1976
+start:
+  year: 1976
+  month: 10
+  day: 6
+precision: day
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q11072441
+locations:
+  - place: wd-q10296614
+    role: primary
+wikipedia:
+  en: Smashing the Gang of Four
+  zh: 粉碎四人帮
+importHash: 558ca709e603

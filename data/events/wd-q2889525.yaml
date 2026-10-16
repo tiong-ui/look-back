@@ -1,0 +1,29 @@
+id: wd-q2889525
+title:
+  zh-TW: 野邊地戰爭
+  en: Battle of Noheji
+summary:
+  zh-TW: minor battle of the Boshin War, part of the larger Aizu campaign
+  en: minor battle of the Boshin War, part of the larger Aizu campaign
+start:
+  year: 1868
+  month: 11
+  day: 7
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2889525
+locations:
+  - place: wd-q2889525-site
+    role: primary
+  - place: wd-q1362344
+    role: secondary
+relations:
+  - event: wd-q712461
+    type: part_of
+wikipedia:
+  en: Battle of Noheji
+importHash: 0f9833fe2b69

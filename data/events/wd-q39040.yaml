@@ -1,0 +1,26 @@
+id: wd-q39040
+title:
+  zh-TW: 山崎之戰
+  en: Battle of Yamazaki
+summary:
+  zh-TW: 1582 battle between the forces of Akechi Mitsuhide and Toyotomi Hideyoshi
+  en: 1582 battle between the forces of Akechi Mitsuhide and Toyotomi Hideyoshi
+start:
+  year: 1582
+  month: 7
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 3
+wikidata: Q39040
+locations:
+  - place: wd-q39040-site
+    role: primary
+wikipedia:
+  en: Battle of Yamazaki
+  zh: 山崎之戰
+importHash: 2e1e437ee03b

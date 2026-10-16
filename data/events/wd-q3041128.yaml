@@ -1,0 +1,31 @@
+id: wd-q3041128
+title:
+  zh-TW: 第一次史瓦特戰役
+  en: First Battle of Swat
+summary:
+  zh-TW: 2007 battle between Pakistan Army and TTP terrorists in the Swat District
+  en: 2007 battle between Pakistan Army and TTP terrorists in the Swat District
+start:
+  year: 2007
+  month: 10
+  day: 25
+end:
+  year: 2007
+  month: 12
+  day: 8
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3041128
+locations:
+  - place: wd-q389161
+    role: primary
+relations:
+  - event: wd-q179275
+    type: part_of
+wikipedia:
+  en: First Battle of Swat
+importHash: d7727b25f4fd

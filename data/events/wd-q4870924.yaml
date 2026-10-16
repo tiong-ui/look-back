@@ -1,0 +1,28 @@
+id: wd-q4870924
+title:
+  zh-TW: 艾塔佩戰役
+  en: Battle of Driniumor River
+summary:
+  zh-TW: 1944 World War II battle in New Guinea
+  en: 1944 World War II battle in New Guinea
+start:
+  year: 1944
+  month: 7
+  day: 10
+end:
+  year: 1944
+  month: 8
+  day: 25
+precision: day
+categories:
+  - politics
+regions:
+  - asia
+importance: 1
+wikidata: Q4870924
+locations:
+  - place: wd-q4870924-site
+    role: primary
+wikipedia:
+  en: Battle of Driniumor River
+importHash: 79ae87e6caa2

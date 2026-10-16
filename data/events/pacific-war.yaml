@@ -1,0 +1,40 @@
+id: pacific-war
+title:
+  zh-TW: 太平洋戰爭
+  en: Pacific War
+summary:
+  zh-TW: 日本偷襲珍珠港後，第二次世界大戰擴及亞洲太平洋全域。臺灣作為日本的南進基地，遭盟軍轟炸，也有大批臺灣人被徵召。戰爭以廣島、長崎原爆及日本投降告終。
+  en: After Japan's attack on Pearl Harbor, the Second World War spread across Asia and the Pacific. Taiwan, Japan's base for southward expansion, was bombed by the Allies and many Taiwanese were conscripted. The war ended with the atomic bombings of Hiroshima and Nagasaki and Japan's surrender.
+start:
+  year: 1941
+  month: 12
+  day: 7
+end:
+  year: 1945
+  month: 9
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - japan
+  - world
+  - taiwan
+importance: 5
+locations:
+  - place: pearl-harbor
+    role: primary
+  - place: hiroshima
+    role: secondary
+  - place: nagasaki
+    role: secondary
+  - place: taiwan
+    role: secondary
+relations:
+  - event: roc-takes-over-taiwan
+    type: causes
+  - event: treaty-of-san-francisco
+    type: causes
+wikipedia:
+  en: Pacific War
+  zh: 太平洋战争

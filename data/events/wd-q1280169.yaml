@@ -1,0 +1,30 @@
+id: wd-q1280169
+title:
+  zh-TW: Battle of Prachuap Khiri Khan
+  en: Battle of Prachuap Khiri Khan
+summary:
+  zh-TW: 1941 battle in Thailand during World War II
+  en: 1941 battle in Thailand during World War II
+start:
+  year: 1941
+  month: 12
+  day: 8
+end:
+  year: 1941
+  month: 12
+  day: 9
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q1280169
+locations:
+  - place: wd-q1280169-site
+    role: primary
+  - place: wd-q373340
+    role: secondary
+wikipedia:
+  en: Battle of Prachuap Khiri Khan
+importHash: e73d74172b78

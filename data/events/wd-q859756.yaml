@@ -1,0 +1,28 @@
+id: wd-q859756
+title:
+  zh-TW: 小豆坂之戰
+  en: Battle of Azukizaka
+summary:
+  zh-TW: battle of 1542 in which Oda Nobuhide defeated Imagawa Yoshimoto
+  en: battle of 1542 in which Oda Nobuhide defeated Imagawa Yoshimoto
+start:
+  year: 1542
+  month: 9
+  day: 29
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q859756
+locations:
+  - place: wd-q859756-site
+    role: primary
+  - place: wd-q787290
+    role: secondary
+wikipedia:
+  en: Battle of Azukizaka (1542)
+  zh: 小豆坂之战
+importHash: 098d0c32b733

@@ -1,0 +1,23 @@
+id: wd-q4087480
+title:
+  zh-TW: 喬爾戰役
+  en: Battle of Chaul
+summary:
+  zh-TW: 1508 naval battle between Portugal and the Egyptian Sultanate
+  en: 1508 naval battle between Portugal and the Egyptian Sultanate
+start:
+  year: 1508
+  month: 3
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4087480
+locations:
+  - place: wd-q1068374
+    role: primary
+wikipedia:
+  en: Battle of Chaul
+importHash: bc300ef333d2

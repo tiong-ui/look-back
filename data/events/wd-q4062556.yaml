@@ -1,0 +1,25 @@
+id: wd-q4062556
+title:
+  zh-TW: 阿拉哈巴德條約
+  en: Treaty of Allahabad
+summary:
+  zh-TW: treaty between the Mughal Emperor Shah Alam II and East India company
+  en: treaty between the Mughal Emperor Shah Alam II and East India company
+start:
+  year: 1765
+  month: 8
+  day: 12
+precision: day
+categories:
+  - diplomacy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4062556
+locations:
+  - place: wd-q56304924
+    role: primary
+wikipedia:
+  en: Treaty of Allahabad
+  zh: 阿拉哈巴德条约
+importHash: 10c41dc0e382

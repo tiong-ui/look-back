@@ -1,0 +1,33 @@
+id: sui-liuqiu-expeditions
+title:
+  zh-TW: 隋朝出兵「流求」
+  en: Sui expeditions to "Liuqiu"
+summary:
+  zh-TW: 隋煬帝先後派朱寬、陳稜前往「流求」，610年陳稜攻破當地聚落並擄回數千人。「流求」指臺灣還是琉球群島，至今沒有定論。
+  en: Emperor Yang of Sui sent Zhu Kuan and then Chen Leng to "Liuqiu". In 610 Chen Leng sacked a settlement there and took several thousand captives. Whether Liuqiu meant Taiwan or the Ryukyu Islands is unresolved.
+start: 607
+end: 610
+precision: year
+categories:
+  - war
+regions:
+  - taiwan
+  - china
+importance: 1
+locations:
+  - place: changan
+    role: origin
+  - place: taiwan
+    role: destination
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 與東吳的行動相同，屬一次性的劫掠遠征，並未形成統治。
+      en: Like the Wu expedition, it was a one-off raid that established no rule.
+  - view: scholarly
+    text:
+      zh-TW: 學者對「流求」究竟是臺灣或沖繩意見分歧。
+      en: Scholars are divided on whether Liuqiu was Taiwan or Okinawa.
+wikipedia:
+  en: Liuqiu (Taiwan)
+  zh: 流求

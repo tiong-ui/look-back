@@ -1,0 +1,25 @@
+id: wd-q4178415
+title:
+  zh-TW: 泰山震
+  en: Mount Tai earthquake
+summary:
+  zh-TW: first earthquake recorded in history
+  en: first earthquake recorded in history
+start:
+  year: -1830
+precision: year
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q4178415
+locations:
+  - place: wd-q4178415-site
+    role: primary
+  - place: wd-q216059
+    role: secondary
+wikipedia:
+  en: Mount Tai earthquake
+  zh: 泰山震
+importHash: 054f5e5751ba

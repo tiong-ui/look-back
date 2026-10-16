@@ -1,0 +1,30 @@
+id: wd-q696931
+title:
+  zh-TW: 馬尼拉戰役
+  en: Battle of Manila
+summary:
+  zh-TW: battle in 1945 during World War II fought between Japan and the United States with the Commonwealth of the Philippines
+  en: battle in 1945 during World War II fought between Japan and the United States with the Commonwealth of the Philippines
+start:
+  year: 1945
+end:
+  year: 1945
+  month: 3
+  day: 3
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q696931
+locations:
+  - place: wd-q696931-site
+    role: primary
+  - place: wd-q1461
+    role: secondary
+wikipedia:
+  en: Battle of Manila (1945)
+  zh: 馬尼拉戰役 (1945年)
+importHash: fcb8d15c2efb

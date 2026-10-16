@@ -1,0 +1,28 @@
+id: wd-q97999945
+title:
+  zh-TW: 對馬之戰 (1274年)
+  en: Battle of Tsushima (1274)
+summary:
+  zh-TW: 1274 Yuan victory over the Kamakura Shogunate
+  en: 1274 Yuan victory over the Kamakura Shogunate
+start:
+  year: 1274
+  month: 11
+  day: 9
+end:
+  year: 1274
+  month: 11
+  day: 12
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q97999945
+locations:
+  - place: wd-q52051
+    role: primary
+wikipedia:
+  zh: 对马之战 (1274年)
+importHash: f730b925a17f

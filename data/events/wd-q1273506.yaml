@@ -1,0 +1,24 @@
+id: wd-q1273506
+title:
+  zh-TW: 牧野之戰
+  en: Battle of Muye
+summary:
+  zh-TW: 戰爭
+  en: battle in ancient China ending the Shang dynasty and beginning Zhou, tentatively dated to c. 1046 BCE
+start:
+  year: -1045
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q1273506
+locations:
+  - place: wd-q1198636
+    role: primary
+wikipedia:
+  en: Battle of Muye
+  zh: 牧野之战
+importHash: a5cfd4eee8bd

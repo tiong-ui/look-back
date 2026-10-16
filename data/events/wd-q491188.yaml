@@ -1,0 +1,26 @@
+id: wd-q491188
+title:
+  zh-TW: 大青島海戰
+  en: Battle of Daecheong
+summary:
+  zh-TW: skirmish between the South Korean and North Korean navies
+  en: skirmish between the South Korean and North Korean navies
+start:
+  year: 2009
+  month: 11
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q491188
+locations:
+  - place: wd-q491188-site
+    role: primary
+wikipedia:
+  en: Daecheong incident
+  zh: 大青島海戰
+importHash: 25825b2670c1

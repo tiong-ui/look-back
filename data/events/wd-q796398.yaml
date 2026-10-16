@@ -1,0 +1,30 @@
+id: wd-q796398
+title:
+  zh-TW: 巴祝大屠殺
+  en: Ba Chúc massacre
+summary:
+  zh-TW: genocidal massacre in Vietnam
+  en: genocidal massacre in Vietnam
+start:
+  year: 1978
+  month: 4
+  day: 18
+end:
+  year: 1978
+  month: 4
+  day: 30
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q796398
+locations:
+  - place: wd-q796398-site
+    role: primary
+wikipedia:
+  en: Ba Chúc massacre
+  zh: 巴祝大屠杀
+importHash: c44b6c3a820a

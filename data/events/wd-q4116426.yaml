@@ -1,0 +1,24 @@
+id: wd-q4116426
+title:
+  zh-TW: 羅興亞人大屠殺
+  en: Arakan massacres in 1942
+summary:
+  zh-TW: part of the Japanese invasion of Burma during World War II
+  en: part of the Japanese invasion of Burma during World War II
+start:
+  year: 1942
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4116426
+locations:
+  - place: wd-q233838
+    role: primary
+wikipedia:
+  en: 1942 Arakan massacres
+  zh: 若開大屠殺
+importHash: d20cf40f2b26

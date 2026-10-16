@@ -1,0 +1,28 @@
+id: wd-q2889028
+title:
+  zh-TW: 俱利伽羅峠之戰
+  en: Battle of Kurikara
+summary:
+  zh-TW: 1183 battle of the Genpei War
+  en: 1183 battle of the Genpei War
+start:
+  year: 1183
+  month: 6
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q2889028
+locations:
+  - place: wd-q2889028-site
+    role: primary
+  - place: wd-q10888140
+    role: secondary
+wikipedia:
+  en: Battle of Kurikara Pass
+  zh: 俱利伽羅峠之戰
+importHash: 3034f9ddc3a1

@@ -1,0 +1,22 @@
+id: wd-q4871446
+title:
+  zh-TW: Battle of Kirtipur
+  en: Battle of Kirtipur
+summary:
+  zh-TW: 1767 battle in Nepal
+  en: 1767 battle in Nepal
+start:
+  year: 1767
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871446
+locations:
+  - place: wd-q1517030
+    role: primary
+wikipedia:
+  en: Battle of Kirtipur
+importHash: 4bc403715e81

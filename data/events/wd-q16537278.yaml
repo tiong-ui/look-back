@@ -1,0 +1,25 @@
+id: wd-q16537278
+title:
+  zh-TW: Battle of Herat
+  en: Battle of Herat
+summary:
+  zh-TW: 1598 battle
+  en: 1598 battle
+start:
+  year: 1598
+  month: 8
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q16537278
+locations:
+  - place: wd-q45313
+    role: primary
+wikipedia:
+  en: Battle of Herat (1598)
+importHash: f76a4ba3d8d1

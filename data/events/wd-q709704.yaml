@@ -1,0 +1,32 @@
+id: wd-q709704
+title:
+  zh-TW: 桂南會戰
+  en: Battle of South Guangxi
+summary:
+  zh-TW: 1939 battle
+  en: 1939 battle
+start:
+  year: 1939
+  month: 11
+  day: 15
+end:
+  year: 1940
+  month: 11
+  day: 30
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q709704
+locations:
+  - place: wd-q709704-site
+    role: primary
+  - place: wd-q15176
+    role: secondary
+wikipedia:
+  en: Battle of South Guangxi
+  zh: 桂南会战
+importHash: e3f85095c94a

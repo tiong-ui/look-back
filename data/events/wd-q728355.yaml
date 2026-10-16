@@ -1,0 +1,30 @@
+id: wd-q728355
+title:
+  zh-TW: 淡水之役
+  en: Battle of Tamsui
+summary:
+  zh-TW: 1884 battle
+  en: 1884 battle
+start:
+  year: 1884
+  month: 10
+  day: 8
+precision: day
+categories:
+  - war
+regions:
+  - taiwan
+importance: 2
+wikidata: Q728355
+locations:
+  - place: wd-q728355-site
+    role: primary
+  - place: wd-q570509
+    role: secondary
+relations:
+  - event: wd-q706183
+    type: part_of
+wikipedia:
+  en: Battle of Tamsui
+  zh: 淡水之役
+importHash: c6a7f8088f78

@@ -1,0 +1,31 @@
+id: wd-q2617813
+title:
+  zh-TW: Battle of Manila
+  en: Battle of Manila
+summary:
+  zh-TW: battle in 1762 between Spain and Great Britain during the Seven Years' War
+  en: battle in 1762 between Spain and Great Britain during the Seven Years' War
+start:
+  year: 1762
+  month: 9
+  day: 24
+end:
+  year: 1762
+  month: 10
+  day: 6
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q2617813
+locations:
+  - place: wd-q2617813-site
+    role: primary
+  - place: wd-q1461
+    role: secondary
+wikipedia:
+  en: Battle of Manila (1762)
+importHash: f4ed7a09a7a9

@@ -1,0 +1,31 @@
+id: wd-q743889
+title:
+  zh-TW: 瓦烏戰役
+  en: Battle of Wau
+summary:
+  zh-TW: 1943 battle on the Pacific Theater of World War II
+  en: 1943 battle on the Pacific Theater of World War II
+start:
+  year: 1943
+  month: 2
+  day: 4
+end:
+  year: 1943
+  month: 1
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 2
+wikidata: Q743889
+locations:
+  - place: wd-q743889-site
+    role: primary
+  - place: wd-q954956
+    role: secondary
+wikipedia:
+  en: Battle of Wau
+importHash: affe90b25d6e

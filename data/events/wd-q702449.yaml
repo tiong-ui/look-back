@@ -1,0 +1,30 @@
+id: wd-q702449
+title:
+  zh-TW: 巴丹半島戰役
+  en: Battle of Bataan
+summary:
+  zh-TW: 1945 battle during World War II
+  en: 1945 battle during World War II
+start:
+  year: 1945
+  month: 1
+  day: 31
+end:
+  year: 1945
+  month: 2
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q702449
+locations:
+  - place: wd-q13739
+    role: primary
+wikipedia:
+  en: Battle of Bataan (1945)
+  zh: 巴丹半島戰役 (1945年)
+importHash: 68b7bbe14918

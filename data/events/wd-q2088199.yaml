@@ -1,0 +1,29 @@
+id: wd-q2088199
+title:
+  zh-TW: 佔領關島
+  en: Capture of Guam
+summary:
+  zh-TW: US capture of Guam during the Spanish-American War
+  en: US capture of Guam during the Spanish-American War
+start:
+  year: 1898
+end:
+  year: 1898
+  month: 6
+  day: 21
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 1
+wikidata: Q2088199
+locations:
+  - place: wd-q2088199-site
+    role: primary
+  - place: wd-q16635
+    role: secondary
+wikipedia:
+  en: Capture of Guam (1898)
+importHash: bd9f9da91a9b

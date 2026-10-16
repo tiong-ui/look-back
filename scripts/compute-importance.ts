@@ -10,11 +10,11 @@
 // Needs network access to wikidata.org and wikimedia.org. Runs monthly in
 // .github/workflows/importance.yml, and can be run by hand.
 
-import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { parse } from 'yaml';
 import { scoreToImportance, wikiScore } from '../src/lib/importance';
+import { readRecords } from './data-utils';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const HEADERS = { 'User-Agent': 'LookBack/0.1 (https://github.com/tiong-ui/look-back) importance script' };
@@ -73,13 +73,7 @@ async function views(project: 'en.wikipedia' | 'zh.wikipedia', title: string): P
 }
 
 async function main() {
-  const dir = join(ROOT, 'data', 'events');
-  const files = readdirSync(dir)
-    .filter((f) => /\.ya?ml$/.test(f))
-    .map((f) => join(dir, f));
-  const imported = join(ROOT, 'data', 'imported', 'events.yaml');
-  if (existsSync(imported)) files.push(imported);
-  const events: RawEvent[] = files.flatMap((f) => (parse(readFileSync(f, 'utf8')) as RawEvent[]) ?? []);
+  const events = readRecords(join(ROOT, 'data', 'events')).map(({ record }) => record as RawEvent);
   const withWiki = events.filter((e) => e.wikipedia?.en || e.wikipedia?.zh);
 
   const en = await sitelinks('enwiki', withWiki.flatMap((e) => (e.wikipedia?.en ? [e.wikipedia.en] : [])));

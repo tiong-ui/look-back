@@ -1,0 +1,26 @@
+id: wd-q47035364
+title:
+  zh-TW: 2018 Bhima Koregaon violence
+  en: 2018 Bhima Koregaon violence
+summary:
+  zh-TW: Event in Pune, India
+  en: Event in Pune, India
+start:
+  year: 2018
+  month: 1
+  day: 1
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q47035364
+locations:
+  - place: wd-q47035364-site
+    role: primary
+  - place: wd-q15239667
+    role: secondary
+wikipedia:
+  en: 2018 Bhima Koregaon violence
+importHash: e0bc14278fa0

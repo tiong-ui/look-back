@@ -1,0 +1,26 @@
+id: wd-q4871091
+title:
+  zh-TW: Battle of Ghaghra
+  en: Battle of Ghaghra
+summary:
+  zh-TW: 1529 battle of the Mughal conquest of India
+  en: 1529 battle of the Mughal conquest of India
+start:
+  year: 1529
+  month: 5
+  day: 16
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871091
+locations:
+  - place: wd-q4871091-site
+    role: primary
+  - place: wd-q390232
+    role: secondary
+wikipedia:
+  en: Battle of Ghaghra
+importHash: 91d1e5e8de59

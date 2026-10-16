@@ -1,0 +1,28 @@
+id: wd-q702150
+title:
+  zh-TW: 蔚山海戰
+  en: Battle off Ulsan
+summary:
+  zh-TW: 1904 battle during the Russo-Japanese War
+  en: 1904 battle during the Russo-Japanese War
+start:
+  year: 1904
+  month: 8
+  day: 14
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q702150
+locations:
+  - place: wd-q702150-site
+    role: primary
+  - place: wd-q41278
+    role: secondary
+wikipedia:
+  en: Battle off Ulsan
+  zh: 蔚山海战
+importHash: fa09b6472f91

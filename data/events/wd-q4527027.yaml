@@ -1,0 +1,28 @@
+id: wd-q4527027
+title:
+  zh-TW: 塔什幹之戰
+  en: Battle of Tashkent
+summary:
+  zh-TW: siege during the Russian conquest of Central Asia
+  en: siege during the Russian conquest of Central Asia
+start:
+  year: 1865
+  month: 5
+  day: 9
+end:
+  year: 1865
+  month: 6
+  day: 17
+precision: day
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q4527027
+locations:
+  - place: wd-q4527027-site
+    role: primary
+wikipedia:
+  en: Siege of Tashkent
+importHash: c429ed57e2d5

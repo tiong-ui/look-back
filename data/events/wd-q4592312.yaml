@@ -1,0 +1,25 @@
+id: wd-q4592312
+title:
+  zh-TW: 1997年吉大港地震
+  en: 1997 Chittagong earthquake
+summary:
+  zh-TW: November 1997 earthquake in Asia
+  en: November 1997 earthquake in Asia
+start:
+  year: 1997
+  month: 11
+  day: 21
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 1
+wikidata: Q4592312
+locations:
+  - place: wd-q4592312-site
+    role: primary
+wikipedia:
+  en: 1997 Chittagong earthquake
+  zh: 1997年吉大港地震
+importHash: 9bdb00ed9ef1

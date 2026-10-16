@@ -1,0 +1,31 @@
+id: wd-q2035177
+title:
+  zh-TW: 喋血嶺戰役
+  en: Battle of Bloody Ridge
+summary:
+  zh-TW: 1951 ground combat battle that took place during the Korean War
+  en: 1951 ground combat battle that took place during the Korean War
+start:
+  year: 1951
+  month: 8
+  day: 18
+end:
+  year: 1951
+  month: 9
+  day: 5
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q2035177
+locations:
+  - place: wd-q2035177-site
+    role: primary
+  - place: wd-q50253
+    role: secondary
+wikipedia:
+  en: Battle of Bloody Ridge
+  zh: 血染岭战斗
+importHash: 789d5b959188

@@ -1,0 +1,32 @@
+id: wd-q709521
+title:
+  zh-TW: 太原會戰
+  en: Battle of Taiyuan
+summary:
+  zh-TW: 中國抗日戰爭會戰
+  en: 1937 major battle of the Second Sino-Japanese War
+start:
+  year: 1937
+  month: 9
+  day: 1
+end:
+  year: 1937
+  month: 11
+  day: 9
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q709521
+locations:
+  - place: wd-q709521-site
+    role: primary
+  - place: wd-q72778
+    role: secondary
+wikipedia:
+  en: Battle of Taiyuan
+  zh: 太原會戰
+importHash: 564863d7cdc1

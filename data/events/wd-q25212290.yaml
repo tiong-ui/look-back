@@ -1,0 +1,24 @@
+id: wd-q25212290
+title:
+  zh-TW: Battle of Herat
+  en: Battle of Herat
+summary:
+  zh-TW: 1729 battle
+  en: 1729 battle
+start:
+  year: 1729
+  month: 7
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q25212290
+locations:
+  - place: wd-q45313
+    role: primary
+wikipedia:
+  en: Battle of Herat (1729)
+importHash: 932b8ee1d7bd

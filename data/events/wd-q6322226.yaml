@@ -1,0 +1,23 @@
+id: wd-q6322226
+title:
+  zh-TW: 貞享騷動
+  en: Jōkyō Uprising
+summary:
+  zh-TW: 1686 peasant uprising in Japan
+  en: 1686 peasant uprising in Japan
+start:
+  year: 1686
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q6322226
+locations:
+  - place: wd-q1059941
+    role: primary
+wikipedia:
+  en: Jōkyō uprising
+importHash: 641d3ad147fe

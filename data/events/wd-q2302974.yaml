@@ -1,0 +1,23 @@
+id: wd-q2302974
+title:
+  zh-TW: 1990年蒙古民主革命
+  en: Mongolian Revolution of 1990
+summary:
+  zh-TW: 政治事件
+  en: Mongolian protests for democracy and subsequent transition from communism to democracy
+start:
+  year: 1990
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q2302974
+locations:
+  - place: wd-q1348864
+    role: primary
+wikipedia:
+  en: Mongolian Revolution of 1990
+  zh: 1990年蒙古革命
+importHash: c455bc56df41

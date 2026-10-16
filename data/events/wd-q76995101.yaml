@@ -1,0 +1,28 @@
+id: wd-q76995101
+title:
+  zh-TW: Siege of Samarkand
+  en: Siege of Samarkand
+summary:
+  zh-TW: battle in 1494/1496
+  en: battle in 1494/1496
+start:
+  year: 1494
+end:
+  year: 1496
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 1
+wikidata: Q76995101
+locations:
+  - place: wd-q76995101-site
+    role: primary
+  - place: wd-q5753
+    role: secondary
+wikipedia:
+  en: Siege of Samarkand (1490s)
+importHash: f12d455ccedd

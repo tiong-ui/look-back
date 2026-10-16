@@ -1,0 +1,30 @@
+id: wd-q746860
+title:
+  zh-TW: 馬尼拉戰役
+  en: Battle of Manila
+summary:
+  zh-TW: 1899 battle during the Philippine–American War
+  en: 1899 battle during the Philippine–American War
+start:
+  year: 1899
+end:
+  year: 1899
+  month: 2
+  day: 5
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q746860
+locations:
+  - place: wd-q746860-site
+    role: primary
+  - place: wd-q1461
+    role: secondary
+wikipedia:
+  en: Battle of Manila (1899)
+  zh: 馬尼拉戰役 (1899年)
+importHash: 7491b448d274

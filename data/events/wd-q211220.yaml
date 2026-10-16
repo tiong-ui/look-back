@@ -1,0 +1,26 @@
+id: wd-q211220
+title:
+  zh-TW: Battle of Chandannagar
+  en: Battle of Chandannagar
+summary:
+  zh-TW: 1757 battle
+  en: 1757 battle
+start:
+  year: 1757
+  month: 3
+  day: 23
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q211220
+locations:
+  - place: wd-q211220-site
+    role: primary
+  - place: wd-q695591
+    role: secondary
+wikipedia:
+  en: Battle of Chandannagar
+importHash: 7511e26ee466

@@ -1,0 +1,30 @@
+id: wd-q489561
+title:
+  zh-TW: 傷心嶺戰鬥
+  en: Battle of Heartbreak Ridge
+summary:
+  zh-TW: 1951 battle
+  en: 1951 battle
+start:
+  year: 1951
+  month: 9
+  day: 13
+end:
+  year: 1951
+  month: 10
+  day: 15
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 2
+wikidata: Q489561
+locations:
+  - place: wd-q489561-site
+    role: primary
+wikipedia:
+  en: Battle of Heartbreak Ridge
+  zh: 伤心岭战役
+importHash: 358e0c77ea2f

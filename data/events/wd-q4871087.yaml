@@ -1,0 +1,30 @@
+id: wd-q4871087
+title:
+  zh-TW: 金馬士橋戰役
+  en: Battle of Gemas
+summary:
+  zh-TW: 1942 battle of the Malayan Campaign in World War II
+  en: 1942 battle of the Malayan Campaign in World War II
+start:
+  year: 1942
+  month: 1
+  day: 14
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4871087
+locations:
+  - place: wd-q4871087-site
+    role: primary
+  - place: wd-q3523706
+    role: secondary
+relations:
+  - event: wd-q2889419
+    type: part_of
+wikipedia:
+  en: Battle of Gemas
+  zh: 金馬士戰役
+importHash: 36aeb9687c15

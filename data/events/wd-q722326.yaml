@@ -1,0 +1,24 @@
+id: wd-q722326
+title:
+  zh-TW: 車師之戰
+  en: Battle of Jushi
+summary:
+  zh-TW: battle
+  en: battle
+start:
+  year: -66
+  month: 12
+precision: month
+categories:
+  - politics
+regions:
+  - central-asia
+importance: 1
+wikidata: Q722326
+locations:
+  - place: wd-q868527
+    role: primary
+wikipedia:
+  en: Battle of Jushi
+  zh: 車師之戰
+importHash: fc744da73251

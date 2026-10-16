@@ -1,0 +1,24 @@
+id: wd-q19741578
+title:
+  zh-TW: Battle of Balakot
+  en: Battle of Balakot
+summary:
+  zh-TW: military conflict in Pakistan in 1831
+  en: military conflict in Pakistan in 1831
+start:
+  year: 1831
+  month: 5
+  day: 6
+precision: day
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q19741578
+locations:
+  - place: wd-q19741578-site
+    role: primary
+wikipedia:
+  en: Battle of Balakot
+importHash: 291fc469c3fc

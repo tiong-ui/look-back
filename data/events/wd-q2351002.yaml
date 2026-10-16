@@ -1,0 +1,25 @@
+id: wd-q2351002
+title:
+  zh-TW: 濃尾地震
+  en: 1891 Nōbi earthquake
+summary:
+  zh-TW: October 1891 earthquake that struck Mino and Owari in Japan
+  en: October 1891 earthquake that struck Mino and Owari in Japan
+start:
+  year: 1891
+  month: 10
+  day: 28
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 2
+wikidata: Q2351002
+locations:
+  - place: wd-q2351002-site
+    role: primary
+wikipedia:
+  en: 1891 Mino–Owari earthquake
+  zh: 濃尾地震
+importHash: 6c2b67492fcd

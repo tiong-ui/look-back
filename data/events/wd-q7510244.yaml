@@ -1,0 +1,26 @@
+id: wd-q7510244
+title:
+  zh-TW: Siege of Mitsuji
+  en: Siege of Mitsuji
+summary:
+  zh-TW: 1576 attack on the fortress in Osaka, Japan
+  en: 1576 attack on the fortress in Osaka, Japan
+start:
+  year: 1576
+  month: 5
+precision: month
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510244
+locations:
+  - place: wd-q339859
+    role: primary
+relations:
+  - event: wd-q859815
+    type: part_of
+wikipedia:
+  en: Siege of Mitsuji
+importHash: dbde43a9496f

@@ -1,0 +1,25 @@
+id: wd-q864847
+title:
+  zh-TW: 第二次直奉戰爭
+  en: Second Zhili–Fengtian War
+summary:
+  zh-TW: conflict between Chinese warlords (1924)
+  en: conflict between Chinese warlords (1924)
+start:
+  year: 1924
+  month: 9
+  day: 15
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q864847
+locations:
+  - place: wd-q1046848
+    role: primary
+wikipedia:
+  en: Second Zhili–Fengtian War
+  zh: 第二次直奉戰爭
+importHash: 740a2265bd46

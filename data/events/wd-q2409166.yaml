@@ -1,0 +1,25 @@
+id: wd-q2409166
+title:
+  zh-TW: 析木城戰役
+  en: Battle of Hsimucheng
+summary:
+  zh-TW: 1904 minor engagement of the Russo-Japanese War
+  en: 1904 minor engagement of the Russo-Japanese War
+start:
+  year: 1904
+  month: 7
+  day: 31
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2409166
+locations:
+  - place: wd-q2409166-site
+    role: primary
+wikipedia:
+  en: Battle of Hsimucheng
+importHash: 06a235d37aea

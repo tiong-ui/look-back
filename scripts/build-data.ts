@@ -1,14 +1,16 @@
-// Builds public/data/atlas.json from the human-edited YAML in data/.
+// Builds public/data/atlas.json from the YAML in data/ (one file per record,
+// edited by hand, in the CMS at /admin, or by the Wikidata importer).
 // Validates everything first; any error stops the build with a clear message.
 //
 //   npm run data
 
-import { readFileSync, readdirSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
 import { z } from 'zod';
 import { CATEGORY_IDS, type Category } from '../src/lib/categories';
+import { clean, readRecords } from './data-utils';
 import { clampImportance, scoreToImportance, wikiScore, type WikiSignals } from '../src/lib/importance';
 import type { Atlas, AtlasEvent, RelationType, SourceLink } from '../src/lib/types';
 
@@ -43,6 +45,7 @@ const eventSchema = z
     importanceBoost: z.number().int().min(-2).max(2).optional(),
     importanceLocked: z.boolean().optional(),
     wikidata: z.string().regex(/^Q\d+$/).optional(),
+    importHash: z.string().optional(), // set by the Wikidata importer; see scripts/data-utils.ts
     locations: z.array(z.object({ place: id, role }).strict()).min(1),
     relations: z.array(z.object({ event: id, type: relationType }).strict()).optional(),
     perspectives: z.array(z.object({ view: z.string(), text: localized }).strict()).optional(),
@@ -50,7 +53,12 @@ const eventSchema = z
     sources: z
       .array(
         z
-          .object({ resource: id.optional(), url: z.string().url().optional(), title: localized.optional() })
+          .object({
+            resource: id.optional(),
+            url: z.string().url().optional(),
+            title: localized.optional(),
+            page: z.union([z.string(), z.number()]).transform(String).optional(), // e.g. "p.215" for a book
+          })
           .strict()
           .refine((s) => s.resource || s.url, 'a source needs a `resource` or a `url`'),
       )
@@ -61,11 +69,13 @@ const eventSchema = z
 const placeSchema = z
   .object({
     id,
-    coords: z.tuple([z.number().min(-180).max(180), z.number().min(-90).max(90)]),
+    lng: z.number().min(-180).max(180),
+    lat: z.number().min(-90).max(90),
     names: z.array(z.object({ 'zh-TW': z.string(), en: z.string().optional(), from: year.optional(), to: year.optional() }).strict()).min(1),
     modern: localized.optional(),
   })
-  .strict();
+  .strict()
+  .transform(({ lng, lat, ...p }) => ({ ...p, coords: [lng, lat] as [number, number] }));
 
 const eraSchema = z.object({ id, group: z.string(), name: localized, from: year, to: year }).strict();
 
@@ -110,6 +120,23 @@ function load(file: string): unknown {
   return parse(readFileSync(file, 'utf8'));
 }
 
+/** Validate every record file in data/<folder>/; each file must be named after its id. */
+function loadFolder<T extends { id: string }>(
+  dataDir: string,
+  folder: string,
+  schema: z.ZodType<T, z.ZodTypeDef, unknown>,
+  errors: string[],
+): T[] {
+  const out: T[] = [];
+  for (const { file, record } of readRecords(join(dataDir, folder))) {
+    const r = check(schema, clean(record), `${folder}/${file}`, errors);
+    if (!r) continue;
+    if (file.replace(/\.ya?ml$/, '') !== r.id) errors.push(`${folder}/${file}: file name should be "${r.id}.yaml" to match its id`);
+    out.push(r);
+  }
+  return out;
+}
+
 function check<T>(schema: z.ZodType<T, z.ZodTypeDef, unknown>, value: unknown, where: string, errors: string[]): T | undefined {
   const r = schema.safeParse(value);
   if (r.success) return r.data;
@@ -126,28 +153,10 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
   const errors: string[] = [];
 
   const config = check(configSchema, load(join(dataDir, 'config.yaml')), 'config.yaml', errors);
-  const placeFiles = ['places.yaml', 'imported/places.yaml'].filter((f) => existsSync(join(dataDir, f)));
-  const places = placeFiles.flatMap((f) =>
-    ((load(join(dataDir, f)) as unknown[]) ?? [])
-      .map((p, i) => check(placeSchema, p, `${f}[${i}]`, errors))
-      .filter((p) => p !== undefined),
-  );
-  const eras = ((load(join(dataDir, 'eras.yaml')) as unknown[]) ?? [])
-    .map((e, i) => check(eraSchema, e, `eras.yaml[${i}]`, errors))
-    .filter((e) => e !== undefined);
-  const resources = ((load(join(dataDir, 'resources.yaml')) as unknown[]) ?? [])
-    .map((r, i) => check(resourceSchema, r, `resources.yaml[${i}]`, errors))
-    .filter((r) => r !== undefined);
-
-  const eventFiles = [
-    ...readdirSync(join(dataDir, 'events')).filter((f) => /\.ya?ml$/.test(f)).sort().map((f) => `events/${f}`),
-    ...(existsSync(join(dataDir, 'imported', 'events.yaml')) ? ['imported/events.yaml'] : []),
-  ];
-  const rawEvents = eventFiles.flatMap((f) =>
-    ((load(join(dataDir, f)) as unknown[]) ?? [])
-      .map((e, i) => check(eventSchema, e, `${f}[${i}${(e as { id?: string })?.id ? ` ${(e as { id: string }).id}` : ''}]`, errors))
-      .filter((e) => e !== undefined),
-  );
+  const places = loadFolder(dataDir, 'places', placeSchema, errors);
+  const eras = loadFolder(dataDir, 'eras', eraSchema, errors);
+  const resources = loadFolder(dataDir, 'resources', resourceSchema, errors);
+  const rawEvents = loadFolder(dataDir, 'events', eventSchema, errors);
 
   const importancePath = join(dataDir, 'importance.json');
   const computed = existsSync(importancePath)
@@ -217,10 +226,10 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
       const url = s.url ?? res?.url;
       if (!url) {
         // A book without a link: cite it by name.
-        if (res) sources.push({ url: '', title: s.title ?? res.name, resource: res.id });
+        if (res) sources.push({ url: '', title: s.title ?? res.name, resource: res.id, ...(s.page ? { page: s.page } : {}) });
         continue;
       }
-      sources.push({ url, title: s.title ?? res?.name ?? { 'zh-TW': url }, resource: s.resource });
+      sources.push({ url, title: s.title ?? res?.name ?? { 'zh-TW': url }, resource: s.resource, ...(s.page ? { page: s.page } : {}) });
     }
 
     return {

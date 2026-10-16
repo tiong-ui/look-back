@@ -1,0 +1,23 @@
+id: wd-q1092503
+title:
+  zh-TW: 夏口之戰
+  en: Battle of Xiakou
+summary:
+  zh-TW: battle between warlords Sun Quan and Liu Biao (203)
+  en: battle between warlords Sun Quan and Liu Biao (203)
+start:
+  year: 203
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q1092503
+locations:
+  - place: wd-q1092503-site
+    role: primary
+wikipedia:
+  en: Battle of Xiakou
+  zh: 夏口之战
+importHash: 71d866e30ca5

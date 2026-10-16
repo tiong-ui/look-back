@@ -1,0 +1,24 @@
+id: wd-q7510370
+title:
+  zh-TW: Siege of Samarkand
+  en: Siege of Samarkand
+summary:
+  zh-TW: 1501 military siege in Asia
+  en: 1501 military siege in Asia
+start:
+  year: 1501
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 1
+wikidata: Q7510370
+locations:
+  - place: wd-q7510370-site
+    role: primary
+  - place: wd-q5753
+    role: secondary
+wikipedia:
+  en: Siege of Samarkand (1501)
+importHash: 49505f9892f7

@@ -1,0 +1,27 @@
+id: wd-q6165029
+title:
+  zh-TW: Java War of 1743-1741
+  en: Java War of 1743-1741
+summary:
+  zh-TW: armed struggle against Dutch colonialism
+  en: armed struggle against Dutch colonialism
+start:
+  year: 1741
+  month: 2
+end:
+  year: 1743
+  month: 1
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q6165029
+locations:
+  - place: wd-q3757
+    role: primary
+wikipedia:
+  en: Java War (1741–1743)
+importHash: ed471177822b

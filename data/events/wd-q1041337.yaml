@@ -1,0 +1,23 @@
+id: wd-q1041337
+title:
+  zh-TW: 八月十八日政變
+  en: 8/18 incident
+summary:
+  zh-TW: 八月十八日政變
+start:
+  year: 1863
+  month: 9
+  day: 30
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1041337
+locations:
+  - place: wd-q1202239
+    role: primary
+wikipedia:
+  zh: 八月十八日政变
+importHash: 92407847ee15

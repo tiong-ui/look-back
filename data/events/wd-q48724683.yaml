@@ -1,0 +1,28 @@
+id: wd-q48724683
+title:
+  zh-TW: Siege of Chittorgarh
+  en: Siege of Chittorgarh
+summary:
+  zh-TW: 1303 battle between the Delhi Sultanate and the Guhila Dynasty
+  en: 1303 battle between the Delhi Sultanate and the Guhila Dynasty
+start:
+  year: 1303
+end:
+  year: 1303
+  month: 8
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q48724683
+locations:
+  - place: wd-q48724683-site
+    role: primary
+  - place: wd-q3695769
+    role: secondary
+wikipedia:
+  en: Siege of Chittorgarh (1303)
+importHash: acde7a0551f8

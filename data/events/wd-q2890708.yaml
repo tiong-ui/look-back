@@ -1,0 +1,33 @@
+id: wd-q2890708
+title:
+  zh-TW: 大沽口炮臺之戰
+  en: Battle of Dagu Forts
+summary:
+  zh-TW: 1900 battle during the Boxer Rebellion
+  en: 1900 battle during the Boxer Rebellion
+start:
+  year: 1900
+  month: 6
+  day: 16
+end:
+  year: 1900
+  month: 6
+  day: 17
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q2890708
+locations:
+  - place: wd-q548289
+    role: primary
+relations:
+  - event: wd-q150229
+    type: part_of
+wikipedia:
+  en: Battle of the Taku Forts (1900)
+  zh: 大沽口炮台之战 (1900年)
+importHash: 54bdc4b4f168

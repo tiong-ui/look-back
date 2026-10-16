@@ -1,0 +1,28 @@
+id: wd-q1263360
+title:
+  zh-TW: 潘傑瓦伊槍擊案
+  en: Kandahar massacre
+summary:
+  zh-TW: 2012 murder of 16 civilians in Afghanistan by a US Army sergeant
+  en: 2012 murder of 16 civilians in Afghanistan by a US Army sergeant
+start:
+  year: 2012
+  month: 3
+  day: 11
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q1263360
+locations:
+  - place: wd-q1263360-site
+    role: primary
+  - place: wd-q782087
+    role: secondary
+wikipedia:
+  en: Kandahar massacre
+  zh: 潘傑瓦伊槍擊案
+importHash: 8132e58213c6

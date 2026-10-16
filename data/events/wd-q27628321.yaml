@@ -1,0 +1,27 @@
+id: wd-q27628321
+title:
+  zh-TW: 1947 Jammu massacres
+  en: 1947 Jammu massacres
+summary:
+  zh-TW: genocidal massacres in Jammu
+  en: genocidal massacres in Jammu
+start:
+  year: 1947
+end:
+  year: 1947
+  month: 11
+  day: 1
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q27628321
+locations:
+  - place: wd-q2817363
+    role: primary
+wikipedia:
+  en: 1947 Jammu massacres
+importHash: b34535ac2156

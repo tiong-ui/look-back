@@ -1,0 +1,25 @@
+id: wd-q11674602
+title:
+  zh-TW: 2000年鳥取縣西部地震
+  en: 2000 Tottori earthquake
+summary:
+  zh-TW: On October 6, 2000, a magnitude 6.7 earthquake struck near Yonago and Matsue in Tottori Prefecture, Japan, causing significant damage and injuring between 130 and 182 people
+  en: On October 6, 2000, a magnitude 6.7 earthquake struck near Yonago and Matsue in Tottori Prefecture, Japan, causing significant damage and injuring between 130 and 182 people
+start:
+  year: 2000
+  month: 10
+  day: 6
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q11674602
+locations:
+  - place: wd-q11674602-site
+    role: primary
+wikipedia:
+  en: 2000 Tottori earthquake
+  zh: 2000年鸟取地震
+importHash: bf8e1053aa75

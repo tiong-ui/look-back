@@ -1,0 +1,22 @@
+id: wd-q1336996
+title:
+  zh-TW: 2012年阿富汗焚燒古蘭經示威事件
+  en: 2012 Afghanistan Quran burning protests
+summary:
+  zh-TW: protest
+  en: protest
+start:
+  year: 2012
+precision: year
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q1336996
+locations:
+  - place: wd-q1336996-site
+    role: primary
+wikipedia:
+  en: 2012 Afghanistan Quran burning protests
+importHash: 1260aab82e27

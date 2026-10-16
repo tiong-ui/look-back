@@ -1,0 +1,29 @@
+id: wd-q6119778
+title:
+  zh-TW: 長丘屠殺
+  en: Tay Vinh Massacre
+summary:
+  zh-TW: Massacres in 1966
+  en: Massacres in 1966
+start:
+  year: 1966
+  month: 2
+  day: 12
+end:
+  year: 1966
+  month: 3
+  day: 17
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q6119778
+locations:
+  - place: wd-q1320837
+    role: primary
+wikipedia:
+  en: Bình An/Tây Vinh massacre
+importHash: 5f4f396af3d5

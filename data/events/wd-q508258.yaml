@@ -1,0 +1,30 @@
+id: wd-q508258
+title:
+  zh-TW: 1959 圖博抗暴
+  en: 1959 Tibetan uprising
+summary:
+  zh-TW: 中華人民共和國政治事件
+  en: uprising in Lhasa, Tibet against China
+start:
+  year: 1959
+  month: 3
+  day: 23
+end:
+  year: 1959
+  month: 3
+  day: 21
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 3
+wikidata: Q508258
+locations:
+  - place: wd-q1026100
+    role: primary
+wikipedia:
+  en: 1959 Tibetan uprising
+  zh: 1959年藏区骚乱
+importHash: 4a6ffc90d7e3

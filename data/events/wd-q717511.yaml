@@ -1,0 +1,30 @@
+id: wd-q717511
+title:
+  zh-TW: 東京灣戰役
+  en: Battle of Sagami Bay
+summary:
+  zh-TW: 1945 naval battle of the Japanese coast in WWII
+  en: 1945 naval battle of the Japanese coast in WWII
+start:
+  year: 1945
+  month: 7
+  day: 23
+end:
+  year: 1945
+  month: 7
+  day: 23
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q717511
+locations:
+  - place: wd-q717511-site
+    role: primary
+wikipedia:
+  en: Battle of Sagami Bay
+  zh: 相模灣海戰
+importHash: defdcaa9375b

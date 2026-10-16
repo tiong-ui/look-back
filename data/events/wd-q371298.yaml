@@ -1,0 +1,27 @@
+id: wd-q371298
+title:
+  zh-TW: 伊洛瓦底會戰
+  en: Battle of Meiktila and Mandalay
+summary:
+  zh-TW: conflict
+  en: conflict
+start:
+  year: 1945
+  month: 3
+end:
+  year: 1945
+  month: 3
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q371298
+locations:
+  - place: wd-q371298-site
+    role: primary
+wikipedia:
+  en: Battle of Meiktila and Mandalay
+importHash: eaaa9492f048

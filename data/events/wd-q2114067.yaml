@@ -1,0 +1,24 @@
+id: wd-q2114067
+title:
+  zh-TW: Siege of Kamakura
+  en: Siege of Kamakura
+summary:
+  zh-TW: 1526 siege
+  en: 1526 siege
+start:
+  year: 1526
+  month: 12
+  day: 25
+precision: day
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q2114067
+locations:
+  - place: wd-q701403
+    role: primary
+wikipedia:
+  en: Siege of Kamakura (1526)
+importHash: 524ad37b4b44

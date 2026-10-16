@@ -1,0 +1,31 @@
+id: wd-q1064720
+title:
+  zh-TW: 河越城之戰
+  en: Siege of Kawagoe Castle
+summary:
+  zh-TW: 1545 battle
+  en: 1545 battle
+start:
+  year: 1545
+  month: 10
+end:
+  year: 1546
+  month: 5
+  day: 29
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1064720
+locations:
+  - place: wd-q1064720-site
+    role: primary
+  - place: wd-q1073688
+    role: secondary
+wikipedia:
+  en: Siege of Kawagoe Castle
+  zh: 河越城之戰
+importHash: 81ecb1972daf

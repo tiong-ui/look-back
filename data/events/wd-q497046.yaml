@@ -1,0 +1,31 @@
+id: wd-q497046
+title:
+  zh-TW: 釜山鎮之戰
+  en: Siege of Busan
+summary:
+  zh-TW: battle fought at Busan on 24 May 1592 between Japanese and Korean forces
+  en: battle fought at Busan on 24 May 1592 between Japanese and Korean forces
+start:
+  year: 1592
+  month: 5
+  day: 24
+end:
+  year: 1592
+  month: 5
+  day: 25
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q497046
+locations:
+  - place: wd-q497046-site
+    role: primary
+  - place: wd-q5001277
+    role: secondary
+wikipedia:
+  en: Siege of Busanjin
+  zh: 釜山鎮之戰
+importHash: 40bbe52e935d

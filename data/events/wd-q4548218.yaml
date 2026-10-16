@@ -1,0 +1,28 @@
+id: wd-q4548218
+title:
+  zh-TW: 圍攻巴米揚
+  en: Siege of Bamyan
+summary:
+  zh-TW: Mongol campaign in 1220–1221
+  en: Mongol campaign in 1220–1221
+start:
+  year: 1221
+  month: 7
+end:
+  year: 1221
+  month: 1
+  day: 1
+precision: month
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4548218
+locations:
+  - place: wd-q214495
+    role: primary
+wikipedia:
+  en: Siege of Bamyan
+  zh: 圍攻巴米揚
+importHash: f87d165673cf

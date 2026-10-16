@@ -1,0 +1,31 @@
+id: wd-q2890719
+title:
+  zh-TW: 一江山島戰役
+  en: Battle of Yijiangshan Islands
+summary:
+  zh-TW: 第一次臺灣海峽危機的戰役
+  en: 1955 battle in the Chinese Civil War
+start:
+  year: 1955
+end:
+  year: 1955
+  month: 1
+  day: 20
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q2890719
+locations:
+  - place: wd-q856381
+    role: primary
+relations:
+  - event: wd-q179975
+    type: part_of
+wikipedia:
+  en: Battle of Yijiangshan Islands
+  zh: 一江山岛战役
+importHash: 3a2b479f7b72

@@ -1,0 +1,25 @@
+id: wd-q3625485
+title:
+  zh-TW: 圍攻赫拉特
+  en: Siege of Herat
+summary:
+  zh-TW: part of the Islamic conquest of Sassanid Persia
+  en: part of the Islamic conquest of Sassanid Persia
+start:
+  year: 652
+precision: year
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q3625485
+locations:
+  - place: wd-q3625485-site
+    role: primary
+  - place: wd-q45313
+    role: secondary
+wikipedia:
+  en: Siege of Herat (652)
+  zh: 圍攻赫拉特 (652年)
+importHash: e6a7de772e9c

@@ -1,0 +1,29 @@
+id: wd-q116222
+title:
+  zh-TW: Battle of Ferozeshah
+  en: Battle of Ferozeshah
+summary:
+  zh-TW: 1845 battle
+  en: 1845 battle
+start:
+  year: 1845
+  month: 12
+  day: 21
+end:
+  year: 1845
+  month: 12
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q116222
+locations:
+  - place: wd-q116222-site
+    role: primary
+wikipedia:
+  en: Battle of Ferozeshah
+importHash: b14ad52f6d8b

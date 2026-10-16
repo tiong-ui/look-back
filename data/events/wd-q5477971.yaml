@@ -1,0 +1,25 @@
+id: wd-q5477971
+title:
+  zh-TW: 摩洛國框架協議
+  en: Framework Agreement on the Bangsamoro
+summary:
+  zh-TW: 2012 preliminary peace agreement
+  en: 2012 preliminary peace agreement
+start:
+  year: 2012
+  month: 10
+  day: 15
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q5477971
+locations:
+  - place: wd-q942688
+    role: primary
+wikipedia:
+  en: Framework Agreement on the Bangsamoro
+  zh: 邦薩摩洛框架協議
+importHash: f7a5b90ca65b

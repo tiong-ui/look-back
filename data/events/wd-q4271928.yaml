@@ -1,0 +1,27 @@
+id: wd-q4271928
+title:
+  zh-TW: 巴釐巴板海戰
+  en: Battle of Balikpapan
+summary:
+  zh-TW: 1945 battle of World War II
+  en: 1945 battle of World War II
+start:
+  year: 1945
+  month: 7
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q4271928
+locations:
+  - place: wd-q4271928-site
+    role: primary
+  - place: wd-q14492
+    role: secondary
+wikipedia:
+  en: Battle of Balikpapan (1945)
+importHash: 94b9a6a6a8cd

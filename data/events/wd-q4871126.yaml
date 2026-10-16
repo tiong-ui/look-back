@@ -1,0 +1,31 @@
+id: wd-q4871126
+title:
+  zh-TW: Battle of Goodenough Island
+  en: Battle of Goodenough Island
+summary:
+  zh-TW: 1942 Pacific battle of World War II
+  en: 1942 Pacific battle of World War II
+start:
+  year: 1942
+  month: 10
+  day: 22
+end:
+  year: 1942
+  month: 10
+  day: 27
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 1
+wikidata: Q4871126
+locations:
+  - place: wd-q4871126-site
+    role: primary
+  - place: wd-q616107
+    role: secondary
+wikipedia:
+  en: Battle of Goodenough Island
+importHash: 26c64058f8ed

@@ -1,0 +1,26 @@
+id: wd-q1048684
+title:
+  zh-TW: 松江騷擾事件
+  en: Matsue Incident
+summary:
+  zh-TW: 1945年日本島根縣松江市發生的事件
+  en: coup d'état attempt in Japan
+start:
+  year: 1945
+  month: 8
+  day: 24
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 2
+wikidata: Q1048684
+locations:
+  - place: wd-q207321
+    role: primary
+wikipedia:
+  en: Matsue incident
+  zh: 松江騷擾事件
+importHash: ff4fa0838276

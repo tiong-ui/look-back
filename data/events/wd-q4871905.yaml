@@ -1,0 +1,28 @@
+id: wd-q4871905
+title:
+  zh-TW: Battle of Noemfoor
+  en: Battle of Noemfoor
+summary:
+  zh-TW: 1944 World War II battle in Dutch New Guinea
+  en: 1944 World War II battle in Dutch New Guinea
+start:
+  year: 1944
+  month: 7
+  day: 2
+end:
+  year: 1944
+  month: 8
+  day: 31
+precision: day
+categories:
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4871905
+locations:
+  - place: wd-q4871905-site
+    role: primary
+wikipedia:
+  en: Battle of Noemfoor
+importHash: 483b26828614

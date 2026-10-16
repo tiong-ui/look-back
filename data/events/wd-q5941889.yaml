@@ -1,0 +1,25 @@
+id: wd-q5941889
+title:
+  zh-TW: 1979年巴釐地震
+  en: 1979 Bali earthquake
+summary:
+  zh-TW: Earthquake in Indonesia
+  en: Earthquake in Indonesia
+start:
+  year: 1979
+  month: 12
+  day: 17
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q5941889
+locations:
+  - place: wd-q5941889-site
+    role: primary
+wikipedia:
+  en: 1979 Bali earthquake
+  zh: 1979年巴厘岛地震
+importHash: fa0bf746ad38

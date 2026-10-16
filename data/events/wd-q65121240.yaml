@@ -1,0 +1,26 @@
+id: wd-q65121240
+title:
+  zh-TW: Timurid conquests and invasions
+  en: Timurid conquests and invasions
+summary:
+  zh-TW: wars and campaigns of Timurids
+  en: wars and campaigns of Timurids
+start:
+  year: 1369
+end:
+  year: 1426
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - central-asia
+importance: 1
+wikidata: Q65121240
+locations:
+  - place: wd-q5401
+    role: primary
+wikipedia:
+  en: Timurid conquests and invasions
+importHash: 9729d4ed02b6

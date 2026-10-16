@@ -1,0 +1,25 @@
+id: wd-q4565280
+title:
+  zh-TW: 1943年鳥取地震
+  en: 1943 Tottori earthquake
+summary:
+  zh-TW: earthquake struck Tottori prefecture, Japan on September 10, 1943 (local time)
+  en: earthquake struck Tottori prefecture, Japan on September 10, 1943 (local time)
+start:
+  year: 1943
+  month: 9
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q4565280
+locations:
+  - place: wd-q4565280-site
+    role: primary
+wikipedia:
+  en: 1943 Tottori earthquake
+  zh: 1943年鸟取地震
+importHash: 2fc7ee8cd056

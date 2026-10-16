@@ -1,0 +1,29 @@
+id: wd-q4984261
+title:
+  zh-TW: 佛教徒起義
+  en: Buddhist Uprising
+summary:
+  zh-TW: 1966 unrest in South Vietnam
+  en: 1966 unrest in South Vietnam
+start:
+  year: 1966
+  month: 6
+  day: 8
+end:
+  year: 1966
+  month: 6
+  day: 8
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4984261
+locations:
+  - place: wd-q25282
+    role: primary
+wikipedia:
+  en: Buddhist Uprising
+importHash: 5b2932accfe6

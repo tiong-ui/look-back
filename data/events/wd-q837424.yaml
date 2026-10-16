@@ -1,0 +1,28 @@
+id: wd-q837424
+title:
+  zh-TW: 1989年南京反非洲留學生抗議事件
+  en: Nanjing anti-African protests
+summary:
+  zh-TW: student protest
+  en: student protest
+start:
+  year: 1988
+  month: 12
+end:
+  year: 1989
+  month: 1
+  day: 1
+precision: month
+categories:
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q837424
+locations:
+  - place: wd-q16666
+    role: primary
+wikipedia:
+  en: Nanjing anti-African protests
+  zh: 1989年南京反非洲留学生抗议事件
+importHash: 6299edec594b

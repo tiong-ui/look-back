@@ -1,0 +1,27 @@
+id: wd-q141072401
+title:
+  zh-TW: 2026年印度尼西亞東部地震
+  en: 2026 Flores earthquake
+summary:
+  zh-TW: 2026年印尼的地震
+  en: 15 August 2026 earthquake off the coast of Flores in Indonesia
+start:
+  year: 2026
+  month: 8
+  day: 14
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q141072401
+locations:
+  - place: wd-q141072401-site
+    role: primary
+  - place: wd-q150370
+    role: secondary
+wikipedia:
+  en: 2026 Flores earthquake
+  zh: 2026年東努沙登加拉省地震
+importHash: 45b8f9a96043

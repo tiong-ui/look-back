@@ -1,0 +1,26 @@
+id: wd-q7683431
+title:
+  zh-TW: 1984年丹戎不碌暴動
+  en: Tanjung Priok massacre
+summary:
+  zh-TW: 1984 massacre in Tanjung Priok, Jakarta
+  en: 1984 massacre in Tanjung Priok, Jakarta
+start:
+  year: 1984
+  month: 9
+  day: 12
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q7683431
+locations:
+  - place: wd-q193552
+    role: primary
+wikipedia:
+  en: Tanjung Priok massacre
+  zh: 1984年丹戎不碌暴动
+importHash: 77db99345a92

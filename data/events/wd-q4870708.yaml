@@ -1,0 +1,25 @@
+id: wd-q4870708
+title:
+  zh-TW: Battle of Chandawar
+  en: Battle of Chandawar
+summary:
+  zh-TW: 1194 battle
+  en: 1194 battle
+start:
+  year: 1194
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4870708
+locations:
+  - place: wd-q4870708-site
+    role: primary
+  - place: wd-q1452991
+    role: secondary
+wikipedia:
+  en: Battle of Chandawar
+importHash: ad56a6079f39

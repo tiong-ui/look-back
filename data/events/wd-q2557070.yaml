@@ -1,0 +1,25 @@
+id: wd-q2557070
+title:
+  zh-TW: 海城大地震
+  en: 1975 Haicheng earthquake
+summary:
+  zh-TW: 1975年中國遼寧省地震
+  en: successfully-predicted 1975 earthquake in Haicheng, Liaoning, China
+start:
+  year: 1975
+  month: 2
+  day: 4
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q2557070
+locations:
+  - place: wd-q2557070-site
+    role: primary
+wikipedia:
+  en: 1975 Haicheng earthquake
+  zh: 海城大地震
+importHash: ac8a19a6579b

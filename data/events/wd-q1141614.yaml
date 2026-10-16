@@ -1,0 +1,25 @@
+id: wd-q1141614
+title:
+  zh-TW: 夷陵之戰
+  en: Battle of Xiaoting
+summary:
+  zh-TW: 中國三國時代發生於蜀漢和孫吳間的戰爭
+  en: battle between the states of Shu and Wu (221-222)
+start:
+  year: 221
+  month: 8
+precision: month
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1141614
+locations:
+  - place: wd-q1141614-site
+    role: primary
+wikipedia:
+  en: Battle of Xiaoting
+  zh: 夷陵之战
+importHash: 9884cc4facc9

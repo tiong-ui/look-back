@@ -1,0 +1,8 @@
+id: britannica
+name:
+  zh-TW: 大英百科全書
+  en: Encyclopaedia Britannica
+url: https://www.britannica.com/
+type: encyclopedia
+lang:
+  - en

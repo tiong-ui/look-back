@@ -1,0 +1,25 @@
+id: wd-q658845
+title:
+  zh-TW: Battle of Wandiwash
+  en: Battle of Wandiwash
+summary:
+  zh-TW: 1760 battle in India during the Seven Years' War
+  en: 1760 battle in India during the Seven Years' War
+start:
+  year: 1760
+  month: 1
+  day: 22
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 2
+wikidata: Q658845
+locations:
+  - place: wd-q2465640
+    role: primary
+wikipedia:
+  en: Battle of Wandiwash
+importHash: 88a8a848c630

@@ -1,0 +1,27 @@
+id: wd-q113717492
+title:
+  zh-TW: 2022年瀘定地震
+  en: 2022 Luding earthquake
+summary:
+  zh-TW: 位於中國四川省的地震
+  en: 2022 earthquake in Sichuan Province, China
+start:
+  year: 2022
+  month: 9
+  day: 5
+precision: day
+categories:
+  - disaster
+regions:
+  - china
+importance: 2
+wikidata: Q113717492
+locations:
+  - place: wd-q113717492-site
+    role: primary
+  - place: wd-q1200112
+    role: secondary
+wikipedia:
+  en: 2022 Luding earthquake
+  zh: 2022年泸定地震
+importHash: b42676e84fba

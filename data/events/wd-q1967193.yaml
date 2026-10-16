@@ -1,0 +1,27 @@
+id: wd-q1967193
+title:
+  zh-TW: 第二次高麗契丹戰爭
+  en: Second conflict in the Goryeo–Khitan War
+summary:
+  zh-TW: 11th-century conflict
+  en: 11th-century conflict
+start:
+  year: 1010
+end:
+  year: 1011
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q1967193
+locations:
+  - place: wd-q483134
+    role: primary
+wikipedia:
+  en: Second conflict in the Goryeo–Khitan War
+  zh: 第二次高丽契丹战争
+importHash: 5d569512f723

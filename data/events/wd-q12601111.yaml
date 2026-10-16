@@ -1,0 +1,26 @@
+id: wd-q12601111
+title:
+  zh-TW: 南大門戰鬥
+  en: Namdaemun Battle
+summary:
+  zh-TW: insurgency by the Korean army against Japanese forces in Korea, in reaction to the disbandment of the Korean army following the Japan-Korea Treaty of 1907, at Namdaemun, Seoul on 1 August 1907
+  en: insurgency by the Korean army against Japanese forces in Korea, in reaction to the disbandment of the Korean army following the Japan-Korea Treaty of 1907, at Namdaemun, Seoul on 1 August 1907
+start:
+  year: 1907
+  month: 8
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q12601111
+locations:
+  - place: wd-q465345
+    role: primary
+wikipedia:
+  en: Battle of Namdaemun
+  zh: 南大门战斗
+importHash: f30445290021

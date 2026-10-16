@@ -1,0 +1,31 @@
+id: wd-q16170016
+title:
+  zh-TW: 雪馬里戰鬥
+  en: Battle of the Imjin River
+summary:
+  zh-TW: 1951 major confrontation during the Chinese Spring Offensive of the Korean War
+  en: 1951 major confrontation during the Chinese Spring Offensive of the Korean War
+start:
+  year: 1951
+  month: 4
+  day: 22
+end:
+  year: 1951
+  month: 4
+  day: 25
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q16170016
+locations:
+  - place: wd-q16170016-site
+    role: primary
+  - place: wd-q495534
+    role: secondary
+wikipedia:
+  en: Battle of the Imjin River
+  zh: 雪马里战斗
+importHash: 700e7f6834d3

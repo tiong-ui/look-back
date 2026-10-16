@@ -1,0 +1,36 @@
+id: wd-q1753578
+title:
+  zh-TW: 俾斯麥海海戰
+  en: Battle of the Bismarck Sea
+summary:
+  zh-TW: 1943 Allied attack on a Japanese convoy
+  en: 1943 Allied attack on a Japanese convoy
+start:
+  year: 1943
+  month: 3
+  day: 2
+end:
+  year: 1943
+  month: 3
+  day: 4
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 3
+wikidata: Q1753578
+locations:
+  - place: wd-q1753578-site
+    role: primary
+  - place: wd-q199479
+    role: secondary
+  - place: wd-q199436
+    role: secondary
+  - place: wd-q1743608
+    role: secondary
+wikipedia:
+  en: Battle of the Bismarck Sea
+  zh: 俾斯麦海海战
+importHash: 2085ee7d8a14

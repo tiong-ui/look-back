@@ -1,0 +1,31 @@
+id: wd-q112666390
+title:
+  zh-TW: 2022年6月阿富汗地震
+  en: June 2022 Afghanistan earthquake
+summary:
+  zh-TW: earthquake in the Afghanistan-Pakistan border region
+  en: earthquake in the Afghanistan-Pakistan border region
+start:
+  year: 2022
+  month: 6
+  day: 22
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 3
+wikidata: Q112666390
+locations:
+  - place: wd-q112666390-site
+    role: primary
+  - place: wd-q178471
+    role: secondary
+  - place: wd-q182493
+    role: secondary
+  - place: wd-q183314
+    role: secondary
+wikipedia:
+  en: June 2022 Afghanistan earthquake
+  zh: 2022年6月阿富汗地震
+importHash: 64cc84a46929

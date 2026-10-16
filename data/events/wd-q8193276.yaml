@@ -1,0 +1,25 @@
+id: wd-q8193276
+title:
+  zh-TW: 長野縣西部地震
+  en: 1984 Nagano earthquake
+summary:
+  zh-TW: earthquake struck Nagano prefecture, Japan on September 14, 1984 (local time)
+  en: earthquake struck Nagano prefecture, Japan on September 14, 1984 (local time)
+start:
+  year: 1984
+  month: 9
+  day: 14
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q8193276
+locations:
+  - place: wd-q8193276-site
+    role: primary
+wikipedia:
+  en: 1984 Nagano earthquake
+  zh: 1984年长野地震
+importHash: 4055f6e13ccc

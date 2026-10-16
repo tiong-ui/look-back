@@ -1,0 +1,27 @@
+id: wd-q108825568
+title:
+  zh-TW: 2021年千葉地震
+  en: 2021 Chiba earthquake
+summary:
+  zh-TW: 2021 earthquake in Japan
+  en: 2021 earthquake in Japan
+start:
+  year: 2021
+  month: 10
+  day: 7
+precision: day
+categories:
+  - disaster
+regions:
+  - japan
+importance: 1
+wikidata: Q108825568
+locations:
+  - place: wd-q108825568-site
+    role: primary
+  - place: wd-q170616
+    role: secondary
+wikipedia:
+  en: 2021 Chiba earthquake
+  zh: 2021年千叶地震
+importHash: b4bb63ff1643

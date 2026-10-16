@@ -1,0 +1,25 @@
+id: wd-q68746792
+title:
+  zh-TW: 2019年安汶地震
+  en: 2019 Ambon earthquake
+summary:
+  zh-TW: earthquake on 25 September 2019 in Piru Bay, between the islands of Seram and Ambon, Indonesia
+  en: earthquake on 25 September 2019 in Piru Bay, between the islands of Seram and Ambon, Indonesia
+start:
+  year: 2019
+  month: 9
+  day: 25
+precision: day
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 2
+wikidata: Q68746792
+locations:
+  - place: wd-q68746792-site
+    role: primary
+wikipedia:
+  en: 2019 Ambon earthquake
+  zh: 2019年安汶地震
+importHash: 0652a2a4c9a3

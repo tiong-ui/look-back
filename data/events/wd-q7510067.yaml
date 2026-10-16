@@ -1,0 +1,22 @@
+id: wd-q7510067
+title:
+  zh-TW: Siege of Hachigata
+  en: Siege of Hachigata
+summary:
+  zh-TW: 1590 siege
+  en: 1590 siege
+start:
+  year: 1590
+precision: year
+categories:
+  - war
+regions:
+  - japan
+importance: 1
+wikidata: Q7510067
+locations:
+  - place: wd-q2969388
+    role: primary
+wikipedia:
+  en: Siege of Hachigata (1590)
+importHash: "86e429401440"

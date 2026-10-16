@@ -1,0 +1,25 @@
+id: wd-q1083495
+title:
+  zh-TW: 木津川口之戰
+  en: Battle of Kizugawa
+summary:
+  zh-TW: 1614 battle, part of the siege of Osaka
+  en: 1614 battle, part of the siege of Osaka
+start:
+  year: 1614
+  month: 11
+  day: 19
+precision: day
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1083495
+locations:
+  - place: wd-q11519216
+    role: primary
+wikipedia:
+  en: Battle of Kizugawa
+  zh: 木津川口之戰 (1614年)
+importHash: 499948c32fc2

@@ -1,0 +1,32 @@
+id: wd-q176915
+title:
+  zh-TW: 天寧島戰役
+  en: Battle of Tinian
+summary:
+  zh-TW: 1944 battle of the Pacific campaign of World War II on the island of Tinian in the Mariana Islands
+  en: 1944 battle of the Pacific campaign of World War II on the island of Tinian in the Mariana Islands
+start:
+  year: 1944
+  month: 7
+  day: 24
+end:
+  year: 1944
+  month: 8
+  day: 1
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 3
+wikidata: Q176915
+locations:
+  - place: wd-q176915-site
+    role: primary
+  - place: wd-q325652
+    role: secondary
+wikipedia:
+  en: Battle of Tinian
+  zh: 天寧島戰役
+importHash: 52c0d8414191

@@ -1,0 +1,25 @@
+id: wd-q2889433
+title:
+  zh-TW: 室山之戰
+  en: Battle of Muroyama
+summary:
+  zh-TW: battle in 1183 in Japan
+  en: battle in 1183 in Japan
+start:
+  year: 1184
+  month: 1
+  day: 20
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2889433
+locations:
+  - place: wd-q11453029
+    role: primary
+wikipedia:
+  en: Battle of Muroyama
+importHash: 9a99c886202d

@@ -1,0 +1,25 @@
+id: beinan-culture
+title:
+  zh-TW: 卑南文化
+  en: Beinan culture
+summary:
+  zh-TW: 臺灣東部的新石器時代晚期文化，以大量石板棺與精美玉器聞名，臺東卑南遺址是東南亞規模最大的石板棺墓葬群之一。
+  en: A late Neolithic culture of eastern Taiwan, known for its many slate coffins and fine jade. The Beinan site in Taitung is one of the largest slate-coffin cemeteries in Southeast Asia.
+start: -1499
+end: -299
+precision: century
+approximate: true
+categories:
+  - prehistory
+  - culture
+regions:
+  - taiwan
+importance: 2
+locations:
+  - place: beinan
+    role: primary
+wikipedia:
+  en: Beinan culture
+  zh: 卑南文化
+sources:
+  - resource: nmp

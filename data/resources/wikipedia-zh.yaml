@@ -1,0 +1,11 @@
+id: wikipedia-zh
+name:
+  zh-TW: 維基百科（中文）
+  en: Wikipedia (Chinese)
+url: https://zh.wikipedia.org/
+type: encyclopedia
+lang:
+  - zh
+description:
+  zh-TW: 事件條目與重要度指標（瀏覽量）來源。
+  en: Event articles; page views feed the importance score.

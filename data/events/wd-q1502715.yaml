@@ -1,0 +1,26 @@
+id: wd-q1502715
+title:
+  zh-TW: 四條畷之戰
+  en: Battle of Shijōnawate
+summary:
+  zh-TW: 1348 battle
+  en: 1348 battle
+start:
+  year: 1348
+  month: 2
+  day: 12
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q1502715
+locations:
+  - place: wd-q1502715-site
+    role: primary
+wikipedia:
+  en: Battle of Shijōnawate
+  zh: 四條畷之戰
+importHash: 026d34f45bfc

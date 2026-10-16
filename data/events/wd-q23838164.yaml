@@ -1,0 +1,25 @@
+id: wd-q23838164
+title:
+  zh-TW: 2016年阿富汗地震
+  en: 2016 Afghanistan earthquake
+summary:
+  zh-TW: 2016 severe earthquake centered near Ashkasham, Afghanistan
+  en: 2016 severe earthquake centered near Ashkasham, Afghanistan
+start:
+  year: 2016
+  month: 4
+  day: 10
+precision: day
+categories:
+  - disaster
+regions:
+  - south-asia
+importance: 1
+wikidata: Q23838164
+locations:
+  - place: wd-q23838164-site
+    role: primary
+wikipedia:
+  en: 2016 Afghanistan earthquake
+  zh: 2016年阿富汗地震
+importHash: 8e2c76ef40d7

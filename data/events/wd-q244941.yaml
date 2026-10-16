@@ -1,0 +1,35 @@
+id: wd-q244941
+title:
+  zh-TW: 西安事變
+  en: Xi'an Incident
+summary:
+  zh-TW: 發生於陝西西安的一場軍事政變，致使蔣介石同意停止剿共，第一次國共內戰結束，第二次國共合作全民族共同抗戰局面逐步開始形成
+  en: mutiny in the Chinese army
+start:
+  year: 1936
+  month: 12
+  day: 12
+end:
+  year: 1936
+  month: 12
+  day: 26
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 3
+wikidata: Q244941
+locations:
+  - place: wd-q244941-site
+    role: primary
+  - place: wd-q5826
+    role: secondary
+relations:
+  - event: wd-q179975
+    type: part_of
+wikipedia:
+  en: Xi'an Incident
+  zh: 西安事变
+importHash: fcffcdb5330e

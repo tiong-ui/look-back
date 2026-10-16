@@ -1,0 +1,22 @@
+id: wd-q19568883
+title:
+  zh-TW: 比亞斯河戰役
+  en: Battle of Beas River
+summary:
+  zh-TW: 比亞斯河戰役
+start:
+  year: 1285
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q19568883
+locations:
+  - place: wd-q319590
+    role: primary
+wikipedia:
+  en: Battle of Beas River
+  zh: 比亞斯河戰役
+importHash: 7d94fe0cff80

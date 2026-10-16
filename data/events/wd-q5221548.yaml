@@ -1,0 +1,26 @@
+id: wd-q5221548
+title:
+  zh-TW: 道縣事件
+  en: Daoxian massacre
+summary:
+  zh-TW: 湖南省文革屠殺事件
+  en: massacre in China during the Cultural Revolution
+start:
+  year: 1967
+  month: 8
+  day: 13
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 1
+wikidata: Q5221548
+locations:
+  - place: wd-q1165386
+    role: primary
+wikipedia:
+  en: Daoxian massacre
+  zh: 道县事件
+importHash: b69ed7fd7975

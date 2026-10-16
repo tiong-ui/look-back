@@ -1,0 +1,28 @@
+id: wd-q48896366
+title:
+  zh-TW: 廣西文革屠殺
+  en: Guangxi Massacre
+summary:
+  zh-TW: 區域性大規模屠殺事件
+  en: 1966–76 massacre in China during the Cultural Revolution
+start:
+  year: 1966
+end:
+  year: 1976
+  month: 1
+  day: 1
+precision: year
+categories:
+  - war
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q48896366
+locations:
+  - place: wd-q15176
+    role: primary
+wikipedia:
+  en: Guangxi Massacre
+  zh: 广西文革屠杀
+importHash: 6d8d00127a59

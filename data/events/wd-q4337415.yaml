@@ -1,0 +1,25 @@
+id: wd-q4337415
+title:
+  zh-TW: 2013年沙赫巴格示威
+  en: 2013 Shahbag protests
+summary:
+  zh-TW: 2013 Bangladesh demonstrations against Bangladesh Liberation War criminals and Islamist politics
+  en: 2013 Bangladesh demonstrations against Bangladesh Liberation War criminals and Islamist politics
+start:
+  year: 2013
+  month: 2
+  day: 9
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q4337415
+locations:
+  - place: wd-q4337415-site
+    role: primary
+wikipedia:
+  en: 2013 Shahbag protests
+  zh: 2013年沙赫巴格示威
+importHash: dce5d09938c9

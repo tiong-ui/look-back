@@ -1,0 +1,28 @@
+id: wd-q696900
+title:
+  zh-TW: 關島戰役
+  en: Battle of Guam
+summary:
+  zh-TW: 1944 World War II battle
+  en: 1944 World War II battle
+start:
+  year: 1944
+  month: 8
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - asia
+importance: 3
+wikidata: Q696900
+locations:
+  - place: wd-q696900-site
+    role: primary
+  - place: wd-q16635
+    role: secondary
+wikipedia:
+  en: Battle of Guam (1944)
+  zh: 關島戰役 (1944年)
+importHash: 73f2950f8078

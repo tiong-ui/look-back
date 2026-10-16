@@ -1,0 +1,25 @@
+id: wd-q488995
+title:
+  zh-TW: 威化島回軍
+  en: Wihwado Retreat
+summary:
+  zh-TW: 1388 retreat of Goryeo's general Yi Seong-gye
+  en: 1388 retreat of Goryeo's general Yi Seong-gye
+start:
+  year: 1388
+  month: 6
+  day: 11
+precision: day
+categories:
+  - politics
+regions:
+  - korea
+importance: 1
+wikidata: Q488995
+locations:
+  - place: wd-q109079
+    role: primary
+wikipedia:
+  en: Wihwado Retreat
+  zh: 威化島回軍
+importHash: 132e043b7bbd

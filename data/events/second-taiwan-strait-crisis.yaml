@@ -1,0 +1,29 @@
+id: second-taiwan-strait-crisis
+title:
+  zh-TW: 八二三砲戰
+  en: Second Taiwan Strait Crisis
+summary:
+  zh-TW: 中國人民解放軍對金門展開大規模砲擊，44天內發射近50萬發砲彈。美國協助運補，危機最終以中國改為「單打雙不打」告終。
+  en: The PLA launched a massive artillery bombardment of Kinmen, firing nearly half a million shells in 44 days. The US helped resupply the island, and the crisis ended with China switching to shelling on alternate days.
+start:
+  year: 1958
+  month: 8
+  day: 23
+end:
+  year: 1958
+  month: 10
+precision: day
+categories:
+  - war
+regions:
+  - taiwan
+  - china
+importance: 3
+locations:
+  - place: kinmen
+    role: primary
+  - place: xiamen
+    role: secondary
+wikipedia:
+  en: Second Taiwan Strait Crisis
+  zh: 八二三砲戰

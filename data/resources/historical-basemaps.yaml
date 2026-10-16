@@ -1,0 +1,11 @@
+id: historical-basemaps
+name:
+  zh-TW: historical-basemaps 歷史疆域資料
+  en: historical-basemaps
+url: https://github.com/aourednik/historical-basemaps
+type: map
+lang:
+  - en
+description:
+  zh-TW: 候選的歷史疆域圖層（第三階段，GPL-3.0）。
+  en: Candidate historical-borders layer (Phase 3, GPL-3.0).

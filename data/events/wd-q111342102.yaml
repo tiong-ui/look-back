@@ -1,0 +1,22 @@
+id: wd-q111342102
+title:
+  zh-TW: 2022年3月花蓮地震
+summary:
+  zh-TW: 3月23日凌晨1:41分，發生於臺灣花蓮縣近海芮氏規模6.7之地震
+start:
+  year: 2022
+  month: 3
+  day: 23
+precision: day
+categories:
+  - disaster
+regions:
+  - taiwan
+importance: 2
+wikidata: Q111342102
+locations:
+  - place: wd-q111342102-site
+    role: primary
+wikipedia:
+  zh: 2022年花蓮地震
+importHash: 0cc3c37aae75

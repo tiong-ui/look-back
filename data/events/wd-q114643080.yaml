@@ -1,0 +1,27 @@
+id: wd-q114643080
+title:
+  zh-TW: 四通橋事件
+  en: Sitong Bridge protest
+summary:
+  zh-TW: 2022年中國共產黨第二十次全國代表大會召開前夕北京市發生的的政治抗議事件
+  en: Political protests in Beijing on the eve of the 20th National Congress of the Chinese Communist Party
+start:
+  year: 2022
+  month: 10
+  day: 13
+precision: day
+categories:
+  - democracy
+regions:
+  - china
+importance: 2
+wikidata: Q114643080
+locations:
+  - place: wd-q114643080-site
+    role: primary
+  - place: wd-q10925360
+    role: secondary
+wikipedia:
+  en: 2022 Beijing Sitong Bridge protest
+  zh: 四通桥事件
+importHash: 689211ebb067

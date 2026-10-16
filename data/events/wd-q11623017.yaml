@@ -1,0 +1,28 @@
+id: wd-q11623017
+title:
+  zh-TW: 藤原仲麻呂之亂
+  en: Fujiwara no Nakamaro Rebellion
+summary:
+  zh-TW: short-lived and unsuccessful Nara period military confrontation in Japan
+  en: short-lived and unsuccessful Nara period military confrontation in Japan
+start:
+  year: 764
+end:
+  year: 764
+  month: 10
+  day: 21
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q11623017
+locations:
+  - place: wd-q843882
+    role: primary
+wikipedia:
+  en: Fujiwara no Nakamaro Rebellion
+  zh: 藤原仲麻吕之乱
+importHash: 68d5ce067692

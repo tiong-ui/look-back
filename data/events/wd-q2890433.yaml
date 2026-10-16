@@ -1,0 +1,22 @@
+id: wd-q2890433
+title:
+  zh-TW: Battle of Un no Kuchi
+  en: Battle of Un no Kuchi
+summary:
+  zh-TW: Japanese battle in 1536
+  en: Japanese battle in 1536
+start:
+  year: 1536
+precision: year
+categories:
+  - politics
+regions:
+  - japan
+importance: 1
+wikidata: Q2890433
+locations:
+  - place: wd-q2890433-site
+    role: primary
+wikipedia:
+  en: Battle of Un no Kuchi
+importHash: f1cd6ad37cbf

@@ -1,0 +1,25 @@
+id: wd-q6408274
+title:
+  zh-TW: Kilvenmani massacre
+  en: Kilvenmani massacre
+summary:
+  zh-TW: 1968 massacre in India
+  en: 1968 massacre in India
+start:
+  year: 1968
+  month: 12
+  day: 25
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q6408274
+locations:
+  - place: wd-q6419210
+    role: primary
+wikipedia:
+  en: Kilvenmani massacre
+importHash: b3ad3f023304

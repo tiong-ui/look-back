@@ -1,0 +1,26 @@
+id: wd-q2890897
+title:
+  zh-TW: Battle of Arghandab
+  en: Battle of Arghandab
+summary:
+  zh-TW: 2008 battle during the War in Afghanistan
+  en: 2008 battle during the War in Afghanistan
+start:
+  year: 2008
+end:
+  year: 2008
+  month: 6
+  day: 19
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q2890897
+locations:
+  - place: wd-q1920624
+    role: primary
+wikipedia:
+  en: Battle of Arghandab (2008)
+importHash: 96192bace669

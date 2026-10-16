@@ -1,0 +1,27 @@
+id: wd-q138511765
+title:
+  zh-TW: 2026年美國駐卡拉奇總領事館襲擊
+  en: 2026 attack on the United States consulate in Karachi
+summary:
+  zh-TW: 2026年伊朗衝突期間的親伊朗抗議
+  en: attack in Pakistan
+start:
+  year: 2026
+  month: 3
+  day: 1
+precision: day
+categories:
+  - democracy
+regions:
+  - south-asia
+importance: 2
+wikidata: Q138511765
+locations:
+  - place: wd-q138511765-site
+    role: primary
+  - place: wd-q8660
+    role: secondary
+wikipedia:
+  en: 2026 attack on the United States consulate in Karachi
+  zh: 2026年美國駐卡拉奇總領事館襲擊
+importHash: 84174a106260

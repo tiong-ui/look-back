@@ -1,0 +1,27 @@
+id: wd-q494058
+title:
+  zh-TW: 天安艦事件
+  en: ROKS Cheonan sinking
+summary:
+  zh-TW: 2010年朝鮮擊沉韓國軍艦的事件
+  en: combat incident between North and South Korea
+start:
+  year: 2010
+  month: 3
+  day: 26
+precision: day
+categories:
+  - war
+regions:
+  - korea
+importance: 2
+wikidata: Q494058
+locations:
+  - place: wd-q494058-site
+    role: primary
+  - place: wd-q485315
+    role: secondary
+wikipedia:
+  en: Sinking of ROKS Cheonan
+  zh: 天安号沉没事件
+importHash: 14b2838c1585

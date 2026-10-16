@@ -1,0 +1,25 @@
+id: wd-q4872102
+title:
+  zh-TW: Battle of Pratapgarh
+  en: Battle of Pratapgarh
+summary:
+  zh-TW: 1659 battle in India
+  en: 1659 battle in India
+start:
+  year: 1659
+  month: 11
+  day: 10
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4872102
+locations:
+  - place: wd-q3582929
+    role: primary
+wikipedia:
+  en: Battle of Pratapgarh
+importHash: 43b4093182ef

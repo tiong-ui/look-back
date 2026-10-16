@@ -1,0 +1,25 @@
+id: wd-q3827914
+title:
+  zh-TW: 滎陽之戰
+  en: Battle of Xingyang
+summary:
+  zh-TW: 東漢末年戰役
+  en: 190 battle between Coalition and Dong Zhuo forces (190)
+start:
+  year: 190
+precision: year
+categories:
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q3827914
+locations:
+  - place: wd-q3827914-site
+    role: primary
+  - place: wd-q1360089
+    role: secondary
+wikipedia:
+  en: Battle of Xingyang (190)
+  zh: 荥阳之战 (190年)
+importHash: d81edbed36da

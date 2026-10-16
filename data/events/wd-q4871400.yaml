@@ -1,0 +1,24 @@
+id: wd-q4871400
+title:
+  zh-TW: Battle of Kathmandu
+  en: Battle of Kathmandu
+summary:
+  zh-TW: 1768 siege in the Gorkhali conquest of Nepal
+  en: 1768 siege in the Gorkhali conquest of Nepal
+start:
+  year: 1768
+precision: year
+categories:
+  - politics
+regions:
+  - south-asia
+importance: 1
+wikidata: Q4871400
+locations:
+  - place: wd-q4871400-site
+    role: primary
+  - place: wd-q3037
+    role: secondary
+wikipedia:
+  en: Battle of Kathmandu
+importHash: ad2b7b59ebf4

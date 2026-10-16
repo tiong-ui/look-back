@@ -1,0 +1,28 @@
+id: wd-q64879
+title:
+  zh-TW: Siege of Malakand
+  en: Siege of Malakand
+summary:
+  zh-TW: 1897 siege of a British garrison by Afghan tribesmen
+  en: 1897 siege of a British garrison by Afghan tribesmen
+start:
+  year: 1897
+  month: 7
+  day: 26
+end:
+  year: 1897
+  month: 8
+  day: 2
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q64879
+locations:
+  - place: wd-q1820054
+    role: primary
+wikipedia:
+  en: Siege of Malakand
+importHash: 72d47ad52dff

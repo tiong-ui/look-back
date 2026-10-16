@@ -1,0 +1,23 @@
+id: ming-dynasty
+title:
+  zh-TW: 明朝
+  en: Ming dynasty
+summary:
+  zh-TW: 朱元璋推翻元朝建立明朝，初都南京，永樂帝遷都北京。明朝長期實施海禁，間接促成東亞海上走私貿易與海商集團的興起。
+  en: Zhu Yuanzhang overthrew the Yuan and founded the Ming, first ruling from Nanjing; the Yongle Emperor moved the capital to Beijing. Long-running sea bans fed the rise of smuggling and armed merchant fleets across East Asian waters.
+start: 1368
+end: 1644
+precision: year
+categories:
+  - dynasty
+regions:
+  - china
+importance: 5
+locations:
+  - place: nanjing
+    role: primary
+  - place: beijing
+    role: secondary
+wikipedia:
+  en: Ming dynasty
+  zh: 明朝

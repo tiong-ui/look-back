@@ -1,0 +1,22 @@
+id: wd-q4204647
+title:
+  zh-TW: 1833年蘇門答臘地震
+  en: 1833 Sumatra earthquake
+summary:
+  zh-TW: seismic event
+  en: seismic event
+start:
+  year: 1833
+precision: year
+categories:
+  - disaster
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q4204647
+locations:
+  - place: wd-q4204647-site
+    role: primary
+wikipedia:
+  en: 1833 Sumatra earthquake
+importHash: d074ad53eacd

@@ -1,0 +1,24 @@
+id: wd-q111032472
+title:
+  zh-TW: 1819年新加坡條約
+  en: 1819 Singapore Treaty
+summary:
+  zh-TW: Agreement to set up British trading post in Singapore
+  en: Agreement to set up British trading post in Singapore
+start:
+  year: 1819
+  month: 2
+  day: 6
+precision: day
+categories:
+  - diplomacy
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q111032472
+locations:
+  - place: wd-q7123224
+    role: primary
+wikipedia:
+  en: 1819 Singapore Treaty
+importHash: 9bfcb2ba8aca

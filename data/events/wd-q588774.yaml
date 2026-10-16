@@ -1,0 +1,33 @@
+id: wd-q588774
+title:
+  zh-TW: 同帥戰役
+  en: Battle of Dong Xoai
+summary:
+  zh-TW: battle of the Vietnam War in 1965
+  en: battle of the Vietnam War in 1965
+start:
+  year: 1965
+end:
+  year: 1965
+  month: 6
+  day: 13
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - southeast-asia
+importance: 1
+wikidata: Q588774
+locations:
+  - place: wd-q588774-site
+    role: primary
+  - place: wd-q665981
+    role: secondary
+relations:
+  - event: wd-q8740
+    type: part_of
+wikipedia:
+  en: Battle of Đồng Xoài
+  zh: 同帥戰役
+importHash: 4b5fb42dcf6a

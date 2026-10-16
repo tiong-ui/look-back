@@ -1,0 +1,34 @@
+id: roc-government-retreat
+title:
+  zh-TW: 中華民國政府遷臺
+  en: ROC government retreats to Taiwan
+summary:
+  zh-TW: 國共內戰失利後，中華民國政府將中央政府遷至臺北，約百萬軍民隨之來臺。此後中華民國的實際統治範圍主要限於臺澎金馬。
+  en: After losing the Chinese Civil War, the ROC moved its central government to Taipei, and around a million soldiers and civilians came with it. From then on the ROC actually governed only Taiwan, Penghu, Kinmen and Matsu.
+start:
+  year: 1949
+  month: 12
+  day: 7
+precision: day
+categories:
+  - politics
+  - migration
+regions:
+  - taiwan
+  - china
+importance: 5
+locations:
+  - place: chengdu
+    role: origin
+  - place: taipei
+    role: destination
+  - place: taipei
+    role: primary
+relations:
+  - event: prc-founded
+    type: related
+  - event: battle-of-guningtou
+    type: related
+wikipedia:
+  en: Retreat of the government of the Republic of China to Taiwan
+  zh: 中華民國政府遷臺

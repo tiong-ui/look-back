@@ -1,0 +1,26 @@
+id: wd-q1151692
+title:
+  zh-TW: 下邳之戰
+  en: Battle of Xiapi
+summary:
+  zh-TW: 曹操消滅呂布之戰
+  en: 199 battle between warlord Lü Bu and warlords Cao Cao and Liu Bei (198-199)
+start:
+  year: 199
+  month: 2
+  day: 6
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q1151692
+locations:
+  - place: wd-q1151692-site
+    role: primary
+wikipedia:
+  en: Battle of Xiapi
+  zh: 下邳之戰
+importHash: bd10f78f89b0

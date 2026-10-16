@@ -1,0 +1,26 @@
+id: wd-q3272217
+title:
+  zh-TW: 昆陽之戰
+  en: Battle of Kunyang
+summary:
+  zh-TW: 公元23年王莽軍和劉秀軍之間的戰役
+  en: battle between Wang Mang and Liu Xiu in 23 AD
+start:
+  year: 23
+precision: year
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 2
+wikidata: Q3272217
+locations:
+  - place: wd-q3272217-site
+    role: primary
+  - place: wd-q1337567
+    role: secondary
+wikipedia:
+  en: Battle of Kunyang
+  zh: 昆陽之戰
+importHash: 3f5e7f47d47d

@@ -1,0 +1,28 @@
+id: wd-q852450
+title:
+  zh-TW: 下關隨機殺人事件
+  en: Shimonoseki Station massacre
+summary:
+  zh-TW: mass stabbing and car ramming attack in Shimonoseki, Japan
+  en: mass stabbing and car ramming attack in Shimonoseki, Japan
+start:
+  year: 1999
+  month: 9
+  day: 29
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - korea
+importance: 1
+wikidata: Q852450
+locations:
+  - place: wd-q852450-site
+    role: primary
+  - place: wd-q1130253
+    role: secondary
+wikipedia:
+  en: Shimonoseki Station massacre
+  zh: 下關隨機殺人事件
+importHash: b8fc68788536

@@ -1,0 +1,49 @@
+id: roc-takes-over-taiwan
+title:
+  zh-TW: 中華民國接管臺灣
+  en: ROC takes control of Taiwan
+altNames:
+  - zh-TW: 臺灣光復
+    en: Retrocession
+  - zh-TW: 終戰
+    en: End of the war
+summary:
+  zh-TW: 日本戰敗後，中華民國政府依盟軍統帥部命令於臺北公會堂接受日軍投降，隨即將臺灣納入行政管轄並設臺灣省行政長官公署。接收後的貪腐、物價飛漲與歧視迅速引發民怨。
+  en: After Japan's defeat, the Republic of China accepted the Japanese surrender in Taipei under Allied orders and immediately placed Taiwan under its administration with a Governor-General's office. Corruption, soaring prices and discrimination after the takeover quickly bred public anger.
+start:
+  year: 1945
+  month: 10
+  day: 25
+precision: day
+categories:
+  - politics
+regions:
+  - taiwan
+  - china
+importance: 5
+locations:
+  - place: taipei
+    role: primary
+relations:
+  - event: pacific-war
+    type: caused_by
+  - event: incident-228
+    type: causes
+  - event: treaty-of-san-francisco
+    type: related
+perspectives:
+  - view: taiwan
+    text:
+      zh-TW: 此為代表盟軍的軍事接管，並未發生主權移轉；日本直到1952年生效的《舊金山和約》才放棄臺灣主權，且未指定歸屬對象。
+      en: This was a military takeover on behalf of the Allies, not a transfer of sovereignty. Japan renounced Taiwan only in the San Francisco Peace Treaty, effective 1952, without naming a recipient.
+  - view: roc
+    text:
+      zh-TW: 中華民國稱之為「臺灣光復」，依《開羅宣言》與《波茨坦公告》收回臺灣，10月25日訂為光復節。
+      en: The ROC calls it "Retrocession", the recovery of Taiwan under the Cairo Declaration and Potsdam Proclamation, and marks 25 October as Retrocession Day.
+  - view: prc
+    text:
+      zh-TW: 中國官方視為臺灣「回歸中國」，並主張其主權由中華人民共和國繼承。
+      en: Chinese official accounts call it Taiwan's "return to China" and claim the PRC inherited that sovereignty.
+wikipedia:
+  en: Retrocession Day
+  zh: 臺灣光復

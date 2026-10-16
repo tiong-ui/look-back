@@ -1,0 +1,28 @@
+id: wd-q2343263
+title:
+  zh-TW: Siege of Delhi
+  en: Siege of Delhi
+summary:
+  zh-TW: one of the decisive conflicts of the Indian rebellion of 1857
+  en: one of the decisive conflicts of the Indian rebellion of 1857
+start:
+  year: 1857
+  month: 6
+  day: 8
+end:
+  year: 1857
+  month: 9
+  day: 21
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 2
+wikidata: Q2343263
+locations:
+  - place: wd-q1353
+    role: primary
+wikipedia:
+  en: Siege of Delhi (1857)
+importHash: 6c0838107eba

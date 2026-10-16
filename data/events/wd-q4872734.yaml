@@ -1,0 +1,27 @@
+id: wd-q4872734
+title:
+  zh-TW: 寬灣-露天灣戰役
+  en: Battle of Wide Bay
+summary:
+  zh-TW: 1944 battle
+  en: 1944 battle
+start:
+  year: 1944
+  month: 12
+end:
+  year: 1945
+  month: 4
+  day: 1
+precision: month
+categories:
+  - politics
+regions:
+  - asia
+importance: 1
+wikidata: Q4872734
+locations:
+  - place: wd-q16886650
+    role: primary
+wikipedia:
+  en: Battle of Wide Bay–Open Bay
+importHash: ef6a3eed89c3

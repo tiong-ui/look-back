@@ -1,0 +1,29 @@
+id: wd-q17070197
+title:
+  zh-TW: Sectarian violence In Pakistan
+  en: Sectarian violence In Pakistan
+summary:
+  zh-TW: revolt by the Shias of Gilgit Baltistan
+  en: revolt by the Shias of Gilgit Baltistan
+start:
+  year: 1988
+  month: 5
+  day: 18
+end:
+  year: 1988
+  month: 5
+  day: 18
+precision: day
+categories:
+  - war
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q17070197
+locations:
+  - place: wd-q200697
+    role: primary
+wikipedia:
+  en: 1988 Gilgit massacre
+importHash: c5c2ed6f8843

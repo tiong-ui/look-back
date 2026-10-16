@@ -1,0 +1,33 @@
+id: wd-q4087324
+title:
+  zh-TW: 八國聯軍天津戰役
+  en: Battle of Tientsin
+summary:
+  zh-TW: battle fought in Northern China in 1900
+  en: battle fought in Northern China in 1900
+start:
+  year: 1900
+  month: 7
+  day: 13
+end:
+  year: 1900
+  month: 7
+  day: 14
+precision: day
+categories:
+  - war
+  - politics
+regions:
+  - china
+importance: 1
+wikidata: Q4087324
+locations:
+  - place: wd-q11736
+    role: primary
+relations:
+  - event: wd-q150229
+    type: part_of
+wikipedia:
+  en: Battle of Tientsin
+  zh: 天津之战
+importHash: 97d33df5eeea

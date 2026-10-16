@@ -1,0 +1,23 @@
+id: first-transfer-of-power
+title:
+  zh-TW: 首次政黨輪替
+  en: First peaceful transfer of power
+summary:
+  zh-TW: 民進黨陳水扁當選總統，結束國民黨在臺灣長達55年的執政，是臺灣首次和平政黨輪替。
+  en: The DPP's Chen Shui-bian won the presidency, ending 55 years of KMT rule in Taiwan in its first peaceful change of ruling party.
+start:
+  year: 2000
+  month: 3
+  day: 18
+precision: day
+categories:
+  - democracy
+regions:
+  - taiwan
+importance: 4
+locations:
+  - place: taipei
+    role: primary
+wikipedia:
+  en: 2000 Taiwanese presidential election
+  zh: 2000年中華民國總統選舉

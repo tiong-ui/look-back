@@ -1,0 +1,28 @@
+id: wd-q28406875
+title:
+  zh-TW: 納薩爾巴里起義
+  en: Naxalbari uprising
+summary:
+  zh-TW: 1967年發生於印度西孟加拉邦大吉嶺縣西里古裡區納薩爾巴里警管區的農民武裝叛亂
+  en: armed peasant revolt in 1967 in the Naxalbari block of Siliguri subdivision in Darjeeling district, West Bengal, India
+start:
+  year: 1967
+precision: year
+categories:
+  - war
+  - politics
+  - democracy
+regions:
+  - south-asia
+importance: 1
+wikidata: Q28406875
+locations:
+  - place: wd-q2572438
+    role: primary
+relations:
+  - event: wd-q979845
+    type: part_of
+wikipedia:
+  en: Naxalbari uprising
+  zh: 纳萨尔巴里起义
+importHash: 7db49767501d

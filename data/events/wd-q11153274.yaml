@@ -1,0 +1,27 @@
+id: wd-q11153274
+title:
+  zh-TW: Battle of Lake Baikal
+  en: Battle of Lake Baikal
+summary:
+  zh-TW: 1918 battle of the Russian Civil War
+  en: 1918 battle of the Russian Civil War
+start:
+  year: 1918
+  month: 8
+  day: 16
+precision: day
+categories:
+  - war
+regions:
+  - china
+importance: 2
+wikidata: Q11153274
+locations:
+  - place: wd-q5513
+    role: primary
+relations:
+  - event: wd-q79911
+    type: part_of
+wikipedia:
+  en: Battle of Lake Baikal
+importHash: 4b6b4a189cbf
