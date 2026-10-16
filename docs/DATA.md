@@ -104,8 +104,8 @@ Of the sources in `data/resources.yaml`, only Wikipedia/Wikidata publishes event
 - **How notable:** enough Wikipedia language editions to count as notable (5–15 depending on the type). Events in Taiwan, Penghu, Kinmen and Matsu need only 2.
 - **Skipped:** anything already curated in `data/events/` (matched by Wikipedia title).
 
-Each imported event gets the Wikidata label as its title, the Wikidata short description as its summary, its places, its "part of" links, Wikipedia and Wikidata links, and an importance from the number of language editions (+1 in Taiwan). It is marked `reviewed: false` and shown in the app with a **待審 / Unreviewed** badge. The 含自動匯入 / Include imported checkbox hides them.
+Each imported event gets the Wikidata label as its title, the Wikidata short description as its summary, its places, its "part of" links, Wikipedia and Wikidata links, and an importance from the number of language editions (+1 in Taiwan). They appear in the app like any other event, with their Wikipedia and Wikidata links as sources.
 
 **To run it:** Actions → **Import events from Wikidata** → *Run workflow*. It also runs monthly. It writes `data/imported/` on the `data/wikidata-import` branch and opens a pull request to look over before merging. (If GitHub refuses to let the workflow open the pull request, allow it under Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests", or open it by hand.)
 
-**To review or rewrite an imported event:** move it into a file in `data/events/`, write a proper summary following [EDITORIAL.md](EDITORIAL.md), and remove `reviewed: false`. Later imports skip it because it's now curated.
+**To rewrite an imported event:** move it into a file in `data/events/` and write a fuller summary following [EDITORIAL.md](EDITORIAL.md). Later imports skip it because it's now curated.

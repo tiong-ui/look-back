@@ -156,8 +156,6 @@ a { color: var(--accent); }
 .pv dt { font-weight: 600; font-size: 0.8rem; }
 .pv dd { margin: 0; }
 .sources li { margin: 2px 0; font-size: 0.85rem; }
-.badge-unreviewed { flex: none; font-size: 0.68rem; font-weight: 500; color: var(--muted); border: 1px dashed var(--muted); border-radius: 4px; padding: 0 4px; }
-.note-unreviewed { font-size: 0.8rem; color: var(--muted); border-left: 3px dashed var(--line); padding-left: 8px; }
 .event-list .more { padding: 12px; text-align: center; }
 
 /* ---- timeline ------------------------------------------------------------------------------- */

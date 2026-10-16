@@ -55,7 +55,7 @@ jobs:
           else
             gh pr create --base "${GITHUB_REF_NAME}" --head "$BRANCH" \
               --title "Import events from Wikidata ($(date -u +%Y-%m-%d))" \
-              --body "Automatic import by \`scripts/import-wikidata.ts\`. Events are marked \`reviewed: false\` and shown with a 待審 badge.
+              --body "Automatic import by \`scripts/import-wikidata.ts\`.
 
           \`\`\`
           ${summary}

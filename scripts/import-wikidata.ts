@@ -13,7 +13,7 @@
 // events in Taiwan). Events already curated in data/events/ are skipped.
 //
 // Output:
-//   data/imported/events.yaml   events, marked `reviewed: false`
+//   data/imported/events.yaml   events
 //   data/imported/places.yaml   their places
 //
 // Needs network access to query.wikidata.org, so it runs in
@@ -256,7 +256,6 @@ export interface ImportedEvent {
   categories: Category[];
   regions: string[];
   importance: number;
-  reviewed: false;
   wikidata: string;
   locations: { place: string; role: 'primary' | 'secondary' }[];
   relations?: { event: string; type: 'part_of' }[];
@@ -374,7 +373,6 @@ export function rowsToEvents(
       categories: [...new Set(classes.flatMap((c) => c.categories))],
       regions: regionsFor(inAsia.map((l) => l.coords)),
       importance: importanceFromSitelinks(sitelinks, taiwan),
-      reviewed: false,
       wikidata: qid,
       locations: inAsia.slice(0, 4).map((l, i) => ({ place: l.id, role: i === 0 ? 'primary' : 'secondary' })),
       ...(partOf.length ? { relations: partOf.map((p) => ({ event: `wd-${p.toLowerCase()}`, type: 'part_of' as const })) } : {}),
@@ -495,7 +493,7 @@ async function main() {
   const header = (what: string) =>
     `# ${what} imported from Wikidata by scripts/import-wikidata.ts on ${new Date().toISOString().slice(0, 10)}.\n` +
     `# Generated file: re-running the import replaces it. To edit an event, move it to data/events/\n` +
-    `# (and drop \`reviewed: false\`); curated events are skipped by later imports.\n`;
+    `# to rewrite it there; curated events are skipped by later imports.\n`;
   writeFileSync(join(outDir, 'events.yaml'), header('Events') + stringify(events, { lineWidth: 0 }));
   writeFileSync(join(outDir, 'places.yaml'), header('Places') + stringify(places, { lineWidth: 0, collectionStyle: 'any' }));
   const byRegion = events.reduce<Record<string, number>>((acc, e) => {

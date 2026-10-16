@@ -21,12 +21,6 @@ const strings = {
   majorOnly: { 'zh-TW': '僅重大事件（重要度 ≥ {n}）', en: 'Major events only (importance ≥ {n})' },
   showAll: { 'zh-TW': '顯示全部', en: 'Show all' },
   inView: { 'zh-TW': '僅地圖範圍內', en: 'Only in map view' },
-  includeImported: { 'zh-TW': '含自動匯入', en: 'Include imported' },
-  unreviewed: { 'zh-TW': '待審', en: 'Unreviewed' },
-  unreviewedNote: {
-    'zh-TW': '此事件由維基數據自動匯入，摘要取自維基數據簡述，尚未經編輯審閱。',
-    en: 'Imported automatically from Wikidata; the summary is its short description and has not been reviewed by an editor.',
-  },
   showMore: { 'zh-TW': '再顯示 {n} 件', en: 'Show {n} more' },
   sortYear: { 'zh-TW': '依年代', en: 'By year' },
   sortImportance: { 'zh-TW': '依重要度', en: 'By importance' },
