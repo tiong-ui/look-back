@@ -1,0 +1,30 @@
+id: japanese-repatriation-1946
+title:
+  zh-TW: 在臺日本人遣返
+  en: Repatriation of Japanese from Taiwan
+summary:
+  zh-TW: 日本投降後，在臺的日本軍民陸續被遣返日本，1946年春天是遣返高峰。數十萬日本人離開臺灣，只有少數技術人員被暫時留用。
+  en: After Japan's surrender, Japanese soldiers and civilians in Taiwan were sent back to Japan, mostly in the spring of 1946. Several hundred thousand left, with a few technical staff kept on temporarily.
+start:
+  year: 1946
+  month: 2
+end:
+  year: 1946
+  month: 4
+precision: month
+categories:
+- migration
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: keelung
+  role: primary
+- place: kaohsiung
+  role: secondary
+relations:
+- event: wd-q6540361
+  type: caused_by
+- event: roc-takes-over-taiwan
+  type: related

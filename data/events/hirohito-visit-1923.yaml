@@ -1,0 +1,32 @@
+id: hirohito-visit-1923
+title:
+  zh-TW: 皇太子裕仁訪臺
+  en: Crown Prince Hirohito visits Taiwan
+summary:
+  zh-TW: 皇太子裕仁（後來的昭和天皇）巡視臺灣12天，走訪臺北、臺南、高雄等地，總督府藉此展示統治成果。
+  en: Crown Prince Hirohito, later Emperor Shōwa, toured Taiwan for twelve days, visiting Taipei, Tainan, Kaohsiung and elsewhere, as the colonial government showcased its achievements.
+start:
+  year: 1923
+  month: 4
+  day: 16
+end:
+  year: 1923
+  month: 4
+  day: 27
+precision: day
+categories:
+- politics
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+- place: tainan
+  role: secondary
+- place: kaohsiung
+  role: secondary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

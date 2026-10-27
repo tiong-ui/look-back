@@ -1,0 +1,23 @@
+id: sun-moon-lake-power-1934
+title:
+  zh-TW: 日月潭水力發電工程完工
+  en: Sun Moon Lake hydropower completed
+summary:
+  zh-TW: 日月潭水力發電工程完工，引濁水溪的水進入日月潭發電，是當時亞洲最大的水力發電廠之一，為臺灣的工業化提供了電力。
+  en: The Sun Moon Lake hydropower scheme, which diverted the Zhuoshui River into the lake, was completed. Among the largest hydroelectric plants in Asia at the time, it powered Taiwan's industrialisation.
+start:
+  year: 1934
+  month: 6
+precision: month
+categories:
+- trade
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: sun-moon-lake
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

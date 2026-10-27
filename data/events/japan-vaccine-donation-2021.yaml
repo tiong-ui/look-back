@@ -1,0 +1,29 @@
+id: japan-vaccine-donation-2021
+title:
+  zh-TW: 日本捐贈疫苗給臺灣
+  en: Japan donates COVID-19 vaccines to Taiwan
+summary:
+  zh-TW: COVID-19 疫情期間，日本在臺灣疫苗短缺時捐贈約124萬劑AZ疫苗，之後又陸續多次捐贈，被視為回報臺灣在2011年的援助。
+  en: With Taiwan short of vaccines during COVID-19, Japan donated about 1.24 million AstraZeneca doses, followed by further shipments, widely seen as returning Taiwan's help in 2011.
+start:
+  year: 2021
+  month: 6
+  day: 4
+precision: day
+categories:
+- diplomacy
+- disaster
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: tokyo
+  role: origin
+- place: taipei
+  role: destination
+relations:
+- event: covid-19-pandemic
+  type: part_of
+- event: taiwan-donations-2011
+  type: related

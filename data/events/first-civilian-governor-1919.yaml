@@ -1,0 +1,24 @@
+id: first-civilian-governor-1919
+title:
+  zh-TW: 第一位文官總督
+  en: First civilian Governor-General
+summary:
+  zh-TW: 田健治郎就任第一位文官總督，結束武官總督時代。總督府改採「內地延長主義」，推動同化政策，並在形式上擴大臺灣人的教育與地方參與。
+  en: Den Kenjirō became the first civilian Governor-General, ending military rule. The government adopted a policy of treating Taiwan as an extension of Japan proper, pushing assimilation while formally widening Taiwanese access to education and local participation.
+start:
+  year: 1919
+  month: 10
+  day: 29
+precision: day
+categories:
+- politics
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

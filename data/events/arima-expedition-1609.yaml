@@ -1,0 +1,25 @@
+id: arima-expedition-1609
+title:
+  zh-TW: 有馬晴信派船探查臺灣
+  en: Arima Harunobu's expedition to Taiwan
+summary:
+  zh-TW: 德川家康命九州大名有馬晴信派船前往臺灣探查，並要求當地入貢。船隊與原住民發生衝突，擄回數名原住民後返回日本。同年，薩摩藩出兵琉球。
+  en: Tokugawa Ieyasu ordered the Kyushu lord Arima Harunobu to send ships to survey Taiwan and demand tribute. The expedition clashed with Indigenous people and returned to Japan with several captives. The same year, Satsuma invaded Ryukyu.
+start:
+  year: 1609
+precision: year
+categories:
+- migration
+- war
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: arima
+  role: origin
+- place: taiwan
+  role: destination
+relations:
+- event: wd-q1140134
+  type: related

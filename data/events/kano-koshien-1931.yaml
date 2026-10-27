@@ -1,0 +1,25 @@
+id: kano-koshien-1931
+title:
+  zh-TW: 嘉農棒球隊甲子園亞軍
+  en: Kagi Nōrin baseball team reaches Kōshien final
+summary:
+  zh-TW: 由日本人、漢人與原住民球員組成的嘉義農林學校棒球隊，首度代表臺灣打進日本甲子園全國中等學校棒球大會，並獲得亞軍。
+  en: The Chiayi Agriculture and Forestry School baseball team, with Japanese, Han and Indigenous players, represented Taiwan at the national school tournament at Kōshien for the first time and finished as runners-up.
+start:
+  year: 1931
+  month: 8
+precision: month
+categories:
+- culture
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: chiayi
+  role: origin
+- place: koshien
+  role: destination
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

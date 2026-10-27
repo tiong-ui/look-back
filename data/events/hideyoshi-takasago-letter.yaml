@@ -1,0 +1,24 @@
+id: hideyoshi-takasago-letter
+title:
+  zh-TW: 豐臣秀吉致書「高山國」
+  en: Hideyoshi's letter to "Takasago"
+summary:
+  zh-TW: 豐臣秀吉出兵朝鮮期間，派使者攜國書前往「高山國」（日本當時對臺灣的稱呼），要求入貢。由於臺灣當時並沒有統一的政權可以接受，國書最終沒有送達。
+  en: During his invasion of Korea, Toyotomi Hideyoshi sent an envoy with a letter demanding tribute from "Takasago-koku", the Japanese name for Taiwan. With no unified state in Taiwan to receive it, the letter was never delivered.
+start:
+  year: 1593
+precision: year
+categories:
+- diplomacy
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: hizen-nagoya
+  role: origin
+- place: taiwan
+  role: destination
+relations:
+- event: imjin-war
+  type: related

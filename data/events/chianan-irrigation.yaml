@@ -1,0 +1,36 @@
+id: chianan-irrigation
+title:
+  zh-TW: 嘉南大圳與烏山頭水庫
+  en: Chianan Irrigation and Wushantou Reservoir
+summary:
+  zh-TW: 由技師八田與一設計的嘉南大圳於1920年動工、1930年完工，灌溉嘉南平原約十五萬甲農田，使這裡成為臺灣主要的稻米與甘蔗產區。
+  en: Designed by engineer Hatta Yoichi, the Chianan irrigation system was built from 1920 to 1930. It watered about 150,000 hectares of the Chianan Plain, making it Taiwan's main rice and sugarcane region.
+start:
+  year: 1920
+  month: 9
+end:
+  year: 1930
+  month: 5
+precision: month
+categories:
+- trade
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: wushantou
+  role: primary
+- place: chiayi
+  role: secondary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+perspectives:
+- view: taiwan
+  text:
+    zh-TW: 工程改善了嘉南農業，同時也服務殖民地的米糖經濟；八田與一至今仍在臺灣受到紀念。
+    en: It transformed farming in Chianan while serving the colonial rice-and-sugar economy; Hatta Yoichi is still commemorated in Taiwan.
+wikipedia:
+  zh: 嘉南大圳
+  en: Chianan Irrigation

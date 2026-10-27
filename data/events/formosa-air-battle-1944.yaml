@@ -1,0 +1,32 @@
+id: formosa-air-battle-1944
+title:
+  zh-TW: 臺灣空戰
+  en: Formosa Air Battle
+summary:
+  zh-TW: 美軍航空母艦部隊連日空襲臺灣各地的機場與港口，日軍出動大批飛機反擊，損失慘重，卻對外誤報為大勝。
+  en: US carrier forces struck airfields and ports across Taiwan for several days. Japan threw large numbers of aircraft into the battle and suffered heavy losses, yet announced a great victory.
+start:
+  year: 1944
+  month: 10
+  day: 12
+end:
+  year: 1944
+  month: 10
+  day: 16
+precision: day
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taiwan
+  role: primary
+- place: kaohsiung
+  role: secondary
+relations:
+- event: pacific-war
+  type: part_of
+wikipedia:
+  en: Formosa Air Battle

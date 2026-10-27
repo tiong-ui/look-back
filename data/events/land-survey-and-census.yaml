@@ -1,0 +1,26 @@
+id: land-survey-and-census
+title:
+  zh-TW: 土地調查與第一次人口普查
+  en: Land survey and first census
+summary:
+  zh-TW: 總督府進行全島土地調查（1898–1904），整理地籍、確立土地所有權與稅收。1905年10月1日舉行第一次全島人口普查（臨時臺灣戶口調查），比日本本土的第一次人口普查還早。
+  en: The colonial government surveyed all of Taiwan's land (1898–1904), settling ownership and taxes. On 1 October 1905 it held the island's first full census, earlier than Japan's own first national census.
+start:
+  year: 1898
+end:
+  year: 1905
+  month: 10
+  day: 1
+precision: year
+categories:
+- politics
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

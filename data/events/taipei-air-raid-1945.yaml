@@ -1,0 +1,27 @@
+id: taipei-air-raid-1945
+title:
+  zh-TW: 臺北大空襲
+  en: Taipei air raid
+summary:
+  zh-TW: 美軍對臺北進行戰爭期間規模最大的轟炸，臺灣總督府等建築受到重創，造成三千多人死亡。
+  en: US bombers carried out the heaviest raid of the war on Taipei, badly damaging the Governor-General's Office and other buildings and killing more than 3,000 people.
+start:
+  year: 1945
+  month: 5
+  day: 31
+precision: day
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: pacific-war
+  type: part_of
+wikipedia:
+  zh: 臺北大空襲
+  en: Taipei Air Raid

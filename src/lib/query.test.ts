@@ -64,3 +64,10 @@ describe('places', () => {
     expect(inBounds([0, 0], { west: 170, east: -170, south: -10, north: 10 })).toBe(false);
   });
 });
+
+describe('eras', () => {
+  it('are listed chronologically within each group', () => {
+    const taiwan = atlas.eras.filter((e) => e.group === 'taiwan').map((e) => e.id);
+    expect(taiwan).toEqual(['tw-prehistory', 'tw-dutch-spanish', 'tw-tungning', 'tw-qing', 'tw-japan', 'tw-martial-law', 'tw-democracy']);
+  });
+});

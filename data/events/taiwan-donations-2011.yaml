@@ -1,0 +1,26 @@
+id: taiwan-donations-2011
+title:
+  zh-TW: 臺灣捐助東日本大震災
+  en: Taiwan's aid after the Great East Japan Earthquake
+summary:
+  zh-TW: 東日本大震災後，臺灣民間與政府捐款超過200億日圓，是捐款最多的國家和地區之一，大大加深了臺日民間的情誼。
+  en: After the Great East Japan Earthquake, donations from Taiwan's public and government exceeded ¥20 billion, among the largest from any country or region, deepening ties between the two peoples.
+start:
+  year: 2011
+  month: 3
+precision: month
+categories:
+- diplomacy
+- disaster
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taipei
+  role: origin
+- place: wd-q36204-site
+  role: destination
+relations:
+- event: wd-q36204
+  type: caused_by

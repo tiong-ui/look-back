@@ -1,0 +1,34 @@
+id: japanese-landing-aodi
+title:
+  zh-TW: 日軍澳底登陸
+  en: Japanese landing at Aodi
+summary:
+  zh-TW: 日軍近衛師團在北白川宮能久親王率領下從澳底登陸，開始以武力接收臺灣。臺灣民主國在北部迅速瓦解，日軍於6月7日進入臺北城。
+  en: The Imperial Guards Division under Prince Kitashirakawa Yoshihisa landed at Aodi to take Taiwan by force. The Republic of Formosa collapsed in the north, and Japanese troops entered Taipei on 7 June.
+start:
+  year: 1895
+  month: 5
+  day: 29
+end:
+  year: 1895
+  month: 6
+  day: 7
+precision: day
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: aodi
+  role: origin
+- place: taipei
+  role: destination
+- place: keelung
+  role: secondary
+relations:
+- event: wd-q717373
+  type: part_of
+- event: republic-of-formosa
+  type: related

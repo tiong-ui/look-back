@@ -1,0 +1,26 @@
+id: shisei-ceremony-1895
+title:
+  zh-TW: 始政式：日本開始統治臺灣
+  en: Japanese rule of Taiwan formally begins
+summary:
+  zh-TW: 首任臺灣總督樺山資紀在臺北舉行「始政式」，宣告日本開始統治臺灣。這一天後來被定為「始政紀念日」。
+  en: The first Governor-General, Kabayama Sukenori, held a ceremony in Taipei proclaiming the start of Japanese rule. The day was later marked as "Commencement of Governance Day".
+start:
+  year: 1895
+  month: 6
+  day: 17
+precision: day
+categories:
+- politics
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 始政紀念日

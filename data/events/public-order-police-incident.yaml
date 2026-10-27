@@ -1,0 +1,26 @@
+id: public-order-police-incident
+title:
+  zh-TW: 治警事件
+  en: Public Order and Police Law incident
+summary:
+  zh-TW: 總督府以違反《治安警察法》為由，大舉搜捕「臺灣議會期成同盟會」成員，蔣渭水、蔡培火等人遭起訴判刑。事件反而讓議會請願運動得到更多臺灣人支持。
+  en: Citing the Public Order and Police Law, the authorities rounded up members of the League for the Establishment of a Taiwanese Parliament; Chiang Wei-shui, Tsai Pei-huo and others were prosecuted and jailed. The crackdown won the petition movement wider support.
+start:
+  year: 1923
+  month: 12
+  day: 16
+precision: day
+categories:
+- democracy
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: parliament-petition-movement
+  type: part_of
+wikipedia:
+  zh: 治警事件

@@ -1,0 +1,28 @@
+id: law-no-63
+title:
+  zh-TW: 六三法
+  en: Law No. 63
+summary:
+  zh-TW: 日本帝國議會通過「六三法」，授權臺灣總督發布具法律效力的命令（律令），使總督集行政、立法與軍事大權於一身。廢除六三法成為臺灣人早期政治運動的焦點；它後來由「三一法」（1906年）與「法三號」（1921年）取代。
+  en: The Imperial Diet passed Law No. 63, letting the Governor-General of Taiwan issue ordinances with the force of law and so combine executive, legislative and military power. Repealing it became an early goal of Taiwanese political movements; it was replaced by Law No. 31 (1906) and Law No. 3 (1921).
+start:
+  year: 1896
+  month: 3
+  day: 30
+precision: day
+categories:
+- politics
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: tokyo
+  role: primary
+- place: taipei
+  role: secondary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 六三法

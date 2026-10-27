@@ -1,0 +1,29 @@
+id: koxinga-born-hirado
+title:
+  zh-TW: 鄭成功生於日本平戶
+  en: Koxinga born in Hirado, Japan
+summary:
+  zh-TW: 鄭成功生於日本肥前平戶，父親是海商鄭芝龍，母親是日本人田川氏。他在平戶度過童年，七歲時才前往中國。日後他率軍驅逐荷蘭人，建立東寧王國。
+  en: Koxinga was born in Hirado, Japan, to the maritime trader Zheng Zhilong and a Japanese mother of the Tagawa family. He spent his early childhood in Hirado before moving to China at seven. He later drove the Dutch from Taiwan and founded the Kingdom of Tungning.
+start:
+  year: 1624
+  month: 8
+  day: 27
+precision: day
+categories:
+- culture
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: hirado
+  role: primary
+relations:
+- event: siege-of-fort-zeelandia
+  type: related
+- event: kingdom-of-tungning
+  type: related
+wikipedia:
+  en: Koxinga
+  zh: 鄭成功

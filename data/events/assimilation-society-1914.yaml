@@ -1,0 +1,29 @@
+id: assimilation-society-1914
+title:
+  zh-TW: 臺灣同化會
+  en: Taiwan Assimilation Society
+summary:
+  zh-TW: 日本自由民權運動領袖板垣退助來臺，與林獻堂等人成立「臺灣同化會」，主張臺灣人應與日本人享有平等待遇。總督府視其為威脅，成立一個多月就將它解散。
+  en: Itagaki Taisuke, a leader of Japan's Freedom and People's Rights Movement, came to Taiwan and founded the Taiwan Assimilation Society with Lin Hsien-tang and others to seek equal treatment for Taiwanese. The colonial government saw it as a threat and dissolved it after little more than a month.
+start:
+  year: 1914
+  month: 12
+  day: 20
+end:
+  year: 1915
+  month: 1
+precision: day
+categories:
+- democracy
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 臺灣同化會

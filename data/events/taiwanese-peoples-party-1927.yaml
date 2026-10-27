@@ -1,0 +1,35 @@
+id: taiwanese-peoples-party-1927
+title:
+  zh-TW: 臺灣民眾黨成立
+  en: Taiwanese People's Party founded
+summary:
+  zh-TW: 蔣渭水等人在臺中成立臺灣第一個合法的現代政黨「臺灣民眾黨」，爭取地方自治與臺灣人權益。1931年遭總督府取締。
+  en: Chiang Wei-shui and others founded the Taiwanese People's Party in Taichung, Taiwan's first legal modern political party, to press for local self-government and Taiwanese rights. The colonial government banned it in 1931.
+start:
+  year: 1927
+  month: 7
+  day: 10
+end:
+  year: 1931
+  month: 2
+  day: 18
+precision: day
+categories:
+- democracy
+- politics
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taichung
+  role: primary
+- place: taipei
+  role: secondary
+relations:
+- event: taiwanese-cultural-association
+  type: follows
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  en: Taiwanese People's Party

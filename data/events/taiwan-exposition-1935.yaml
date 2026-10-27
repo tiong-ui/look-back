@@ -1,0 +1,30 @@
+id: taiwan-exposition-1935
+title:
+  zh-TW: 始政四十周年紀念臺灣博覽會
+  en: Taiwan Exposition
+summary:
+  zh-TW: 總督府為紀念統治臺灣40年，在臺北舉辦「始政四十周年紀念臺灣博覽會」，展示殖民統治的建設成果，參觀人次近三百萬。
+  en: To mark forty years of rule, the colonial government held the Taiwan Exposition in Taipei to display its achievements; it drew nearly three million visits.
+start:
+  year: 1935
+  month: 10
+  day: 10
+end:
+  year: 1935
+  month: 11
+  day: 28
+precision: day
+categories:
+- culture
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  en: Taiwan Exposition

@@ -1,0 +1,28 @@
+id: west-coast-railway-1908
+title:
+  zh-TW: 縱貫鐵路全線通車
+  en: West Coast railway completed
+summary:
+  zh-TW: 從基隆到打狗（高雄）的縱貫鐵路全線通車，同年10月在臺中舉行全通式。南北交通時間大幅縮短，奠定了臺灣西部的發展格局。
+  en: The trunk railway from Keelung to Takao (Kaohsiung) was completed, with an opening ceremony in Taichung that October. It cut north–south travel times drastically and shaped the development of western Taiwan.
+start:
+  year: 1908
+  month: 4
+  day: 20
+precision: day
+categories:
+- trade
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: keelung
+  role: origin
+- place: kaohsiung
+  role: destination
+- place: taichung
+  role: secondary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

@@ -1,0 +1,29 @@
+id: peking-agreement-1874
+title:
+  zh-TW: 清日《北京專約》
+  en: Sino-Japanese Peking Agreement
+summary:
+  zh-TW: 牡丹社事件後，清廷與日本簽訂《北京專約》，承認日本出兵是「保民義舉」並支付50萬兩，日軍隨後撤出臺灣。條文等於間接承認琉球人是日本屬民，為日本併吞琉球鋪了路。
+  en: After the Mudan incident, China and Japan signed the Peking Agreement. The Qing called the expedition a "just act to protect its people" and paid 500,000 taels, and Japanese troops left Taiwan. The wording implicitly accepted Ryukyuans as Japanese subjects, paving the way for Japan's annexation of Ryukyu.
+start:
+  year: 1874
+  month: 10
+  day: 31
+precision: day
+categories:
+- diplomacy
+regions:
+- taiwan
+- japan
+- china
+importance: 3
+locations:
+- place: beijing
+  role: primary
+- place: mudan
+  role: secondary
+relations:
+- event: mudan-incident
+  type: caused_by
+- event: ryukyu-annexation
+  type: causes

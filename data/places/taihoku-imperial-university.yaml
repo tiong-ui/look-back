@@ -1,0 +1,13 @@
+id: taihoku-imperial-university
+lng: 121.5375
+lat: 25.0174
+names:
+- zh-TW: 臺北帝國大學
+  en: Taihoku Imperial University
+  to: 1944
+- zh-TW: 國立臺灣大學
+  en: National Taiwan University
+  from: 1945
+modern:
+  zh-TW: 臺北市大安區
+  en: Da'an, Taipei

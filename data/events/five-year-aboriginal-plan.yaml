@@ -1,0 +1,31 @@
+id: five-year-aboriginal-plan
+title:
+  zh-TW: 五年理蕃計畫
+  en: Five-Year Plan to Subjugate the Aborigines
+summary:
+  zh-TW: 第五任總督佐久間左馬太推動「五年理蕃計畫」，以軍警武力推進山區的「隘勇線」，壓制尚未歸順的原住民族部落並收繳槍枝。
+  en: Governor-General Sakuma Samata's five-year plan used troops and police to push guarded lines deep into the mountains, subduing Indigenous villages that had not submitted and confiscating their guns.
+start:
+  year: 1910
+end:
+  year: 1915
+precision: year
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taiwan
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+- event: wushe-incident
+  type: related
+perspectives:
+- view: indigenous
+  text:
+    zh-TW: 對原住民族而言，這是失去傳統領域與自主的開始，許多部落被迫遷移。
+    en: For Indigenous peoples, it began the loss of their traditional territories and autonomy; many villages were forcibly relocated.
