@@ -1,0 +1,27 @@
+id: nationality-choice-1897
+title:
+  zh-TW: 住民去就決定日
+  en: Deadline for choosing nationality
+summary:
+  zh-TW: 依《馬關條約》，臺灣居民有兩年時間決定是否變賣產業、遷離臺灣。期限到的這一天之後，仍留在臺灣的居民一律成為日本國籍。
+  en: Under the Treaty of Shimonoseki, Taiwan's residents had two years to sell up and leave. Everyone still in Taiwan after this deadline became a Japanese national.
+start:
+  year: 1897
+  month: 5
+  day: 8
+precision: day
+categories:
+- politics
+- migration
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taiwan
+  role: primary
+relations:
+- event: treaty-of-shimonoseki
+  type: caused_by
+- event: japanese-rule-taiwan
+  type: part_of

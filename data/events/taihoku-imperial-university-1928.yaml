@@ -1,0 +1,27 @@
+id: taihoku-imperial-university-1928
+title:
+  zh-TW: 臺北帝國大學成立
+  en: Taihoku Imperial University founded
+summary:
+  zh-TW: 臺北帝國大學成立，是日本第七所帝國大學、臺灣第一所大學，戰後改制為國立臺灣大學。
+  en: Taihoku Imperial University was founded, Japan's seventh imperial university and Taiwan's first university. After the war it became National Taiwan University.
+start:
+  year: 1928
+  month: 3
+  day: 17
+precision: day
+categories:
+- culture
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taihoku-imperial-university
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 臺北帝國大學
+  en: Taihoku Imperial University

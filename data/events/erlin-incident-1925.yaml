@@ -1,0 +1,27 @@
+id: erlin-incident-1925
+title:
+  zh-TW: 二林蔗農事件
+  en: Erlin sugarcane farmers' incident
+summary:
+  zh-TW: 彰化二林的蔗農組合因甘蔗收購價格與製糖會社爆發衝突，警察大舉逮捕蔗農。這起事件被視為臺灣農民運動的開端。
+  en: Sugarcane farmers in Erlin, Changhua, clashed with a sugar company over cane prices, and police arrested many of them. It is seen as the start of Taiwan's farmers' movement.
+start:
+  year: 1925
+  month: 10
+  day: 22
+precision: day
+categories:
+- democracy
+- trade
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: erlin
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 二林事件

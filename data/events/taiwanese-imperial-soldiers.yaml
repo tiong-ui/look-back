@@ -1,0 +1,28 @@
+id: taiwanese-imperial-soldiers
+title:
+  zh-TW: 臺籍日本兵
+  en: Taiwanese in the Imperial Japanese forces
+summary:
+  zh-TW: 1942年起實施陸軍特別志願兵制度，1945年全面徵兵。約20萬臺灣人以軍人或軍屬身分參戰，其中約3萬人戰死。
+  en: An army volunteer system began in 1942 and full conscription in 1945. About 200,000 Taiwanese served as soldiers or military employees, of whom about 30,000 died.
+start:
+  year: 1942
+end:
+  year: 1945
+precision: year
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taiwan
+  role: origin
+- place: manila
+  role: destination
+relations:
+- event: pacific-war
+  type: part_of
+wikipedia:
+  zh: 臺籍日本兵

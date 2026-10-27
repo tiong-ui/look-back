@@ -1,0 +1,29 @@
+id: hoko-and-bandit-ordinance
+title:
+  zh-TW: 保甲條例與匪徒刑罰令
+  en: Hoko system and Bandit Punishment Ordinance
+summary:
+  zh-TW: 總督兒玉源太郎與民政長官後藤新平上任後，頒布《保甲條例》，建立連坐的基層監控體系，並以《匪徒刑罰令》嚴懲武裝抗日者。此後數年，大量被指為「土匪」的臺灣人遭處死。
+  en: Governor-General Kodama Gentarō and civil administrator Gotō Shinpei introduced the hoko system of collective responsibility and surveillance, and the Bandit Punishment Ordinance against armed resistance. Over the next years, large numbers of Taiwanese labelled "bandits" were executed.
+start:
+  year: 1898
+  month: 8
+  day: 31
+end:
+  year: 1898
+  month: 11
+  day: 5
+precision: day
+categories:
+- politics
+- democracy
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

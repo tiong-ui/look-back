@@ -1,0 +1,25 @@
+id: murayama-expedition-1616
+title:
+  zh-TW: 村山等安出兵臺灣
+  en: Murayama Tōan's expedition to Taiwan
+summary:
+  zh-TW: 長崎代官村山等安奉德川幕府之命，派兒子村山秋安率十三艘船出兵臺灣。船隊遭遇暴風雨四散，抵達臺灣的船隻遭原住民襲擊，這次攻臺計畫以失敗告終。
+  en: On the shogunate's orders, Nagasaki magistrate Murayama Tōan sent his son with thirteen ships to take Taiwan. A storm scattered the fleet, the ships that reached Taiwan were attacked by Indigenous people, and the venture failed.
+start:
+  year: 1616
+precision: year
+categories:
+- war
+- migration
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: nagasaki
+  role: origin
+- place: taiwan
+  role: destination
+relations:
+- event: arima-expedition-1609
+  type: follows

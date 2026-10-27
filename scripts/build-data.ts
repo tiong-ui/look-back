@@ -154,7 +154,7 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
 
   const config = check(configSchema, load(join(dataDir, 'config.yaml')), 'config.yaml', errors);
   const places = loadFolder(dataDir, 'places', placeSchema, errors);
-  const eras = loadFolder(dataDir, 'eras', eraSchema, errors);
+  const eras = loadFolder(dataDir, 'eras', eraSchema, errors).sort((a, b) => a.from - b.from || a.to - b.to); // chronological, for the timeline presets
   const resources = loadFolder(dataDir, 'resources', resourceSchema, errors);
   const rawEvents = loadFolder(dataDir, 'events', eventSchema, errors);
 

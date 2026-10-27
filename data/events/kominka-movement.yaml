@@ -1,0 +1,42 @@
+id: kominka-movement
+title:
+  zh-TW: 皇民化運動
+  en: Kōminka movement
+summary:
+  zh-TW: 中日戰爭爆發後，總督府推動「皇民化運動」：廢除報紙漢文欄、推行「國語（日語）家庭」、鼓勵改日本姓名（1940年起）、要求參拜神社，要臺灣人成為「天皇的子民」以支援戰爭。
+  en: 'After war with China broke out, the colonial government launched the kōminka ("imperial subject") campaign: Chinese-language newspaper sections were abolished, Japanese-speaking households promoted, Japanese names encouraged from 1940, and shrine worship required, to make Taiwanese loyal subjects for the war effort.'
+start:
+  year: 1937
+end:
+  year: 1945
+precision: year
+categories:
+- culture
+- politics
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taiwan
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+- event: second-sino-japanese-war
+  type: related
+perspectives:
+- view: taiwan
+  text:
+    zh-TW: 這是要抹去臺灣人原有語言、信仰與認同的強制同化政策。
+    en: A forced assimilation policy that sought to erase Taiwanese languages, beliefs and identity.
+- view: japan
+  text:
+    zh-TW: 當時的官方說法是「一視同仁」，要讓臺灣人成為與日本人平等的帝國臣民。
+    en: Officially presented as equal treatment, making Taiwanese full imperial subjects alongside Japanese.
+- view: scholarly
+  text:
+    zh-TW: 學界指出，運動在都市與受教育階層影響較深，在鄉村的實際成效有限。
+    en: Historians note its effects ran deeper in cities and among the educated than in the countryside.
+wikipedia:
+  zh: 皇民化運動

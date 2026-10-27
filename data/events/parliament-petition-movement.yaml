@@ -1,0 +1,34 @@
+id: parliament-petition-movement
+title:
+  zh-TW: 臺灣議會設置請願運動
+  en: Petition Movement for a Taiwanese Parliament
+summary:
+  zh-TW: 林獻堂等人前後15次向日本帝國議會請願，要求設立臺灣議會、爭取自治。請願全數未獲受理，卻是臺灣第一次大規模的議會民主運動。
+  en: Lin Hsien-tang and others petitioned the Imperial Diet fifteen times for an elected Taiwanese parliament and self-rule. Every petition was rejected, but it was Taiwan's first large movement for parliamentary democracy.
+start:
+  year: 1921
+  month: 1
+  day: 30
+end:
+  year: 1934
+  month: 9
+precision: month
+categories:
+- democracy
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: tokyo
+  role: primary
+- place: taipei
+  role: secondary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+- event: taiwanese-cultural-association
+  type: related
+wikipedia:
+  zh: 臺灣議會設置請願運動
+  en: Petition Movement for the Establishment of a Taiwanese Parliament

@@ -1,0 +1,35 @@
+id: takasago-volunteers
+title:
+  zh-TW: 高砂義勇隊
+  en: Takasago Volunteers
+summary:
+  zh-TW: 日軍從臺灣原住民族中招募「高砂義勇隊」，派往菲律賓、新幾內亞等南洋叢林作戰，前後數千人參加，許多人沒能返鄉。
+  en: The Japanese army recruited Taiwan's Indigenous peoples into the Takasago Volunteers and sent them to fight in the jungles of the Philippines, New Guinea and elsewhere. Several thousand served, and many never came home.
+start:
+  year: 1942
+  month: 3
+end:
+  year: 1945
+precision: month
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taiwan
+  role: origin
+- place: manila
+  role: destination
+relations:
+- event: taiwanese-imperial-soldiers
+  type: part_of
+perspectives:
+- view: indigenous
+  text:
+    zh-TW: 族人參加的原因各不相同，包括被動員、戰士榮譽傳統與生計；戰後倖存者與遺族長期爭取補償與正名。
+    en: People joined for many reasons, from mobilisation to warrior traditions and livelihood; survivors and families campaigned for decades for compensation and recognition.
+wikipedia:
+  zh: 高砂義勇隊
+  en: Takasago Volunteers

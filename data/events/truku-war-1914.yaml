@@ -1,0 +1,35 @@
+id: truku-war-1914
+title:
+  zh-TW: 太魯閣戰役
+  en: Truku War
+summary:
+  zh-TW: 日本動員上萬名軍警，進攻花蓮山區的太魯閣族部落，是五年理蕃計畫中規模最大的戰役。太魯閣族頑強抵抗，最終被迫歸順。
+  en: Japan mobilised more than ten thousand soldiers and police against the Truku villages in the Hualien mountains, the largest campaign of the five-year plan. The Truku resisted fiercely but were forced to submit.
+start:
+  year: 1914
+  month: 5
+  day: 17
+end:
+  year: 1914
+  month: 8
+precision: day
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: taroko
+  role: primary
+relations:
+- event: five-year-aboriginal-plan
+  type: part_of
+perspectives:
+- view: indigenous
+  text:
+    zh-TW: 太魯閣族至今仍紀念這場以寡擊眾、捍衛家園的戰爭。
+    en: The Truku still commemorate the war as a stand against overwhelming odds to defend their homeland.
+wikipedia:
+  zh: 太魯閣戰役
+  en: Truku War

@@ -1,0 +1,37 @@
+id: bayao-bay-incident
+title:
+  zh-TW: 八瑤灣事件
+  en: Bayao Bay incident
+summary:
+  zh-TW: 琉球宮古島的船隻遇颱風漂流到臺灣東南部的八瑤灣，66名船員上岸後進入排灣族部落，其中54人遭殺害，倖存的12人在當地漢人協助下輾轉返回琉球。日本日後以此為由出兵臺灣。
+  en: A ship from Miyako in Ryukyu was blown by a typhoon to Bayao Bay in southeastern Taiwan. Of the 66 sailors who came ashore into Paiwan territory, 54 were killed; the 12 survivors made their way home with help from local Han settlers. Japan later used this as grounds to send troops to Taiwan.
+start:
+  year: 1871
+  month: 12
+precision: month
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: bayao-bay
+  role: primary
+- place: shuri
+  role: origin
+- place: bayao-bay
+  role: destination
+- place: mudan
+  role: secondary
+relations:
+- event: mudan-incident
+  type: causes
+perspectives:
+- view: indigenous
+  text:
+    zh-TW: 排灣族口述與近年研究指出，雙方語言不通、對部落待客習俗的誤解，是衝突的重要原因。
+    en: Paiwan oral history and recent research point to the language barrier and misunderstandings of village customs of hospitality as major causes of the killings.
+wikipedia:
+  zh: 八瑤灣事件
+  en: Mudan Incident (1871)

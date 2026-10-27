@@ -1,0 +1,25 @@
+id: yunlin-massacre
+title:
+  zh-TW: 雲林大屠殺
+  en: Yunlin massacre
+summary:
+  zh-TW: 日軍為鎮壓以鐵國山為據點的抗日武力，在斗六一帶焚燒村莊、殺害大量平民，死亡人數說法不一。事件經香港等地的外國報紙報導後，引起國際批評。
+  en: To crush the armed resistance based at Tiekuoshan, Japanese troops burned villages around Douliu and killed many civilians; estimates of the dead vary. Reports in foreign newspapers, including in Hong Kong, drew international criticism.
+start:
+  year: 1896
+  month: 6
+precision: month
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: douliu
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 雲林大屠殺

@@ -1,0 +1,26 @@
+id: miaoli-incident-1913
+title:
+  zh-TW: 苗栗事件（羅福星事件）
+  en: Miaoli incident
+summary:
+  zh-TW: 羅福星等人策劃抗日起事，事跡敗露後總督府在苗栗設臨時法院大規模審判，羅福星等人遭處死。
+  en: Lo Fu-hsing and others planned an uprising against Japanese rule. When the plot was discovered, the authorities set up a special court in Miaoli for mass trials, and Lo and others were executed.
+start:
+  year: 1913
+end:
+  year: 1914
+precision: year
+categories:
+- war
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: miaoli
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
+wikipedia:
+  zh: 苗栗事件

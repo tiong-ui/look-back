@@ -1,0 +1,33 @@
+id: hamada-yahei-incident
+title:
+  zh-TW: 濱田彌兵衛事件
+  en: Hamada Yahei incident
+summary:
+  zh-TW: 日本朱印船船長濱田彌兵衛不滿荷蘭東印度公司在大員向日本商人課稅並限制貿易，在大員挾持荷蘭長官奴易茲（Pieter Nuyts）。事後日本中止荷蘭在平戶的貿易，直到荷方交出奴易茲才恢復。
+  en: Angered by Dutch East India Company taxes and trade limits on Japanese merchants at Tayouan, the Japanese captain Hamada Yahei took the Dutch governor Pieter Nuyts hostage. Japan then halted Dutch trade at Hirado until the Dutch handed Nuyts over.
+start:
+  year: 1628
+  month: 6
+precision: month
+categories:
+- trade
+- diplomacy
+regions:
+- taiwan
+- japan
+importance: 3
+locations:
+- place: tainan-anping
+  role: primary
+- place: nagasaki
+  role: origin
+- place: tainan-anping
+  role: destination
+- place: hirado
+  role: secondary
+relations:
+- event: dutch-formosa
+  type: part_of
+wikipedia:
+  zh: 濱田彌兵衛事件
+  en: Hamada Yahei

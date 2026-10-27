@@ -1,0 +1,28 @@
+id: first-local-elections-1935
+title:
+  zh-TW: 臺灣首次地方選舉
+  en: Taiwan's first local elections
+summary:
+  zh-TW: 臺灣舉行首次地方選舉，選出市會與街庄協議會的半數議員。但只有繳稅達一定金額的成年男性才有選舉權，另一半議員仍由官方指派。
+  en: Taiwan held its first local elections, choosing half the members of city and town councils. Only men who paid a minimum amount of tax could vote, and the other half of the seats were still appointed.
+start:
+  year: 1935
+  month: 11
+  day: 22
+precision: day
+categories:
+- democracy
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+- place: taichung
+  role: secondary
+- place: tainan
+  role: secondary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of

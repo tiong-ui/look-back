@@ -1,0 +1,24 @@
+id: bank-of-taiwan-1899
+title:
+  zh-TW: 臺灣銀行開業
+  en: Bank of Taiwan opens
+summary:
+  zh-TW: 臺灣銀行開業，發行臺灣銀行券、統一臺灣幣制，成為日本在臺灣、華南與南洋進行經濟擴張的金融核心。
+  en: The Bank of Taiwan opened, issuing banknotes and unifying Taiwan's currency. It became the financial centre of Japan's economic expansion in Taiwan, southern China and Southeast Asia.
+start:
+  year: 1899
+  month: 9
+  day: 26
+precision: day
+categories:
+- trade
+regions:
+- taiwan
+- japan
+importance: 2
+locations:
+- place: taipei
+  role: primary
+relations:
+- event: japanese-rule-taiwan
+  type: part_of
