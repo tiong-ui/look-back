@@ -1,0 +1,30 @@
+id: madeira-azores-settlement
+title:
+  zh-TW: 葡萄牙佔領馬德拉與亞速群島
+  en: Portugal settles Madeira and the Azores
+summary:
+  zh-TW: 葡萄牙航海家先後抵達大西洋上的馬德拉群島（1419年）與亞速群島（1427年），隨後開始殖民，這兩個群島成為往後遠洋航行的中繼站。
+  en: Portuguese navigators reached Madeira (1419) and the Azores (1427) in the Atlantic and began settling them; the islands became staging posts for later ocean voyages.
+start:
+  year: 1419
+end:
+  year: 1427
+precision: year
+categories:
+  - migration
+regions:
+  - europe
+importance: 2
+locations:
+  - place: lisbon
+    role: origin
+  - place: madeira
+    role: destination
+  - place: azores
+    role: destination
+relations:
+  - event: conquest-of-ceuta
+    type: follows
+wikipedia:
+  en: History of Madeira
+  zh: 马德拉群岛历史

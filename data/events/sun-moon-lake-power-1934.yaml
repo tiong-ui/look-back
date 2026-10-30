@@ -10,14 +10,14 @@ start:
   month: 6
 precision: month
 categories:
-- trade
+  - trade
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: sun-moon-lake
-  role: primary
+  - place: sun-moon-lake
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of

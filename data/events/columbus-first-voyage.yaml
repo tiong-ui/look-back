@@ -1,0 +1,28 @@
+id: columbus-first-voyage
+title:
+  zh-TW: 哥倫布抵達美洲
+  en: Columbus reaches the Americas
+summary:
+  zh-TW: 哥倫布受西班牙王室資助，從帕洛斯港出發橫越大西洋，抵達加勒比海的巴哈馬群島，開啟了歐洲對美洲的殖民。
+  en: Backed by the Spanish Crown, Christopher Columbus sailed from Palos across the Atlantic and landed in the Bahamas, opening the European colonisation of the Americas.
+start:
+  year: 1492
+  month: 10
+  day: 12
+precision: day
+categories:
+  - migration
+regions:
+  - americas
+  - europe
+importance: 5
+locations:
+  - place: palos
+    role: origin
+  - place: san-salvador-island
+    role: destination
+relations:
+  - event: treaty-of-tordesillas
+    type: precedes
+wikipedia:
+  en: Voyages of Christopher Columbus

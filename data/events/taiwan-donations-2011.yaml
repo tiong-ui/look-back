@@ -10,17 +10,17 @@ start:
   month: 3
 precision: month
 categories:
-- diplomacy
-- disaster
+  - diplomacy
+  - disaster
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taipei
-  role: origin
-- place: wd-q36204-site
-  role: destination
+  - place: taipei
+    role: origin
+  - place: wd-q36204-site
+    role: destination
 relations:
-- event: wd-q36204
-  type: caused_by
+  - event: wd-q36204
+    type: caused_by

@@ -15,20 +15,20 @@ end:
   day: 7
 precision: day
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: aodi
-  role: origin
-- place: taipei
-  role: destination
-- place: keelung
-  role: secondary
+  - place: aodi
+    role: origin
+  - place: taipei
+    role: destination
+  - place: keelung
+    role: secondary
 relations:
-- event: wd-q717373
-  type: part_of
-- event: republic-of-formosa
-  type: related
+  - event: wd-q717373
+    type: part_of
+  - event: republic-of-formosa
+    type: related

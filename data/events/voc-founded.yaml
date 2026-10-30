@@ -1,0 +1,36 @@
+id: voc-founded
+title:
+  zh-TW: 荷蘭東印度公司成立
+  en: Dutch East India Company founded
+summary:
+  zh-TW: 荷蘭東印度公司（VOC）成立，獲得亞洲貿易的壟斷權，可以自行宣戰、締約、鑄幣與建立殖民地，常被視為世界上第一家公開發行股票的股份公司。荷蘭在臺灣的統治也是由VOC經營。
+  en: The Dutch East India Company (VOC) was founded with a monopoly on Asian trade and the power to wage war, make treaties, mint coins and found colonies. Often called the first publicly traded joint-stock company, it also ran Dutch Formosa.
+start:
+  year: 1602
+  month: 3
+  day: 20
+end:
+  year: 1799
+  month: 12
+  day: 31
+precision: day
+categories:
+  - trade
+  - dynasty
+regions:
+  - europe
+  - southeast-asia
+importance: 5
+locations:
+  - place: amsterdam
+    role: primary
+  - place: batavia
+    role: secondary
+relations:
+  - event: dutch-formosa
+    type: has_part
+  - event: first-dutch-expedition-indonesia
+    type: follows
+wikipedia:
+  en: Dutch East India Company
+  zh: 荷兰东印度公司

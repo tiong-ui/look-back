@@ -11,17 +11,17 @@ start:
   day: 17
 precision: day
 categories:
-- culture
+  - culture
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taihoku-imperial-university
-  role: primary
+  - place: taihoku-imperial-university
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of
 wikipedia:
   zh: 臺北帝國大學
-  en: Taihoku Imperial University
+  en: National Taiwan University

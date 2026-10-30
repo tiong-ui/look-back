@@ -1,0 +1,27 @@
+id: conquest-of-aztec-empire
+title:
+  zh-TW: 西班牙征服阿茲特克帝國
+  en: Spanish conquest of the Aztec Empire
+summary:
+  zh-TW: 科爾特斯率西班牙軍隊與當地原住民盟友，攻陷阿茲特克帝國首都特諾奇提特蘭（今墨西哥城），建立「新西班牙」。戰爭與歐洲傳入的疫病造成原住民人口大量死亡。
+  en: Hernán Cortés, with Spanish troops and Indigenous allies, took the Aztec capital Tenochtitlan (now Mexico City) and founded New Spain. War and European diseases killed a large share of the Indigenous population.
+start:
+  year: 1519
+  month: 2
+end:
+  year: 1521
+  month: 8
+  day: 13
+precision: month
+categories:
+  - war
+  - dynasty
+regions:
+  - americas
+importance: 4
+locations:
+  - place: tenochtitlan
+    role: primary
+wikipedia:
+  en: Spanish conquest of the Aztec Empire
+  zh: 西班牙征服阿兹特克帝国

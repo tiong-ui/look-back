@@ -2,8 +2,8 @@ id: aodi
 lng: 121.93
 lat: 25.05
 names:
-- zh-TW: 澳底
-  en: Aodi
+  - zh-TW: 澳底
+    en: Aodi
 modern:
   zh-TW: 新北市貢寮區
   en: Gongliao, New Taipei

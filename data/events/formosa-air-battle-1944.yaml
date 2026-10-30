@@ -15,18 +15,20 @@ end:
   day: 16
 precision: day
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taiwan
-  role: primary
-- place: kaohsiung
-  role: secondary
+  - place: taiwan
+    role: primary
+  - place: kaohsiung
+    role: secondary
 relations:
-- event: pacific-war
-  type: part_of
+  - event: pacific-war
+    type: part_of
 wikipedia:
   en: Formosa Air Battle
+  zh: 台灣空戰
+wikidata: Q5470224

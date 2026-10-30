@@ -1,0 +1,27 @@
+id: dias-cape-of-good-hope
+title:
+  zh-TW: 迪亞士抵達好望角
+  en: Dias rounds the Cape of Good Hope
+summary:
+  zh-TW: 巴爾托洛梅烏·迪亞士率船隊繞過非洲南端，抵達好望角，證明從大西洋可以航入印度洋。
+  en: Bartolomeu Dias sailed around the southern tip of Africa to the Cape of Good Hope, proving that ships could pass from the Atlantic into the Indian Ocean.
+start:
+  year: 1488
+precision: year
+categories:
+  - migration
+regions:
+  - africa
+  - europe
+importance: 3
+locations:
+  - place: lisbon
+    role: origin
+  - place: cape-of-good-hope
+    role: destination
+relations:
+  - event: vasco-da-gama-india
+    type: precedes
+wikipedia:
+  en: Bartolomeu Dias
+  zh: 巴爾托洛梅烏·迪亞士

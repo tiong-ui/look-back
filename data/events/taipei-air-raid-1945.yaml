@@ -11,17 +11,17 @@ start:
   day: 31
 precision: day
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taipei
-  role: primary
+  - place: taipei
+    role: primary
 relations:
-- event: pacific-war
-  type: part_of
+  - event: pacific-war
+    type: part_of
 wikipedia:
   zh: 臺北大空襲
-  en: Taipei Air Raid
+  en: Raid on Taipei

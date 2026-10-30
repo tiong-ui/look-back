@@ -9,17 +9,17 @@ start:
   year: 1609
 precision: year
 categories:
-- migration
-- war
+  - migration
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: arima
-  role: origin
-- place: taiwan
-  role: destination
+  - place: arima
+    role: origin
+  - place: taiwan
+    role: destination
 relations:
-- event: wd-q1140134
-  type: related
+  - event: wd-q1140134
+    type: related

@@ -1,0 +1,25 @@
+# Checks that every event's Wikipedia titles exist, and suggests Chinese
+# articles for events that only have an English one. Runs when events change,
+# including saves from the CMS, and on demand.
+name: Check Wikipedia titles
+
+on:
+  pull_request:
+    paths: ['data/events/**', 'scripts/check-wikipedia.ts']
+  push:
+    branches: [main]
+    paths: ['data/events/**']
+  workflow_dispatch:
+
+jobs:
+  wikipedia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run check:wikipedia

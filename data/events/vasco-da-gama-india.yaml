@@ -1,0 +1,26 @@
+id: vasco-da-gama-india
+title:
+  zh-TW: 達伽馬抵達印度
+  en: Vasco da Gama reaches India
+summary:
+  zh-TW: 達伽馬率船隊從里斯本出發，繞過好望角，抵達印度西南岸的卡利卡特，開闢了從歐洲直航印度的海路，葡萄牙由此進入亞洲香料貿易。
+  en: Vasco da Gama sailed from Lisbon around the Cape of Good Hope to Calicut on India's southwest coast, opening the sea route from Europe to India and Portugal's entry into the Asian spice trade.
+start:
+  year: 1498
+  month: 5
+  day: 20
+precision: day
+categories:
+  - migration
+  - trade
+regions:
+  - south-asia
+  - europe
+importance: 5
+locations:
+  - place: lisbon
+    role: origin
+  - place: calicut
+    role: destination
+wikipedia:
+  en: Portuguese discovery of the sea route to India

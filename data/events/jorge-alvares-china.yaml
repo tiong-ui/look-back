@@ -1,0 +1,24 @@
+id: jorge-alvares-china
+title:
+  zh-TW: 葡萄牙人首次抵達中國
+  en: First Portuguese voyage to China
+summary:
+  zh-TW: 葡萄牙人歐維士（Jorge Álvares）從麻六甲航抵珠江口的屯門，是第一位經海路抵達中國的歐洲人，開啟了中葡之間的接觸。
+  en: Jorge Álvares sailed from Malacca to Tamão (Tuen Mun) at the mouth of the Pearl River, the first European to reach China by sea, opening contact between Portugal and China.
+start:
+  year: 1513
+precision: year
+categories:
+  - migration
+  - trade
+regions:
+  - china
+importance: 2
+locations:
+  - place: malacca
+    role: origin
+  - place: tunmen
+    role: destination
+wikipedia:
+  en: Jorge Álvares
+  zh: 歐華利

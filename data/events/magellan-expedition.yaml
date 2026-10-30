@@ -1,0 +1,34 @@
+id: magellan-expedition
+title:
+  zh-TW: 麥哲倫船隊環球航行
+  en: Magellan–Elcano circumnavigation
+summary:
+  zh-TW: 麥哲倫率五艘船從西班牙出發，穿越南美洲南端的海峽進入太平洋，抵達菲律賓。麥哲倫本人1521年死於麥克坦島，由埃爾卡諾率剩下的一艘船返回西班牙，完成人類第一次環球航行。
+  en: Ferdinand Magellan left Spain with five ships, passed the strait at the tip of South America into the Pacific and reached the Philippines. Magellan was killed on Mactan in 1521; Juan Sebastián Elcano brought the last ship home, completing the first circumnavigation of the globe.
+start:
+  year: 1519
+  month: 9
+  day: 20
+end:
+  year: 1522
+  month: 9
+  day: 6
+precision: day
+categories:
+  - migration
+regions:
+  - southeast-asia
+  - americas
+  - europe
+importance: 5
+locations:
+  - place: sanlucar
+    role: origin
+  - place: wd-q2091449-site
+    role: destination
+relations:
+  - event: wd-q2091449
+    type: has_part
+wikipedia:
+  en: Magellan expedition
+  zh: 麥哲倫探險隊

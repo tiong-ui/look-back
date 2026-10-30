@@ -11,19 +11,19 @@ start:
   day: 31
 precision: day
 categories:
-- diplomacy
+  - diplomacy
 regions:
-- taiwan
-- japan
-- china
+  - taiwan
+  - japan
+  - china
 importance: 3
 locations:
-- place: beijing
-  role: primary
-- place: mudan
-  role: secondary
+  - place: beijing
+    role: primary
+  - place: mudan
+    role: secondary
 relations:
-- event: mudan-incident
-  type: caused_by
-- event: ryukyu-annexation
-  type: causes
+  - event: mudan-incident
+    type: caused_by
+  - event: ryukyu-annexation
+    type: causes

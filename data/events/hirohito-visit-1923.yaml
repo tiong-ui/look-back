@@ -15,18 +15,18 @@ end:
   day: 27
 precision: day
 categories:
-- politics
+  - politics
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taipei
-  role: primary
-- place: tainan
-  role: secondary
-- place: kaohsiung
-  role: secondary
+  - place: taipei
+    role: primary
+  - place: tainan
+    role: secondary
+  - place: kaohsiung
+    role: secondary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of

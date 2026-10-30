@@ -11,16 +11,16 @@ end:
   year: 1914
 precision: year
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: miaoli
-  role: primary
+  - place: miaoli
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of
 wikipedia:
   zh: 苗栗事件

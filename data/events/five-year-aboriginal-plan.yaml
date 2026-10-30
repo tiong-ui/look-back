@@ -11,21 +11,21 @@ end:
   year: 1915
 precision: year
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taiwan
-  role: primary
+  - place: taiwan
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
-- event: wushe-incident
-  type: related
+  - event: japanese-rule-taiwan
+    type: part_of
+  - event: wushe-incident
+    type: related
 perspectives:
-- view: indigenous
-  text:
-    zh-TW: 對原住民族而言，這是失去傳統領域與自主的開始，許多部落被迫遷移。
-    en: For Indigenous peoples, it began the loss of their traditional territories and autonomy; many villages were forcibly relocated.
+  - view: indigenous
+    text:
+      zh-TW: 對原住民族而言，這是失去傳統領域與自主的開始，許多部落被迫遷移。
+      en: For Indigenous peoples, it began the loss of their traditional territories and autonomy; many villages were forcibly relocated.

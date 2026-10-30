@@ -1,0 +1,30 @@
+id: voc-dissolved
+title:
+  zh-TW: 荷蘭東印度公司解散
+  en: Dutch East India Company dissolved
+summary:
+  zh-TW: 負債累累的荷蘭東印度公司解散，它在亞洲的領地由荷蘭政府接管，印尼從此由國家直接統治，成為「荷屬東印度」。
+  en: Deep in debt, the VOC was dissolved and its Asian possessions passed to the Dutch state; Indonesia came under direct government rule as the Dutch East Indies.
+start:
+  year: 1799
+  month: 12
+  day: 31
+precision: day
+categories:
+  - dynasty
+  - trade
+regions:
+  - southeast-asia
+  - europe
+importance: 3
+locations:
+  - place: batavia
+    role: primary
+  - place: amsterdam
+    role: secondary
+relations:
+  - event: voc-founded
+    type: follows
+wikipedia:
+  en: Dutch East Indies
+  zh: 荷屬東印度

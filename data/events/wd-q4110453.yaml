@@ -1,10 +1,10 @@
 id: wd-q4110453
 title:
-  zh-TW: 葡萄牙-馬六甲戰役
-  en: Capture of Malacca
+  zh-TW: 葡萄牙攻下麻六甲
+  en: Portuguese capture of Malacca
 summary:
-  zh-TW: 1511 Portuguese military conquest
-  en: 1511 Portuguese military conquest
+  zh-TW: 阿爾布克爾克率葡萄牙艦隊攻下麻六甲蘇丹國的首都，控制了連接印度洋與南海的麻六甲海峽，葡萄牙由此打開通往中國與香料群島的門戶。
+  en: Afonso de Albuquerque captured the capital of the Malacca Sultanate, giving Portugal control of the strait between the Indian Ocean and the South China Sea and a gateway to China and the Spice Islands.
 start:
   year: 1511
   month: 8
@@ -18,7 +18,7 @@ categories:
   - war
 regions:
   - southeast-asia
-importance: 2
+importance: 4
 wikidata: Q4110453
 locations:
   - place: wd-q4110453-site
@@ -26,8 +26,10 @@ locations:
   - place: wd-q61089
     role: secondary
 relations:
-  - event: wd-q16932099
-    type: part_of
+  - event: portuguese-conquest-of-goa
+    type: follows
+  - event: jorge-alvares-china
+    type: precedes
 wikipedia:
   en: Capture of Malacca (1511)
   zh: 马六甲围城战 (1511年)

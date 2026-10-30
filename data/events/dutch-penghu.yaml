@@ -1,0 +1,35 @@
+id: dutch-penghu
+title:
+  zh-TW: 荷蘭佔領澎湖
+  en: Dutch occupation of Penghu
+summary:
+  zh-TW: 進攻澳門失敗後，荷蘭轉而佔領澎湖並築城，要求明朝開放貿易。明朝派兵圍困，1624年雙方議和，荷蘭撤出澎湖，轉往臺灣的大員。
+  en: After failing to take Macau, the Dutch occupied Penghu and built a fort there to force open trade with Ming China. Ming forces besieged them, and in 1624 the Dutch agreed to leave Penghu and moved to Tayouan in Taiwan.
+start:
+  year: 1622
+  month: 7
+end:
+  year: 1624
+  month: 8
+precision: month
+categories:
+  - war
+  - trade
+regions:
+  - taiwan
+  - china
+importance: 3
+locations:
+  - place: penghu
+    role: primary
+  - place: macau
+    role: origin
+  - place: penghu
+    role: destination
+relations:
+  - event: wd-q704333
+    type: follows
+  - event: dutch-formosa
+    type: precedes
+wikipedia:
+  en: Sino-Dutch conflicts

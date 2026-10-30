@@ -1,0 +1,25 @@
+id: wic-founded
+title:
+  zh-TW: 荷蘭西印度公司成立
+  en: Dutch West India Company founded
+summary:
+  zh-TW: 荷蘭西印度公司（WIC）成立，經營大西洋兩岸的貿易，範圍包括西非、加勒比海與美洲，也參與了大西洋奴隸貿易。
+  en: The Dutch West India Company (WIC) was founded to trade across the Atlantic, in West Africa, the Caribbean and the Americas, including in the Atlantic slave trade.
+start:
+  year: 1621
+  month: 6
+  day: 3
+precision: day
+categories:
+  - trade
+regions:
+  - europe
+  - americas
+  - africa
+importance: 3
+locations:
+  - place: amsterdam
+    role: primary
+wikipedia:
+  en: Dutch West India Company
+  zh: 荷兰西印度公司

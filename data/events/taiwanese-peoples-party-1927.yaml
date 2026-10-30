@@ -15,21 +15,22 @@ end:
   day: 18
 precision: day
 categories:
-- democracy
-- politics
+  - democracy
+  - politics
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taichung
-  role: primary
-- place: taipei
-  role: secondary
+  - place: taichung
+    role: primary
+  - place: taipei
+    role: secondary
 relations:
-- event: taiwanese-cultural-association
-  type: follows
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: taiwanese-cultural-association
+    type: follows
+  - event: japanese-rule-taiwan
+    type: part_of
 wikipedia:
   en: Taiwanese People's Party
+  zh: 臺灣民眾黨 (1927年)

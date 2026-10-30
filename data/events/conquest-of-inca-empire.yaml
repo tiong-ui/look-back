@@ -1,0 +1,29 @@
+id: conquest-of-inca-empire
+title:
+  zh-TW: 西班牙征服印加帝國
+  en: Spanish conquest of the Inca Empire
+summary:
+  zh-TW: 皮薩羅在卡哈馬卡俘虜印加皇帝阿塔瓦爾帕，隔年處死他並攻入首都庫斯科，西班牙由此征服印加帝國。
+  en: Francisco Pizarro captured the Inca emperor Atahualpa at Cajamarca, executed him the following year and entered the capital Cusco, beginning Spain's conquest of the Inca Empire.
+start:
+  year: 1532
+  month: 11
+  day: 16
+end:
+  year: 1533
+  month: 11
+precision: month
+categories:
+  - war
+  - dynasty
+regions:
+  - americas
+importance: 4
+locations:
+  - place: cajamarca
+    role: primary
+  - place: cusco
+    role: secondary
+wikipedia:
+  en: Spanish conquest of the Inca Empire
+  zh: 西班牙征服印加帝国

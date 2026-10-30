@@ -11,19 +11,19 @@ start:
   day: 27
 precision: day
 categories:
-- culture
+  - culture
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: hirado
-  role: primary
+  - place: hirado
+    role: primary
 relations:
-- event: siege-of-fort-zeelandia
-  type: related
-- event: kingdom-of-tungning
-  type: related
+  - event: siege-of-fort-zeelandia
+    type: related
+  - event: kingdom-of-tungning
+    type: related
 wikipedia:
   en: Koxinga
   zh: 鄭成功

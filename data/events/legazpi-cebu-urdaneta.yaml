@@ -1,0 +1,35 @@
+id: legazpi-cebu-urdaneta
+title:
+  zh-TW: 黎牙實比佔領宿霧，烏爾達內塔找到回程航線
+  en: Legazpi takes Cebu; Urdaneta finds the return route
+summary:
+  zh-TW: 黎牙實比率遠征隊從墨西哥出發，佔領菲律賓宿霧，建立西班牙在亞洲的第一個殖民據點。同行的烏爾達內塔找到利用北太平洋西風返回墨西哥的航線，大帆船貿易從此成為可能。
+  en: Miguel López de Legazpi sailed from Mexico and took Cebu, Spain's first colony in Asia. His navigator Andrés de Urdaneta found the return route to Mexico on the North Pacific westerlies, making the galleon trade possible.
+start:
+  year: 1565
+  month: 4
+  day: 27
+end:
+  year: 1565
+  month: 10
+precision: day
+categories:
+  - migration
+  - dynasty
+regions:
+  - southeast-asia
+  - americas
+importance: 3
+locations:
+  - place: barra-de-navidad
+    role: origin
+  - place: cebu
+    role: destination
+relations:
+  - event: spanish-manila
+    type: precedes
+  - event: manila-galleon
+    type: causes
+wikipedia:
+  en: Miguel López de Legazpi
+  zh: 米格尔·洛佩斯·德莱加斯皮

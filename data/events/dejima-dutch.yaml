@@ -1,0 +1,30 @@
+id: dejima-dutch
+title:
+  zh-TW: 荷蘭商館遷入長崎出島
+  en: Dutch trading post moves to Dejima
+summary:
+  zh-TW: 江戶幕府鎖國期間，荷蘭商館從平戶遷到長崎的人工島「出島」。此後兩百多年，荷蘭是唯一獲准與日本貿易的西方國家，西方學問（「蘭學」）也經此傳入日本。
+  en: Under Japan's seclusion policy, the Dutch trading post moved from Hirado to Dejima, an artificial island in Nagasaki. For over two centuries the Dutch were the only Westerners allowed to trade with Japan, and Western learning ("rangaku") entered Japan through them.
+start:
+  year: 1641
+  month: 5
+precision: month
+categories:
+  - trade
+  - culture
+regions:
+  - japan
+importance: 3
+locations:
+  - place: hirado
+    role: origin
+  - place: dejima
+    role: destination
+relations:
+  - event: tokugawa-shogunate
+    type: related
+  - event: voc-founded
+    type: part_of
+wikipedia:
+  en: Dejima
+  zh: 出島

@@ -7,7 +7,11 @@
 import { createHash } from 'node:crypto';
 import { existsSync, readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
+import * as OpenCC from 'opencc-js';
 import { parse, stringify } from 'yaml';
+
+/** Simplified → Taiwan Traditional (with Taiwan word usage). Wikidata's generic zh labels and many zh Wikipedia titles are Simplified. */
+export const toTraditional = OpenCC.Converter({ from: 'cn', to: 'twp' });
 
 /**
  * Drop empty values (null, '', [], {}) recursively. The CMS writes empty

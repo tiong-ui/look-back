@@ -11,18 +11,18 @@ start:
   day: 30
 precision: day
 categories:
-- politics
+  - politics
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: tokyo
-  role: primary
-- place: taipei
-  role: secondary
+  - place: tokyo
+    role: primary
+  - place: taipei
+    role: secondary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of
 wikipedia:
   zh: 六三法

@@ -142,6 +142,9 @@ collections:
           - { label: 東亞, value: east-asia }
           - { label: 亞洲, value: asia }
           - { label: 太平洋, value: pacific }
+          - { label: 歐洲, value: europe }
+          - { label: 非洲, value: africa }
+          - { label: 美洲, value: americas }
           - { label: 世界, value: world }
       - name: importance
         label: 重要度（1–5）

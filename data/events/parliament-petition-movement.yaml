@@ -14,21 +14,21 @@ end:
   month: 9
 precision: month
 categories:
-- democracy
+  - democracy
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: tokyo
-  role: primary
-- place: taipei
-  role: secondary
+  - place: tokyo
+    role: primary
+  - place: taipei
+    role: secondary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
-- event: taiwanese-cultural-association
-  type: related
+  - event: japanese-rule-taiwan
+    type: part_of
+  - event: taiwanese-cultural-association
+    type: related
 wikipedia:
   zh: 臺灣議會設置請願運動
   en: Petition Movement for the Establishment of a Taiwanese Parliament

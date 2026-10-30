@@ -11,19 +11,19 @@ start:
   day: 4
 precision: day
 categories:
-- diplomacy
-- disaster
+  - diplomacy
+  - disaster
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: tokyo
-  role: origin
-- place: taipei
-  role: destination
+  - place: tokyo
+    role: origin
+  - place: taipei
+    role: destination
 relations:
-- event: covid-19-pandemic
-  type: part_of
-- event: taiwan-donations-2011
-  type: related
+  - event: covid-19-pandemic
+    type: part_of
+  - event: taiwan-donations-2011
+    type: related

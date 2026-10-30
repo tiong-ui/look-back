@@ -1,10 +1,10 @@
 id: wd-q4337398
 title:
-  zh-TW: 馬六甲戰役
-  en: Siege of Malacca
+  zh-TW: 荷蘭從葡萄牙手中奪下麻六甲
+  en: Dutch capture Malacca from Portugal
 summary:
-  zh-TW: 1640 Dutch conquest of Malacca
-  en: 1640 Dutch conquest of Malacca
+  zh-TW: 荷蘭東印度公司聯合柔佛蘇丹國圍攻葡萄牙控制的麻六甲數個月，1641年1月攻陷，結束了葡萄牙在麻六甲130年的統治。
+  en: The VOC and the Johor Sultanate besieged Portuguese Malacca for months and took it in January 1641, ending 130 years of Portuguese rule.
 start:
   year: 1640
   month: 8
@@ -18,7 +18,7 @@ categories:
   - war
 regions:
   - southeast-asia
-importance: 1
+importance: 3
 wikidata: Q4337398
 locations:
   - place: wd-q4337398-site
@@ -29,3 +29,8 @@ wikipedia:
   en: Siege of Malacca (1640–1641)
   zh: 馬六甲圍城戰 (1641年)
 importHash: 628cf30f7b24
+relations:
+  - event: wd-q4110453
+    type: related
+  - event: voc-founded
+    type: part_of

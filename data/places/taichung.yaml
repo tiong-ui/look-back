@@ -2,5 +2,5 @@ id: taichung
 lng: 120.68
 lat: 24.14
 names:
-- zh-TW: 臺中
-  en: Taichung
+  - zh-TW: 臺中
+    en: Taichung
