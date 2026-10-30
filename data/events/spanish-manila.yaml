@@ -11,17 +11,16 @@ start:
   day: 24
 precision: day
 categories:
-  - trade
-  - dynasty
+- trade
+- dynasty
 regions:
-  - southeast-asia
+- southeast-asia
 importance: 3
 locations:
-  - place: manila
-    role: primary
+- place: manila
+  role: primary
 relations:
-  - event: spanish-formosa
-    type: precedes
+- event: spanish-formosa
+  type: precedes
 wikipedia:
-  en: Manila galleon
-  zh: 马尼拉大帆船
+  en: History of Manila

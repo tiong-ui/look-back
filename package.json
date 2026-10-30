@@ -15,7 +15,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "importance": "tsx scripts/compute-importance.ts",
-    "import": "tsx scripts/import-wikidata.ts"
+    "import": "tsx scripts/import-wikidata.ts",
+    "check:wikipedia": "tsx scripts/check-wikipedia.ts"
   },
   "engines": {
     "node": ">=20"

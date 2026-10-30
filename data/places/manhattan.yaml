@@ -1,0 +1,13 @@
+id: manhattan
+lng: -74.01
+lat: 40.7
+names:
+- zh-TW: 新阿姆斯特丹
+  en: New Amsterdam
+  to: 1664
+- zh-TW: 紐約
+  en: New York
+  from: 1665
+modern:
+  zh-TW: 紐約曼哈頓
+  en: Manhattan, New York

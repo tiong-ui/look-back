@@ -1,0 +1,23 @@
+id: portuguese-macau
+title:
+  zh-TW: 葡萄牙人取得澳門居留權
+  en: Portuguese settle in Macau
+summary:
+  zh-TW: 葡萄牙人取得在澳門居住與貿易的許可，澳門成為葡萄牙在東亞的貿易據點，直到1999年移交中國。
+  en: The Portuguese gained permission to live and trade at Macau, which became their trading base in East Asia until its handover to China in 1999.
+start:
+  year: 1557
+precision: year
+categories:
+- trade
+regions:
+- china
+importance: 4
+locations:
+- place: macau
+  role: primary
+relations:
+- event: jorge-alvares-china
+  type: follows
+wikipedia:
+  en: Portuguese Macau

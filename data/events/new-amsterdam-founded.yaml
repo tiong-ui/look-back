@@ -1,0 +1,24 @@
+id: new-amsterdam-founded
+title:
+  zh-TW: 荷蘭建立新阿姆斯特丹
+  en: Dutch found New Amsterdam
+summary:
+  zh-TW: 荷蘭西印度公司在曼哈頓島建立新阿姆斯特丹，作為新尼德蘭殖民地的首府，也就是今天紐約的前身。
+  en: The Dutch West India Company founded New Amsterdam on Manhattan as the capital of New Netherland; it is the forerunner of today's New York City.
+start:
+  year: 1626
+precision: year
+categories:
+- migration
+- trade
+regions:
+- americas
+importance: 3
+locations:
+- place: manhattan
+  role: primary
+relations:
+- event: wic-founded
+  type: part_of
+wikipedia:
+  en: New Amsterdam

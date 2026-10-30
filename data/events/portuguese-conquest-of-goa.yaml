@@ -1,0 +1,26 @@
+id: portuguese-conquest-of-goa
+title:
+  zh-TW: 葡萄牙攻下果阿
+  en: Portuguese conquest of Goa
+summary:
+  zh-TW: 阿爾布克爾克攻下印度西岸的果阿，此後果阿成為「葡屬印度」的首府，直到1961年。
+  en: Afonso de Albuquerque captured Goa on India's west coast, which became the capital of Portuguese India until 1961.
+start:
+  year: 1510
+  month: 11
+  day: 25
+precision: day
+categories:
+- war
+- dynasty
+regions:
+- south-asia
+importance: 3
+locations:
+- place: goa
+  role: primary
+relations:
+- event: vasco-da-gama-india
+  type: follows
+wikipedia:
+  en: Portuguese conquest of Goa

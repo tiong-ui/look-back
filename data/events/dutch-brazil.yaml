@@ -1,0 +1,27 @@
+id: dutch-brazil
+title:
+  zh-TW: 荷屬巴西
+  en: Dutch Brazil
+summary:
+  zh-TW: 荷蘭西印度公司攻佔巴西東北部的累西腓等地，建立「荷屬巴西」並經營蔗糖生產，1654年被葡萄牙人奪回。
+  en: The Dutch West India Company seized Recife and much of northeastern Brazil, running sugar production there until the Portuguese retook it in 1654.
+start:
+  year: 1630
+end:
+  year: 1654
+precision: year
+categories:
+- war
+- dynasty
+- trade
+regions:
+- americas
+importance: 3
+locations:
+- place: recife
+  role: primary
+relations:
+- event: wic-founded
+  type: part_of
+wikipedia:
+  en: Dutch Brazil

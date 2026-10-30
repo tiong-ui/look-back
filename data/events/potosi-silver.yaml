@@ -1,0 +1,23 @@
+id: potosi-silver
+title:
+  zh-TW: 發現波托西銀礦
+  en: Silver found at Potosí
+summary:
+  zh-TW: 西班牙人在今玻利維亞的波托西發現「富山」銀礦，這裡成為世界最大的白銀產地之一。大量白銀日後經歐洲與馬尼拉流入中國。
+  en: The Spanish found silver at Cerro Rico, Potosí, in today's Bolivia. It became one of the world's largest silver sources, and much of the silver later flowed to China via Europe and Manila.
+start:
+  year: 1545
+precision: year
+categories:
+- trade
+regions:
+- americas
+importance: 4
+locations:
+- place: potosi
+  role: primary
+relations:
+- event: manila-galleon
+  type: related
+wikipedia:
+  en: Cerro Rico

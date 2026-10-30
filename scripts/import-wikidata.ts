@@ -27,10 +27,9 @@
 import { readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import * as OpenCC from 'opencc-js';
 import { parse } from 'yaml';
 import type { Category } from '../src/lib/categories';
-import { clean, contentHash, isUntouchedImport, readRecords, writeRecord } from './data-utils';
+import { clean, contentHash, isUntouchedImport, readRecords, toTraditional, writeRecord } from './data-utils';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ENDPOINT = 'https://query.wikidata.org/sparql';
@@ -240,8 +239,6 @@ export function parseDate(iso?: string, precision?: string) {
   return { date, precision: precisionName as 'day' | 'month' | 'year' | 'decade' | 'century' | 'millennium' };
 }
 
-/** Wikidata's generic "zh" labels are often Simplified; convert them to Taiwan Traditional usage. */
-export const toTraditional = OpenCC.Converter({ from: 'cn', to: 'twp' });
 
 const zhLabel = (b: Binding, prefix = '') => {
   const k = (name: string) => (prefix ? `${prefix}${name[0].toUpperCase()}${name.slice(1)}` : name);

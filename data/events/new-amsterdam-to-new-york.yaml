@@ -1,0 +1,34 @@
+id: new-amsterdam-to-new-york
+title:
+  zh-TW: 新阿姆斯特丹被英國奪取，改名紐約
+  en: New Amsterdam becomes New York
+summary:
+  zh-TW: 英國艦隊兵臨新阿姆斯特丹，荷蘭總督投降，城市改名紐約。1667年英荷簽訂《布雷達條約》，荷蘭正式放棄新尼德蘭，換得南美洲的蘇利南。
+  en: An English fleet arrived at New Amsterdam and the Dutch governor surrendered; the town was renamed New York. In the 1667 Treaty of Breda the Dutch gave up New Netherland and kept Suriname in South America.
+start:
+  year: 1664
+  month: 9
+end:
+  year: 1667
+  month: 7
+  day: 31
+precision: month
+categories:
+- war
+- diplomacy
+regions:
+- americas
+- europe
+importance: 3
+locations:
+- place: manhattan
+  role: primary
+- place: breda
+  role: secondary
+- place: paramaribo
+  role: secondary
+relations:
+- event: new-amsterdam-founded
+  type: follows
+wikipedia:
+  en: Treaty of Breda (1667)

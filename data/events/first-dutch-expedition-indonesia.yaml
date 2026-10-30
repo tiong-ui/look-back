@@ -1,0 +1,28 @@
+id: first-dutch-expedition-indonesia
+title:
+  zh-TW: 荷蘭首航東印度
+  en: First Dutch expedition to the East Indies
+summary:
+  zh-TW: 豪特曼率荷蘭第一支船隊前往東印度，抵達爪哇的萬丹。這趟航行雖然損失慘重，卻證明荷蘭可以直接前往亞洲取得香料。
+  en: Cornelis de Houtman led the first Dutch fleet to the East Indies and reached Banten on Java. Despite heavy losses, the voyage proved the Dutch could reach the Asian spice trade directly.
+start:
+  year: 1595
+  month: 4
+end:
+  year: 1597
+  month: 8
+precision: month
+categories:
+- migration
+- trade
+regions:
+- southeast-asia
+- europe
+importance: 3
+locations:
+- place: amsterdam
+  role: origin
+- place: banten
+  role: destination
+wikipedia:
+  en: First Dutch Expedition to Indonesia

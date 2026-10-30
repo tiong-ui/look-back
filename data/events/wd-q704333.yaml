@@ -1,10 +1,10 @@
 id: wd-q704333
 title:
-  zh-TW: 葡荷澳門戰役
-  en: Battle of Macau
+  zh-TW: 荷蘭進攻澳門失敗
+  en: Dutch attack on Macau fails
 summary:
-  zh-TW: 1622 battle
-  en: 1622 battle
+  zh-TW: 荷蘭東印度公司艦隊進攻葡萄牙人據守的澳門，遭到擊退。荷蘭隨後轉往澎湖，尋找與中國貿易的據點。
+  en: A VOC fleet attacked Portuguese-held Macau and was driven off. The Dutch then turned to Penghu in search of a base for trade with China.
 start:
   year: 1622
   month: 6
@@ -15,15 +15,21 @@ end:
   day: 24
 precision: day
 categories:
-  - war
+- war
 regions:
-  - china
-importance: 2
+- china
+- taiwan
+importance: 3
 wikidata: Q704333
 locations:
-  - place: wd-q3916279
-    role: primary
+- place: wd-q3916279
+  role: primary
 wikipedia:
   en: Battle of Macau
   zh: 葡荷澳門戰役
 importHash: a3b4cca0fa40
+relations:
+- event: dutch-penghu
+  type: precedes
+- event: voc-founded
+  type: part_of

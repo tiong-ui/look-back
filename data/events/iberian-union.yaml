@@ -1,0 +1,27 @@
+id: iberian-union
+title:
+  zh-TW: 西葡共主邦聯
+  en: Iberian Union
+summary:
+  zh-TW: 葡萄牙王室絕嗣後，西班牙國王腓力二世兼任葡萄牙國王，兩國共主六十年，但各自保有政府與海外領地。這段期間，與西班牙為敵的荷蘭開始攻擊葡萄牙的海外據點。
+  en: When Portugal's royal line died out, Philip II of Spain also became king of Portugal. For sixty years the two crowns were united while each kept its own government and empire; in this period the Dutch, at war with Spain, attacked Portugal's overseas posts.
+start:
+  year: 1580
+end:
+  year: 1640
+precision: year
+categories:
+- dynasty
+regions:
+- europe
+importance: 3
+locations:
+- place: madrid
+  role: primary
+- place: lisbon
+  role: secondary
+relations:
+- event: spanish-formosa
+  type: related
+wikipedia:
+  en: Iberian Union

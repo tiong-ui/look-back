@@ -1,0 +1,26 @@
+id: conquest-of-ceuta
+title:
+  zh-TW: 葡萄牙攻下休達
+  en: Portuguese conquest of Ceuta
+summary:
+  zh-TW: 葡萄牙攻下北非的休達，取得在非洲的第一個據點，揭開葡萄牙海外擴張的序幕。
+  en: Portugal captured Ceuta in North Africa, its first foothold in Africa and the start of its overseas expansion.
+start:
+  year: 1415
+  month: 8
+  day: 21
+precision: day
+categories:
+- war
+- migration
+regions:
+- africa
+- europe
+importance: 3
+locations:
+- place: lisbon
+  role: origin
+- place: ceuta
+  role: destination
+wikipedia:
+  en: Conquest of Ceuta

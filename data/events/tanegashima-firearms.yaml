@@ -1,0 +1,21 @@
+id: tanegashima-firearms
+title:
+  zh-TW: 葡萄牙人抵達種子島，火槍傳入日本
+  en: Portuguese reach Tanegashima, bringing firearms to Japan
+summary:
+  zh-TW: 搭乘中國船的葡萄牙人漂流到日本種子島，將火繩槍傳入日本。火槍很快被日本仿製，改變了戰國時代的戰爭方式。
+  en: Portuguese aboard a Chinese ship drifted to Tanegashima and introduced the matchlock to Japan. It was soon copied locally and changed warfare in the Sengoku period.
+start:
+  year: 1543
+precision: year
+categories:
+- trade
+- war
+regions:
+- japan
+importance: 3
+locations:
+- place: tanegashima
+  role: primary
+wikipedia:
+  en: Tanegashima (gun)

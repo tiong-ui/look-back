@@ -1,0 +1,24 @@
+id: dutch-ceylon
+title:
+  zh-TW: 荷蘭從葡萄牙手中奪下錫蘭
+  en: Dutch take Ceylon from Portugal
+summary:
+  zh-TW: 荷蘭東印度公司聯合康提王國，逐步攻佔葡萄牙在錫蘭（斯里蘭卡）沿海的據點，1658年完全取代葡萄牙，控制了肉桂貿易。
+  en: Allied with the Kingdom of Kandy, the VOC took Portugal's coastal forts in Ceylon (Sri Lanka) one by one, replacing the Portuguese entirely by 1658 and controlling the cinnamon trade.
+start:
+  year: 1658
+precision: year
+categories:
+- war
+- trade
+regions:
+- south-asia
+importance: 3
+locations:
+- place: colombo
+  role: primary
+relations:
+- event: voc-founded
+  type: part_of
+wikipedia:
+  en: Dutch Ceylon

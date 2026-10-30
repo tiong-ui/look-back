@@ -1,0 +1,13 @@
+id: tenochtitlan
+lng: -99.13
+lat: 19.43
+names:
+- zh-TW: 特諾奇提特蘭
+  en: Tenochtitlan
+  to: 1521
+- zh-TW: 墨西哥城
+  en: Mexico City
+  from: 1522
+modern:
+  zh-TW: 墨西哥城
+  en: Mexico City

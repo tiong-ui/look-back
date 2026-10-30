@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 import { parse } from 'yaml';
 import { z } from 'zod';
 import { CATEGORY_IDS, type Category } from '../src/lib/categories';
-import { clean, readRecords } from './data-utils';
+import { clean, readRecords, toTraditional } from './data-utils';
 import { clampImportance, scoreToImportance, wikiScore, type WikiSignals } from '../src/lib/importance';
 import type { Atlas, AtlasEvent, RelationType, SourceLink } from '../src/lib/types';
 
@@ -144,7 +144,9 @@ function check<T>(schema: z.ZodType<T, z.ZodTypeDef, unknown>, value: unknown, w
   return undefined;
 }
 
+// Chinese Wikipedia links open in the Taiwan (zh-tw) variant, so Simplified titles display in Traditional.
 const wikiUrl = (lang: 'en' | 'zh', title: string) =>
+  lang === 'zh' ? `https://zh.wikipedia.org/zh-tw/${encodeURIComponent(title.replace(/ /g, '_'))}` :
   `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`;
 
 // ---------------------------------------------------------------------------- build
@@ -218,7 +220,7 @@ export function buildAtlas(dataDir = DATA): { atlas: Atlas; errors: string[] } {
     }
 
     const sources: SourceLink[] = [];
-    if (e.wikipedia?.zh) sources.push({ url: wikiUrl('zh', e.wikipedia.zh), title: { 'zh-TW': `維基百科：${e.wikipedia.zh}`, en: `Wikipedia (zh): ${e.wikipedia.zh}` }, resource: 'wikipedia-zh' });
+    if (e.wikipedia?.zh) sources.push({ url: wikiUrl('zh', e.wikipedia.zh), title: { 'zh-TW': `維基百科：${toTraditional(e.wikipedia.zh)}`, en: `Wikipedia (zh): ${toTraditional(e.wikipedia.zh)}` }, resource: 'wikipedia-zh' });
     if (e.wikipedia?.en) sources.push({ url: wikiUrl('en', e.wikipedia.en), title: { 'zh-TW': `英文維基百科：${e.wikipedia.en}`, en: `Wikipedia: ${e.wikipedia.en}` }, resource: 'wikipedia-en' });
     if (e.wikidata) sources.push({ url: `https://www.wikidata.org/wiki/${e.wikidata}`, title: { 'zh-TW': `維基數據：${e.wikidata}`, en: `Wikidata: ${e.wikidata}` }, resource: 'wikidata' });
     for (const s of e.sources ?? []) {

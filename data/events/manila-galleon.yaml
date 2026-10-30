@@ -1,0 +1,31 @@
+id: manila-galleon
+title:
+  zh-TW: 馬尼拉大帆船貿易
+  en: Manila galleon trade
+summary:
+  zh-TW: 西班牙大帆船每年往返菲律賓馬尼拉與墨西哥阿卡普爾科，用美洲白銀交換中國的絲綢、瓷器等商品。大量白銀因此流入明清中國，這是最早橫跨太平洋的全球貿易網。
+  en: Spanish galleons sailed each year between Manila and Acapulco, trading American silver for Chinese silk, porcelain and other goods. Vast amounts of silver flowed into Ming and Qing China through this first trans-Pacific trade network.
+start:
+  year: 1565
+end:
+  year: 1815
+precision: year
+categories:
+- trade
+regions:
+- southeast-asia
+- americas
+- china
+importance: 4
+locations:
+- place: manila
+  role: origin
+- place: acapulco
+  role: destination
+- place: quanzhou
+  role: secondary
+relations:
+- event: spanish-manila
+  type: related
+wikipedia:
+  en: Manila galleon

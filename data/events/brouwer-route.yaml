@@ -1,0 +1,27 @@
+id: brouwer-route
+title:
+  zh-TW: 布勞威爾航線
+  en: Brouwer Route
+summary:
+  zh-TW: 布勞威爾開闢新航線：船隻繞過好望角後，順著南緯約40度的「咆哮西風帶」向東航行，再北上爪哇。這條航線比沿非洲東岸北上的葡萄牙航線快得多。
+  en: Hendrik Brouwer pioneered a route that, after the Cape of Good Hope, ran east on the strong westerlies near 40°S before turning north to Java, far faster than the Portuguese route up the African coast.
+start:
+  year: 1611
+precision: year
+categories:
+- migration
+- trade
+regions:
+- southeast-asia
+- africa
+importance: 2
+locations:
+- place: cape-of-good-hope
+  role: origin
+- place: batavia
+  role: destination
+relations:
+- event: voc-founded
+  type: part_of
+wikipedia:
+  en: Brouwer Route

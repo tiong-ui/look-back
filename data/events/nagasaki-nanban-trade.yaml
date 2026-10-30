@@ -1,0 +1,26 @@
+id: nagasaki-nanban-trade
+title:
+  zh-TW: 長崎開港與南蠻貿易
+  en: 'Nagasaki opens: the Macau–Nagasaki trade'
+summary:
+  zh-TW: 大名大村純忠開放長崎港給葡萄牙人。此後「南蠻貿易」以澳門與長崎為兩端，葡萄牙商船以中國生絲交換日本白銀。
+  en: The lord Ōmura Sumitada opened Nagasaki to the Portuguese. The "Nanban trade" then ran between Macau and Nagasaki, with Portuguese ships carrying Chinese silk to Japan in exchange for silver.
+start:
+  year: 1571
+precision: year
+categories:
+- trade
+regions:
+- japan
+- china
+importance: 3
+locations:
+- place: macau
+  role: origin
+- place: nagasaki
+  role: destination
+relations:
+- event: portuguese-macau
+  type: follows
+wikipedia:
+  en: Nanban trade

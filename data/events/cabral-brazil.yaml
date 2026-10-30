@@ -1,0 +1,28 @@
+id: cabral-brazil
+title:
+  zh-TW: 卡布拉爾抵達巴西
+  en: Cabral reaches Brazil
+summary:
+  zh-TW: 卡布拉爾率領前往印度的船隊向西偏航，抵達巴西海岸並宣布歸葡萄牙所有。巴西位在托德西利亞斯條約線以東，因此成為葡萄牙的殖民地。
+  en: Pedro Álvares Cabral's fleet bound for India swung west, reached the coast of Brazil and claimed it for Portugal. Lying east of the Tordesillas line, Brazil became a Portuguese colony.
+start:
+  year: 1500
+  month: 4
+  day: 22
+precision: day
+categories:
+- migration
+regions:
+- americas
+- europe
+importance: 3
+locations:
+- place: lisbon
+  role: origin
+- place: porto-seguro
+  role: destination
+relations:
+- event: treaty-of-tordesillas
+  type: follows
+wikipedia:
+  en: Pedro Álvares Cabral
