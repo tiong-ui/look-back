@@ -15,16 +15,14 @@ end:
   day: 28
 precision: day
 categories:
-- culture
+  - culture
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taipei
-  role: primary
+  - place: taipei
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
-wikipedia:
-  en: Taiwan Exposition
+  - event: japanese-rule-taiwan
+    type: part_of

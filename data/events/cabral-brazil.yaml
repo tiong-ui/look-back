@@ -11,18 +11,19 @@ start:
   day: 22
 precision: day
 categories:
-- migration
+  - migration
 regions:
-- americas
-- europe
+  - americas
+  - europe
 importance: 3
 locations:
-- place: lisbon
-  role: origin
-- place: porto-seguro
-  role: destination
+  - place: lisbon
+    role: origin
+  - place: porto-seguro
+    role: destination
 relations:
-- event: treaty-of-tordesillas
-  type: follows
+  - event: treaty-of-tordesillas
+    type: follows
 wikipedia:
   en: Pedro Álvares Cabral
+  zh: 佩德罗·阿尔瓦雷斯·卡布拉尔

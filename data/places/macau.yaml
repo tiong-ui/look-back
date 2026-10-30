@@ -2,5 +2,5 @@ id: macau
 lng: 113.54
 lat: 22.19
 names:
-- zh-TW: 澳門
-  en: Macau
+  - zh-TW: 澳門
+    en: Macau

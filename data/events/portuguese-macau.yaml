@@ -9,15 +9,16 @@ start:
   year: 1557
 precision: year
 categories:
-- trade
+  - trade
 regions:
-- china
+  - china
 importance: 4
 locations:
-- place: macau
-  role: primary
+  - place: macau
+    role: primary
 relations:
-- event: jorge-alvares-china
-  type: follows
+  - event: jorge-alvares-china
+    type: follows
 wikipedia:
   en: Portuguese Macau
+  zh: 葡屬澳門

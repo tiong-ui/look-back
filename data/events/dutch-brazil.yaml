@@ -11,17 +11,18 @@ end:
   year: 1654
 precision: year
 categories:
-- war
-- dynasty
-- trade
+  - war
+  - dynasty
+  - trade
 regions:
-- americas
+  - americas
 importance: 3
 locations:
-- place: recife
-  role: primary
+  - place: recife
+    role: primary
 relations:
-- event: wic-founded
-  type: part_of
+  - event: wic-founded
+    type: part_of
 wikipedia:
   en: Dutch Brazil
+  zh: 荷屬巴西

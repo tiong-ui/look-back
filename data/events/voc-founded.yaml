@@ -15,21 +15,22 @@ end:
   day: 31
 precision: day
 categories:
-- trade
-- dynasty
+  - trade
+  - dynasty
 regions:
-- europe
-- southeast-asia
+  - europe
+  - southeast-asia
 importance: 5
 locations:
-- place: amsterdam
-  role: primary
-- place: batavia
-  role: secondary
+  - place: amsterdam
+    role: primary
+  - place: batavia
+    role: secondary
 relations:
-- event: dutch-formosa
-  type: has_part
-- event: first-dutch-expedition-indonesia
-  type: follows
+  - event: dutch-formosa
+    type: has_part
+  - event: first-dutch-expedition-indonesia
+    type: follows
 wikipedia:
   en: Dutch East India Company
+  zh: 荷兰东印度公司

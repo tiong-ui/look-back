@@ -11,21 +11,22 @@ end:
   year: 1815
 precision: year
 categories:
-- trade
+  - trade
 regions:
-- southeast-asia
-- americas
-- china
+  - southeast-asia
+  - americas
+  - china
 importance: 4
 locations:
-- place: manila
-  role: origin
-- place: acapulco
-  role: destination
-- place: quanzhou
-  role: secondary
+  - place: manila
+    role: origin
+  - place: acapulco
+    role: destination
+  - place: quanzhou
+    role: secondary
 relations:
-- event: spanish-manila
-  type: related
+  - event: spanish-manila
+    type: related
 wikipedia:
   en: Manila galleon
+  zh: 马尼拉大帆船

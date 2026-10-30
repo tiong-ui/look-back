@@ -13,23 +13,23 @@ end:
   month: 8
 precision: month
 categories:
-- war
-- trade
+  - war
+  - trade
 regions:
-- taiwan
-- china
+  - taiwan
+  - china
 importance: 3
 locations:
-- place: penghu
-  role: primary
-- place: macau
-  role: origin
-- place: penghu
-  role: destination
+  - place: penghu
+    role: primary
+  - place: macau
+    role: origin
+  - place: penghu
+    role: destination
 relations:
-- event: wd-q704333
-  type: follows
-- event: dutch-formosa
-  type: precedes
+  - event: wd-q704333
+    type: follows
+  - event: dutch-formosa
+    type: precedes
 wikipedia:
   en: Sino-Dutch conflicts

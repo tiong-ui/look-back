@@ -11,17 +11,17 @@ start:
   day: 8
 precision: day
 categories:
-- politics
-- migration
+  - politics
+  - migration
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taiwan
-  role: primary
+  - place: taiwan
+    role: primary
 relations:
-- event: treaty-of-shimonoseki
-  type: caused_by
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: treaty-of-shimonoseki
+    type: caused_by
+  - event: japanese-rule-taiwan
+    type: part_of

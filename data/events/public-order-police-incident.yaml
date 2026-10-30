@@ -11,16 +11,16 @@ start:
   day: 16
 precision: day
 categories:
-- democracy
+  - democracy
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taipei
-  role: primary
+  - place: taipei
+    role: primary
 relations:
-- event: parliament-petition-movement
-  type: part_of
+  - event: parliament-petition-movement
+    type: part_of
 wikipedia:
   zh: 治警事件

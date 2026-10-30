@@ -2,8 +2,8 @@ id: douliu
 lng: 120.54
 lat: 23.71
 names:
-- zh-TW: 斗六
-  en: Douliu
+  - zh-TW: 斗六
+    en: Douliu
 modern:
   zh-TW: 雲林縣斗六市
   en: Douliu, Yunlin

@@ -11,18 +11,19 @@ start:
   day: 30
 precision: day
 categories:
-- war
-- dynasty
+  - war
+  - dynasty
 regions:
-- southeast-asia
+  - southeast-asia
 importance: 4
 locations:
-- place: batavia
-  role: primary
+  - place: batavia
+    role: primary
 relations:
-- event: voc-founded
-  type: part_of
-- event: dutch-formosa
-  type: related
+  - event: voc-founded
+    type: part_of
+  - event: dutch-formosa
+    type: related
 wikipedia:
   en: Batavia, Dutch East Indies
+  zh: 巴達維亞城

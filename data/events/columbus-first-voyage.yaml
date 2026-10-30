@@ -11,18 +11,18 @@ start:
   day: 12
 precision: day
 categories:
-- migration
+  - migration
 regions:
-- americas
-- europe
+  - americas
+  - europe
 importance: 5
 locations:
-- place: palos
-  role: origin
-- place: san-salvador-island
-  role: destination
+  - place: palos
+    role: origin
+  - place: san-salvador-island
+    role: destination
 relations:
-- event: treaty-of-tordesillas
-  type: precedes
+  - event: treaty-of-tordesillas
+    type: precedes
 wikipedia:
   en: Voyages of Christopher Columbus

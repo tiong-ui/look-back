@@ -15,21 +15,21 @@ end:
   day: 25
 precision: day
 categories:
-- war
+  - war
 regions:
-- southeast-asia
+  - southeast-asia
 importance: 4
 wikidata: Q4110453
 locations:
-- place: wd-q4110453-site
-  role: primary
-- place: wd-q61089
-  role: secondary
+  - place: wd-q4110453-site
+    role: primary
+  - place: wd-q61089
+    role: secondary
 relations:
-- event: portuguese-conquest-of-goa
-  type: follows
-- event: jorge-alvares-china
-  type: precedes
+  - event: portuguese-conquest-of-goa
+    type: follows
+  - event: jorge-alvares-china
+    type: precedes
 wikipedia:
   en: Capture of Malacca (1511)
   zh: 马六甲围城战 (1511年)

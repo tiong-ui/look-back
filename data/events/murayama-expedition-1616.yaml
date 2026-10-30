@@ -9,17 +9,17 @@ start:
   year: 1616
 precision: year
 categories:
-- war
-- migration
+  - war
+  - migration
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: nagasaki
-  role: origin
-- place: taiwan
-  role: destination
+  - place: nagasaki
+    role: origin
+  - place: taiwan
+    role: destination
 relations:
-- event: arima-expedition-1609
-  type: follows
+  - event: arima-expedition-1609
+    type: follows

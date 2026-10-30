@@ -2,5 +2,5 @@ id: cape-of-good-hope
 lng: 18.47
 lat: -34.36
 names:
-- zh-TW: 好望角
-  en: Cape of Good Hope
+  - zh-TW: 好望角
+    en: Cape of Good Hope

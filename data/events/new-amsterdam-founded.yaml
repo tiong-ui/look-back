@@ -9,16 +9,17 @@ start:
   year: 1626
 precision: year
 categories:
-- migration
-- trade
+  - migration
+  - trade
 regions:
-- americas
+  - americas
 importance: 3
 locations:
-- place: manhattan
-  role: primary
+  - place: manhattan
+    role: primary
 relations:
-- event: wic-founded
-  type: part_of
+  - event: wic-founded
+    type: part_of
 wikipedia:
   en: New Amsterdam
+  zh: 新阿姆斯特丹

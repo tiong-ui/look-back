@@ -9,13 +9,14 @@ start:
   year: 1543
 precision: year
 categories:
-- trade
-- war
+  - trade
+  - war
 regions:
-- japan
+  - japan
 importance: 3
 locations:
-- place: tanegashima
-  role: primary
+  - place: tanegashima
+    role: primary
 wikipedia:
   en: Tanegashima (gun)
+  zh: 鐵炮

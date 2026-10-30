@@ -10,24 +10,23 @@ start:
   month: 6
 precision: month
 categories:
-- trade
-- diplomacy
+  - trade
+  - diplomacy
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: tainan-anping
-  role: primary
-- place: nagasaki
-  role: origin
-- place: tainan-anping
-  role: destination
-- place: hirado
-  role: secondary
+  - place: tainan-anping
+    role: primary
+  - place: nagasaki
+    role: origin
+  - place: tainan-anping
+    role: destination
+  - place: hirado
+    role: secondary
 relations:
-- event: dutch-formosa
-  type: part_of
+  - event: dutch-formosa
+    type: part_of
 wikipedia:
   zh: 濱田彌兵衛事件
-  en: Hamada Yahei

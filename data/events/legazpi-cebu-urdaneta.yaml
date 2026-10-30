@@ -14,21 +14,22 @@ end:
   month: 10
 precision: day
 categories:
-- migration
-- dynasty
+  - migration
+  - dynasty
 regions:
-- southeast-asia
-- americas
+  - southeast-asia
+  - americas
 importance: 3
 locations:
-- place: barra-de-navidad
-  role: origin
-- place: cebu
-  role: destination
+  - place: barra-de-navidad
+    role: origin
+  - place: cebu
+    role: destination
 relations:
-- event: spanish-manila
-  type: precedes
-- event: manila-galleon
-  type: causes
+  - event: spanish-manila
+    type: precedes
+  - event: manila-galleon
+    type: causes
 wikipedia:
   en: Miguel López de Legazpi
+  zh: 米格尔·洛佩斯·德莱加斯皮

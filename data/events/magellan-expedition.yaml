@@ -15,19 +15,20 @@ end:
   day: 6
 precision: day
 categories:
-- migration
+  - migration
 regions:
-- southeast-asia
-- americas
-- europe
+  - southeast-asia
+  - americas
+  - europe
 importance: 5
 locations:
-- place: sanlucar
-  role: origin
-- place: wd-q2091449-site
-  role: destination
+  - place: sanlucar
+    role: origin
+  - place: wd-q2091449-site
+    role: destination
 relations:
-- event: wd-q2091449
-  type: has_part
+  - event: wd-q2091449
+    type: has_part
 wikipedia:
   en: Magellan expedition
+  zh: 麥哲倫探險隊

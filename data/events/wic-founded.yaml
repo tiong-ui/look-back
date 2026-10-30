@@ -11,14 +11,15 @@ start:
   day: 3
 precision: day
 categories:
-- trade
+  - trade
 regions:
-- europe
-- americas
-- africa
+  - europe
+  - americas
+  - africa
 importance: 3
 locations:
-- place: amsterdam
-  role: primary
+  - place: amsterdam
+    role: primary
 wikipedia:
   en: Dutch West India Company
+  zh: 荷兰西印度公司

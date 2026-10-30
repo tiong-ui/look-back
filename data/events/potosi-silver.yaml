@@ -9,15 +9,16 @@ start:
   year: 1545
 precision: year
 categories:
-- trade
+  - trade
 regions:
-- americas
+  - americas
 importance: 4
 locations:
-- place: potosi
-  role: primary
+  - place: potosi
+    role: primary
 relations:
-- event: manila-galleon
-  type: related
+  - event: manila-galleon
+    type: related
 wikipedia:
   en: Cerro Rico
+  zh: 里科山

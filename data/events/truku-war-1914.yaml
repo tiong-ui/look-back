@@ -14,22 +14,22 @@ end:
   month: 8
 precision: day
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taroko
-  role: primary
+  - place: taroko
+    role: primary
 relations:
-- event: five-year-aboriginal-plan
-  type: part_of
+  - event: five-year-aboriginal-plan
+    type: part_of
 perspectives:
-- view: indigenous
-  text:
-    zh-TW: 太魯閣族至今仍紀念這場以寡擊眾、捍衛家園的戰爭。
-    en: The Truku still commemorate the war as a stand against overwhelming odds to defend their homeland.
+  - view: indigenous
+    text:
+      zh-TW: 太魯閣族至今仍紀念這場以寡擊眾、捍衛家園的戰爭。
+      en: The Truku still commemorate the war as a stand against overwhelming odds to defend their homeland.
 wikipedia:
   zh: 太魯閣戰役
   en: Truku War

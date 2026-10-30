@@ -9,18 +9,19 @@ start:
   year: 1488
 precision: year
 categories:
-- migration
+  - migration
 regions:
-- africa
-- europe
+  - africa
+  - europe
 importance: 3
 locations:
-- place: lisbon
-  role: origin
-- place: cape-of-good-hope
-  role: destination
+  - place: lisbon
+    role: origin
+  - place: cape-of-good-hope
+    role: destination
 relations:
-- event: vasco-da-gama-india
-  type: precedes
+  - event: vasco-da-gama-india
+    type: precedes
 wikipedia:
   en: Bartolomeu Dias
+  zh: 巴爾托洛梅烏·迪亞士

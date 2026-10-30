@@ -2,8 +2,8 @@ id: breda
 lng: 4.78
 lat: 51.59
 names:
-- zh-TW: 布雷達
-  en: Breda
+  - zh-TW: 布雷達
+    en: Breda
 modern:
   zh-TW: 荷蘭
   en: Netherlands

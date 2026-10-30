@@ -2,8 +2,8 @@ id: erlin
 lng: 120.37
 lat: 23.9
 names:
-- zh-TW: 二林
-  en: Erlin
+  - zh-TW: 二林
+    en: Erlin
 modern:
   zh-TW: 彰化縣二林鎮
   en: Erlin, Changhua

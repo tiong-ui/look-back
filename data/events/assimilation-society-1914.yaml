@@ -14,16 +14,16 @@ end:
   month: 1
 precision: day
 categories:
-- democracy
+  - democracy
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taipei
-  role: primary
+  - place: taipei
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of
 wikipedia:
   zh: 臺灣同化會

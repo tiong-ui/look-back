@@ -14,21 +14,22 @@ end:
   month: 12
 precision: day
 categories:
-- diplomacy
+  - diplomacy
 regions:
-- taiwan
-- japan
-- china
+  - taiwan
+  - japan
+  - china
 importance: 3
 locations:
-- place: beijing
-  role: primary
-- place: tokyo
-  role: secondary
-- place: taipei
-  role: secondary
+  - place: beijing
+    role: primary
+  - place: tokyo
+    role: secondary
+  - place: taipei
+    role: secondary
 relations:
-- event: treaty-of-taipei
-  type: related
+  - event: treaty-of-taipei
+    type: related
 wikipedia:
   en: Japan–China Joint Communiqué
+  zh: 中日聯合聲明

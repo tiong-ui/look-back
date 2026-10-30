@@ -9,19 +9,19 @@ start:
   year: 1611
 precision: year
 categories:
-- migration
-- trade
+  - migration
+  - trade
 regions:
-- southeast-asia
-- africa
+  - southeast-asia
+  - africa
 importance: 2
 locations:
-- place: cape-of-good-hope
-  role: origin
-- place: batavia
-  role: destination
+  - place: cape-of-good-hope
+    role: origin
+  - place: batavia
+    role: destination
 relations:
-- event: voc-founded
-  type: part_of
+  - event: voc-founded
+    type: part_of
 wikipedia:
   en: Brouwer Route

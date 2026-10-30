@@ -10,16 +10,16 @@ start:
   month: 8
 precision: month
 categories:
-- culture
+  - culture
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: chiayi
-  role: origin
-- place: koshien
-  role: destination
+  - place: chiayi
+    role: origin
+  - place: koshien
+    role: destination
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of

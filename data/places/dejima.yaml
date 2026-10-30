@@ -2,8 +2,8 @@ id: dejima
 lng: 129.8732
 lat: 32.7437
 names:
-- zh-TW: 出島
-  en: Dejima
+  - zh-TW: 出島
+    en: Dejima
 modern:
   zh-TW: 日本長崎
   en: Nagasaki, Japan

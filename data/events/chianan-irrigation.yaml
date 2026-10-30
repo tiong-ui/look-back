@@ -13,24 +13,24 @@ end:
   month: 5
 precision: month
 categories:
-- trade
+  - trade
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: wushantou
-  role: primary
-- place: chiayi
-  role: secondary
+  - place: wushantou
+    role: primary
+  - place: chiayi
+    role: secondary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of
 perspectives:
-- view: taiwan
-  text:
-    zh-TW: 工程改善了嘉南農業，同時也服務殖民地的米糖經濟；八田與一至今仍在臺灣受到紀念。
-    en: It transformed farming in Chianan while serving the colonial rice-and-sugar economy; Hatta Yoichi is still commemorated in Taiwan.
+  - view: taiwan
+    text:
+      zh-TW: 工程改善了嘉南農業，同時也服務殖民地的米糖經濟；八田與一至今仍在臺灣受到紀念。
+      en: It transformed farming in Chianan while serving the colonial rice-and-sugar economy; Hatta Yoichi is still commemorated in Taiwan.
 wikipedia:
   zh: 嘉南大圳
   en: Chianan Irrigation

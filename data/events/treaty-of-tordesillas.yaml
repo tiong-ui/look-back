@@ -4,20 +4,21 @@ title:
   en: Treaty of Tordesillas
 summary:
   zh-TW: 西班牙與葡萄牙簽訂《托德西利亞斯條約》，以維德角群島以西370里格（約西經46度）的經線瓜分新發現的土地：線以西歸西班牙，線以東歸葡萄牙。
-  en: 'Spain and Portugal divided newly found lands along a meridian 370 leagues west of the Cape Verde islands (about 46°W): west of the line to Spain, east of it to Portugal.'
+  en: "Spain and Portugal divided newly found lands along a meridian 370 leagues west of the Cape Verde islands (about 46°W): west of the line to Spain, east of it to Portugal."
 start:
   year: 1494
   month: 6
   day: 7
 precision: day
 categories:
-- diplomacy
+  - diplomacy
 regions:
-- europe
-- americas
+  - europe
+  - americas
 importance: 4
 locations:
-- place: tordesillas
-  role: primary
+  - place: tordesillas
+    role: primary
 wikipedia:
   en: Treaty of Tordesillas
+  zh: 托德西利亚斯条约

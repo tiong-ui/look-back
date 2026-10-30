@@ -11,19 +11,20 @@ end:
   year: 1427
 precision: year
 categories:
-- migration
+  - migration
 regions:
-- europe
+  - europe
 importance: 2
 locations:
-- place: lisbon
-  role: origin
-- place: madeira
-  role: destination
-- place: azores
-  role: destination
+  - place: lisbon
+    role: origin
+  - place: madeira
+    role: destination
+  - place: azores
+    role: destination
 relations:
-- event: conquest-of-ceuta
-  type: follows
+  - event: conquest-of-ceuta
+    type: follows
 wikipedia:
   en: History of Madeira
+  zh: 马德拉群岛历史

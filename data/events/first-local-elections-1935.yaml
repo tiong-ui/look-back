@@ -11,18 +11,18 @@ start:
   day: 22
 precision: day
 categories:
-- democracy
+  - democracy
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: taipei
-  role: primary
-- place: taichung
-  role: secondary
-- place: tainan
-  role: secondary
+  - place: taipei
+    role: primary
+  - place: taichung
+    role: secondary
+  - place: tainan
+    role: secondary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of

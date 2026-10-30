@@ -2,8 +2,8 @@ id: tunmen
 lng: 113.97
 lat: 22.39
 names:
-- zh-TW: 屯門
-  en: Tuen Mun
+  - zh-TW: 屯門
+    en: Tuen Mun
 modern:
   zh-TW: 香港屯門
   en: Tuen Mun, Hong Kong

@@ -2,8 +2,8 @@ id: san-salvador-island
 lng: -74.48
 lat: 24.05
 names:
-- zh-TW: 聖薩爾瓦多島
-  en: San Salvador Island
+  - zh-TW: 聖薩爾瓦多島
+    en: San Salvador Island
 modern:
   zh-TW: 巴哈馬
   en: Bahamas

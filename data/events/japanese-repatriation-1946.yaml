@@ -13,18 +13,18 @@ end:
   month: 4
 precision: month
 categories:
-- migration
+  - migration
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: keelung
-  role: primary
-- place: kaohsiung
-  role: secondary
+  - place: keelung
+    role: primary
+  - place: kaohsiung
+    role: secondary
 relations:
-- event: wd-q6540361
-  type: caused_by
-- event: roc-takes-over-taiwan
-  type: related
+  - event: wd-q6540361
+    type: caused_by
+  - event: roc-takes-over-taiwan
+    type: related

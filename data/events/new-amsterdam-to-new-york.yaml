@@ -14,21 +14,22 @@ end:
   day: 31
 precision: month
 categories:
-- war
-- diplomacy
+  - war
+  - diplomacy
 regions:
-- americas
-- europe
+  - americas
+  - europe
 importance: 3
 locations:
-- place: manhattan
-  role: primary
-- place: breda
-  role: secondary
-- place: paramaribo
-  role: secondary
+  - place: manhattan
+    role: primary
+  - place: breda
+    role: secondary
+  - place: paramaribo
+    role: secondary
 relations:
-- event: new-amsterdam-founded
-  type: follows
+  - event: new-amsterdam-founded
+    type: follows
 wikipedia:
   en: Treaty of Breda (1667)
+  zh: 布雷達條約

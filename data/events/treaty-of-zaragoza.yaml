@@ -4,25 +4,26 @@ title:
   en: Treaty of Zaragoza
 summary:
   zh-TW: 西班牙與葡萄牙簽訂《薩拉戈薩條約》，在亞洲劃出分界線：西班牙放棄對摩鹿加群島（香料群島）的主張，由葡萄牙支付賠償。
-  en: 'Spain and Portugal drew a dividing line in Asia: Spain gave up its claim to the Moluccas (the Spice Islands) in return for a payment from Portugal.'
+  en: "Spain and Portugal drew a dividing line in Asia: Spain gave up its claim to the Moluccas (the Spice Islands) in return for a payment from Portugal."
 start:
   year: 1529
   month: 4
   day: 22
 precision: day
 categories:
-- diplomacy
+  - diplomacy
 regions:
-- europe
-- southeast-asia
+  - europe
+  - southeast-asia
 importance: 3
 locations:
-- place: zaragoza
-  role: primary
+  - place: zaragoza
+    role: primary
 relations:
-- event: treaty-of-tordesillas
-  type: follows
-- event: magellan-expedition
-  type: caused_by
+  - event: treaty-of-tordesillas
+    type: follows
+  - event: magellan-expedition
+    type: caused_by
 wikipedia:
   en: Treaty of Zaragoza
+  zh: 萨拉戈萨条约

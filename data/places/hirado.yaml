@@ -2,8 +2,8 @@ id: hirado
 lng: 129.55
 lat: 33.37
 names:
-- zh-TW: 平戶
-  en: Hirado
+  - zh-TW: 平戶
+    en: Hirado
 modern:
   zh-TW: 日本長崎縣平戶市
   en: Hirado, Nagasaki

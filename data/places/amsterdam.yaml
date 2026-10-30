@@ -2,5 +2,5 @@ id: amsterdam
 lng: 4.9
 lat: 52.37
 names:
-- zh-TW: 阿姆斯特丹
-  en: Amsterdam
+  - zh-TW: 阿姆斯特丹
+    en: Amsterdam

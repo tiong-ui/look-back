@@ -11,17 +11,18 @@ end:
   year: 1640
 precision: year
 categories:
-- dynasty
+  - dynasty
 regions:
-- europe
+  - europe
 importance: 3
 locations:
-- place: madrid
-  role: primary
-- place: lisbon
-  role: secondary
+  - place: madrid
+    role: primary
+  - place: lisbon
+    role: secondary
 relations:
-- event: spanish-formosa
-  type: related
+  - event: spanish-formosa
+    type: related
 wikipedia:
   en: Iberian Union
+  zh: 伊比利亞聯盟

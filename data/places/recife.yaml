@@ -2,8 +2,8 @@ id: recife
 lng: -34.88
 lat: -8.05
 names:
-- zh-TW: 累西腓
-  en: Recife
+  - zh-TW: 累西腓
+    en: Recife
 modern:
   zh-TW: 巴西
   en: Brazil

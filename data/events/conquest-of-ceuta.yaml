@@ -11,16 +11,16 @@ start:
   day: 21
 precision: day
 categories:
-- war
-- migration
+  - war
+  - migration
 regions:
-- africa
-- europe
+  - africa
+  - europe
 importance: 3
 locations:
-- place: lisbon
-  role: origin
-- place: ceuta
-  role: destination
+  - place: lisbon
+    role: origin
+  - place: ceuta
+    role: destination
 wikipedia:
-  en: Conquest of Ceuta
+  en: Portuguese conquest of Ceuta

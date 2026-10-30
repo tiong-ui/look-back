@@ -13,16 +13,16 @@ end:
   month: 8
 precision: month
 categories:
-- migration
-- trade
+  - migration
+  - trade
 regions:
-- southeast-asia
-- europe
+  - southeast-asia
+  - europe
 importance: 3
 locations:
-- place: amsterdam
-  role: origin
-- place: banten
-  role: destination
+  - place: amsterdam
+    role: origin
+  - place: banten
+    role: destination
 wikipedia:
-  en: First Dutch Expedition to Indonesia
+  en: First Dutch Expedition to the East Indies

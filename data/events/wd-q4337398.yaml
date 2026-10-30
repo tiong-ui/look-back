@@ -15,22 +15,22 @@ end:
   day: 14
 precision: day
 categories:
-- war
+  - war
 regions:
-- southeast-asia
+  - southeast-asia
 importance: 3
 wikidata: Q4337398
 locations:
-- place: wd-q4337398-site
-  role: primary
-- place: wd-q185221
-  role: secondary
+  - place: wd-q4337398-site
+    role: primary
+  - place: wd-q185221
+    role: secondary
 wikipedia:
   en: Siege of Malacca (1640–1641)
   zh: 馬六甲圍城戰 (1641年)
 importHash: 628cf30f7b24
 relations:
-- event: wd-q4110453
-  type: related
-- event: voc-founded
-  type: part_of
+  - event: wd-q4110453
+    type: related
+  - event: voc-founded
+    type: part_of

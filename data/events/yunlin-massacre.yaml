@@ -10,16 +10,16 @@ start:
   month: 6
 precision: month
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: douliu
-  role: primary
+  - place: douliu
+    role: primary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of
 wikipedia:
   zh: 雲林大屠殺

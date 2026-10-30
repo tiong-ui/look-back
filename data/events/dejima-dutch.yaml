@@ -10,20 +10,21 @@ start:
   month: 5
 precision: month
 categories:
-- trade
-- culture
+  - trade
+  - culture
 regions:
-- japan
+  - japan
 importance: 3
 locations:
-- place: hirado
-  role: origin
-- place: dejima
-  role: destination
+  - place: hirado
+    role: origin
+  - place: dejima
+    role: destination
 relations:
-- event: tokugawa-shogunate
-  type: related
-- event: voc-founded
-  type: part_of
+  - event: tokugawa-shogunate
+    type: related
+  - event: voc-founded
+    type: part_of
 wikipedia:
   en: Dejima
+  zh: 出島

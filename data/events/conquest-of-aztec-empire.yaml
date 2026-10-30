@@ -14,13 +14,14 @@ end:
   day: 13
 precision: month
 categories:
-- war
-- dynasty
+  - war
+  - dynasty
 regions:
-- americas
+  - americas
 importance: 4
 locations:
-- place: tenochtitlan
-  role: primary
+  - place: tenochtitlan
+    role: primary
 wikipedia:
   en: Spanish conquest of the Aztec Empire
+  zh: 西班牙征服阿兹特克帝国

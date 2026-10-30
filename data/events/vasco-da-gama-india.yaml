@@ -11,16 +11,16 @@ start:
   day: 20
 precision: day
 categories:
-- migration
-- trade
+  - migration
+  - trade
 regions:
-- south-asia
-- europe
+  - south-asia
+  - europe
 importance: 5
 locations:
-- place: lisbon
-  role: origin
-- place: calicut
-  role: destination
+  - place: lisbon
+    role: origin
+  - place: calicut
+    role: destination
 wikipedia:
   en: Portuguese discovery of the sea route to India

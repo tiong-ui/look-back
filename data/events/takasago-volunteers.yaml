@@ -12,24 +12,24 @@ end:
   year: 1945
 precision: month
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taiwan
-  role: origin
-- place: manila
-  role: destination
+  - place: taiwan
+    role: origin
+  - place: manila
+    role: destination
 relations:
-- event: taiwanese-imperial-soldiers
-  type: part_of
+  - event: taiwanese-imperial-soldiers
+    type: part_of
 perspectives:
-- view: indigenous
-  text:
-    zh-TW: 族人參加的原因各不相同，包括被動員、戰士榮譽傳統與生計；戰後倖存者與遺族長期爭取補償與正名。
-    en: People joined for many reasons, from mobilisation to warrior traditions and livelihood; survivors and families campaigned for decades for compensation and recognition.
+  - view: indigenous
+    text:
+      zh-TW: 族人參加的原因各不相同，包括被動員、戰士榮譽傳統與生計；戰後倖存者與遺族長期爭取補償與正名。
+      en: People joined for many reasons, from mobilisation to warrior traditions and livelihood; survivors and families campaigned for decades for compensation and recognition.
 wikipedia:
   zh: 高砂義勇隊
   en: Takasago Volunteers

@@ -15,21 +15,21 @@ end:
   day: 24
 precision: day
 categories:
-- war
+  - war
 regions:
-- china
-- taiwan
+  - china
+  - taiwan
 importance: 3
 wikidata: Q704333
 locations:
-- place: wd-q3916279
-  role: primary
+  - place: wd-q3916279
+    role: primary
 wikipedia:
   en: Battle of Macau
   zh: 葡荷澳門戰役
 importHash: a3b4cca0fa40
 relations:
-- event: dutch-penghu
-  type: precedes
-- event: voc-founded
-  type: part_of
+  - event: dutch-penghu
+    type: precedes
+  - event: voc-founded
+    type: part_of

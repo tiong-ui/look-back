@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  check:
+  wikipedia:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:

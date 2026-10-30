@@ -11,18 +11,16 @@ end:
   year: 1945
 precision: year
 categories:
-- war
+  - war
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: taiwan
-  role: origin
-- place: manila
-  role: destination
+  - place: taiwan
+    role: origin
+  - place: manila
+    role: destination
 relations:
-- event: pacific-war
-  type: part_of
-wikipedia:
-  zh: 臺籍日本兵
+  - event: pacific-war
+    type: part_of

@@ -9,15 +9,16 @@ start:
   year: 1513
 precision: year
 categories:
-- migration
-- trade
+  - migration
+  - trade
 regions:
-- china
+  - china
 importance: 2
 locations:
-- place: malacca
-  role: origin
-- place: tunmen
-  role: destination
+  - place: malacca
+    role: origin
+  - place: tunmen
+    role: destination
 wikipedia:
   en: Jorge Álvares
+  zh: 歐華利

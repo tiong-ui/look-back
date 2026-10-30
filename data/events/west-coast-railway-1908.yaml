@@ -11,18 +11,18 @@ start:
   day: 20
 precision: day
 categories:
-- trade
+  - trade
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 3
 locations:
-- place: keelung
-  role: origin
-- place: kaohsiung
-  role: destination
-- place: taichung
-  role: secondary
+  - place: keelung
+    role: origin
+  - place: kaohsiung
+    role: destination
+  - place: taichung
+    role: secondary
 relations:
-- event: japanese-rule-taiwan
-  type: part_of
+  - event: japanese-rule-taiwan
+    type: part_of

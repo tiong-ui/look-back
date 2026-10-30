@@ -2,8 +2,8 @@ id: potosi
 lng: -65.75
 lat: -19.59
 names:
-- zh-TW: 波托西
-  en: Potosí
+  - zh-TW: 波托西
+    en: Potosí
 modern:
   zh-TW: 玻利維亞
   en: Bolivia

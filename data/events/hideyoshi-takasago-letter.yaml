@@ -9,16 +9,16 @@ start:
   year: 1593
 precision: year
 categories:
-- diplomacy
+  - diplomacy
 regions:
-- taiwan
-- japan
+  - taiwan
+  - japan
 importance: 2
 locations:
-- place: hizen-nagoya
-  role: origin
-- place: taiwan
-  role: destination
+  - place: hizen-nagoya
+    role: origin
+  - place: taiwan
+    role: destination
 relations:
-- event: imjin-war
-  type: related
+  - event: imjin-war
+    type: related

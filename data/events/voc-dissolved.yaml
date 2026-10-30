@@ -11,19 +11,20 @@ start:
   day: 31
 precision: day
 categories:
-- dynasty
-- trade
+  - dynasty
+  - trade
 regions:
-- southeast-asia
-- europe
+  - southeast-asia
+  - europe
 importance: 3
 locations:
-- place: batavia
-  role: primary
-- place: amsterdam
-  role: secondary
+  - place: batavia
+    role: primary
+  - place: amsterdam
+    role: secondary
 relations:
-- event: voc-founded
-  type: follows
+  - event: voc-founded
+    type: follows
 wikipedia:
   en: Dutch East Indies
+  zh: 荷屬東印度

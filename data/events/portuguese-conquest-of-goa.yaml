@@ -11,16 +11,16 @@ start:
   day: 25
 precision: day
 categories:
-- war
-- dynasty
+  - war
+  - dynasty
 regions:
-- south-asia
+  - south-asia
 importance: 3
 locations:
-- place: goa
-  role: primary
+  - place: goa
+    role: primary
 relations:
-- event: vasco-da-gama-india
-  type: follows
+  - event: vasco-da-gama-india
+    type: follows
 wikipedia:
   en: Portuguese conquest of Goa
