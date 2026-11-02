@@ -21,7 +21,10 @@ wikidata: Q1967193
 locations:
   - place: wd-q483134
     role: primary
+relations:
+  - event: wd-q706428
+    type: part_of
 wikipedia:
   en: Second conflict in the Goryeo–Khitan War
   zh: 第二次高丽契丹战争
-importHash: 5d569512f723
+importHash: 343d6ef5e7b5

@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Chakirmaut
   zh: 纳忽昏山-不黑都儿麻之战
-importHash: 85d16be31699
+importHash: d8860b5e2ab0

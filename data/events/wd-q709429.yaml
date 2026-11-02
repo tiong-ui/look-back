@@ -11,7 +11,6 @@ start:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -24,4 +23,4 @@ locations:
 wikipedia:
   en: Battle of Beiping–Tianjin
   zh: 平津作战
-importHash: 6797348f5638
+importHash: 7fd6688a033f

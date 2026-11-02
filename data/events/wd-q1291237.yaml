@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Yique
   zh: 伊阙之战
-importHash: edcca5720884
+importHash: 30c5b519853c

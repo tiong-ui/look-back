@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Tirad Pass
-importHash: b3a67b0798cd
+importHash: ca2cde4b5a86

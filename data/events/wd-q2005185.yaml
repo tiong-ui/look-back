@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Maling
   zh: 馬陵之戰
-importHash: bd6e89f25a77
+importHash: 1012f0e982b1

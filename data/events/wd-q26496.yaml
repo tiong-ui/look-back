@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Surabaya
   zh: 泗水战役
-importHash: 18c4d50eeba6
+importHash: d2cf671e962c

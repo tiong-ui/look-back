@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battles of Kawanakajima
   zh: 川中島之戰
-importHash: b7be2af3ca64
+importHash: 7ab0cccf658c

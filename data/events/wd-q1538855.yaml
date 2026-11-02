@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Angaur
   zh: 安加爾戰役
-importHash: 78bed1ad98a6
+importHash: b0dc77c8d33d

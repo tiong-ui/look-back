@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Musa Qala
-importHash: 675e7f061629
+importHash: bf7dc27b67f9

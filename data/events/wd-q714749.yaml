@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Battle of Ia Drang
   zh: 德浪河谷戰役
-importHash: 215e9e550276
+importHash: a5fdc28e036e

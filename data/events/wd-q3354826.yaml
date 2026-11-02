@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Operation Red Wings
-importHash: aead8a8f401d
+importHash: ad69b914893d

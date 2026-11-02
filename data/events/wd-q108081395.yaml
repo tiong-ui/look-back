@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Kandahar (2021)
   zh: 坎大哈战役 (2021年)
-importHash: ea4a2b2b41c7
+importHash: 3bd53f1f5139

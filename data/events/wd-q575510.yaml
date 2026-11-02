@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Pochonbo
   zh: 普天堡戰鬥
-importHash: "016269250701"
+importHash: 5994213cd99c

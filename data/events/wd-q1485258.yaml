@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Chora
-importHash: 81eea7ed4792
+importHash: f577634f24c5

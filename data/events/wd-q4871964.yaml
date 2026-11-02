@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -20,4 +19,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Oxus River
-importHash: 00d9369adc50
+importHash: bf2f951033bf

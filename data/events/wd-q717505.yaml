@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Xinkou
   zh: 忻口會戰
-importHash: 1a9975e13e77
+importHash: 8b03b9fb81cc

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 4
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Marco Polo Bridge incident
   zh: 七七事变
-importHash: f9f6719df798
+importHash: acab1d7a82bd

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 4
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Iwo Jima
   zh: 硫磺岛战役
-importHash: 9463acae739a
+importHash: 77a72a667cf8

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Shigino
   zh: 鴫野之戰
-importHash: 042a4e3f519a
+importHash: b2c9c0763912

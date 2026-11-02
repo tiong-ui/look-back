@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Bombardment of Kagoshima
   zh: 薩英戰爭
-importHash: 54a7b249cdaf
+importHash: c8ff750567d5

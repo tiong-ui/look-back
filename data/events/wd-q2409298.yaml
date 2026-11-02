@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Nanshan
   zh: 南山会战
-importHash: 8a953d94c02c
+importHash: 43a007d3b5b7

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -31,4 +30,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Hamburger Hill
-importHash: fd8c57d77693
+importHash: f031af1e0305

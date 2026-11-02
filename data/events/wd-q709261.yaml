@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Hundred Regiments Offensive
   zh: 百团大战
-importHash: bce085112532
+importHash: 92098c23f340

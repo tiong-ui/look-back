@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -24,4 +23,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Gandamak
-importHash: 16ee2fafcecf
+importHash: ecbfcf69789b

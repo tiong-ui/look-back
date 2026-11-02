@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: General Sherman incident
   zh: 舍门将军号事件
-importHash: 8b44fae93824
+importHash: 8e2e4cb35a8d

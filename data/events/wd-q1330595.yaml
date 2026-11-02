@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -28,4 +27,4 @@ locations:
 wikipedia:
   en: Battle of Fancheng
   zh: 樊城之戰
-importHash: e056d32c0bbd
+importHash: 0ca60a9014f1

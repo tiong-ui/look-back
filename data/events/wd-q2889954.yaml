@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -29,4 +28,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Saigon (1968)
-importHash: dec296fa8b6d
+importHash: 2e12b66c5a4e

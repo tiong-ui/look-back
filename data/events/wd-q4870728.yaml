@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Chinhai
   zh: 镇海之战 (1841年)
-importHash: 55fbec4d0bbb
+importHash: f369372a168e

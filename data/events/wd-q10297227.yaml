@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Buir Lake
   zh: 明太祖第六次北伐
-importHash: 6d1240c7dddd
+importHash: e65c44ec4ed8

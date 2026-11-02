@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -24,7 +23,10 @@ wikidata: Q2748355
 locations:
   - place: wd-q10840765
     role: primary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Battle of Route Coloniale 4
   zh: 边界战役
-importHash: 1e0dc0aa9f0b
+importHash: 21351930f853

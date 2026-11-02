@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -26,7 +25,10 @@ locations:
     role: primary
   - place: wd-q36015
     role: secondary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Battle of Hòa Bình
   zh: 和平戰役
-importHash: ab9b98d2b3a5
+importHash: 9ffb4bb1170a

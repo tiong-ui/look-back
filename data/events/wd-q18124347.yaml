@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -25,4 +24,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Khyber Pass (1738)
-importHash: 0ef1961985e3
+importHash: 5c1fc0b4c4fe

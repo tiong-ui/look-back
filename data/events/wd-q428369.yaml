@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Nagashino
   zh: 長篠之戰
-importHash: 5079b88a5542
+importHash: fb7588822d66

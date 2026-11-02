@@ -1,6 +1,6 @@
 id: wd-q107629208
 title:
-  zh-TW: Irghiz River skirmish
+  zh-TW: 蒙古河中之戰
   en: Irghiz River skirmish
 summary:
   zh-TW: first battle fought between the Khwarezmian and Mongol empires, on the banks of the Irghiz river
@@ -19,4 +19,5 @@ locations:
     role: primary
 wikipedia:
   en: Irghiz River skirmish
-importHash: 8cd4a810117a
+  zh: 蒙古河中之战
+importHash: 3ae314d45046

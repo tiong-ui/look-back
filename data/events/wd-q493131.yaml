@@ -11,7 +11,7 @@ start:
   day: 6
 precision: day
 categories:
-  - politics
+  - war
 regions:
   - korea
 importance: 1
@@ -24,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Pyongtaek
   zh: 平泽战役
-importHash: 556b90ec2e7b
+importHash: 30310856b3c5

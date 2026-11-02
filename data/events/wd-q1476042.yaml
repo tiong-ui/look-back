@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Operation Anaconda
   zh: 森蚺行動
-importHash: 289e909cdd0b
+importHash: 3f5ad9d7757e

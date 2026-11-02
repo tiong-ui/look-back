@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 1
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Kapyong
   zh: 加平戰鬥
-importHash: f6216564dc28
+importHash: 6e5367e3cebc

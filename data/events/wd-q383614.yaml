@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -26,4 +25,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Kohima
-importHash: 929c6433be24
+importHash: 0896611f42f5

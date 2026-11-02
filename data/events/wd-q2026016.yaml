@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Operation Cartwheel
   zh: 車輪行動
-importHash: 17c838be3b90
+importHash: c4936b968c71

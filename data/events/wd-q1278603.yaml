@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Yanling
   zh: 鄢陵之战
-importHash: 0efbadbd1a75
+importHash: d62fb0360b68

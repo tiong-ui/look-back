@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Operation Moshtarak
-importHash: a1a17d3a1dc9
+importHash: 50c5c31b475a

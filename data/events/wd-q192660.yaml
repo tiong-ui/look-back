@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 4
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Okinawa
   zh: 沖繩島戰役
-importHash: 90a4510005ca
+importHash: a5c500ff8997

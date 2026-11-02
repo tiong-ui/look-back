@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Ambon
-importHash: 15947691eaa8
+importHash: 933d1956e5ac

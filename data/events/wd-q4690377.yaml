@@ -22,6 +22,9 @@ wikidata: Q4690377
 locations:
   - place: wd-q4690376
     role: primary
+relations:
+  - event: wd-q4871359
+    type: part_of
 wikipedia:
   en: Afshar massacre
-importHash: 447dc7760320
+importHash: 66e396237f05

@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Day of Thirst
   zh: 渴水日戰爭
-importHash: ec65f901509b
+importHash: f707d733cc40

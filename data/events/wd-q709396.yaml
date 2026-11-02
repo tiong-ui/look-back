@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Pingxingguan
   zh: 平型关战役
-importHash: f49d14e35495
+importHash: 654e04fdfbc9

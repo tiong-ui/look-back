@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Mukden
   zh: 奉天会战
-importHash: df5beaf48bde
+importHash: d71a1f995a18

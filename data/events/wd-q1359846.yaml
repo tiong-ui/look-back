@@ -1,0 +1,29 @@
+id: wd-q1359846
+title:
+  zh-TW: 法暹戰爭
+  en: 1893 Franco-Siamese crisis
+summary:
+  zh-TW: Incident between France and Siam
+  en: Incident between France and Siam
+start:
+  year: 1893
+  month: 7
+  day: 13
+end:
+  year: 1893
+  month: 10
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q1359846
+locations:
+  - place: wd-q185682
+    role: primary
+wikipedia:
+  en: 1893 Franco-Siamese crisis
+  zh: 法暹战争
+importHash: 8e305245b8b6

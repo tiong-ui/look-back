@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -29,4 +28,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Asal Uttar
-importHash: 24ea9d241cc3
+importHash: 2213146d3232

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Saipan
   zh: 塞班島戰役
-importHash: b3cc79e8014f
+importHash: 86bef7790ebf

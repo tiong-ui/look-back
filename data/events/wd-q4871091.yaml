@@ -11,7 +11,7 @@ start:
   day: 16
 precision: day
 categories:
-  - politics
+  - war
 regions:
   - south-asia
 importance: 1
@@ -23,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Ghaghra
-importHash: 91d1e5e8de59
+importHash: 06467ac12590

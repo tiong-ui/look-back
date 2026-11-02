@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Assaye
-importHash: 5d1fba3dd7c1
+importHash: 9fbac0f3476e

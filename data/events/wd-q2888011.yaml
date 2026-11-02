@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Okitanawate
   zh: 沖田畷之戰
-importHash: 4610d80f0f48
+importHash: b481156f0df2

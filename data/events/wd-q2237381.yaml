@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Awazu
   zh: 粟津之戰
-importHash: c5b65f70c095
+importHash: 43cfb2803dfc

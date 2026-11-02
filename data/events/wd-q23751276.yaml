@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 2
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Talasea
-importHash: 261936471edc
+importHash: c90b991bedd0

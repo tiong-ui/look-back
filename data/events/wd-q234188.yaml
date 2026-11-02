@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 4
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Sekigahara
   zh: 關原之戰
-importHash: e5a6d7094219
+importHash: a81d8c0101d9

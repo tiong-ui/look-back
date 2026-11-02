@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Taku Forts (1859)
   zh: 第二次大沽口之战
-importHash: 28a653476261
+importHash: 42c7d0fa3210

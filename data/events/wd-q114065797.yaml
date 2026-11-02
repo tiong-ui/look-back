@@ -21,11 +21,11 @@ regions:
 importance: 4
 wikidata: Q114065797
 locations:
-  - place: wd-q939575
-    role: primary
   - place: wd-q140561
+    role: primary
+  - place: wd-q939575
     role: secondary
 wikipedia:
   en: Mahsa Amini protests
   zh: 阿米尼示威
-importHash: 6842c0063088
+importHash: d497fc2ed5df

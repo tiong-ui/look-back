@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Anegawa
   zh: 姊川之戰
-importHash: b5503140d6b3
+importHash: 915625cc80c9

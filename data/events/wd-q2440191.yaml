@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Liaoyang
   zh: 辽阳会战
-importHash: ef5ef5cf8f27
+importHash: 351c13fdf951

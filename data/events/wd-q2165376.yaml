@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Tarakan (1942)
-importHash: 5686c37b185f
+importHash: 5091f3b616d9

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Operation Achilles
-importHash: 9558b7ea8cbf
+importHash: ceadfe8de3aa

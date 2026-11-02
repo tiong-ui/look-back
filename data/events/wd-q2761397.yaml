@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of the Arius
   zh: 阿利烏河戰役
-importHash: d9d10613ddae
+importHash: c458b5161182

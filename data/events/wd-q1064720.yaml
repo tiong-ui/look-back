@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -28,4 +27,4 @@ locations:
 wikipedia:
   en: Siege of Kawagoe Castle
   zh: 河越城之戰
-importHash: 81ecb1972daf
+importHash: d44a727554aa

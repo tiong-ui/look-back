@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Miyajima
   zh: 嚴島之戰
-importHash: 1cf047aac737
+importHash: fd9d8c5aa51d

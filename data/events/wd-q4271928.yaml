@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Balikpapan (1945)
-importHash: 94b9a6a6a8cd
+importHash: aacab1fe2c0b

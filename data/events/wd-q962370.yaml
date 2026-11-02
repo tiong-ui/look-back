@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -26,7 +25,10 @@ locations:
     role: primary
   - place: wd-q1858
     role: secondary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Battle of Hanoi (1946)
   zh: 河內戰役 (1946年)
-importHash: 6a068d5be08a
+importHash: 3db4a8ac22df

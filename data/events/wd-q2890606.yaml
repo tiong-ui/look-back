@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -28,4 +27,4 @@ relations:
 wikipedia:
   en: Battle of Miyako Bay
   zh: 宮古灣海戰
-importHash: 5211c6d021eb
+importHash: d17dd8c81c09

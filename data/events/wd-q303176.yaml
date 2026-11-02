@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Manila (1898)
-importHash: 37e2aa8f9a78
+importHash: 98a6f6129c8c

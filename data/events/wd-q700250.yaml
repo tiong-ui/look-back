@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Kunlun Pass
   zh: 昆仑关战役
-importHash: 75d785443f96
+importHash: b043cd498990

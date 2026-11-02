@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of the Sittang Bend
-importHash: 10049d73e9e3
+importHash: 1ae1c7f4c96c

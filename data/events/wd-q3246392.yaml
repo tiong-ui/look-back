@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Miani
-importHash: 47256d27b694
+importHash: 1cf6278d8966

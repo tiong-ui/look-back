@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Naval Battle of Hakodate
   zh: 箱館灣海戰
-importHash: ec0ff30d3664
+importHash: e14a6d020b8a

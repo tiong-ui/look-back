@@ -21,11 +21,11 @@ locations:
     role: primary
   - place: wd-q281527
     role: secondary
-  - place: wd-q5579185
-    role: secondary
   - place: wd-q3270129
+    role: secondary
+  - place: wd-q5579185
     role: secondary
 wikipedia:
   en: Storming of the Legislative Council Complex
   zh: 2019年香港七一衝突
-importHash: 61bb64c1be89
+importHash: fa552552e0f1

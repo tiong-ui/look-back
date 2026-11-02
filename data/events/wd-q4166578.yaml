@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -22,4 +21,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Khanwa
-importHash: 8bc3504b82b0
+importHash: 38e839c31a21

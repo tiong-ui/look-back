@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Manila (1762)
-importHash: f4ed7a09a7a9
+importHash: 564fc2aafa03

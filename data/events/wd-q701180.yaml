@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Nanking
   zh: 南京保卫战
-importHash: ff67cfcc6c66
+importHash: 7b25217f82c5

@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Julu
   zh: 巨鹿之战
-importHash: ff39c03ca2b6
+importHash: 8edf18fa73aa

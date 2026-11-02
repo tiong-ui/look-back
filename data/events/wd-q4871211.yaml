@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -20,4 +19,4 @@ locations:
     role: primary
 wikipedia:
   en: Hephthalite–Sasanian War of 484
-importHash: 7023da3bcca9
+importHash: f35f95393517

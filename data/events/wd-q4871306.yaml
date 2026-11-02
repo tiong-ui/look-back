@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Jaji
-importHash: 743422cb7897
+importHash: f0764fe691e7

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Leyte
   zh: 雷伊泰島戰役
-importHash: 995748150f3d
+importHash: ac55d193970d

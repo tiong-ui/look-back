@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Battle of Kontum
   zh: 崑嵩戰役
-importHash: e69ad9e8f929
+importHash: 9b5fef2bca0f

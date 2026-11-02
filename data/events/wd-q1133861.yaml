@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Mimasetoge
   zh: 三增峠之戰
-importHash: 66862dccc3bf
+importHash: 305eda0d5366

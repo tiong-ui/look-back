@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -20,4 +19,4 @@ locations:
     role: primary
 wikipedia:
   en: Second Battle of Tarain
-importHash: 7f176b215462
+importHash: 60e21c73285a

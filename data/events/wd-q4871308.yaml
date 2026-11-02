@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -27,4 +26,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Jamrud
-importHash: 262280431d2d
+importHash: 89cd18fcd433

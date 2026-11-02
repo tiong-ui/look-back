@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -31,4 +30,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Binh Gia
-importHash: 17bc998fd9e3
+importHash: 5682d60754f7

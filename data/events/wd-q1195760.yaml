@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -28,4 +27,4 @@ locations:
 wikipedia:
   en: Battle of Changping
   zh: 长平之战
-importHash: aa7d691086a3
+importHash: 9ac9f7a68605

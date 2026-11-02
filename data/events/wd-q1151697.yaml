@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -28,4 +27,4 @@ locations:
 wikipedia:
   en: Battle of Shiting
   zh: 石亭之戰
-importHash: 1bd9e828f2e2
+importHash: fe31ef9ec613

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Azukizaka (1542)
   zh: 小豆坂之战
-importHash: 098d0c32b733
+importHash: 39ae7aa97944

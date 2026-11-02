@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 4
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Plassey
   zh: 普拉西之戰
-importHash: 02b5fce4df90
+importHash: 573bbd6d60c3

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Saigon (1955)
   zh: 西貢戰役 (1955年)
-importHash: 745a313bb42a
+importHash: 6bf84bd14751

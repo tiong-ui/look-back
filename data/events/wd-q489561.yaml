@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Heartbreak Ridge
   zh: 伤心岭战役
-importHash: 358e0c77ea2f
+importHash: b15a0549468f

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -29,4 +28,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Kham Duc
-importHash: cb81626520c0
+importHash: b8153632efc7

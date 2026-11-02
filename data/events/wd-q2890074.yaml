@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Suixian–Zaoyang
   zh: 随枣会战
-importHash: c5e50541391e
+importHash: f209dc334467

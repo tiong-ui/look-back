@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 3
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Salsu
   zh: 薩水之戰
-importHash: "333406122523"
+importHash: b210feba4178

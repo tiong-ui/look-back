@@ -11,7 +11,6 @@ precision: millennium
 approximate: true
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -22,4 +21,4 @@ locations:
 wikipedia:
   en: Battle of Zhuolu
   zh: 涿鹿之戰
-importHash: 5bc794e716f1
+importHash: bd0719a61aba

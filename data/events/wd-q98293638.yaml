@@ -8,7 +8,7 @@ summary:
 start:
   year: 2020
   month: 8
-  day: 12
+  day: 11
 precision: day
 categories:
   - democracy
@@ -21,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: 2020 Bangalore riots
-importHash: be0c5ad7bfcc
+importHash: dcb6681839d1

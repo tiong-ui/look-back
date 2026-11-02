@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Guandu
   zh: 官渡之战
-importHash: a0472d13bdaf
+importHash: af78d3333a11

@@ -11,7 +11,6 @@ start:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -21,4 +20,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Herat (1729)
-importHash: 932b8ee1d7bd
+importHash: 4a7802ec2668

@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -26,4 +25,4 @@ locations:
 wikipedia:
   en: Battle of Jieting
   zh: 街亭之戰
-importHash: adb438ca4a6f
+importHash: 8fc904ba5782

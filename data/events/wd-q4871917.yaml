@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -28,4 +27,4 @@ locations:
 wikipedia:
   en: Battle of Northern Burma and Western Yunnan
   zh: 滇西缅北战役
-importHash: c1e020722308
+importHash: bfda0bcfbbe2

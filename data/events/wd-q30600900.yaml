@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Sirhind (1555)
-importHash: 706a31185634
+importHash: 477276a74491

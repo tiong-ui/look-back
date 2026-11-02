@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Merv
   zh: 梅爾夫戰役
-importHash: 412c7c542047
+importHash: eb9136e2d0e7

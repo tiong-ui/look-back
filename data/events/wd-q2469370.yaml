@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Motien Pass
   zh: 摩天嶺之戰
-importHash: 03ed284dc8da
+importHash: 31333dc50be8

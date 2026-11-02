@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Manila (1899)
   zh: 馬尼拉戰役 (1899年)
-importHash: 7491b448d274
+importHash: 8fbdcabddc6d

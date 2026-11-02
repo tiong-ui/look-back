@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Triangle Hill
   zh: 上甘岭战役
-importHash: 4a27b0193325
+importHash: eff2fe570df5

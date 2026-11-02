@@ -11,7 +11,6 @@ start:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 4
@@ -24,4 +23,4 @@ locations:
 wikipedia:
   en: Battle of the Hydaspes
   zh: 希達斯皮斯河戰役
-importHash: 6c4c98ef3744
+importHash: 00481886bffe

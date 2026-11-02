@@ -11,7 +11,6 @@ start:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -21,4 +20,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Raichur
-importHash: 68cc65247f5a
+importHash: 2851224cfddf

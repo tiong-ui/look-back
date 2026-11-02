@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -28,4 +27,4 @@ relations:
 wikipedia:
   en: Battle of Shiroyama
   zh: 城山之战
-importHash: 94d38c8bae8c
+importHash: 42b1bdaa7b91

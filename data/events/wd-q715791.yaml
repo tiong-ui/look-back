@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Pyongyang (1894)
   zh: 平壤之戰 (1894年)
-importHash: cd919870337b
+importHash: 0790d4557fc5

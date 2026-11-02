@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Tinian
   zh: 天寧島戰役
-importHash: 52c0d8414191
+importHash: a8f687a4c6b3

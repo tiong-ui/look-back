@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Gaixia
   zh: 垓下之战
-importHash: 6ef96bf416af
+importHash: b8e3d33d9130

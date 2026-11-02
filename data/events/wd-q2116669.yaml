@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Mount Dingjun
   zh: 定军山之战
-importHash: 7e54b2889b00
+importHash: aa7a731139a5

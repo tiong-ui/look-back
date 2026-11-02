@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of West Hunan
   zh: 湘西会战
-importHash: fa5e8a71ca4a
+importHash: b1c807b6668d

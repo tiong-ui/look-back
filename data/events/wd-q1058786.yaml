@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,6 +24,6 @@ locations:
   - place: wd-q1058786-site
     role: primary
 wikipedia:
-  en: Battle of Kanagawa
+  en: Battle of Kannagawa
   zh: 神流川之戰
-importHash: 2f9cc45376ce
+importHash: 5ca693b008bb

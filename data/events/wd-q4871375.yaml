@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Kampar
   zh: 金寶戰役
-importHash: b815a5c96fdc
+importHash: a580f31750b4

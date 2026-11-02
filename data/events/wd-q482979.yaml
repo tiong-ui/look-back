@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of the Pusan Perimeter
   zh: 釜山環形防禦圈戰役
-importHash: 1291d41a43e0
+importHash: 6bb4bfaf3adb

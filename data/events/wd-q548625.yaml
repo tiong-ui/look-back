@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Maiwand
-importHash: 634f61a27aed
+importHash: 91fc225f3159

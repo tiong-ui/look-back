@@ -11,7 +11,6 @@ start:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -27,4 +26,4 @@ relations:
 wikipedia:
   en: Battle of Changban
   zh: 长坂坡之战
-importHash: 5a60c21beab9
+importHash: fc4b7212a1f4

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Ichi-no-Tani
   zh: 一之谷之戰
-importHash: 73eeed4591a9
+importHash: 01741a1f7afc

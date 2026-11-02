@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Talikota
-importHash: e5e5fee0daa4
+importHash: ff78e6872a58

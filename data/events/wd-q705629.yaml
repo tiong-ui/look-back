@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Hokuetsu
   zh: 北越戰爭
-importHash: 4c44fca12695
+importHash: ebf4a8d4898f

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Toba–Fushimi
   zh: 鸟羽伏见之战
-importHash: 81efb572b1eb
+importHash: 676ce61e9920

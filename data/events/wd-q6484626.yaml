@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 1
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Landing at Nadzab
-importHash: a47b897b1beb
+importHash: 44e51b095591

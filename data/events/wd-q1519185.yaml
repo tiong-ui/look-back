@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Operation Hastings
-importHash: b5189f554211
+importHash: ef5cdd801f61

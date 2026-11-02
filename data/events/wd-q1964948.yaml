@@ -21,6 +21,9 @@ wikidata: Q1964948
 locations:
   - place: wd-q1964948-site
     role: primary
+relations:
+  - event: wd-q349422
+    type: part_of
 wikipedia:
   en: Siege of Marune
-importHash: c6959ba6165b
+importHash: 8a9997a7cc68

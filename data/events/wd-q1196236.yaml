@@ -12,10 +12,9 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
-importance: 2
+importance: 3
 wikidata: Q1196236
 locations:
   - place: wd-q1196236-site
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Tumu Crisis
   zh: 土木堡之变
-importHash: 900b6a77cab8
+importHash: 09a0bfc8cda0

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Defense of Sihang Warehouse
   zh: 四行仓库保卫战
-importHash: 3d335603fdd6
+importHash: f9ccdcc4456c

@@ -22,7 +22,10 @@ wikidata: Q192055
 locations:
   - place: wd-q192055-site
     role: primary
+relations:
+  - event: wd-q701180
+    type: part_of
 wikipedia:
   en: Nanjing Massacre
   zh: 南京大屠殺
-importHash: 09655f43736f
+importHash: 1c26afb6d448

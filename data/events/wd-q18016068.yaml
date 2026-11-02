@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: First Battle of Seoul
   zh: 第一次漢城戰役
-importHash: f4f641a132b5
+importHash: 752a57f962d0

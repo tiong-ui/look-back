@@ -21,15 +21,15 @@ regions:
 importance: 2
 wikidata: Q132473192
 locations:
-  - place: wd-q8156
-    role: primary
   - place: wd-q650908
-    role: secondary
-  - place: wd-q8042
+    role: primary
+  - place: wd-q8156
     role: secondary
   - place: wd-q8179
+    role: secondary
+  - place: wd-q8131
     role: secondary
 wikipedia:
   en: 2025–2026 Indonesian protests
   zh: 2025年印尼抗議運動
-importHash: 0c3ab4f5983c
+importHash: 6014ab17e1f3

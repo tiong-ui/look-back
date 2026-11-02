@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Taku Forts (1858)
   zh: 第一次大沽口之戰
-importHash: 392a507aea37
+importHash: 5a5bcb5ab1af

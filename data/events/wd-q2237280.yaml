@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Tora Bora
-importHash: e6903c2a32d8
+importHash: c587e72acfdc

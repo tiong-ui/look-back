@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of the Indus
   zh: 印度河之戰
-importHash: df0e8cf82223
+importHash: 71bb579010d1

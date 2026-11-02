@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Third Battle of Nanjing
   zh: 天京之役
-importHash: 59ad7a38d92f
+importHash: c1a8939ef1b6

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Mikatagahara
   zh: 三方原之戰
-importHash: b5659f1bddf0
+importHash: dbb762a60236

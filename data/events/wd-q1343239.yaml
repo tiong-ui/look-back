@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Awa
-importHash: f8856c06461c
+importHash: 125b0d0fc20a

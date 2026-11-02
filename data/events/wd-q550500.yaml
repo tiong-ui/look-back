@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Battle of Nam Dong
   zh: 南东战役
-importHash: d417eb35cd17
+importHash: ee97c049f28c

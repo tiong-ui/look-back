@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -20,4 +19,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Makran
-importHash: 5af7b29647e4
+importHash: 416761a25aeb

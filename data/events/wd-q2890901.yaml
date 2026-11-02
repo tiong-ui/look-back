@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -31,4 +30,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Nam River
-importHash: ff30bd15ae55
+importHash: 69bbdf37bed7

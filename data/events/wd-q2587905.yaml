@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Manado
   zh: 万鸦老战役
-importHash: 3179e2046b37
+importHash: a4ae05224269

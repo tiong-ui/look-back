@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of South Shanxi
   zh: 中條山會戰
-importHash: a2d0e0e71872
+importHash: 952e77a8d9ad

@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -23,4 +22,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Hwangsanbeol
-importHash: 9a73ea5ba8f6
+importHash: 943a19a7ca75

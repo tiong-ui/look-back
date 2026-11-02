@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -31,4 +30,4 @@ locations:
 wikipedia:
   en: Battle of Timor
   zh: 帝汶戰役
-importHash: ad6fdc757919
+importHash: b32a06bfcede

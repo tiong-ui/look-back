@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Battle of Xuân Lộc
   zh: 春祿戰役
-importHash: 08ce4e355aa7
+importHash: a6cbc58f397c

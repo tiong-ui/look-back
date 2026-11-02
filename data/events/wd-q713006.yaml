@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Corregidor
   zh: 科雷吉多島戰役 (1942年)
-importHash: 33d99b66b178
+importHash: b67d186e70d5

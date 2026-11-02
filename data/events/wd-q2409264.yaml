@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Tashihchiao
-importHash: 38622a837863
+importHash: 320e569fa4b0
