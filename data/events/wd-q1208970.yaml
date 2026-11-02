@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Yingkou
   zh: 营口之战
-importHash: cf981d28ccf8
+importHash: 4583774cfe11

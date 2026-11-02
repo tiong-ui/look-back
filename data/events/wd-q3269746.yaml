@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Parwan
   zh: 八魯灣之戰
-importHash: 4455eeb78e4b
+importHash: 5817e2bb1c19

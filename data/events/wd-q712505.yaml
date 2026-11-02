@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Changde
   zh: 常德会战
-importHash: b03bc078de9d
+importHash: "945768482278"

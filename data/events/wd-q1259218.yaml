@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 4
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Third Battle of Panipat
   zh: 第三次帕尼帕特之戰
-importHash: 18835c9f3053
+importHash: f038ef7f3b90

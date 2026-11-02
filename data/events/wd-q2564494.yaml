@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Second Battle of Simtokha Dzong
   zh: 五喇嘛之战
-importHash: 48d1590ff61a
+importHash: 3b0fd8185eb4

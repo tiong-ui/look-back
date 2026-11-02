@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -26,4 +25,4 @@ relations:
 wikipedia:
   en: Battle of Hòa Mộc
   zh: 左育之戰
-importHash: 94d45ae55b45
+importHash: 685c07b0fd79

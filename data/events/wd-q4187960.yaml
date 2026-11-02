@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Inō
   zh: 稻生之戰
-importHash: 97463e13fbbe
+importHash: 24745f52e700

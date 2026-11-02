@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Aizu
   zh: 會津戰爭
-importHash: 4e2a89329a7d
+importHash: e9a20926a4a9

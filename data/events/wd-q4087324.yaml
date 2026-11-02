@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Battle of Tientsin
   zh: 天津之战
-importHash: 97d33df5eeea
+importHash: 95c0f3265e8e

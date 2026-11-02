@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -25,4 +24,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Ap Bac
-importHash: e48f2e39d3c9
+importHash: 0d6676926d80

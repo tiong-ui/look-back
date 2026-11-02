@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 3
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Battle of Lake Khasan
   zh: 张鼓峰事件
-importHash: f2d6dce9ca36
+importHash: a0d27fb08efb

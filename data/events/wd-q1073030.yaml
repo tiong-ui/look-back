@@ -21,9 +21,9 @@ wikidata: Q1073030
 locations:
   - place: wd-q1073030-site
     role: primary
-  - place: wd-q17052289
-    role: secondary
   - place: wd-q11652257
+    role: secondary
+  - place: wd-q17052289
     role: secondary
 relations:
   - event: wd-q859815
@@ -31,4 +31,4 @@ relations:
 wikipedia:
   en: Sieges of Nagashima
   zh: 長島一向一揆
-importHash: 8393e66a7a35
+importHash: 78f13763f3d3

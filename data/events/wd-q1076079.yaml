@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Shiojiritoge
   zh: 盐尻峠之战
-importHash: 1ac6e7159833
+importHash: a5f0b76a6b02

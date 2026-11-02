@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Ishibashiyama
   zh: 石橋山之戰
-importHash: 411dd3670653
+importHash: dbb673499aea

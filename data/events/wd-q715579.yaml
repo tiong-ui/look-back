@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Utsunomiya Castle
   zh: 宇都宮城之戰
-importHash: f589e10333f1
+importHash: 34867a096e3f

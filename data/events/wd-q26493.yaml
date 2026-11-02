@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Dandanaqan
   zh: 丹丹納干戰役
-importHash: 978a8a9dc87f
+importHash: f19511d11012

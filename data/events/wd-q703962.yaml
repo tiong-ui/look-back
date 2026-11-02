@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Luzon
   zh: 呂宋島戰役
-importHash: 04a57edb3887
+importHash: b54a6d39bb49

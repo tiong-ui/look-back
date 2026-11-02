@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Muye
   zh: 牧野之战
-importHash: a5cfd4eee8bd
+importHash: e227226a9bad

@@ -20,7 +20,10 @@ locations:
     role: primary
   - place: wd-q1461
     role: secondary
+relations:
+  - event: wd-q696931
+    type: part_of
 wikipedia:
   en: Manila massacre
   zh: 馬尼拉大屠殺
-importHash: ae123017a11d
+importHash: beb5bcdf6652

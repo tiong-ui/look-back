@@ -21,9 +21,11 @@ regions:
 importance: 3
 wikidata: Q1361929
 locations:
-  - place: wd-q18758
+  - place: wd-q1901211
     role: primary
+  - place: wd-q18758
+    role: secondary
 wikipedia:
   en: Konfrontasi
   zh: 印度尼西亚—马来西亚对抗
-importHash: 049b64e25401
+importHash: d2ab731e52aa

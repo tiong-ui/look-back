@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Siege of Marawi
   zh: 马拉维危机
-importHash: 332da310ee1f
+importHash: 29d6088cccb7

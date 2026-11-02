@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Operation Junction City
-importHash: c2d06975f933
+importHash: e50c80e79dd8

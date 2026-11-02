@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -24,6 +23,9 @@ locations:
     role: primary
   - place: wd-q6748577
     role: secondary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Battle of Mang Yang Pass
-importHash: abb181d94802
+importHash: 75a4bb2136f7

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Nanchang
   zh: 南昌会战
-importHash: 60fd9e032008
+importHash: ee82326e0af8

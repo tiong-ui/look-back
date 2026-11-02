@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Bataan
   zh: 巴丹半島戰役 (1942年)
-importHash: 86a50396b2f2
+importHash: 2d6071452e97

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Uzbin Valley ambush
-importHash: b75470e92120
+importHash: 6a25871d590b

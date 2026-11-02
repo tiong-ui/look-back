@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Changsha (1941)
   zh: 第二次长沙战役
-importHash: 4495e665bbf9
+importHash: eabc0ce99558

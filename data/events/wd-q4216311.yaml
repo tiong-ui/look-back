@@ -21,7 +21,10 @@ wikidata: Q4216311
 locations:
   - place: wd-q483134
     role: primary
+relations:
+  - event: wd-q706428
+    type: part_of
 wikipedia:
   en: First conflict in the Goryeo–Khitan War
   zh: 第一次高丽契丹战争
-importHash: 2527d0d33a46
+importHash: 40c7b0954de8

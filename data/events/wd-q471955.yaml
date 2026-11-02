@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Changsha (1944)
   zh: 第四次长沙会战
-importHash: 579de665f995
+importHash: 4f91ee5cd89f

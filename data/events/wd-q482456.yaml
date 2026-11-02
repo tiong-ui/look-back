@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 4
@@ -28,4 +27,4 @@ relations:
 wikipedia:
   en: Fall of Saigon
   zh: 四三〇事件
-importHash: c6905741e116
+importHash: 0ad4765b6013

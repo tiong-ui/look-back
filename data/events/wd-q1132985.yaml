@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Bowang
   zh: 博望坡之戰
-importHash: 029ec240532f
+importHash: 3b8ea186c146

@@ -11,7 +11,6 @@ start:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -21,4 +20,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Ghazni (998)
-importHash: 7f40e1b9453c
+importHash: bf8eb6672042

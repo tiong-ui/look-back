@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 4
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Battles of Khalkhin Gol
   zh: 諾門罕戰役
-importHash: 54155b25c238
+importHash: f4b48dbd056c

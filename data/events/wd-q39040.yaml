@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Yamazaki
   zh: 山崎之戰
-importHash: 2e1e437ee03b
+importHash: 06c48a2bc277

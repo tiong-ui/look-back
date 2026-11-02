@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Second Battle of Panipat
   zh: 第二次帕尼帕特之戰
-importHash: c631538702ab
+importHash: 3ec0c09fd3df

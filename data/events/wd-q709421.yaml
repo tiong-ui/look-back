@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Xuzhou
   zh: 徐州会战
-importHash: 01407da9e66e
+importHash: 8539bc1e7076

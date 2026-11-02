@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Sagami Bay
   zh: 相模灣海戰
-importHash: defdcaa9375b
+importHash: 440c30078def

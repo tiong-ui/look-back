@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Mimigawa
   zh: 耳川之戰
-importHash: 66baa6ca0686
+importHash: 2e325bffe435

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -27,4 +26,4 @@ relations:
     type: part_of
 wikipedia:
   en: Operation Ivory Coast
-importHash: f60769604a66
+importHash: 0edac6aecb58

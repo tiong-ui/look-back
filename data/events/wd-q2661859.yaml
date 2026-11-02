@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Penang
   zh: 檳城海戰
-importHash: ec956de5e073
+importHash: 4acd653c16b0

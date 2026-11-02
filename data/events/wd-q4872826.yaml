@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of the Admin Box
   zh: 第二次若开战役
-importHash: ce656cf10a6c
+importHash: 5b718e965a93

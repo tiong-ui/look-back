@@ -23,7 +23,10 @@ wikidata: Q3365438
 locations:
   - place: wd-q2289221
     role: primary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: War in southern Vietnam (1945–1946)
   zh: 越南戰爭 (1945年—1946年)
-importHash: 9fa2fa038747
+importHash: 8b66be3be922

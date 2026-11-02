@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Yashima
   zh: 屋島之戰
-importHash: 57a13a0dfdc0
+importHash: d02e4f0373d6

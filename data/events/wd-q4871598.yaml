@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -31,4 +30,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Longewala
-importHash: 77fd29fa657c
+importHash: 2e29d036360f

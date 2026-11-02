@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle off Ulsan
   zh: 蔚山海战
-importHash: fa09b6472f91
+importHash: 9742e5dddfb6

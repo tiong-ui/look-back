@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Muroyama
-importHash: 9a99c886202d
+importHash: 6bf6753c143f

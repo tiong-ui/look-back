@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Shaho
   zh: 沙河会战
-importHash: f192845ff94d
+importHash: 321e52096b69

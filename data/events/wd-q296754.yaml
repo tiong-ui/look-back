@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 4
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Fall of Singapore
   zh: 新加坡戰役
-importHash: 83a9e52c0d47
+importHash: db7a12cfce53

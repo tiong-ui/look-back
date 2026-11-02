@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of the Ch'ongch'on River
   zh: 清川江戰役
-importHash: d431c665a30f
+importHash: b2be96607944

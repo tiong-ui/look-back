@@ -19,13 +19,13 @@ wikidata: Q112666390
 locations:
   - place: wd-q112666390-site
     role: primary
+  - place: wd-q183314
+    role: secondary
   - place: wd-q178471
     role: secondary
   - place: wd-q182493
     role: secondary
-  - place: wd-q183314
-    role: secondary
 wikipedia:
   en: June 2022 Afghanistan earthquake
   zh: 2022年6月阿富汗地震
-importHash: 64cc84a46929
+importHash: 01704ac46121

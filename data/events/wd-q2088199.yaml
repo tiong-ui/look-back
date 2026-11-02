@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 1
@@ -26,4 +25,4 @@ locations:
     role: secondary
 wikipedia:
   en: Capture of Guam (1898)
-importHash: bd9f9da91a9b
+importHash: 3a637a2aca92

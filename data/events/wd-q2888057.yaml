@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Uji (1184)
   zh: 宇治川之戰
-importHash: 2a403f61c5cf
+importHash: eafb4aa9a499

@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Xiaoyao Ford
   zh: 合肥之戰
-importHash: 7e34942c4993
+importHash: f985aaea1eae

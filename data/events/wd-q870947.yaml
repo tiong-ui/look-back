@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
 wikipedia:
   en: Battle of Zhizhi
   zh: 郅支围城战
-importHash: e5ae0ac5825f
+importHash: a88b3f5f3e0b

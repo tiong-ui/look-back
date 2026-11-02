@@ -15,7 +15,7 @@ end:
   day: 4
 precision: day
 categories:
-  - politics
+  - war
 regions:
   - korea
 importance: 1
@@ -28,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Unsan
   zh: 云山战斗
-importHash: af122a08341d
+importHash: d876113d77ea

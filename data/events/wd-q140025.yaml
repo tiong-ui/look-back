@@ -1,0 +1,29 @@
+id: wd-q140025
+title:
+  zh-TW: 日軍入侵法屬印度支那
+  en: Japanese invasion of French Indochina
+summary:
+  zh-TW: 1940 battle
+  en: 1940 battle
+start:
+  year: 1940
+  month: 9
+  day: 26
+end:
+  year: 1940
+  month: 9
+  day: 26
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 3
+wikidata: Q140025
+locations:
+  - place: wd-q185682
+    role: primary
+wikipedia:
+  en: Japanese invasion of French Indochina
+  zh: 日軍入侵法屬印度支那
+importHash: 1fd236a12bbe

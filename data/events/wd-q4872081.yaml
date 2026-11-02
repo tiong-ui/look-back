@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Pork Chop Hill
   zh: 石峴洞北山戰鬥
-importHash: 57d4e449d442
+importHash: 9d5597e50534

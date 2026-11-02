@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Yangcheng
   zh: 阳城之战
-importHash: 96e93a474b4c
+importHash: f555bcc3f765

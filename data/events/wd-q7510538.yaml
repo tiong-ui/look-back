@@ -1,0 +1,24 @@
+id: wd-q7510538
+title:
+  zh-TW: Siege of the British Residency in Kabul
+  en: Siege of the British Residency in Kabul
+summary:
+  zh-TW: 1879 battle of the Second Anglo-Afghan War
+  en: 1879 battle of the Second Anglo-Afghan War
+start:
+  year: 1879
+  month: 9
+  day: 3
+precision: day
+categories:
+  - war
+regions:
+  - south-asia
+importance: 1
+wikidata: Q7510538
+locations:
+  - place: wd-q5838
+    role: primary
+wikipedia:
+  en: Siege of the British Residency in Kabul
+importHash: b02cbc293c9d

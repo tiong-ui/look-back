@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Tedorigawa
   zh: 手取川之戰
-importHash: 7ef94d7e893b
+importHash: 7631c969823d

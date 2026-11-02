@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Battle of Sarhū
   zh: 薩爾滸之戰
-importHash: 59aa74b5a3ea
+importHash: d927766b51b2

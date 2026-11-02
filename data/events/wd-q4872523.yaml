@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Tatarahama (1336)
   zh: 多多良滨之战
-importHash: a866edd4bc46
+importHash: 8735346f4252

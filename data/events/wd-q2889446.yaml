@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -26,7 +25,10 @@ locations:
     role: primary
   - place: wd-q33379
     role: secondary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Battle of Nà Sản
   zh: 那產戰役
-importHash: af529fb37c3c
+importHash: acf97d01e087

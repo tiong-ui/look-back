@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -32,4 +31,4 @@ relations:
 wikipedia:
   en: Battle of Huế
   zh: 顺化战役
-importHash: d39d73aac93d
+importHash: 0a52893e8cbd

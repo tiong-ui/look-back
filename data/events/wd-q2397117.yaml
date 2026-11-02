@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Caishi
   zh: 采石之戰 (1161年)
-importHash: d034b450f37b
+importHash: 8eee7df23df8

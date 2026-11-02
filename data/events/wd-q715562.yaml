@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Ueno
   zh: 上野戰爭
-importHash: 342e32ecf32a
+importHash: d096751c3d26

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -31,4 +30,4 @@ locations:
 wikipedia:
   en: Battle for Hill 3234
   zh: 3234高地战斗
-importHash: c73e247244df
+importHash: c79e2af42dbc

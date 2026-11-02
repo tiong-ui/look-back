@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Baykand
-importHash: 44dae5c26cee
+importHash: 0dab186be35e

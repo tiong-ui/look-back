@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Xiapi
   zh: 下邳之戰
-importHash: bd10f78f89b0
+importHash: 9b75684c7f4d

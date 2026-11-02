@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -31,4 +30,4 @@ relations:
 wikipedia:
   en: Yehuling Campaign
   zh: 野狐嶺戰役
-importHash: a3d91f4947c2
+importHash: 036c40c92ef5

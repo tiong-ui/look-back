@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Biak
   zh: 比亞克島戰役
-importHash: 6a2f45987c5e
+importHash: 0fe02913da97

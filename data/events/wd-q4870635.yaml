@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Canton (May 1841)
   zh: 第二次广州之战
-importHash: 66dc512bba66
+importHash: 917a4c04505f

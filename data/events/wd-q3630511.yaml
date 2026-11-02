@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -27,4 +26,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Koregaon
-importHash: 1b65ee1e6a67
+importHash: a6860112f90d

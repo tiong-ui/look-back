@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Hollandia
-importHash: 137276a460ee
+importHash: fa1362ea6ce7

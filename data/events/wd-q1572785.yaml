@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Rabaul (1942)
   zh: 拉包尔战役 (1942年)
-importHash: a2d6a3d9b443
+importHash: a366db32490e

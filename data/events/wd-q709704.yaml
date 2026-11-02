@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of South Guangxi
   zh: 桂南会战
-importHash: e3f85095c94a
+importHash: 31fdd3e357f7

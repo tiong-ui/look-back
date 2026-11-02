@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Imafuku
   zh: 今福之戰
-importHash: b03c38b067cd
+importHash: f7bc3be27280

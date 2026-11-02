@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Guam (1944)
   zh: 關島戰役 (1944年)
-importHash: 73f2950f8078
+importHash: 051218f4d8d6

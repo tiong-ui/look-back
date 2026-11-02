@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Wuhan
   zh: 武汉会战
-importHash: b368cbb49e18
+importHash: 37df29b653bb

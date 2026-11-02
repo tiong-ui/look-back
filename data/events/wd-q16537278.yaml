@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Herat (1598)
-importHash: f76a4ba3d8d1
+importHash: 493871a6cacf

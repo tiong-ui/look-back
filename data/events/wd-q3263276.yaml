@@ -19,11 +19,11 @@ regions:
 importance: 2
 wikidata: Q3263276
 locations:
-  - place: wd-q170462
-    role: primary
   - place: wd-q179029
+    role: primary
+  - place: wd-q170462
     role: secondary
 wikipedia:
   en: Bruneian Civil War of 1660
   zh: 文莱内战
-importHash: c0c48e3b99b8
+importHash: 70a34a899c1a

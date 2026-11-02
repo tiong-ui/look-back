@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Kabul (1992–1996)
   zh: 喀布爾戰役 (1992–1996)
-importHash: 90b3520e5de5
+importHash: 35f17fb037c1

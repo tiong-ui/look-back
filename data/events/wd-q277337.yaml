@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Chosin Reservoir
   zh: 长津湖战役
-importHash: b8a31e4c63dc
+importHash: d32da96818b4

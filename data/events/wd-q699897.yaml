@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Guam (1941)
   zh: 關島戰役 (1941年)
-importHash: 276eb2f3d102
+importHash: ae77952d4520

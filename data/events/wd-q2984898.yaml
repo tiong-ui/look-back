@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -26,4 +25,4 @@ relations:
 wikipedia:
   en: Battle of Shipu
   zh: 石浦海戰
-importHash: bdab027b490e
+importHash: 9ea272f62d5e

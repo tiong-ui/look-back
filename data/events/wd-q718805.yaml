@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -31,4 +30,4 @@ locations:
 wikipedia:
   en: Battle of Ormoc Bay
   zh: 奧爾莫克灣戰役
-importHash: 039d63d04185
+importHash: 199d1fa8d9f1

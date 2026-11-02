@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -28,4 +27,4 @@ relations:
 wikipedia:
   en: Battle of Yijiangshan Islands
   zh: 一江山岛战役
-importHash: 3a2b479f7b72
+importHash: 511b26ea1dd2

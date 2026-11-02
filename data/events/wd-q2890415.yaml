@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -20,4 +19,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Yahagi-gawa
-importHash: fb878be28820
+importHash: 508fe3d4fcfd

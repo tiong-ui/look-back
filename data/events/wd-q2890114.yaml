@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Sunomata-gawa
   zh: 墨俁川之戰
-importHash: 0508f5fd599f
+importHash: ce179f6603fb

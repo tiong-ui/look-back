@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Fall of Phnom Penh
   zh: 金邊陷落
-importHash: 01d6ab3ed50d
+importHash: ede2b24e7991

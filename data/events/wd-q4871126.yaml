@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 1
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Goodenough Island
-importHash: 26c64058f8ed
+importHash: 0be9f1a58001

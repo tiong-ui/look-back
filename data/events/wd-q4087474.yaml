@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Woosung
   zh: 吴淞战役
-importHash: a8d3dfba506e
+importHash: 26f5b8865b5b

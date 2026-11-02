@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Korsakov
   zh: 科尔萨科夫海战
-importHash: 527671066cab
+importHash: 3a7338af92b4

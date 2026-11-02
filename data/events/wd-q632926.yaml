@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Battle of Kranji
   zh: 克蘭芝戰役
-importHash: 16e30ee84322
+importHash: af109de706d6

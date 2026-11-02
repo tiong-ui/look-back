@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -27,4 +26,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Long Tan
-importHash: 7c9c644151e2
+importHash: a1772db15567

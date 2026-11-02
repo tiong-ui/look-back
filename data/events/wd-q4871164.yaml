@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Gujrat
-importHash: b7b607f4695a
+importHash: 717e8754701d

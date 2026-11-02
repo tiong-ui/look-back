@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Ferozeshah
-importHash: b14ad52f6d8b
+importHash: 9193cbc8da3e

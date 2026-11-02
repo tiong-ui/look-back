@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 1
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Bita Paka
-importHash: b3660dfb909e
+importHash: 62681f70c05f

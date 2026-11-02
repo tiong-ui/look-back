@@ -21,13 +21,13 @@ regions:
 importance: 2
 wikidata: Q135989908
 locations:
-  - place: wd-q14168
+  - place: wd-q3874044
     role: primary
-  - place: wd-q848672
+  - place: wd-q4119464
     role: secondary
-  - place: wd-q7253
+  - place: wd-q4135102
     role: secondary
-  - place: wd-q3630
+  - place: wd-q650908
     role: secondary
 relations:
   - event: wd-q132473192
@@ -35,4 +35,4 @@ relations:
 wikipedia:
   en: August 2025 Indonesian protests
   zh: 2025年8月印度尼西亞示威
-importHash: 41a6709b3370
+importHash: f271bf9efbd3

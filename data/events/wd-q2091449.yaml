@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Mactan
   zh: 麥克坦島戰役
-importHash: 02dca3f75268
+importHash: 5915e2df03ac

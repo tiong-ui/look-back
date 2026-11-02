@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Xiangyang (191)
   zh: 襄阳之战
-importHash: 538d243e7a8c
+importHash: cc8e1c01fe8c

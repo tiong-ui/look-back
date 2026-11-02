@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Huon Peninsula campaign
-importHash: 126a265ef34d
+importHash: 408fb33b8f8b

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Arita-Nakaide
   zh: 有田中井手之戰
-importHash: db0d7edb40c4
+importHash: 37576fe889f1

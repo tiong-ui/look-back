@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Taejon
   zh: 大田戰役
-importHash: fbf9186266b1
+importHash: c700c50bf04a

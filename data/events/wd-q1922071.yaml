@@ -21,13 +21,13 @@ regions:
 importance: 4
 wikidata: Q1922071
 locations:
-  - place: wd-q38684
+  - place: wd-q2635466
     role: primary
   - place: wd-q1366583
     role: secondary
   - place: wd-q2399139
     role: secondary
-  - place: wd-q2635466
+  - place: wd-q38684
     role: secondary
 relations:
   - event: wd-q371394
@@ -35,4 +35,4 @@ relations:
 wikipedia:
   en: India–Pakistan war of 1971
   zh: 1971年印巴战争
-importHash: 6a8823359f97
+importHash: 6f2bb7e855fb

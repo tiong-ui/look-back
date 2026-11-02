@@ -25,7 +25,10 @@ locations:
     role: primary
   - place: wd-q131217
     role: secondary
+relations:
+  - event: wd-q780845
+    type: part_of
 wikipedia:
   en: Battle of Ko Chang
   zh: 大象島海戰
-importHash: a5db8ca95e5e
+importHash: 5a251e1f16d9

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of West Hubei
   zh: 鄂西会战
-importHash: 55598f13769b
+importHash: bf9e12dbdd39

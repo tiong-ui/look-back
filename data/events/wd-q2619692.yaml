@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Te-li-Ssu
-importHash: 792de319f09e
+importHash: cc6a6c5b5160

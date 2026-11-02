@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -22,4 +21,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Chandawar
-importHash: ad56a6079f39
+importHash: 6df2d65f9a3d

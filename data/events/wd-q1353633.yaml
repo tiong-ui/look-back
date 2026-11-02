@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Komaki and Nagakute
   zh: 小牧、长久手之战
-importHash: 6c7ff52f2180
+importHash: 1c1fcde3cbc5

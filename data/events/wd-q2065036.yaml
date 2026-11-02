@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Guiling
   zh: 桂陵之战
-importHash: e31d52584310
+importHash: f36ee4545649

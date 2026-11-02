@@ -19,7 +19,10 @@ wikidata: Q2670487
 locations:
   - place: wd-q2670487-site
     role: primary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Mỹ Trạch massacre
   zh: 美宅屠殺
-importHash: ed1ba533ef26
+importHash: 2080ffdca8d5

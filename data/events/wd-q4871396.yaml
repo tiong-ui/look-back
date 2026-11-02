@@ -16,9 +16,9 @@ regions:
 importance: 1
 wikidata: Q4871396
 locations:
-  - place: wd-q34800
-    role: primary
   - place: wd-q170521
+    role: primary
+  - place: wd-q34800
     role: secondary
 relations:
   - event: wd-q4247016
@@ -26,4 +26,4 @@ relations:
 wikipedia:
   en: Battle of Kashgar (1933)
   zh: 喀什战役 (1933年)
-importHash: 38974709728e
+importHash: 5b3952973fa7

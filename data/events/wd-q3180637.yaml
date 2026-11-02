@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Qala-i-Jangi
-importHash: 0af8822d64eb
+importHash: 1c5cc220f60d

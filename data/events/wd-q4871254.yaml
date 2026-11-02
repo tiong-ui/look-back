@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Hulao
   zh: 虎牢之戰
-importHash: 2df4971f399e
+importHash: 667d5a48e3f8

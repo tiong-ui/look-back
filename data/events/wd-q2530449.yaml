@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -20,11 +19,11 @@ wikidata: Q2530449
 locations:
   - place: wd-q2530449-site
     role: primary
-  - place: wd-q11488829
-    role: secondary
   - place: wd-q10940450
+    role: secondary
+  - place: wd-q11488829
     role: secondary
 wikipedia:
   en: Battle of Tennōji
   zh: 天王寺岡山之戰
-importHash: 481e4201dc0e
+importHash: 23d55654a10c

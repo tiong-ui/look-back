@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Zaoyang–Yichang
   zh: 枣宜会战
-importHash: 3dafa7be3062
+importHash: 0ac5a0b71c6b

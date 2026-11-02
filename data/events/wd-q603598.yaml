@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Jieqiao
   zh: 界橋之戰
-importHash: 32995835ea2b
+importHash: ed9593e7bab3

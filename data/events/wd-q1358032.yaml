@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Sandepu
   zh: 黑沟台会战
-importHash: a5cfba46e721
+importHash: ac481c020f9b

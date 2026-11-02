@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -22,4 +21,4 @@ locations:
     role: primary
 wikipedia:
   en: Battle of Tukaroi
-importHash: cabb530bdfd5
+importHash: e472e5bdd909

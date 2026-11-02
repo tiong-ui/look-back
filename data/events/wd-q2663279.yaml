@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Palikao
   zh: 八里橋之戰
-importHash: 97be88faef49
+importHash: 8cf7ed60f130

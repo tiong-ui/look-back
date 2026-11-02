@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -26,4 +25,4 @@ relations:
 wikipedia:
   en: Battle off Samar
   zh: 薩馬島海戰
-importHash: 40f3b130c674
+importHash: 2c3c89996a06

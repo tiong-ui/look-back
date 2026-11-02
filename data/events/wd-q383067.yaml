@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Saragarhi
   zh: 萨拉加希之战
-importHash: 8d8fd238f0a6
+importHash: d87644fd57e5

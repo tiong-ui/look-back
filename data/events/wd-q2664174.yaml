@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -26,4 +25,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Kamdesh
-importHash: 6758f38a7cec
+importHash: 22a87ee14a6e

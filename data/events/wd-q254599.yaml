@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Shanghai
   zh: 淞沪会战
-importHash: ecb95750c19c
+importHash: b4c9f8f5e6c4

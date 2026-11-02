@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Kōan
   zh: 弘安之役
-importHash: 0c0994544f5c
+importHash: 12fe9e7449b0

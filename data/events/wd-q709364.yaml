@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of South Henan
   zh: 豫南会战
-importHash: f11d6397ddf2
+importHash: e28b7c00607b

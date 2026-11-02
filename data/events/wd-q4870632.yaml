@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Canton (March 1841)
   zh: 第一次广州之战
-importHash: 01292caf2316
+importHash: 2240b10d8a61

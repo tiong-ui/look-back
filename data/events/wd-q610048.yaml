@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -30,4 +29,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Balikpapan (1942)
-importHash: 059028cafac2
+importHash: d77cb7ee4a75

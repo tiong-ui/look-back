@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of the Yellow Sea
   zh: 黄海海战 (1904年)
-importHash: f3e4c5c301e5
+importHash: 9119fa705470

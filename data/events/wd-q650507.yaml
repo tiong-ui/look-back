@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Fujigawa
   zh: 富士川之戰
-importHash: 679b69b51691
+importHash: 33538526069f

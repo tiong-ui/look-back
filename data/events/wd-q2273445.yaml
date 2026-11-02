@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of the Yalu River (1904)
   zh: 鸭绿江会战
-importHash: 3c1ceca056a9
+importHash: bdb8a000f289

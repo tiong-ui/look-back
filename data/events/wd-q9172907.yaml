@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Dalan Baljut
   zh: 十三翼之战
-importHash: 133620b8fb51
+importHash: 804dfbbf12ec

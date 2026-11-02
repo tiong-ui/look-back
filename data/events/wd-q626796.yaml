@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Taierzhuang
   zh: 台兒莊戰役
-importHash: 73a8bba9b673
+importHash: 206cf005e3dc

@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Bạch Đằng (938)
   zh: 白藤江之战 (938年)
-importHash: 985e1abaa7ae
+importHash: 2f75c81d6b50

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Kōshū-Katsunuma
   zh: 甲州勝沼之戰
-importHash: aef92f894cd9
+importHash: 2b927bbc7f55

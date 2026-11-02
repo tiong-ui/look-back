@@ -17,11 +17,11 @@ regions:
 importance: 1
 wikidata: Q11501879
 locations:
-  - place: wd-q1490
+  - place: wd-q746052
     role: primary
   - place: wd-q801447
     role: secondary
-  - place: wd-q746052
+  - place: wd-q1490
     role: secondary
   - place: wd-q836198
     role: secondary
@@ -31,4 +31,4 @@ relations:
 wikipedia:
   en: Shinjuku riot
   zh: 新宿骚乱
-importHash: 942e3ce7f2d3
+importHash: 1ef544716e89

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Taiyuan
   zh: 太原會戰
-importHash: 564863d7cdc1
+importHash: 2a3d048c3ef0

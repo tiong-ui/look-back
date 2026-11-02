@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -29,4 +28,4 @@ relations:
     type: part_of
 wikipedia:
   en: Operation Cedar Falls
-importHash: 8b5d909877be
+importHash: 17692708c6a0

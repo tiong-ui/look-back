@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - central-asia
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Qatwan
   zh: 卡特万之战
-importHash: 599a3c5c95ca
+importHash: 94b9a035fea5

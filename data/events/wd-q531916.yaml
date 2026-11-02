@@ -19,9 +19,9 @@ regions:
 importance: 2
 wikidata: Q531916
 locations:
-  - place: wd-q999132
-    role: primary
   - place: wd-q496576
+    role: primary
+  - place: wd-q999132
     role: secondary
 relations:
   - event: wd-q2092093
@@ -29,4 +29,4 @@ relations:
 wikipedia:
   en: First Mongol invasion of Burma
   zh: 元缅战争
-importHash: 0cd25c08e4fd
+importHash: 497d90e138c5

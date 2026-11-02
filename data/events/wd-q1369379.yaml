@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Bạch Đằng (1288)
   zh: 白藤江之战 (1288年)
-importHash: 9bff276effe5
+importHash: 3fb173fb0c56

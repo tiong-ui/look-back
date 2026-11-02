@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Rạch Gầm-Xoài Mút
   zh: 瀝涔吹蔑之戰
-importHash: "707559220590"
+importHash: 9e59d6cfe4c1

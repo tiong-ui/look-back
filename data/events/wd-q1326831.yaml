@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -26,4 +25,4 @@ locations:
 wikipedia:
   en: Jingkang incident
   zh: 靖康之变
-importHash: 479f0e54c122
+importHash: 6edc4704f6f1

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Weihaiwei
   zh: 威海衛之戰
-importHash: e8d51f81cb38
+importHash: 1dce52069df6

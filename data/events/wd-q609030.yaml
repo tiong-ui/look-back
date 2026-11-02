@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Peleliu
   zh: 貝里琉戰役
-importHash: 5afc87466028
+importHash: 7af7054b668b

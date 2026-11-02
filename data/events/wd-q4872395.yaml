@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Slim River
-importHash: 7ccdb922cce9
+importHash: b6103f8cddee

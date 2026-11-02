@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Operation Ichi-Go
   zh: 豫湘桂会战
-importHash: 2f1680802dd3
+importHash: 3117e242b3df

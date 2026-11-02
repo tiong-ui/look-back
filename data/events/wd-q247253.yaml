@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
   - korea
@@ -35,4 +34,4 @@ relations:
 wikipedia:
   en: Siege of Khe Sanh
   zh: 溪生战役
-importHash: 0a4857656407
+importHash: bedb61493d8d

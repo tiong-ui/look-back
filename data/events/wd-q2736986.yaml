@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -27,4 +26,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Karnal
-importHash: 000c12153768
+importHash: 712ece1d9260

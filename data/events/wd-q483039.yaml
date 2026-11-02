@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Inchon
   zh: 仁川登陆
-importHash: e2295b34fe1d
+importHash: a00795b8b0e3

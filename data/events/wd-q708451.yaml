@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Defense of the Great Wall
   zh: 長城戰役
-importHash: 4eb858f7eae3
+importHash: 2bc43e42c257

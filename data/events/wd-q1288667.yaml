@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Bi
   zh: 邲之战
-importHash: 9d8d5b7d996b
+importHash: aefbb2833dc4

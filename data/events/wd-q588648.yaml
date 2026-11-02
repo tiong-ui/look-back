@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Canton (1857)
   zh: 廣州城戰役
-importHash: d94730be7a9c
+importHash: e08a4fcc5164

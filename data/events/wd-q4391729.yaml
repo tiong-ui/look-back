@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 1
@@ -28,4 +27,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of the Green Islands
-importHash: c8e0b4147119
+importHash: 3b47e013041e

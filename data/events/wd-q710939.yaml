@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Visayas
   zh: 米沙鄢群島戰役
-importHash: 24439c9b874e
+importHash: fa8482c91df5

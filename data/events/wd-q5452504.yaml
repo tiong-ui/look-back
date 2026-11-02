@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -26,4 +25,4 @@ locations:
     role: primary
 wikipedia:
   en: First Battle of Cannanore
-importHash: 669cb8b75fa5
+importHash: 3c3a2cc864d5

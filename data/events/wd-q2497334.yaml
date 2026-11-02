@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -31,4 +30,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Wana
-importHash: 328cd00ef269
+importHash: 44bec4a91548

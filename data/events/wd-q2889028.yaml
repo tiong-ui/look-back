@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Kurikara Pass
   zh: 俱利伽羅峠之戰
-importHash: 3034f9ddc3a1
+importHash: b8c291018a8f

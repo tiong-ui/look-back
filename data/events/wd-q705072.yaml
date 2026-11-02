@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Seonghwan
   zh: 成歡之戰
-importHash: b8cd83591d43
+importHash: 7815d0927f13

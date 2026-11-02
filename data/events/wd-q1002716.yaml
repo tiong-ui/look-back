@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 1
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Dōmyōji
   zh: 道明寺之戰
-importHash: 2b1e86114128
+importHash: af60a620c20a

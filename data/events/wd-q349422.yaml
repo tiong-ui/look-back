@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 3
@@ -23,4 +22,4 @@ locations:
 wikipedia:
   en: Battle of Okehazama
   zh: 桶狹間之戰
-importHash: fee92e33a576
+importHash: 4b3efc6cd54c

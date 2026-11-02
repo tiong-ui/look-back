@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -24,4 +23,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Kandahar (1880)
-importHash: 728c69f87f50
+importHash: 03e9dd3a23e6

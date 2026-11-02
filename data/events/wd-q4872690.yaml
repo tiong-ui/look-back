@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -22,7 +21,10 @@ wikidata: Q4872690
 locations:
   - place: wd-q36088
     role: primary
+relations:
+  - event: wd-q748780
+    type: part_of
 wikipedia:
   en: Battle of Vĩnh Yên
   zh: 永安戰役 (1951年)
-importHash: "776781824816"
+importHash: 99b25f0ae52f

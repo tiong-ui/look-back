@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 1
@@ -25,4 +24,4 @@ locations:
     role: primary
 wikipedia:
   en: Arakan campaign (1942–1943)
-importHash: 2951274fe0aa
+importHash: 07b3a4a758e7

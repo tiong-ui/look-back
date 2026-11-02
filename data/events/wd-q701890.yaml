@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Pungdo
   zh: 豐島海戰
-importHash: d959fe5c6eee
+importHash: 9341fdba3177

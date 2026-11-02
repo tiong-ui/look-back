@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 1
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Onjong
   zh: 温井战斗
-importHash: a0ec4fe429a5
+importHash: c113a929ab80

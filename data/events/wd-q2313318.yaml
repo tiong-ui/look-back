@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -21,4 +20,4 @@ locations:
 wikipedia:
   en: Battle of Chengpu
   zh: 城濮之战
-importHash: 864286414ccd
+importHash: 04a99b5a164d

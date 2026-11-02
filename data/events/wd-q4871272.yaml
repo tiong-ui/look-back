@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Imjin River (1592)
   zh: 臨津江之戰 (1592年)
-importHash: b2c7ce096cfd
+importHash: 294fc3e4064a

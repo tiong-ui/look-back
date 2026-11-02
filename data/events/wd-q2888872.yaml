@@ -10,7 +10,6 @@ start:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -26,4 +25,4 @@ relations:
 wikipedia:
   en: Battle of Jiangling (208)
   zh: 江陵之战 (208年)
-importHash: db6ca0e278c1
+importHash: e8bb45327d2b

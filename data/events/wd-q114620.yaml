@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Minatogawa
   zh: 凑川之战
-importHash: 86298ed7034c
+importHash: 02486c0ed9a8

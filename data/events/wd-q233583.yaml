@@ -22,9 +22,9 @@ wikidata: Q233583
 locations:
   - place: wd-q37211
     role: primary
-  - place: wd-q1437
-    role: secondary
   - place: wd-q43100
+    role: secondary
+  - place: wd-q1437
     role: secondary
 relations:
   - event: wd-q1413732
@@ -32,4 +32,4 @@ relations:
 wikipedia:
   en: India–Pakistan war of 1965
   zh: 第二次印巴战争
-importHash: a47f7982530b
+importHash: 2c683306808f

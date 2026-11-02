@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Yamen
   zh: 崖门海战
-importHash: e6cf5af17281
+importHash: 67e42dbe761d

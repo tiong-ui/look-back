@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -28,4 +27,4 @@ relations:
 wikipedia:
   en: Battle of Shanhai Pass
   zh: 一片石之战
-importHash: a89d90e834ff
+importHash: c7ac9f9e6ed4

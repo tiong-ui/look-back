@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -26,4 +25,4 @@ locations:
 wikipedia:
   en: War between Cao Cao and Zhang Xiu
   zh: 曹操与张绣的战争
-importHash: 8e6b72326018
+importHash: 8cd83789b2d2

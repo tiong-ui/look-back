@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -26,4 +25,4 @@ locations:
 wikipedia:
   en: Battle of Mobei
   zh: 漠北之战
-importHash: a8a0b310b706
+importHash: b892d13b7451

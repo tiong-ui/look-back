@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Buxar
   zh: 布克萨尔战役
-importHash: 3d0eac9424fd
+importHash: 119d4f10c3ad

@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Lüshunkou
   zh: 旅顺口之战
-importHash: 7011378aacc1
+importHash: fe2a1aa8ea36

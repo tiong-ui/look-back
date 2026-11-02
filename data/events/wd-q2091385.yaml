@@ -15,7 +15,6 @@ end:
 precision: month
 categories:
   - war
-  - politics
 regions:
   - asia
 importance: 2
@@ -27,4 +26,4 @@ locations:
     role: secondary
 wikipedia:
   en: Battle of Arawe
-importHash: a62a284fb442
+importHash: a993365c34e9

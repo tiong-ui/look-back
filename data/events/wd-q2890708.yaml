@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 1
@@ -30,4 +29,4 @@ relations:
 wikipedia:
   en: Battle of the Taku Forts (1900)
   zh: 大沽口炮台之战 (1900年)
-importHash: 54bdc4b4f168
+importHash: 28d665aa003f

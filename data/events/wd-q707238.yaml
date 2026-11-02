@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Imphal
   zh: 英帕尔战役
-importHash: e57c3994d1ec
+importHash: ce7aedea61cd

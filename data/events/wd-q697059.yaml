@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Hong Kong
   zh: 香港保衛戰
-importHash: 7de63e4186a8
+importHash: 4d977cb24552

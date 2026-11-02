@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Kunduz (2015)
   zh: 昆都士之戰
-importHash: c1adf486c5e2
+importHash: 59ebd81c358f

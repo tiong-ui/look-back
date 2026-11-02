@@ -1,0 +1,29 @@
+id: wd-q748780
+title:
+  zh-TW: 法越戰爭
+  en: First Indochina War
+summary:
+  zh-TW: 1946年至1954年中南半島的一場戰爭
+  en: 1946–1954 French colonial war in Vietnam
+start:
+  year: 1946
+  month: 12
+  day: 19
+end:
+  year: 1954
+  month: 8
+  day: 1
+precision: day
+categories:
+  - war
+regions:
+  - southeast-asia
+importance: 4
+wikidata: Q748780
+locations:
+  - place: wd-q185682
+    role: primary
+wikipedia:
+  en: First Indochina War
+  zh: 第一次印度支那戰爭
+importHash: fca5af168aeb

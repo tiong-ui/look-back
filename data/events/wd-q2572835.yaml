@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - south-asia
 importance: 1
@@ -31,4 +30,4 @@ relations:
     type: part_of
 wikipedia:
   en: Battle of Kilinochchi (2008–2009)
-importHash: ec7a0b1fdff6
+importHash: c785a408a6da

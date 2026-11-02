@@ -14,7 +14,6 @@ end:
 precision: year
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -27,4 +26,4 @@ locations:
 wikipedia:
   en: Battle of Manila (1945)
   zh: 馬尼拉戰役 (1945年)
-importHash: fcb8d15c2efb
+importHash: 7caa14b6d33f

@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - korea
 importance: 2
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Third Battle of Seoul
   zh: 第三次汉城战役
-importHash: ac316ffb5222
+importHash: e12edc59a867

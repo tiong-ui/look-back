@@ -16,7 +16,6 @@ end:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - southeast-asia
 importance: 3
@@ -29,4 +28,4 @@ locations:
 wikipedia:
   en: Battle of Ramree Island
   zh: 兰里岛之战
-importHash: 954f6c0711e0
+importHash: 02398cee4440

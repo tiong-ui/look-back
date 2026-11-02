@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - china
 importance: 3
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Fei River
   zh: 淝水之戰
-importHash: d3bd6d0abe1e
+importHash: c2ca0232420f

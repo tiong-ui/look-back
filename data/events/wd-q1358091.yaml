@@ -12,7 +12,6 @@ start:
 precision: day
 categories:
   - war
-  - politics
 regions:
   - japan
 importance: 2
@@ -25,4 +24,4 @@ locations:
 wikipedia:
   en: Battle of Uedahara
   zh: 上田原之戰
-importHash: 7303b1aff7d9
+importHash: 35576de213a5
